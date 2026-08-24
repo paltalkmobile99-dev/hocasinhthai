@@ -1,0 +1,712 @@
+:root {
+    --bg-dark: #070f1e;
+    --card-bg: rgba(15, 23, 42, 0.85);
+    --neon-blue: #00f3ff;
+    --neon-green: #00ff88;
+    --neon-pink: #ff007f;
+    --neon-yellow: #ffea00;
+    --text-light: #f8fafc;
+    --border-color: rgba(0, 243, 255, 0.2);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--bg-dark);
+    color: var(--text-light);
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+/* ================= HỒ CÁ (chỉ hiện khi stealth) ================= */
+#ocean {
+    position: fixed;
+    inset: 0;
+    z-index: 1;
+    display: block;
+    background: linear-gradient(to bottom, #001a33 0%, #003366 55%, #004d4d 100%);
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.bubble {
+    position: absolute;
+    background: rgba(0, 243, 255, 0.3);
+    box-shadow: 0 0 8px var(--neon-blue);
+    border-radius: 50%;
+    bottom: -20px;
+    animation: floatUp linear infinite;
+}
+
+@keyframes floatUp {
+    0%   { transform: translateY(0) scale(1); opacity: 0; }
+    50%  { opacity: 0.8; }
+    100% { transform: translateY(-105vh) scale(1.3); opacity: 0; }
+}
+
+.fish {
+    position: absolute;
+    font-size: 2rem;
+    filter: drop-shadow(0 0 10px var(--neon-blue));
+    animation: swim linear infinite;
+}
+
+@keyframes swim {
+    0%   { left: -10%; transform: scaleX(1); }
+    50%  { transform: scaleX(1); }
+    50.1%{ transform: scaleX(-1); }
+    100% { left: 110%; transform: scaleX(-1); }
+}
+
+@keyframes swimReverse {
+    0%   { transform: translateX(110vw) scaleX(-1); }
+    100% { transform: translateX(-20vw) scaleX(-1); }
+}
+
+.seaweed {
+    position: absolute;
+    bottom: 0;
+    width: 10px;
+    background: linear-gradient(to top, #00ff88, transparent);
+    border-radius: 10px 10px 0 0;
+    opacity: 0.6;
+    animation: sway 3s ease-in-out infinite alternate;
+}
+
+@keyframes sway {
+    0%   { transform: rotate(-5deg); }
+    100% { transform: rotate(5deg); }
+}
+
+.sand {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 55px;
+    background: linear-gradient(to top, #c2a26b 0%, #e8d5a3 40%, transparent 100%);
+    border-radius: 50% 50% 0 0 / 20px 20px 0 0;
+    z-index: 1;
+    pointer-events: none;
+}
+
+.bottom-item {
+    position: absolute;
+    z-index: 2;
+    opacity: 0.85;
+    animation: gentleFloat 4s ease-in-out infinite;
+    pointer-events: none;
+    filter: drop-shadow(0 2px 3px rgba(0,0,0,0.3));
+}
+
+@keyframes gentleFloat {
+    0%, 100% { transform: translateY(0) rotate(0deg); }
+    50%      { transform: translateY(-6px) rotate(8deg); }
+}
+
+/* ================= BẢNG MẬT KHẨU (Ctrl + M) ================= */
+#lock-screen {
+    position: fixed;
+    inset: 0;
+    display: none;                 /* mặc định ẩn */
+    z-index: 9999;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 8, 20, 0.88);
+    backdrop-filter: blur(8px);
+}
+
+.auth-card-stealth {
+    position: relative;
+    z-index: 10;
+    background: rgba(10, 20, 38, 0.85);
+    backdrop-filter: blur(12px);
+    border: 1px solid var(--neon-blue);
+    box-shadow: 0 0 25px rgba(0, 243, 255, 0.3);
+    border-radius: 20px;
+    padding: 25px;
+    width: 340px;
+    text-align: center;
+}
+
+.neon-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--neon-blue);
+    text-shadow: 0 0 10px var(--neon-blue);
+    margin-bottom: 5px;
+}
+
+.subtitle {
+    font-size: 0.85rem;
+    color: #94a3b8;
+    margin-bottom: 15px;
+}
+
+.user-input-group input {
+    width: 100%;
+    padding: 10px;
+    background: rgba(15, 23, 42, 0.8);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 12px;
+    outline: none;
+}
+
+.canvas-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px 0;
+}
+
+#pattern-canvas {
+    background: rgba(2, 11, 20, 0.6);
+    border-radius: 15px;
+    border: 1px solid rgba(0, 243, 255, 0.3);
+    box-shadow: inset 0 0 15px rgba(0, 243, 255, 0.1);
+    cursor: crosshair;
+    touch-action: none;
+}
+
+.auth-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin-top: 10px;
+}
+
+/* ================= MAIN APP ================= */
+#main-app {
+    display: none;                 /* mặc định ẩn */
+    position: relative;
+    z-index: 10;
+    padding: 15px;
+    max-width: 1600px;
+    margin: 0 auto;
+    background: var(--bg-dark);    /* che hồ cá khi đã vào app */
+    min-height: 100vh;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: var(--card-bg);
+    border-radius: 12px;
+    border: 1px solid var(--border-color);
+    margin-bottom: 15px;
+}
+
+.neon-text {
+    color: var(--neon-blue);
+    text-shadow: 0 0 8px var(--neon-blue);
+}
+
+.user-badge {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+/* Đồng hồ ở hàng trên; user và khóa ở hàng dưới. */
+.header-account {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    column-gap: 8px;
+    row-gap: 6px;
+}
+.header-account .live-clock {
+    order: -1;
+    flex: 0 0 100%;
+    width: max-content;
+    max-width: max-content;
+    margin-left: auto;
+    margin-right: 0;
+}
+.live-clock {
+    display: inline-block;
+    padding: 4px 10px;
+    border: 1px solid rgba(0, 243, 255, 0.45);
+    border-radius: 999px;
+    background: rgba(15, 23, 42, 0.8);
+    color: #67e8f9;
+    font: 600 12px/1.2 ui-monospace, SFMono-Regular, Consolas, monospace;
+    box-shadow: 0 0 10px rgba(0, 243, 255, 0.12);
+    white-space: nowrap;
+    animation: clockGlow 2.8s ease-in-out infinite;
+}
+@keyframes clockGlow {
+    0%, 100% { box-shadow: 0 0 10px rgba(0, 243, 255, 0.12); transform: translateY(0); }
+    50% { box-shadow: 0 0 18px rgba(0, 243, 255, 0.38); transform: translateY(-1px); }
+}
+
+.toolbar {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.group-nav {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    margin-bottom: 15px;
+}
+
+.group-btn {
+    background: #1e293b;
+    color: #94a3b8;
+    border: 1px solid #334155;
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.2s;
+}
+
+.group-btn.active {
+    background: var(--neon-blue);
+    color: #0f172a;
+    border-color: var(--neon-blue);
+    box-shadow: 0 0 12px var(--neon-blue);
+}
+
+.add-group-btn {
+    background: rgba(0, 255, 136, 0.2);
+    color: var(--neon-green);
+    border: 1px dashed var(--neon-green);
+    padding: 8px 16px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* ================= DASHBOARD ================= */
+.dashboard-grid {
+    display: grid;
+    grid-template-columns: 420px 1fr;
+    gap: 15px;
+}
+
+@media (max-width: 1100px) {
+    .dashboard-grid { grid-template-columns: 1fr; }
+}
+
+.card {
+    background: var(--card-bg);
+    border-radius: 12px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.neon-border {
+    border: 1px solid var(--border-color);
+    box-shadow: 0 0 15px rgba(0, 243, 255, 0.05);
+}
+
+.card h3 {
+    font-size: 1.05rem;
+    margin-bottom: 10px;
+}
+
+.region-radios {
+    display: flex;
+    gap: 15px;
+    margin-bottom: 10px;
+}
+
+textarea {
+    width: 100%;
+    height: 100px;
+    background: rgba(15, 23, 42, 0.9);
+    border: 1px solid #334155;
+    border-radius: 8px;
+    color: #fff;
+    padding: 10px;
+    font-family: monospace;
+    resize: vertical;
+    outline: none;
+}
+
+textarea:focus {
+    border-color: var(--neon-blue);
+    box-shadow: 0 0 8px var(--neon-blue);
+}
+
+/* ================= BUTTONS ================= */
+.btn {
+    padding: 8px 14px;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+.btn-green  { background: #16a34a; color: #fff; }
+.btn-green:hover { background: #22c55e; box-shadow: 0 0 10px #22c55e; }
+.btn-orange { background: #d97706; color: #fff; }
+.btn-blue   { background: #0284c7; color: #fff; }
+.btn-sky    { background: #38bdf8; color: #0f172a; }
+.btn-yellow { background: #eab308; color: #0f172a; }
+.btn-red    { background: #dc2626; color: #fff; }
+.btn-gray   { background: #475569; color: #fff; }
+.btn-sm     { padding: 5px 10px; font-size: 0.8rem; }
+.btn-full   { width: 100%; margin-top: 10px; }
+.btn-group  { display: flex; gap: 8px; margin-top: 8px; }
+
+/* ================= EXCEL MATRIX ================= */
+.excel-matrix-container {
+    display: grid;
+    grid-template-columns: 1fr 220px;
+    gap: 10px;
+}
+
+@media (max-width: 900px) {
+    .excel-matrix-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ===== Bảng chi tiết ===== */
+.detail-search-bar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 10px 0;
+    padding: 7px 10px;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    background: rgba(15, 23, 42, 0.76);
+}
+
+.detail-search-icon { color: var(--neon-blue); font-size: 20px; line-height: 1; }
+
+.detail-search-bar input {
+    flex: 1;
+    min-width: 120px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    color: #e2e8f0;
+    font-size: 13px;
+}
+
+.detail-search-bar input::placeholder { color: #64748b; }
+
+.detail-search-clear {
+    width: 23px;
+    height: 23px;
+    border: 1px solid #475569;
+    border-radius: 50%;
+    background: #1e293b;
+    color: #cbd5e1;
+    cursor: pointer;
+    line-height: 18px;
+}
+
+.detail-search-clear:hover { border-color: var(--neon-blue); color: var(--neon-blue); }
+.detail-search-count { color: #94a3b8; font-size: 12px; white-space: nowrap; }
+
+.excel-table-wrapper {
+    max-height: 520px;
+    overflow-y: auto;
+    overflow-x: auto;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 243, 255, 0.12);
+}
+
+/* Thanh cuộn đẹp */
+.excel-table-wrapper::-webkit-scrollbar {
+    width: 7px;
+    height: 7px;
+}
+.excel-table-wrapper::-webkit-scrollbar-track {
+    background: #0f172a;
+}
+.excel-table-wrapper::-webkit-scrollbar-thumb {
+    background: #00f3ff;
+    border-radius: 4px;
+}
+.excel-table-wrapper::-webkit-scrollbar-thumb:hover {
+    background: #67e8f9;
+}
+
+.excel-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.85rem;
+    text-align: center;
+}
+
+.excel-table th,
+.excel-table td {
+    border: 1px solid #334155;
+    padding: 5px;
+}
+
+.table-hint {
+    color: #94a3b8;
+    font-size: 12px;
+    margin: -4px 0 8px;
+}
+
+.table-input {
+    width: 100%;
+    min-width: 62px;
+    padding: 5px 6px;
+    background: #0f172a;
+    border: 1px solid #334155;
+    border-radius: 4px;
+    color: #f8fafc;
+    font-size: 12px;
+}
+
+.table-input:focus {
+    outline: none;
+    border-color: var(--neon-blue);
+    box-shadow: 0 0 5px rgba(0, 243, 255, 0.35);
+}
+
+.number-input {
+    min-width: 78px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.money-input {
+    min-width: 92px;
+    color: var(--neon-green);
+    font-weight: bold;
+}
+
+.detail-totals {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(150px, 1fr));
+    gap: 8px;
+    margin-top: 10px;
+}
+
+.detail-totals > div {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 9px 10px;
+    background: rgba(15, 23, 42, 0.8);
+    border: 1px solid #334155;
+    border-radius: 6px;
+    font-size: 12px;
+}
+
+.detail-totals strong { color: var(--neon-green); white-space: nowrap; }
+.detail-totals label { color: #94a3b8; }
+.detail-totals input {
+    width: 64px;
+    padding: 4px;
+    background: #0f172a;
+    border: 1px solid #334155;
+    color: #fff;
+    border-radius: 4px;
+}
+
+@media (max-width: 700px) {
+    .detail-totals { grid-template-columns: 1fr; }
+}
+
+.excel-table thead tr:first-child th {
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.header-mt { background: rgba(234, 179, 8, 0.2); color: var(--neon-yellow); }
+.header-mb { background: rgba(2, 132, 199, 0.2); color: var(--neon-blue); }
+
+.summary-row-mt { background: rgba(234, 179, 8, 0.15); }
+.summary-row-mb { background: rgba(2, 132, 199, 0.15); }
+
+.badge-mt { background: #eab308; color: #000; font-weight: bold; }
+.badge-mb { background: #0284c7; color: #fff; font-weight: bold; }
+
+.text-net { color: #f87171; font-weight: bold; }
+.text-win { color: #4ade80; font-weight: bold; }
+
+/* ===== Hộp số trúng ===== */
+.winning-log-box {
+    background: rgba(15, 23, 42, 0.95);
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 0.82rem;
+    height: 100%;
+    min-height: 250px;
+}
+
+.winning-log-title {
+    font-weight: bold;
+    color: var(--neon-green);
+    border-bottom: 1px solid #334155;
+    padding-bottom: 5px;
+    margin-bottom: 8px;
+}
+
+/* ================= GRAND SUMMARY ================= */
+.grand-summary-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    font-size: 0.9rem;
+}
+
+.grand-summary-table th,
+.grand-summary-table td {
+    border: 1px solid #334155;
+    padding: 10px;
+    text-align: left;
+}
+
+.grand-summary-table th {
+    background: #0f172a;
+    color: #94a3b8;
+}
+/* Ép khung Bảng Chi Tiết rộng tối đa */
+.excel-matrix-container {
+    grid-template-columns: minmax(0, 1fr) !important;
+}
+
+.card:has(.excel-matrix-container) {
+    padding-left: 16px !important;
+    padding-right: 16px !important;
+}
+
+/* Hộp số trúng xuống dưới để bảng có toàn bộ chiều ngang, cột Xóa luôn thấy. */
+.winning-log-box {
+    grid-column: 1 / -1;
+    min-height: 120px;
+    max-height: 240px;
+    overflow: auto;
+}
+
+
+.excel-table-wrapper { max-height: 620px; }
+.number-input { max-width: 90px; }
+
+@media (max-width: 700px) {
+    header { align-items: flex-start; gap: 12px; flex-wrap: wrap; }
+    .header-account { width: 100%; }
+}
+/* ===== Bổ sung thêm (không đụng CSS cũ) ===== */
+.excel-table-wrapper {
+    max-height: 520px;
+    overflow-y: auto;
+}
+
+.excel-table-wrapper::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+.excel-table-wrapper::-webkit-scrollbar-track {
+    background: #0f172a;
+}
+.excel-table-wrapper::-webkit-scrollbar-thumb {
+    background: #00f3ff;
+    border-radius: 3px;
+}
+
+.detail-pagination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    min-height: 34px;
+    color: #94a3b8;
+    font-size: 12px;
+}
+
+.detail-pagination button:disabled {
+    cursor: not-allowed;
+    opacity: 0.4;
+}
+/* ================= MODAL & TOAST ================= */
+.modal-overlay {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100vw; height: 100vh;
+    background: rgba(2, 11, 20, 0.85);
+    backdrop-filter: blur(8px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 10000;
+}
+.modal-card {
+    background: #0f172a;
+    border: 1px solid var(--neon-blue);
+    box-shadow: 0 0 25px var(--neon-blue);
+    border-radius: 12px;
+    padding: 20px;
+    width: 360px;
+    max-width: 90%;
+}
+.modal-card h3 { color: var(--neon-blue); margin-bottom: 10px; }
+.modal-card #modal-body { font-size: 0.95rem; color: #e2e8f0; margin-bottom: 15px; }
+.modal-input {
+    width: 100%;
+    padding: 10px;
+    background: #1e293b;
+    border: 1px solid var(--neon-blue);
+    border-radius: 6px;
+    color: #fff;
+    margin-bottom: 15px;
+    outline: none;
+}
+.modal-buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+}
+#toast-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 10001;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.toast {
+    background: #0f172a;
+    color: #fff;
+    padding: 12px 18px;
+    border-radius: 8px;
+    border-left: 4px solid var(--neon-blue);
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    font-size: 0.9rem;
+    animation: slideIn 0.3s ease-out forwards;
+}
+.toast.success { border-left-color: var(--neon-green); box-shadow: 0 0 10px rgba(0, 255, 136, 0.3); }
+.toast.error { border-left-color: #ef4444; box-shadow: 0 0 10px rgba(239, 68, 68, 0.3); }
+@keyframes slideIn {
+    from { transform: translateX(100%); opacity: 0; }
+    to { transform: translateX(0); opacity: 1; }
+}
+
+@keyframes blink-win {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.4; }
+}
+.blink-win {
+    animation: blink-win 1.2s ease-in-out infinite;
+    color: #00ff88;
+    font-weight: bold;
+}

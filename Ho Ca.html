@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hồ Cá Sinh Thái Neon Sea</title>
+    <link rel="stylesheet" href="data/c1.css">
+    <link rel="icon" type="image/png" href="data/ca.png">
+    <script src="data/c.js" defer></script>
+</head>
+<body>
+    <div id="ocean" class="ocean-bg"></div>
+
+    <!-- LOCK SCREEN -->
+    <div id="lock-screen">
+        <div class="auth-card-stealth">
+            <div class="neon-title">🐠 BỂ CÁ CẢNH SEA SECURITY</div>
+            <p id="pattern-instruction" class="subtitle">Vẽ mật khẩu khóa để truy cập</p>
+            <div class="user-input-group">
+                <input type="text" id="user-name-input" placeholder="Tên Bạn / Nhóm" value="Nhóm Quản Lý 01">
+            </div>
+            <div class="canvas-container">
+                <canvas id="pattern-canvas" width="260" height="260"></canvas>
+            </div>
+            <div class="auth-actions">
+                <button class="btn btn-green" onclick="handleUnlockAttempt()">🔓 Mở Khóa Ứng Dụng</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- MAIN APP -->
+    <div id="main-app" style="display: none;">
+        <header>
+            <div class="brand-info">
+                <h2 class="neon-text">Hệ Thống Nhập Liệu & Dò Số Multi-Region</h2>
+                <small style="color: #94a3b8;">3 Miền • BL / Chéo / Đá / 2c / 3c • Nhập tay + Nhập nhanh thông minh</small>
+            </div>
+            <div class="user-badge header-account">
+                👤 <span id="display-user-name">Đang tải...</span>
+                <span id="live-clock" class="live-clock" aria-label="Thời gian hiện tại"></span>
+                <button class="btn btn-sm btn-red" onclick="lockApp()">🔒 Khóa</button>
+            </div>
+        </header>
+
+        <div class="toolbar">
+            <button class="btn btn-orange" onclick="exportDataJSON()">💾 Xuất File</button>
+            <button class="btn btn-blue" onclick="document.getElementById('import-file-input').click()">📂 Nhập File</button>
+            <input type="file" id="import-file-input" style="display: none;" accept=".json" onchange="importDataJSON(event)">
+            <button class="btn btn-sky" onclick="showTodayStationsPanel()">📅 Đài hôm nay (Tự động + Chọn)</button>
+            <button class="btn btn-gray" onclick="toggleSkipComparison()">🔄 Bật/Tắt bảng xem lại</button>
+			<button class="btn btn-orange" onclick="exportGroupExcel()"style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;font-weight:600;"> 📊 Xuất Excel nhóm này</button>
+           <button class="btn btn-cyan" onclick="openSmartFilterFromInput()"style="display:inline-flex;align-items:center;gap:6px;padding:8px 14px;font-weight:600;background:linear-gradient(135deg,#06b6d4,#0891b2);border:none;color:#fff;box-shadow:0 0 12px rgba(6,182,212,0.4);">🔍 Lọc & Tách Số
+    <span style="font-size:10px;opacity:0.85;background:rgba(0,0,0,0.25);padding:2px 5px;border-radius:4px;margin-left:4px;">Shift+F</span>
+</button>
+        </div>
+
+        <div class="group-nav" id="group-buttons"></div>
+
+        <div class="dashboard-grid">
+            <!-- CỘT TRÁI -->
+            <div class="grid-col">
+                <div class="card neon-border">
+    <h3>📝 Nhập Liệu Thông Minh (<span id="current-group-label" class="highlight-yellow">Nhóm A</span>)</h3>
+
+    <!-- THÊM THANH CHỈNH TỶ LỆ Ở ĐÂY -->
+    <div style="display:flex; gap:10px; align-items:center; background:rgba(15,23,42,0.6); padding:6px 10px; border-radius:6px; margin:8px 0; font-size:12px; border:1px solid #334155;">
+        <span style="color:#00f3ff;"><b>Tỷ lệ:</b></span>
+        <label>2C: <input type="number" value="91" style="width:45px; background:#0f172a; color:#00f3ff; border:1px solid #334155; text-align:center; border-radius:4px;" onchange="updateCustomRate('c2', this.value)"></label>
+        <label>3C: <input type="number" value="780" style="width:55px; background:#0f172a; color:#00f3ff; border:1px solid #334155; text-align:center; border-radius:4px;" onchange="updateCustomRate('c3', this.value)"></label>
+        <label>Đá: <input type="number" value="780" style="width:55px; background:#0f172a; color:#00f3ff; border:1px solid #334155; text-align:center; border-radius:4px;" onchange="updateCustomRate('da', this.value)"></label>
+    </div>
+
+    <div class="region-radios">
+        <label><input type="radio" name="region-select" value="MN" onchange="onRegionChange()"> Miền Nam</label>
+        <label><input type="radio" name="region-select" value="MT" checked onchange="onRegionChange()"> Miền Trung</label>
+        <label><input type="radio" name="region-select" value="MB" onchange="onRegionChange()"> Miền Bắc</label>
+    </div>
+
+                    <div id="station-select-panel" style="display:none; margin:10px 0; padding:10px; background:rgba(0,0,0,0.3); border-radius:8px; border:1px solid #334155;">
+                        <div style="font-size:13px; margin-bottom:8px; color:#94a3b8;">Chọn đài hôm nay (tick để gắn với số nhập):</div>
+                        <div id="station-checkboxes" style="display:flex; flex-wrap:wrap; gap:8px;"></div>
+                        <button class="btn btn-sm btn-green" style="margin-top:8px;" onclick="confirmSelectedStations()">Xác nhận đài đã chọn</button>
+                    </div>
+
+                    <textarea id="smart-input" placeholder="Nhập tay hoặc dán đoạn số dài tại đây...
+Ví dụ:
+1-20 bl 5k
+23,24,27
+345 678 433
+68da91=100
+G1. 839. 339. 5k
+Blô. 303. =10k
+..." style="height:140px;"></textarea>
+
+                    <div style="font-size:12px; color:#94a3b8; margin:6px 0;">
+                        <span onclick="showInputHelp()" style="cursor:pointer; color:#00f3ff; text-decoration:underline;">📖 Xem hướng dẫn nhập nhanh</span>
+                    </div>
+
+                    <div class="btn-group">
+                        <button class="btn btn-green" onclick="processSmartInput()">⚡ Phân Tích & Hiện bảng xem lại</button>
+                        <button class="btn btn-gray" onclick="loadSampleBetData()">📋 Dán mẫu</button>
+                    </div>
+                </div>
+
+                <div class="card neon-border">
+    <h3>🎯 KQXS Tự Động Bóc Tách</h3>
+    <p class="card-subtitle">Dán nguyên văn KQXS. Hệ thống tự nhận đài + giải.</p>
+    <textarea id="kqxs-input" placeholder="Dán KQXS tại đây..."></textarea>
+
+    <!-- 2 nút cùng hàng -->
+    <div class="btn-group" style="display:flex; gap:10px; margin-top:10px; flex-wrap:wrap;">
+
+		<button class="btn btn-green" style="flex:1;" onclick="checkAllResults()">🔍 Dò Số Toàn Bộ Nhóm
+    <span style="font-size:10px;opacity:0.85;background:rgba(0,0,0,0.25);padding:2px 5px;border-radius:4px;margin-left:4px;">Shift+S</span>
+</button>
+        <button class="btn btn-slate" style="background:#334155; color:#e2e8f0; min-width:120px;" onclick="clearInputText()">
+            🧹 Xóa nhanh
+        </button>
+    </div>
+
+    <div id="parsed-kqxs-display" class="parsed-kqxs-box" style="display:none; margin-top:10px;">
+        <b>Số giải đã bóc:</b>
+        <span id="parsed-numbers-list" class="highlight-yellow"></span>
+    </div>
+</div>
+      </div>    
+            <!-- CỘT PHẢI - BẢNG CHI TIẾT -->
+            <div class="grid-col">
+                <div class="card neon-border">
+                    <h3>📊 Bảng Nhập Chi Tiết - <span id="table-group-title" class="highlight-cyan">Nhóm A</span></h3>
+                    
+
+                    <div class="detail-search-bar">
+                        <span class="detail-search-icon">⌕</span>
+                        <input id="detail-search-input" type="search" autocomplete="off"
+                               placeholder="Tìm số, đài, miền, ngày giờ hoặc ghi chú..."
+                               oninput="filterDetailTable(this.value)">
+                        <button class="detail-search-clear" type="button" title="Xóa tìm kiếm" onclick="clearDetailSearch()">×</button>
+                        <span id="detail-search-count" class="detail-search-count"></span>
+                    </div>
+                    
+                    <!-- Nút chức năng -->
+                    <div style="display:flex; gap:8px; margin-bottom:12px; flex-wrap:wrap; align-items:center;">    
+	<button class="btn btn-green btn-sm" onclick="openSmartManualModal()">＋ Thêm dòng nhập thông minh
+    <span style="font-size:10px;opacity:0.85;background:rgba(0,0,0,0.25);padding:2px 5px;border-radius:4px;margin-left:4px;">Shift+T</span>
+</button>
+    
+    <button class="btn btn-sm btn-red" id="btn-bulk-delete" style="display:none;" onclick="bulkDeleteSelected()">
+        Xóa số đã chọn
+    </button>
+    
+    <button class="btn btn-sm btn-red" onclick="deleteAllBets()">Xóa toàn bộ nhóm</button>
+</div>
+
+                    <div class="excel-matrix-container">
+                        <div class="excel-table-wrapper">
+    <table id="excel-matrix-table" class="excel-table">
+        <thead>
+            <tr style="color:#00f3ff; font-size:12px; text-align:center;">
+                <th style="padding:8px; width:35px;">#</th>
+                <th style="padding:8px; min-width:65px;">Chọn / Miền</th>
+                <th style="padding:6px; width:50px;">Số</th>
+                <th style="padding:8px; width:35px;">2c</th>
+                <th style="padding:8px; width:35px;">3c</th>
+                <th style="padding:8px; width:35px;">Đá</th>
+                <th style="padding:8px; min-width:100px;">Loại cược</th>
+                <th style="padding:6px; width:52px;">Giá (k)</th>
+                <th style="padding:8px; min-width:90px;">Tổng vốn</th>
+                <th style="padding:8px; min-width:90px;">Tiền trúng</th>
+                <th style="padding:8px; min-width:110px;">Thành tiền</th>
+                <th style="padding:8px; min-width:150px;">Ghi chú</th>
+                <th style="padding:6px; width:42px;">Xóa</th>
+            </tr>
+        </thead>
+        <tbody id="excel-matrix-body">
+            <!-- Dữ liệu render dynamic từ JS -->
+        </tbody>
+    </table>
+
+                        </div>
+                        <div id="detail-pagination" class="detail-pagination"></div>
+
+                        <div class="winning-log-box">
+                            <div class="winning-log-title">🎯 Số Trúng</div>
+                            <div id="winning-log-content">Chưa có dữ liệu trúng...</div>
+                        </div>
+                    </div>
+
+                    <div class="detail-totals" id="detail-totals" style="display:flex; gap:15px; flex-wrap:wrap; align-items:center; padding:10px 15px; border-radius:8px; margin-top:10px;">
+    <div>
+        <span style="color:#94a3b8; font-size:12px;">Tổng tin nhắn</span>
+        <strong id="detail-total-messages" style="color:#e2e8f0; font-size:16px; margin-left:4px;">0</strong>
+    </div>
+    <div>
+        <span style="color:#94a3b8; font-size:12px;">Tổng số con</span>
+        <strong id="detail-total-count" style="color:#00f3ff; font-size:16px; margin-left:4px;">0</strong>
+    </div>
+    <div>
+        <span style="color:#94a3b8; font-size:12px;">Tổng tiền cược</span>
+        <strong id="detail-total-bet" style="color:#fbbf24; font-size:16px; margin-left:4px;">0 ₫</strong>
+    </div>
+    <div>
+        <span style="color:#94a3b8; font-size:12px;">Tổng tiền trúng</span>
+        <strong id="detail-total-win" style="color:#ff4d4d; font-size:16px; margin-left:4px;">0 ₫</strong>
+    </div>
+    <div>
+        <span style="color:#94a3b8; font-size:12px;">Thành tiền</span>
+        <strong id="detail-total-net" style="color:#00ff88; font-size:16px; margin-left:4px;">0 ₫</strong>
+    </div>
+    <div>
+        <label for="detail-percent" style="color:#94a3b8; font-size:12px;">% hùn vốn</label>
+        <input id="detail-percent" type="number" min="0" max="100" step="0.1" value="0" oninput="updateDetailTotals()" style="width:55px; margin:0 4px; padding:2px 4px; background:#1e293b; color:#fff; border:1px solid #334155; border-radius:4px;">
+        <strong id="detail-percent-amount" style="color:#38bdf8;">0 ₫</strong>
+    </div>
+</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- BẢNG TỔNG HỢP -->
+        <div class="card neon-border summary-card">
+            <h3>🌐 Tổng Thể Toàn Bộ Nhóm</h3>
+            <div class="table-responsive">
+                <table class="grand-summary-table">
+                    <thead>
+                        <tr>
+                            <th>Nhóm</th>
+                            <th>Cược MT</th>
+                            <th>Cược MB/MN</th>
+                            <th>Tổng Trúng</th>
+                            <th>Lời / Lỗ</th>
+                            <th>Trạng thái</th>
+                        </tr>
+                    </thead>
+                    <tbody id="grand-summary-body"></tbody>
+                </table>
+            </div>
+
+          <!-- CHIA TIỀN NGƯỜI HÙN VỐN -->
+<div style="margin-top:20px; padding:16px; background:rgba(0,243,255,0.06); border:1px solid rgba(0,243,255,0.25); border-radius:10px;">
+    <h3 style="margin-bottom:12px; color:#00f3ff; font-size:1.05rem;">💰 Chia tiền theo người hùn vốn</h3>
+   
+    <div style="display:flex; flex-wrap:wrap; gap:14px; align-items:flex-end;">
+        <div style="display:flex; flex-direction:column; gap:4px;">
+            <label style="font-size:12px; color:#94a3b8;">Phần trăm người hùn vốn (%)</label>
+            <input type="number" id="capital-percent" value="10" min="0" max="100" step="0.1"
+                   style="width:110px; padding:8px 10px; background:#0f172a; border:1px solid #334155; border-radius:6px; color:#00ff88; font-weight:bold; font-size:15px;"
+                   oninput="calcCapitalShare()">
+        </div>
+
+        <div style="display:flex; flex-direction:column; gap:4px;">
+            <label style="font-size:12px; color:#94a3b8;">Tính trên cơ sở</label>
+            <select id="capital-base" onchange="calcCapitalShare()"
+                    style="padding:8px 10px; background:#0f172a; border:1px solid #334155; border-radius:6px; color:#fff; min-width:250px;">
+                <option value="activeNet" selected>Lời / Lỗ của nhóm đang chọn</option>
+                <option value="activeWin">Tổng trúng của nhóm đang chọn</option>
+                <option value="totalWin">Tổng tiền trúng (toàn bộ nhóm)</option>
+                <option value="totalBet">Tổng tiền cược (toàn bộ nhóm)</option>
+                <option value="net">Tổng Lời / Lỗ (toàn bộ nhóm)</option>
+            </select>
+        </div>
+
+        <button class="btn btn-green" onclick="calcCapitalShare()">Tính ngay</button>
+        <button class="btn btn-orange" onclick="exportCapitalShare()" style="margin-left:4px;">
+            📄 Xuất file chia tiền
+        </button>
+    </div>
+
+    <!-- 3 Ô KẾT QUẢ -->
+    <div style="margin-top:14px; display:grid; grid-template-columns:1fr 1fr 1fr; gap:12px;">
+        <!-- Ô 1: Tổng Lời/Lỗ gốc -->
+        <div style="background:rgba(148,163,184,0.1); border:1px solid #334155; border-radius:8px; padding:12px;">
+            <div style="font-size:12px; color:#94a3b8; margin-bottom:4px;">Tổng Lời / Lỗ gốc</div>
+            <div id="capital-base-amount" style="font-size:18px; font-weight:700; color:#e2e8f0;">0 ₫</div>
+        </div>
+
+        <!-- Ô 2: Người hùn vốn -->
+        <div style="background:rgba(0,255,136,0.1); border:1px solid rgba(0,255,136,0.3); border-radius:8px; padding:12px;">
+            <div style="font-size:12px; color:#94a3b8; margin-bottom:4px;">
+                <span id="cap-share-label">Người hùn vốn</span>
+                (<span id="cap-percent-display">10</span>%)
+            </div>
+            <div id="capital-share-amount" style="font-size:20px; font-weight:700; color:#00ff88;">0 ₫</div>
+        </div>
+
+        <!-- Ô 3: Phần còn lại -->
+        <div style="background:rgba(148,163,184,0.1); border:1px solid #334155; border-radius:8px; padding:12px;">
+            <div style="font-size:12px; color:#94a3b8; margin-bottom:4px;">Phần còn lại</div>
+            <div id="capital-remain-amount" style="font-size:18px; font-weight:600; color:#e2e8f0;">0 ₫</div>
+        </div>
+    </div>
+</div>
+
+    <!-- POPUP NHẬP TAY THÔNG MINH ĐA DÒNG -->
+<div id="smart-manual-modal" class="modal-overlay" style="display:none;">
+    <div class="modal-card" style="width:95%; max-width:680px; max-height:90vh; overflow-y:auto;">
+        <h3 style="color:#00f3ff; margin-bottom:12px;">⚡ Nhập Số Thủ Công Thông Minh Đa Dòng</h3>
+
+        <!-- Danh sách đài hôm nay -->
+        <div style="margin-bottom:12px; background:rgba(0,0,0,0.2); padding:10px; border-radius:8px; border:1px solid #334155;">
+            <label style="font-size:13px; color:#94a3b8; display:block; margin-bottom:6px;">Chọn đài áp dụng (tick chọn):</label>
+            <div id="smart-station-list" style="display:flex; flex-wrap:wrap; gap:8px;"></div>
+        </div>
+
+        <!-- Bảng danh sách dòng số nhập -->
+        <div class="excel-table-wrapper" style="max-height:300px; overflow-y:auto; margin-bottom:12px;">
+            <table style="width:100%; border-collapse:collapse; font-size:13px;">
+                <thead>
+                    <tr style="background:#0f172a; color:#00f3ff; text-align:center;">
+                        <th style="padding:8px; border:1px solid #334155;">Số đánh (cách nhau phẩy/dấu cách)</th>
+                        <th style="padding:8px; border:1px solid #334155; width:170px;">Thể loại</th>
+                        <th style="padding:8px; border:1px solid #334155; width:80px;">Tiền (k)</th>
+                        <th style="padding:8px; border:1px solid #334155; width:110px;">Thành tiền</th>
+                        <th style="padding:8px; border:1px solid #334155; width:45px;">Xóa</th>
+                    </tr>
+                </thead>
+                <tbody id="smart-manual-rows"></tbody>
+            </table>
+        </div>
+
+        <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:15px; padding:0 5px;">
+            <button class="btn btn-sm btn-sky" onclick="addSmartRow()">＋ Thêm dòng mới</button>
+            <div style="font-size:14px; color:#e2e8f0;">
+                Tổng thành tiền lượt này: <strong id="smart-manual-total-cost" style="color:#00ff88; font-size:18px;">0</strong> ₫
+            </div>
+        </div>
+
+        <div style="display:flex; gap:10px; justify-content:flex-end;">
+            <button class="btn btn-gray" onclick="closeSmartManualModal()">Hủy</button>
+            <button class="btn btn-green" onclick="confirmSmartManual()">💾 Lưu Toàn Bộ Số</button>
+        </div>
+    </div>
+</div>
+
+<!-- KHUNG MODAL THÔNG BÁO CHUẨN -->
+<div id="custom-modal-overlay" class="modal-overlay" style="display:none;">
+    <div class="modal-card">
+        <h3 id="modal-title">Thông Báo</h3>
+        <div id="modal-body">Nội dung...</div>
+        <div id="modal-input-container" style="display:none; margin-top:10px;">
+            <input type="text" id="modal-prompt-input" class="modal-input" placeholder="Nhập dữ liệu...">
+        </div>
+        <div id="modal-buttons" class="modal-buttons" style="margin-top:15px;"></div>
+    </div>
+</div>
+    <div id="toast-container"></div>
+</body>
+</html>
