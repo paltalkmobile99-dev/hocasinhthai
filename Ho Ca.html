@@ -59,43 +59,53 @@
         <div class="dashboard-grid">
             <!-- CỘT TRÁI -->
             <div class="grid-col">
+                
+                <!-- 1. KHUNG CẤU HÌNH TỶ LỆ CƯỢC -->
                 <div class="card neon-border">
-                    <h3>📝 Nhập Liệu Thông Minh (<span id="current-group-label" class="highlight-yellow">Nhóm A</span>)</h3>
-
-                    <div style="display:flex; gap:10px; align-items:center; background:rgba(15,23,42,0.6); padding:6px 10px; border-radius:6px; margin:8px 0; font-size:12px; border:1px solid #334155;">
+                    <h3 style="margin-bottom:8px;">⚙️ Tỷ Lệ Thưởng Mặc Định</h3>
+                    <div style="display:flex; gap:12px; align-items:center; background:rgba(15,23,42,0.6); padding:8px 12px; border-radius:6px; font-size:13px; border:1px solid #334155; flex-wrap:wrap;">
                         <span style="color:#00f3ff;"><b>Tỷ lệ:</b></span>
-                        <label>2C: <input type="number" value="91" style="width:45px; background:#0f172a; color:#00f3ff; border:1px solid #334155; text-align:center; border-radius:4px;" onchange="updateCustomRate('c2', this.value)"></label>
-                        <label>3C: <input type="number" value="780" style="width:55px; background:#0f172a; color:#00f3ff; border:1px solid #334155; text-align:center; border-radius:4px;" onchange="updateCustomRate('c3', this.value)"></label>
-                        <label>Đá: <input type="number" value="780" style="width:55px; background:#0f172a; color:#00f3ff; border:1px solid #334155; text-align:center; border-radius:4px;" onchange="updateCustomRate('da', this.value)"></label>
+                        <label style="display:inline-flex; align-items:center; gap:4px;">2C: <input type="number" value="91" style="width:50px; background:#0f172a; color:#00f3ff; border:1px solid #334155; text-align:center; border-radius:4px; padding:3px;" onchange="updateCustomRate('c2', this.value)"></label>
+                        <label style="display:inline-flex; align-items:center; gap:4px;">3C: <input type="number" value="780" style="width:60px; background:#0f172a; color:#00f3ff; border:1px solid #334155; text-align:center; border-radius:4px; padding:3px;" onchange="updateCustomRate('c3', this.value)"></label>
+                        <label style="display:inline-flex; align-items:center; gap:4px;">Đá: <input type="number" value="780" style="width:60px; background:#0f172a; color:#00f3ff; border:1px solid #334155; text-align:center; border-radius:4px; padding:3px;" onchange="updateCustomRate('da', this.value)"></label>
                     </div>
+                </div>
 
+                <!-- 2. KHUNG CHỌN MIỀN & ĐÀI -->
+                <div class="card neon-border">
+                    <h3 style="margin-bottom:8px;">🗺️ Chọn Miền & Đài Áp Dụng</h3>
                     <div class="region-radios">
                         <label><input type="radio" name="region-select" value="MN" onchange="onRegionChange()"> Miền Nam</label>
                         <label><input type="radio" name="region-select" value="MT" checked onchange="onRegionChange()"> Miền Trung</label>
                         <label><input type="radio" name="region-select" value="MB" onchange="onRegionChange()"> Miền Bắc</label>
                     </div>
 
-                    <div id="station-select-panel" style="display:none; margin:10px 0; padding:10px; background:rgba(0,0,0,0.3); border-radius:8px; border:1px solid #334155;">
+                    <div id="station-select-panel" style="display:none; margin-top:10px; padding:10px; background:rgba(0,0,0,0.3); border-radius:8px; border:1px solid #334155;">
                         <div style="font-size:13px; margin-bottom:8px; color:#94a3b8;">Chọn đài hôm nay (tick để gắn với số nhập):</div>
                         <div id="station-checkboxes" style="display:flex; flex-wrap:wrap; gap:8px;"></div>
                         <button class="btn btn-sm btn-green" style="margin-top:8px;" onclick="confirmSelectedStations()">Xác nhận đài đã chọn</button>
                     </div>
+                </div>
 
-                    <textarea id="smart-input" placeholder="Nhập tay hoặc dán đoạn số dài tại đây..." style="height:140px;"></textarea>
+                <!-- 3. KHUNG NHẬP LIỆU THÔNG MINH (NẰM DƯỚI) -->
+                <div class="card neon-border">
+                    <h3>📝 Nhập Liệu Thông Minh (<span id="current-group-label" class="highlight-yellow">Nhóm A</span>)</h3>
+
+                    <textarea id="smart-input" placeholder="Nhập tay hoặc dán đoạn số dài tại đây..." style="height:140px; margin-top:8px;"></textarea>
 
                     <div style="font-size:12px; color:#94a3b8; margin:6px 0;">
                         <span onclick="showInputHelp()" style="cursor:pointer; color:#00f3ff; text-decoration:underline;">📖 Xem hướng dẫn nhập nhanh</span>
                     </div>
 
                     <div class="btn-group">
-                        
-						<button class="btn btn-green" style="flex:1;" onclick="processSmartInput()">
+                        <button class="btn btn-green" style="flex:1;" onclick="processSmartInput()">
                             ⚡ Phân Tích & Hiện bảng xem lại <span style="font-size:10px;opacity:0.85;background:rgba(0,0,0,0.25);padding:2px 5px;border-radius:4px;margin-left:4px;">Shift+B</span>
                         </button>
                         <button class="btn btn-gray" onclick="loadSampleBetData()">📋 Dán mẫu</button>
                     </div>
                 </div>
 
+                <!-- 4. KHUNG BÓC TÁCH KQXS -->
                 <div class="card neon-border">
                     <h3>🎯 KQXS Tự Động Bóc Tách</h3>
                     <p class="card-subtitle">Dán nguyên văn KQXS. Hệ thống tự nhận đài + giải.</p>
