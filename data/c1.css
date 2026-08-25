@@ -710,3 +710,99 @@ textarea:focus {
     color: #00ff88;
     font-weight: bold;
 }
+
+/* Bảng xem lại nhập nhanh */
+.smart-review-intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+    padding: 12px 14px;
+    border: 1px solid rgba(0, 243, 255, 0.28);
+    border-radius: 8px;
+    background: linear-gradient(100deg, rgba(8, 47, 73, 0.95), rgba(30, 41, 59, 0.92));
+    color: #e0f2fe;
+}
+.smart-review-intro strong,
+.smart-review-intro span { display: block; }
+.smart-review-intro strong { color: #67e8f9; font-size: 14px; }
+.smart-review-intro span { margin-top: 3px; color: #94a3b8; font-size: 11px; }
+.smart-review-intro small { color: #fbbf24; text-align: right; }
+.smart-review-scroll {
+    max-height: 58vh;
+    overflow: auto;
+    border: 1px solid #334155;
+    border-radius: 8px;
+}
+.smart-review-table {
+    width: 100%;
+    min-width: 760px;
+    border-collapse: separate;
+    border-spacing: 0;
+    font-size: 12px;
+}
+.smart-review-table th {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    padding: 9px 7px;
+    background: #172554;
+    color: #bae6fd;
+    text-align: center;
+    white-space: nowrap;
+}
+.smart-review-group td {
+    padding: 8px 10px;
+    border-top: 1px solid rgba(56, 189, 248, 0.28);
+    background: #172033;
+}
+.smart-review-group-id {
+    display: inline-block;
+    min-width: 58px;
+    margin-right: 9px;
+    color: #fbbf24;
+    font-weight: 700;
+}
+.smart-review-group-numbers { color: #67e8f9; font-weight: 700; }
+.smart-review-group-total { float: right; color: #94a3b8; font-size: 11px; }
+.smart-review-item td { padding: 6px 7px; border-top: 1px solid #1e293b; text-align: center; }
+.smart-review-item.is-alt td { background: rgba(15, 23, 42, 0.58); }
+.smart-review-index { color: #64748b; }
+.smart-review-input,
+.smart-review-select,
+.smart-review-stations {
+    border: 1px solid #334155;
+    border-radius: 4px;
+    background: #020617;
+    color: #e2e8f0;
+    padding: 5px;
+}
+.smart-review-number { width: 72px; color: #67e8f9; font-weight: 700; text-align: center; }
+.smart-review-select { width: 132px; max-width: 132px; color: #f0abfc; font-size: 11px; }
+.smart-review-station-cell { min-width: 76px; }
+.smart-review-station-label { display: block; margin-bottom: 3px; color: #bae6fd; font-size: 11px; font-weight: 700; white-space: nowrap; }
+.smart-review-stations { width: 76px; height: 24px; color: #bae6fd; font-size: 10px; padding: 2px; }
+.smart-review-money { display: flex; align-items: center; justify-content: center; gap: 3px; color: #00ff88; font-weight: 700; }
+.smart-review-money .smart-review-input { width: 62px; color: #00ff88; text-align: center; }
+.smart-review-lots { color: #cbd5e1; }
+.smart-review-cost { color: #fbbf24; font-weight: 700; white-space: nowrap; }
+.smart-review-delete { padding: 4px 8px; font-size: 11px; }
+.smart-review-total {
+    display: flex;
+    justify-content: flex-end;
+    align-items: baseline;
+    gap: 10px;
+    margin-top: 12px;
+    padding: 12px 14px;
+    border-radius: 8px;
+    background: #1e293b;
+    color: #94a3b8;
+}
+.smart-review-total b { color: #fbbf24; font-size: 20px; }
+.smart-review-empty { padding: 16px; color: #64748b; text-align: center; }
+@media (max-width: 640px) {
+    .smart-review-intro { align-items: flex-start; flex-direction: column; }
+    .smart-review-intro small { text-align: left; }
+    .smart-review-group-total { float: none; display: block; margin-top: 3px; }
+}
