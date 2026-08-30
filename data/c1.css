@@ -589,12 +589,17 @@ textarea:focus {
     padding-right: 16px !important;
 }
 
-/* Hộp số trúng xuống dưới để bảng có toàn bộ chiều ngang, cột Xóa luôn thấy. */
+/* Hộp số trúng xuống dưới để bảng có toàn bộ chiều ngang, cột Xóa luôn thấy.
+   resize:vertical cho phép kéo góc dưới-phải để kéo dài khung khi 240px mặc
+   định không đủ nhìn hết (nhiều dòng trúng) — kéo tay được tới tối đa 80%
+   chiều cao màn hình, tự có thanh cuộn riêng nếu nội dung còn dài hơn nữa. */
 .winning-log-box {
     grid-column: 1 / -1;
     min-height: 120px;
-    max-height: 240px;
+    max-height: 80vh;
+    height: 240px;
     overflow: auto;
+    resize: vertical;
 }
 
 
@@ -657,9 +662,24 @@ textarea:focus {
     padding: 20px;
     width: 360px;
     max-width: 90%;
+    /* An toàn chung cho MỌI modal: nội dung dài (VD bảng "Lọc & Tách Số" khi
+       dán nhiều số — nhiều chip loại/nhiều dòng bảng) không được ĐẨY nút Xác
+       Nhận/Copy/Hủy ra khỏi tầm nhìn. Trước đây cho CẢ THẺ cuộn chung 1 khối
+       — tiêu đề, nội dung, nút đều trôi theo, phải cuộn mò xuống tận đáy mới
+       thấy nút, cảm giác như "mất nút". Giờ tách riêng: CHỈ phần NỘI DUNG ở
+       giữa (#modal-body) tự cuộn, còn tiêu đề (trên) và hàng nút (dưới) LUÔN
+       đứng yên, luôn thấy ngay — không cần cuộn để tìm nút nữa. */
+    max-height: 90vh;
+    display: flex;
+    flex-direction: column;
 }
-.modal-card h3 { color: var(--neon-blue); margin-bottom: 10px; }
-.modal-card #modal-body { font-size: 0.95rem; color: #e2e8f0; margin-bottom: 15px; }
+#smart-preview-modal-card {
+    padding: 14px 16px;
+}
+.modal-card h3 { color: var(--neon-blue); margin-bottom: 10px; flex-shrink: 0; }
+.modal-card #modal-body { font-size: 0.95rem; color: #e2e8f0; margin-bottom: 15px; overflow-y: auto; flex: 1 1 auto; min-height: 0; }
+.modal-card #modal-buttons { flex-shrink: 0; }
+.modal-card #modal-input-container { flex-shrink: 0; }
 .modal-input {
     width: 100%;
     padding: 10px;
@@ -711,14 +731,15 @@ textarea:focus {
     font-weight: bold;
 }
 
-/* Bảng xem lại nhập nhanh */
+/* Bảng xem lại nhập nhanh — thu gọn để vừa màn hình mọi thiết bị, tránh
+   modal bung quá cao (kết hợp với max-height:90vh + overflow-y ở .modal-card). */
 .smart-review-intro {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 12px;
-    margin-bottom: 12px;
-    padding: 12px 14px;
+    gap: 10px;
+    margin-bottom: 8px;
+    padding: 8px 12px;
     border: 1px solid rgba(0, 243, 255, 0.28);
     border-radius: 8px;
     background: linear-gradient(100deg, rgba(8, 47, 73, 0.95), rgba(30, 41, 59, 0.92));
@@ -726,11 +747,11 @@ textarea:focus {
 }
 .smart-review-intro strong,
 .smart-review-intro span { display: block; }
-.smart-review-intro strong { color: #67e8f9; font-size: 14px; }
-.smart-review-intro span { margin-top: 3px; color: #94a3b8; font-size: 11px; }
+.smart-review-intro strong { color: #67e8f9; font-size: 13px; }
+.smart-review-intro span { margin-top: 2px; color: #94a3b8; font-size: 10.5px; }
 .smart-review-intro small { color: #fbbf24; text-align: right; }
 .smart-review-scroll {
-    max-height: 58vh;
+    max-height: 48vh;
     overflow: auto;
     border: 1px solid #334155;
     border-radius: 8px;
@@ -740,20 +761,20 @@ textarea:focus {
     min-width: 760px;
     border-collapse: separate;
     border-spacing: 0;
-    font-size: 12px;
+    font-size: 11.5px;
 }
 .smart-review-table th {
     position: sticky;
     top: 0;
     z-index: 1;
-    padding: 9px 7px;
+    padding: 6px 6px;
     background: #172554;
     color: #bae6fd;
     text-align: center;
     white-space: nowrap;
 }
 .smart-review-group td {
-    padding: 8px 10px;
+    padding: 6px 8px;
     border-top: 1px solid rgba(56, 189, 248, 0.28);
     background: #172033;
 }
@@ -766,7 +787,7 @@ textarea:focus {
 }
 .smart-review-group-numbers { color: #67e8f9; font-weight: 700; }
 .smart-review-group-total { float: right; color: #94a3b8; font-size: 11px; }
-.smart-review-item td { padding: 6px 7px; border-top: 1px solid #1e293b; text-align: center; }
+.smart-review-item td { padding: 4px 6px; border-top: 1px solid #1e293b; text-align: center; }
 .smart-review-item.is-alt td { background: rgba(15, 23, 42, 0.58); }
 .smart-review-index { color: #64748b; }
 .smart-review-input,
@@ -792,17 +813,22 @@ textarea:focus {
     display: flex;
     justify-content: flex-end;
     align-items: baseline;
-    gap: 10px;
-    margin-top: 12px;
-    padding: 12px 14px;
+    gap: 8px;
+    margin-top: 8px;
+    padding: 8px 12px;
     border-radius: 8px;
     background: #1e293b;
     color: #94a3b8;
 }
-.smart-review-total b { color: #fbbf24; font-size: 20px; }
+.smart-review-total b { color: #fbbf24; font-size: 17px; }
 .smart-review-empty { padding: 16px; color: #64748b; text-align: center; }
 @media (max-width: 640px) {
     .smart-review-intro { align-items: flex-start; flex-direction: column; }
     .smart-review-intro small { text-align: left; }
     .smart-review-group-total { float: none; display: block; margin-top: 3px; }
+    /* Màn hình nhỏ (điện thoại): thu thêm để tổng thể modal (tiêu đề + banner
+       + bảng + tổng vốn + nút) vẫn lọt trong max-height:90vh của .modal-card,
+       không đẩy nút "Xác nhận nhập" xuống dưới mép màn hình. */
+    .smart-review-scroll { max-height: 38vh; }
+    #smart-preview-modal-card { padding: 10px 12px; }
 }

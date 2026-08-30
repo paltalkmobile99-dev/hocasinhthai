@@ -1,1 +1,8239 @@
-const _0x225e24=_0x446c;(function(_0x1c8724,_0x3ee40d){const _0x5f52a1=_0x446c,_0x18ce0f=_0x1c8724();while(!![]){try{const _0x399de1=-parseInt(_0x5f52a1(0xa9c,'VWnK'))/0x1*(-parseInt(_0x5f52a1(0x65f,'7!Gb'))/0x2)+-parseInt(_0x5f52a1(0x749,'e[5n'))/0x3+parseInt(_0x5f52a1(0xc5e,'M1DA'))/0x4+parseInt(_0x5f52a1(0xab9,'LyuC'))/0x5*(parseInt(_0x5f52a1(0x9e5,'#&$8'))/0x6)+parseInt(_0x5f52a1(0xa1d,'VWnK'))/0x7+parseInt(_0x5f52a1(0x2e3,'E5)l'))/0x8*(parseInt(_0x5f52a1(0x2e9,'MHv!'))/0x9)+-parseInt(_0x5f52a1(0xfda,'E5)l'))/0xa*(parseInt(_0x5f52a1(0x105b,'Oc5r'))/0xb);if(_0x399de1===_0x3ee40d)break;else _0x18ce0f['push'](_0x18ce0f['shift']());}catch(_0x2f8452){_0x18ce0f['push'](_0x18ce0f['shift']());}}}(_0x4d4d,0x1ed49),(function(){const _0x2e44d2=_0x446c;if(![])return;var _0x3c2af5=(location[_0x2e44d2(0xd5d,'OTP&')]||'')[_0x2e44d2(0x97c,'2Lzj')](),_0x401725=(location[_0x2e44d2(0xb9d,'LyuC')]||'')[_0x2e44d2(0x888,'MfL&')](),_0x2ff721=_0x3c2af5===_0x2e44d2(0xb13,'#&$8')[_0x2e44d2(0xa06,'I*r6')](),_0x533a8d=_0x401725[_0x2e44d2(0xeb2,'fyWu')](_0x2e44d2(0xc5c,'M*BU')[_0x2e44d2(0xabc,'%AH&')]())===0x0;if(!_0x2ff721||!_0x533a8d){try{document[_0x2e44d2(0x735,'BNmM')](),document[_0x2e44d2(0xfa3,'hCJL')](_0x2e44d2(0x1f7,'&SjD')+_0x2e44d2(0x1028,'cNV6')+_0x2e44d2(0x22a,'nR@W')+_0x2e44d2(0x878,'OTP&')+_0x2e44d2(0xbb8,'7Xia')+_0x2e44d2(0x3ef,'MfL&')+_0x2e44d2(0x3a0,'LyuC')+_0x2e44d2(0x1cc,'5Ad)')+_0x2e44d2(0x113e,'hCJL')+_0x2e44d2(0xd9d,'fyWu')+_0x2e44d2(0x7e4,'lm&&')+_0x2e44d2(0x810,'cNV6')+_0x2e44d2(0x2f0,'7Xia')+_0x2e44d2(0xa35,'M1DA')+_0x2e44d2(0x6bc,')U6s')+_0x2e44d2(0x360,'e[5n')),document[_0x2e44d2(0xeab,'MfL&')]();}catch(_0x26d2d5){}throw new Error(_0x2e44d2(0xdfa,'m1lh'));}}()),(function(){const _0x2f5520=_0x446c,_0x3956d1=(function(){let _0x345feb=!![];return function(_0x1b8181,_0x52595f){const _0x28c7e2=_0x345feb?function(){const _0x2a7ac2=_0x446c;if(_0x52595f){const _0x8dda32=_0x52595f[_0x2a7ac2(0x1f1,'2Lzj')](_0x1b8181,arguments);return _0x52595f=null,_0x8dda32;}}:function(){};return _0x345feb=![],_0x28c7e2;};}()),_0x4801f1=_0x3956d1(this,function(){const _0x1e09d2=_0x446c;return _0x4801f1[_0x1e09d2(0xb80,'M1DA')]()[_0x1e09d2(0xefe,'lX[b')](_0x1e09d2(0xc90,'5Ess'))[_0x1e09d2(0xb80,'M1DA')]()[_0x1e09d2(0x106b,'MfL&')](_0x4801f1)[_0x1e09d2(0x53d,'zNw(')](_0x1e09d2(0x2be,'e[5n'));});_0x4801f1();const _0x108898=(function(){let _0x3b3d1a=!![];return function(_0x32fc98,_0x43b903){const _0x17877f=_0x3b3d1a?function(){const _0x4381bb=_0x446c;if(_0x43b903){const _0x23081f=_0x43b903[_0x4381bb(0xb6f,'y)UI')](_0x32fc98,arguments);return _0x43b903=null,_0x23081f;}}:function(){};return _0x3b3d1a=![],_0x17877f;};}()),_0x2e97de=_0x108898(this,function(){const _0x2f07e5=_0x446c,_0x40c7e3=function(){const _0x3629ba=_0x446c;let _0x3dd7b7;try{_0x3dd7b7=Function(_0x3629ba(0x9e3,'e6gp')+_0x3629ba(0x11c9,'kMoM')+');')();}catch(_0x5327cd){_0x3dd7b7=window;}return _0x3dd7b7;},_0x37c95a=_0x40c7e3(),_0x1ace95=_0x37c95a[_0x2f07e5(0xd15,'5Ess')]=_0x37c95a[_0x2f07e5(0x978,'BNmM')]||{},_0x314be3=[_0x2f07e5(0x376,'i%tL'),_0x2f07e5(0xbd9,'fyWu'),_0x2f07e5(0xb73,'VWnK'),_0x2f07e5(0xdad,'M1DA'),_0x2f07e5(0x4a2,'2Lzj'),_0x2f07e5(0x634,'5Ad)'),_0x2f07e5(0x923,'gL1S')];for(let _0x20848d=0x0;_0x20848d<_0x314be3[_0x2f07e5(0x633,'mn5c')];_0x20848d++){const _0x5d425a=_0x108898[_0x2f07e5(0x637,'5Ad)')][_0x2f07e5(0xe46,'e6gp')][_0x2f07e5(0xd2b,'7Xia')](_0x108898),_0x12380=_0x314be3[_0x20848d],_0xe5d8cf=_0x1ace95[_0x12380]||_0x5d425a;_0x5d425a[_0x2f07e5(0xa97,'lm&&')]=_0x108898[_0x2f07e5(0x4c0,'M*BU')](_0x108898),_0x5d425a[_0x2f07e5(0x502,'&SjD')]=_0xe5d8cf[_0x2f07e5(0xbfb,'%AH&')][_0x2f07e5(0x2da,'#&$8')](_0xe5d8cf),_0x1ace95[_0x12380]=_0x5d425a;}});_0x2e97de();if(![])return;function _0x3875c2(){const _0x20755f=_0x446c;try{if(window[_0x20755f(0x11b3,'iEe2')])window[_0x20755f(0xe33,'M*BU')][_0x20755f(0x665,'lX[b')]();delete window[_0x20755f(0x704,'BNmM')],delete window[_0x20755f(0x826,'7JZb')],document[_0x20755f(0xe22,'gL1S')](),document[_0x20755f(0x434,'2Lzj')](_0x20755f(0xe8b,'hCJL')+_0x20755f(0x596,'gL1S')+_0x20755f(0xebc,'wBCK')+_0x20755f(0x781,'WL8L')+_0x20755f(0xcb2,'MfL&')+_0x20755f(0x719,'OTP&')+_0x20755f(0xdc1,'nR@W')+_0x20755f(0x2b1,'fyWu')+_0x20755f(0xdf1,'u@TD')+_0x20755f(0x9fd,'zNw(')+_0x20755f(0x4e0,']Sv0')+_0x20755f(0x5cb,'PX3c')+_0x20755f(0xea6,'#&$8')+_0x20755f(0x5b2,'5Ad)')+_0x20755f(0x80d,'i%tL')),document[_0x20755f(0x113a,')UVA')]();}catch(_0xa322c1){}throw new Error(_0x20755f(0xdeb,'M*BU'));}var _0x1907bc='t='+Date[_0x2f5520(0x248,'#Ux*')]()+'_'+Math[_0x2f5520(0x1039,'MHv!')]()[_0x2f5520(0xd33,'kMoM')](0x24)[_0x2f5520(0xc59,'7!Gb')](0x2,0x7),_0x1d013f=_0x2f5520(0x331,'K7h7')[_0x2f5520(0xe52,'#Ux*')]('?')===-0x1?'?':'&',_0x5cc109=_0x2f5520(0xc10,'#Ux*')+_0x1d013f+_0x1907bc;fetch(_0x5cc109,{'cache':_0x2f5520(0xe32,']Sv0')})[_0x2f5520(0x1087,'Oc5r')](function(_0x283423){const _0x420658=_0x2f5520;if(!_0x283423['ok'])return null;return _0x283423[_0x420658(0xc95,'5Ad)')]();})[_0x2f5520(0x8a3,'zNw(')](function(_0x22309a){const _0x4bdc60=_0x2f5520;if(!_0x22309a)return;_0x22309a[_0x4bdc60(0x733,'MfL&')]===!![]&&_0x22309a[_0x4bdc60(0xc31,'lm&&')]!==_0x4bdc60(0xcf0,')U6s')&&_0x3875c2();})[_0x2f5520(0x1195,'Fj&C')](function(){});}()));let groups=['A','B','C','D','E','F','G','H'],activeGroup='A',currentUser=_0x225e24(0x4e4,'Fj&C'),appData={},isUnlocked=![],autoPurgeEnabled=!![],skipComparisonModal=![],selectedStations=[],pendingInputItems=[],inputSessionCount=0x0,detailPage=0x1;const DETAIL_PAGE_SIZE=0x64;let detailSearchTerm='',detailMatchFilter=_0x225e24(0xad4,'#Ux*');const STORAGE_KEY_PATTERN=_0x225e24(0xe2b,'Fj&C'),STORAGE_KEY_USER=_0x225e24(0x22b,'m1lh'),DB_NAME=_0x225e24(0x687,'#&$8'),DB_VERSION=0x1;let dbInstance=null,appStateSaveQueue=Promise[_0x225e24(0x8af,'Fj&C')](),saveTimeout=null;const BET_TYPES={'bl':{'name':_0x225e24(0x20d,'e[5n'),'prizes':{'MB':0x1b,'MT':0x12,'MN':0x12}},'2c':{'name':_0x225e24(0x5b8,'%AH&'),'prizes':{'MB':0x1b,'MT':0x12,'MN':0x12}},'3c':{'name':_0x225e24(0x601,'wBCK'),'prizes':{'MB':0x17,'MT':0x11,'MN':0x11}},'c2':{'name':'2C','prizes':{'MB':0x1,'MT':0x1,'MN':0x1}},'c3':{'name':'3C','prizes':{'MB':0x1,'MT':0x1,'MN':0x1}},'4c':{'name':_0x225e24(0xfc9,'iEe2'),'prizes':{'MB':0x1,'MT':0x1,'MN':0x1}},'5c':{'name':_0x225e24(0xf02,'WL8L'),'prizes':{'MB':0xa,'MT':0x5,'MN':0x5}},'10c':{'name':_0x225e24(0xaaa,'WL8L'),'prizes':{'MB':0xa,'MT':0xa,'MN':0xa}},'bao4c':{'name':_0x225e24(0xd62,'I*r6'),'prizes':{'MB':0x14,'MT':0x10,'MN':0x10}},'7lo':{'name':_0x225e24(0xc04,'M*BU'),'prizes':{'MB':0x7,'MT':0x7,'MN':0x7}},'10lo':{'name':_0x225e24(0x100c,'e6gp'),'prizes':{'MB':0xa,'MT':0xa,'MN':0xa}},'10cuoi':{'name':_0x225e24(0x123b,'gL1S'),'prizes':{'MB':0xa,'MT':0xa,'MN':0xa}},'12lo':{'name':_0x225e24(0xfb3,'5Ad)'),'prizes':{'MB':0xc,'MT':0xc,'MN':0xc}},'14lo':{'name':_0x225e24(0xe55,']Sv0'),'prizes':{'MB':0xe,'MT':0xe,'MN':0xe}},'16lo':{'name':_0x225e24(0x7d1,'e6gp'),'prizes':{'MB':0x10,'MT':0x10,'MN':0x10}},'dd':{'name':_0x225e24(0xcad,'y)UI'),'prizes':{'MB':0x5,'MT':0x2,'MN':0x2}},'dau':{'name':_0x225e24(0x38f,'wBCK'),'prizes':{'MB':0x4,'MT':0x1,'MN':0x1}},'duoi':{'name':_0x225e24(0xc6e,'7Xia'),'prizes':{'MB':0x1,'MT':0x1,'MN':0x1}},'de':{'name':_0x225e24(0x1165,'Mgu1'),'prizes':{'MB':0x1,'MT':0x1,'MN':0x1}},'dau_db':{'name':_0x225e24(0x11c3,'zNw('),'prizes':{'MB':0x1,'MT':0x1,'MN':0x1}},'xc':{'name':_0x225e24(0xa74,'zNw('),'prizes':{'MB':0x4,'MT':0x2,'MN':0x2}},'xc_dau':{'name':_0x225e24(0xb6b,'m1lh'),'prizes':{'MB':0x3,'MT':0x1,'MN':0x1}},'xc_duoi':{'name':_0x225e24(0x717,'5Ad)'),'prizes':{'MB':0x1,'MT':0x1,'MN':0x1}},'db':{'name':_0x225e24(0xbbb,'#&$8'),'prizes':{'MB':0x1,'MT':0x1,'MN':0x1}},'g1':{'name':_0x225e24(0xe02,'m1lh'),'prizes':{'MB':0x1,'MT':0x1,'MN':0x1}},'g2':{'name':_0x225e24(0xa2e,'e[5n'),'prizes':{'MB':0x2,'MT':0x1,'MN':0x1}},'g3':{'name':_0x225e24(0x7f3,'i%tL'),'prizes':{'MB':0x6,'MT':0x2,'MN':0x2}},'g4':{'name':_0x225e24(0x9c6,'e[5n'),'prizes':{'MB':0x4,'MT':0x7,'MN':0x7}},'g5':{'name':_0x225e24(0xe99,'OTP&'),'prizes':{'MB':0x6,'MT':0x1,'MN':0x1}},'g6':{'name':_0x225e24(0xe0b,'zNw('),'prizes':{'MB':0x3,'MT':0x3,'MN':0x3}},'g7':{'name':_0x225e24(0x1249,')UVA'),'prizes':{'MB':0x4,'MT':0x1,'MN':0x1}},'g8':{'name':_0x225e24(0xb60,'cNV6'),'prizes':{'MB':0x0,'MT':0x1,'MN':0x1}},'g6g3':{'name':_0x225e24(0x11fb,')UVA'),'prizes':{'MB':0x9,'MT':0x5,'MN':0x5}},'g7g6':{'name':_0x225e24(0xc99,'fyWu'),'prizes':{'MB':0x7,'MT':0x4,'MN':0x4}},'g6g5':{'name':_0x225e24(0x239,'PX3c'),'prizes':{'MB':0x9,'MT':0x4,'MN':0x4}},'g5g4':{'name':_0x225e24(0x6c9,'#Ux*'),'prizes':{'MB':0xa,'MT':0x8,'MN':0x8}},'g3g2':{'name':_0x225e24(0x738,'OTP&'),'prizes':{'MB':0x8,'MT':0x3,'MN':0x3}},'g2g1':{'name':_0x225e24(0xaf4,'#Ux*'),'prizes':{'MB':0x3,'MT':0x2,'MN':0x2}},'g1db':{'name':_0x225e24(0xa2b,'f#xl'),'prizes':{'MB':0x2,'MT':0x2,'MN':0x2}},'g6g4':{'name':_0x225e24(0x3c6,'&SjD'),'prizes':{'MB':0x7,'MT':0xa,'MN':0xa}},'g4g3':{'name':_0x225e24(0x594,'Oc5r'),'prizes':{'MB':0xa,'MT':0x9,'MN':0x9}},'g6g4g3':{'name':_0x225e24(0x534,'#Ux*'),'prizes':{'MB':0xd,'MT':0xc,'MN':0xc}},'g7g6g5g4':{'name':_0x225e24(0xcae,'LyuC'),'prizes':{'MB':0x11,'MT':0xc,'MN':0xc}},'g8g7g6g5g4':{'name':_0x225e24(0xd97,'5Ess'),'prizes':{'MB':0x11,'MT':0xd,'MN':0xd}},'g3g2g1db':{'name':_0x225e24(0x9f7,'fyWu'),'prizes':{'MB':0xa,'MT':0x5,'MN':0x5}},'3d':{'name':_0x225e24(0xb44,'e[5n'),'prizes':{'MB':0x3,'MT':0x3,'MN':0x3}},'8d':{'name':_0x225e24(0x8cb,')UVA'),'prizes':{'MB':0x8,'MT':0x8,'MN':0x8}},'10d':{'name':_0x225e24(0x2ca,'m1lh'),'prizes':{'MB':0xa,'MT':0xa,'MN':0xa}},'12d':{'name':_0x225e24(0x98a,'%AH&'),'prizes':{'MB':0x11,'MT':0xc,'MN':0xc}},'13d':{'name':_0x225e24(0xfd7,'f#xl'),'prizes':{'MB':0x11,'MT':0xd,'MN':0xd}},'g4lo5':{'name':_0x225e24(0x945,'y)UI'),'prizes':{'MB':0x5,'MT':0x5,'MN':0x5}},'g4lo7':{'name':_0x225e24(0xde4,'BNmM'),'prizes':{'MB':0x7,'MT':0x7,'MN':0x7}},'g6lo1':{'name':_0x225e24(0xede,')UVA'),'prizes':{'MB':0x1,'MT':0x1,'MN':0x1}},'da':{'name':_0x225e24(0x1203,'MHv!'),'prizes':{'MB':0x0,'MT':0x0,'MN':0x0}},'dx':{'name':_0x225e24(0x9d4,'5Ess'),'prizes':{'MB':0x0,'MT':0x0,'MN':0x0}},'dv':{'name':_0x225e24(0x917,'gL1S'),'prizes':{'MB':0x0,'MT':0x0,'MN':0x0}},'day_so':{'name':_0x225e24(0xa49,'5Ess'),'prizes':{'MB':0x1b,'MT':0x12,'MN':0x12}},'chan_chan':{'name':_0x225e24(0xe5b,'zNw('),'prizes':{'MB':0x1b,'MT':0x12,'MN':0x12}},'le_le':{'name':_0x225e24(0xe39,'M1DA'),'prizes':{'MB':0x1b,'MT':0x12,'MN':0x12}},'chan_le':{'name':_0x225e24(0xfc3,'#Ux*'),'prizes':{'MB':0x1b,'MT':0x12,'MN':0x12}},'le_chan':{'name':_0x225e24(0x436,'e6gp'),'prizes':{'MB':0x1b,'MT':0x12,'MN':0x12}},'giap':{'name':_0x225e24(0xed2,'BNmM'),'prizes':{'MB':0x1b,'MT':0x12,'MN':0x12}}},ZODIAC_TY=['00','12','24','36','48','60','72','84','96'],ZODIAC_SUU=['01','13','25','37','49','61','73','85','97'],ZODIAC_DAN=['02','14','26','38','50','62','74','86','98'],ZODIAC_MAO=['03','15','27','39','51','63','75','87','99'],ZODIAC_THIN=['04','16','28','40','52','64','76','88'],ZODIAC_TY_RAN=['05','17','29','41','53','65','77','89'],ZODIAC_NGO=['06','18','30','42','54','66','78','90'],ZODIAC_MUI=['07','19','31','43','55','67','79','91'],ZODIAC_THAN=['08','20','32','44','56','68','80','92'],ZODIAC_DAU=['09','21','33','45','57','69','81','93'],ZODIAC_TUAT=['10','22','34','46','58','70','82','94'],ZODIAC_HOI=['11','23','35','47','59','71','83','95'],ZODIAC_MAP={'ty':ZODIAC_TY,'chuot':ZODIAC_TY,'suu':ZODIAC_SUU,'trau':ZODIAC_SUU,'dan':ZODIAC_DAN,'ho':ZODIAC_DAN,'cop':ZODIAC_DAN,'mao':ZODIAC_MAO,'meo':ZODIAC_MAO,'thin':ZODIAC_THIN,'rong':ZODIAC_THIN,'ty_ran':ZODIAC_TY_RAN,'ran':ZODIAC_TY_RAN,'ngo':ZODIAC_NGO,'ngua':ZODIAC_NGO,'mui':ZODIAC_MUI,'de':ZODIAC_MUI,'than':ZODIAC_THAN,'khi':ZODIAC_THAN,'dau':ZODIAC_DAU,'ga':ZODIAC_DAU,'tuat':ZODIAC_TUAT,'cho':ZODIAC_TUAT,'hoi':ZODIAC_HOI,'heo':ZODIAC_HOI,'lon':ZODIAC_HOI},ALL_ZODIAC_NUMS=[...new Set(Object[_0x225e24(0x1194,'zNw(')](ZODIAC_MAP)[_0x225e24(0x68c,'VWnK')]())],PAIR_SETS_NORM={'le\x20le':['11','13','15','17','19','31','33','35','37','39','51','53','55','57','59','71','73','75','77','79','91','93','95','97','99'],'le\x20chan':['10','12','14','16','18','30','32','34','36','38','50','52','54','56','58','70','72','74','76','78','90','92','94','96','98'],'chan\x20chan':['00','02','04','06','08','20','22','24','26','28','40','42','44','46','48','60','62','64','66','68','80','82','84','86','88'],'chan\x20le':['01','03','05','07','09','21','23','25','27','29','41','43','45','47','49','61','63','65','67','69','81','83','85','87','89']};function getPrizeCount(_0x4825c3,_0x2c3704='MT'){const _0x490511=_0x225e24,_0x2c8828=BET_TYPES[_0x4825c3];if(!_0x2c8828)return 0x12;if(typeof _0x2c8828[_0x490511(0x93a,'e6gp')]===_0x490511(0xa33,'7Xia'))return _0x2c8828[_0x490511(0x63d,'#&$8')];return _0x2c8828[_0x490511(0xebd,'Fj&C')][_0x2c3704]||_0x2c8828[_0x490511(0x919,'OTP&')]['MT'];}function sha256Hex(_0x9d5bfc){const _0x46659e=_0x225e24;function _0x5e323f(_0x50ba40,_0x2f3cf4){return _0x50ba40>>>_0x2f3cf4|_0x50ba40<<0x20-_0x2f3cf4;}const _0x455965=[0x428a2f98,0x71374491,0xb5c0fbcf,0xe9b5dba5,0x3956c25b,0x59f111f1,0x923f82a4,0xab1c5ed5,0xd807aa98,0x12835b01,0x243185be,0x550c7dc3,0x72be5d74,0x80deb1fe,0x9bdc06a7,0xc19bf174,0xe49b69c1,0xefbe4786,0xfc19dc6,0x240ca1cc,0x2de92c6f,0x4a7484aa,0x5cb0a9dc,0x76f988da,0x983e5152,0xa831c66d,0xb00327c8,0xbf597fc7,0xc6e00bf3,0xd5a79147,0x6ca6351,0x14292967,0x27b70a85,0x2e1b2138,0x4d2c6dfc,0x53380d13,0x650a7354,0x766a0abb,0x81c2c92e,0x92722c85,0xa2bfe8a1,0xa81a664b,0xc24b8b70,0xc76c51a3,0xd192e819,0xd6990624,0xf40e3585,0x106aa070,0x19a4c116,0x1e376c08,0x2748774c,0x34b0bcb5,0x391c0cb3,0x4ed8aa4a,0x5b9cca4f,0x682e6ff3,0x748f82ee,0x78a5636f,0x84c87814,0x8cc70208,0x90befffa,0xa4506ceb,0xbef9a3f7,0xc67178f2];let _0x457f43=[0x6a09e667,0xbb67ae85,0x3c6ef372,0xa54ff53a,0x510e527f,0x9b05688c,0x1f83d9ab,0x5be0cd19];const _0x1029a9=unescape(encodeURIComponent(_0x9d5bfc)),_0x33e282=_0x1029a9[_0x46659e(0x5df,'#Ux*')]*0x8;let _0x22a237=_0x1029a9+String[_0x46659e(0xa05,'iEe2')](0x80);_0x22a237+='\x00'[_0x46659e(0xb92,'zNw(')]((0x38-_0x22a237[_0x46659e(0x62b,'nR@W')]%0x40+0x40)%0x40);const _0x156afd=Math[_0x46659e(0x1164,'cNV6')](_0x33e282/0x100000000),_0x75432e=_0x33e282>>>0x0;for(let _0xa65ffc=0x3;_0xa65ffc>=0x0;_0xa65ffc--)_0x22a237+=String[_0x46659e(0xa46,'7!Gb')](_0x156afd>>>_0xa65ffc*0x8&0xff);for(let _0x52d0e2=0x3;_0x52d0e2>=0x0;_0x52d0e2--)_0x22a237+=String[_0x46659e(0x51c,'M*BU')](_0x75432e>>>_0x52d0e2*0x8&0xff);for(let _0x54fd26=0x0;_0x54fd26<_0x22a237[_0x46659e(0xcf8,'i%tL')];_0x54fd26+=0x40){const _0x1f42b6=new Array(0x40)[_0x46659e(0xa0a,'7JZb')](0x0);for(let _0x23f656=0x0;_0x23f656<0x10;_0x23f656++){_0x1f42b6[_0x23f656]=_0x22a237[_0x46659e(0xef6,'Mgu1')](_0x54fd26+_0x23f656*0x4)<<0x18|_0x22a237[_0x46659e(0xcba,'M*BU')](_0x54fd26+_0x23f656*0x4+0x1)<<0x10|_0x22a237[_0x46659e(0xa51,'LyuC')](_0x54fd26+_0x23f656*0x4+0x2)<<0x8|_0x22a237[_0x46659e(0x2f2,'#Ux*')](_0x54fd26+_0x23f656*0x4+0x3);}for(let _0xf4d5a5=0x10;_0xf4d5a5<0x40;_0xf4d5a5++){const _0x4e75ac=_0x5e323f(_0x1f42b6[_0xf4d5a5-0xf],0x7)^_0x5e323f(_0x1f42b6[_0xf4d5a5-0xf],0x12)^_0x1f42b6[_0xf4d5a5-0xf]>>>0x3,_0x36922d=_0x5e323f(_0x1f42b6[_0xf4d5a5-0x2],0x11)^_0x5e323f(_0x1f42b6[_0xf4d5a5-0x2],0x13)^_0x1f42b6[_0xf4d5a5-0x2]>>>0xa;_0x1f42b6[_0xf4d5a5]=_0x1f42b6[_0xf4d5a5-0x10]+_0x4e75ac+_0x1f42b6[_0xf4d5a5-0x7]+_0x36922d|0x0;}let [_0x4acded,_0x35204a,_0x5123c2,_0x5f4770,_0x156932,_0x4c3612,_0x2c2b2a,_0x154cc4]=_0x457f43;for(let _0x1273ff=0x0;_0x1273ff<0x40;_0x1273ff++){const _0x5e33ca=_0x5e323f(_0x156932,0x6)^_0x5e323f(_0x156932,0xb)^_0x5e323f(_0x156932,0x19),_0x49399c=_0x156932&_0x4c3612^~_0x156932&_0x2c2b2a,_0x162c46=_0x154cc4+_0x5e33ca+_0x49399c+_0x455965[_0x1273ff]+_0x1f42b6[_0x1273ff]|0x0,_0x30d287=_0x5e323f(_0x4acded,0x2)^_0x5e323f(_0x4acded,0xd)^_0x5e323f(_0x4acded,0x16),_0x4224b5=_0x4acded&_0x35204a^_0x4acded&_0x5123c2^_0x35204a&_0x5123c2,_0x2a6aaf=_0x30d287+_0x4224b5|0x0;_0x154cc4=_0x2c2b2a,_0x2c2b2a=_0x4c3612,_0x4c3612=_0x156932,_0x156932=_0x5f4770+_0x162c46|0x0,_0x5f4770=_0x5123c2,_0x5123c2=_0x35204a,_0x35204a=_0x4acded,_0x4acded=_0x162c46+_0x2a6aaf|0x0;}_0x457f43[0x0]=_0x457f43[0x0]+_0x4acded|0x0,_0x457f43[0x1]=_0x457f43[0x1]+_0x35204a|0x0,_0x457f43[0x2]=_0x457f43[0x2]+_0x5123c2|0x0,_0x457f43[0x3]=_0x457f43[0x3]+_0x5f4770|0x0,_0x457f43[0x4]=_0x457f43[0x4]+_0x156932|0x0,_0x457f43[0x5]=_0x457f43[0x5]+_0x4c3612|0x0,_0x457f43[0x6]=_0x457f43[0x6]+_0x2c2b2a|0x0,_0x457f43[0x7]=_0x457f43[0x7]+_0x154cc4|0x0;}return _0x457f43[_0x46659e(0x2e6,'lX[b')](_0x5b1170=>(_0x5b1170>>>0x0)[_0x46659e(0xbb5,'K7h7')](0x10)[_0x46659e(0xd8b,'2Lzj')](0x8,'0'))[_0x46659e(0x109c,'LyuC')]('');}const ADMIN_HASH_KEY=_0x225e24(0xddf,'M1DA'),ADMIN_HASH_DEFAULT=_0x225e24(0x61f,'LyuC');function getAdminHash(){const _0x4b3601=_0x225e24;return localStorage[_0x4b3601(0x74d,')U6s')](ADMIN_HASH_KEY)||ADMIN_HASH_DEFAULT;}function verifyAdminCode(_0x46165b){const _0x3ed9cc=_0x225e24;if(!_0x46165b)return![];return sha256Hex(_0x46165b[_0x3ed9cc(0xa69,'e6gp')]()[_0x3ed9cc(0xc29,'Fj&C')]())===getAdminHash();}function promptSetNewAdminCode(){const _0x571b1b=_0x225e24;customPrompt(_0x571b1b(0xbe7,'K7h7'),_0x571b1b(0x1217,'#&$8'),'',_0x4d3e71=>{const _0x5e6458=_0x571b1b;if(!_0x4d3e71||!_0x4d3e71[_0x5e6458(0x1225,'mn5c')]())return showToast(_0x5e6458(0x121d,'lm&&'),_0x5e6458(0x2c3,'iEe2'));const _0x326147=sha256Hex(_0x4d3e71[_0x5e6458(0x10fd,'nR@W')]()[_0x5e6458(0xb06,'mn5c')]());localStorage[_0x5e6458(0x469,'mn5c')](ADMIN_HASH_KEY,_0x326147),showModal({'title':_0x5e6458(0x86c,'lm&&'),'body':_0x5e6458(0x2b2,'VWnK')+_0x326147+_0x5e6458(0x1084,'M1DA')+_0x326147+_0x5e6458(0x1009,'5Ad)'),'isPrompt':![]}),showToast(_0x5e6458(0x2b7,'mn5c'),_0x5e6458(0x95b,'e[5n'));});}function encryptPattern(_0x4f35b6){const _0x31fcd1=_0x225e24,_0x3bd1a9=JSON[_0x31fcd1(0x23c,'mn5c')](_0x4f35b6);return btoa(unescape(encodeURIComponent(_0x3bd1a9+_0x31fcd1(0x1015,'i%tL')+Date[_0x31fcd1(0xb37,']Sv0')]()[_0x31fcd1(0xf4d,'OTP&')]()[_0x31fcd1(0xde5,'pj(#')](-0x4))));}function decryptPattern(_0x5d88f4){const _0x59fb17=_0x225e24;try{const _0x22a52d=decodeURIComponent(escape(atob(_0x5d88f4))),_0x35c0c4=_0x22a52d[_0x59fb17(0xf6d,'cNV6')](_0x59fb17(0x1f6,'M1DA'))[0x0];return JSON[_0x59fb17(0xac0,'PX3c')](_0x35c0c4);}catch(_0x214a55){return null;}}const STATION_SCHEDULE={'MB':{0x1:[_0x225e24(0x415,'ySL*')],0x2:[_0x225e24(0xc09,'M1DA')],0x3:[_0x225e24(0x575,'fyWu')],0x4:[_0x225e24(0x2f1,'Oc5r')],0x5:[_0x225e24(0x9b0,'7!Gb')],0x6:[_0x225e24(0xa23,'MHv!')],0x0:[_0x225e24(0xad9,'mn5c')]},'MT':{0x1:[_0x225e24(0x2ab,'gL1S'),_0x225e24(0xa0f,')UVA')],0x2:[_0x225e24(0xbf7,'7!Gb'),_0x225e24(0x55f,'gL1S')],0x3:[_0x225e24(0x41c,'Mgu1'),_0x225e24(0x385,'%AH&')],0x4:[_0x225e24(0x69a,'7JZb'),_0x225e24(0x1c2,'M*BU'),_0x225e24(0x1192,')U6s')],0x5:[_0x225e24(0x1210,'i%tL'),_0x225e24(0x124e,'f#xl')],0x6:[_0x225e24(0x5f0,'MfL&'),_0x225e24(0x110f,'M1DA'),_0x225e24(0xf4a,'VWnK')],0x0:[_0x225e24(0x5c6,'gL1S'),_0x225e24(0x8db,'2Lzj'),_0x225e24(0xcda,'WL8L')]},'MN':{0x1:[_0x225e24(0xf97,'e[5n'),_0x225e24(0x25e,'%AH&'),_0x225e24(0xfce,')U6s')],0x2:[_0x225e24(0xf78,'Mgu1'),_0x225e24(0x495,'Oc5r'),_0x225e24(0xad8,'y)UI')],0x3:[_0x225e24(0x5a8,'#Ux*'),_0x225e24(0x63a,'Fj&C'),_0x225e24(0xdfe,'WL8L')],0x4:[_0x225e24(0x1155,'pj(#'),_0x225e24(0x9e1,'WL8L'),_0x225e24(0x698,']Sv0')],0x5:[_0x225e24(0xa7a,'zNw('),_0x225e24(0xf52,'Oc5r'),_0x225e24(0x1db,'iEe2')],0x6:[_0x225e24(0x3dd,'%AH&'),_0x225e24(0xa2d,'MHv!'),_0x225e24(0x1011,'gL1S'),_0x225e24(0xdbe,'M1DA')],0x0:[_0x225e24(0xecb,'f#xl'),_0x225e24(0x1187,'y)UI'),_0x225e24(0xfc7,'zNw(')]}},STATION_ABBR={'Hà\x20Nội':'HN','Quảng\x20Ninh':'QN','Bắc\x20Ninh':'BN','Hải\x20Phòng':'HP','Nam\x20Định':'NĐ','Thái\x20Bình':'TB','Phú\x20Yên':'PY','Thừa\x20Thiên\x20Huế':_0x225e24(0x566,'ySL*'),'Huế':_0x225e24(0x966,'MHv!'),'Đắk\x20Lắk':'ĐL','Quảng\x20Nam':_0x225e24(0xc66,'M*BU'),'Đà\x20Nẵng':'ĐN','Khánh\x20Hòa':'KH','Quảng\x20Bình':'QB','Bình\x20Định':'BĐ','Quảng\x20Trị':'QT','Gia\x20Lai':'GL','Ninh\x20Thuận':'NT','Quảng\x20Ngãi':_0x225e24(0xb4c,'f#xl'),'Đắk\x20Nông':_0x225e24(0xd56,'hCJL'),'Kon\x20Tum':'KT','TP.\x20Hồ\x20Chí\x20Minh':_0x225e24(0x8e4,'Fj&C'),'Đồng\x20Tháp':'ĐT','Cà\x20Mau':'CM','Bến\x20Tre':'BT','Vũng\x20Tàu':'VT','Bạc\x20Liêu':'BL','Đồng\x20Nai':_0x225e24(0xda8,'E5)l'),'Cần\x20Thơ':'CT','Sóc\x20Trăng':'ST','Tây\x20Ninh':'TN','An\x20Giang':'AG','Bình\x20Thuận':_0x225e24(0x7c8,'wBCK'),'Vĩnh\x20Long':'VL','Bình\x20Dương':'BD','Trà\x20Vinh':'TV','Long\x20An':'LA','Bình\x20Phước':'BP','Hậu\x20Giang':'HG','Tiền\x20Giang':'TG','Kiên\x20Giang':'KG','Đà\x20Lạt':_0x225e24(0xeb5,'5Ad)')};function getTodayStations(_0x1d210c){const _0x51e7ec=_0x225e24,_0x2d586a=new Date()[_0x51e7ec(0x6d9,']Sv0')]();return STATION_SCHEDULE[_0x1d210c]?.[_0x2d586a]||[];}function resolveStations(_0x4f7b08){const _0x243e57=_0x225e24;if(selectedStations&&selectedStations[_0x243e57(0x2a4,'WL8L')]>0x0)return[...selectedStations];return getMainStation(_0x4f7b08||'MT');}function onRegionChange(){selectedStations=[],showTodayStationsPanel(![]);}function showTodayStationsPanel(_0x266d07=!![]){const _0x30ef69=_0x225e24,_0xf4fa6b=document[_0x30ef69(0x40a,'WL8L')](_0x30ef69(0xc27,'zNw('))?.[_0x30ef69(0xc2b,')U6s')]||'MT',_0x159b72=getTodayStations(_0xf4fa6b),_0x55e788=document[_0x30ef69(0x836,'y)UI')](_0x30ef69(0xced,'hCJL')),_0x303c4e=document[_0x30ef69(0xe3b,'lX[b')](_0x30ef69(0x8be,'E5)l'));if(!_0x55e788||!_0x303c4e)return;if(_0x159b72[_0x30ef69(0x28f,'lX[b')]===0x0){showToast(_0x30ef69(0x568,'2Lzj'),_0x30ef69(0x921,'hCJL'));return;}const _0x3cb145=document[_0x30ef69(0x7d9,'fyWu')](_0x30ef69(0xbc4,'cNV6'));if(_0x3cb145)_0x3cb145[_0x30ef69(0xe7c,'lX[b')]=_0x30ef69(0xf24,'7!Gb')+_0xf4fa6b+_0x30ef69(0xc61,'PX3c')+_0x159b72[_0x30ef69(0x43a,'zNw(')](_0x2f551b=>STATION_ABBR[_0x2f551b]||_0x2f551b)[_0x30ef69(0x57e,'M1DA')](',\x20')+_0x30ef69(0xea7,'7!Gb');_0x303c4e[_0x30ef69(0x107f,'Mgu1')]=_0x159b72[_0x30ef69(0x77f,'#Ux*')]((_0xe19b7a,_0x31b4ab)=>{const _0x4d3cf0=_0x30ef69,_0x1fb3db=STATION_ABBR[_0xe19b7a]||_0xe19b7a[_0x4d3cf0(0x4d0,'lm&&')](0x0,0x3)[_0x4d3cf0(0x101d,'kMoM')](),_0x448140=selectedStations[_0x4d3cf0(0x11af,'Mgu1')](_0xe19b7a)?_0x4d3cf0(0xd6f,'e[5n'):'',_0x473f19=_0x31b4ab===0x0?_0x4d3cf0(0x11ac,']Sv0'):'';return _0x4d3cf0(0x21d,'e6gp')+_0xe19b7a+'\x22\x20'+_0x448140+_0x4d3cf0(0x1240,'7JZb')+_0x1fb3db+_0x473f19+_0x4d3cf0(0x1129,'2Lzj')+_0xe19b7a+_0x4d3cf0(0x508,'Oc5r');})[_0x30ef69(0x92a,'fyWu')](''),_0x55e788[_0x30ef69(0x6ce,'lm&&')][_0x30ef69(0xd4d,'BNmM')]=_0x30ef69(0x794,'kMoM');if(_0x266d07)showToast(_0x30ef69(0xb69,'MHv!')+_0xf4fa6b+_0x30ef69(0x297,'MHv!'),_0x30ef69(0x498,'BNmM'));}function toggleStation(_0x56b167){const _0x53411b=_0x225e24;if(_0x56b167[_0x53411b(0x555,'#&$8')]){if(!selectedStations[_0x53411b(0xb9c,'Oc5r')](_0x56b167[_0x53411b(0x11bf,'MfL&')]))selectedStations[_0x53411b(0x124f,'M1DA')](_0x56b167[_0x53411b(0xcb7,'VWnK')]);}else selectedStations=selectedStations[_0x53411b(0x1013,'e6gp')](_0x1d8867=>_0x1d8867!==_0x56b167[_0x53411b(0x965,'ySL*')]);}function confirmSelectedStations(){const _0x27db50=_0x225e24;if(selectedStations[_0x27db50(0xcf8,'i%tL')]===0x0){document[_0x27db50(0x295,'MfL&')](_0x27db50(0x10d7,'BNmM'))[_0x27db50(0x27a,'lX[b')][_0x27db50(0x46d,'e[5n')]=_0x27db50(0xd0e,'7JZb');const _0x591d82=document[_0x27db50(0x4a7,'MfL&')](_0x27db50(0x2ed,'5Ad)'))?.[_0x27db50(0xda7,'PX3c')]||'MT',_0x46e5da=getMainStation(_0x591d82);showToast(_0x27db50(0x776,'f#xl')+_0x46e5da[_0x27db50(0x3f1,'Mgu1')](_0x58d19a=>STATION_ABBR[_0x58d19a]||_0x58d19a)[_0x27db50(0x5c5,'MHv!')](',\x20'),_0x27db50(0x1035,'OTP&'));return;}document[_0x27db50(0x3f4,'zNw(')](_0x27db50(0xccc,'LyuC'))[_0x27db50(0x1098,'i%tL')][_0x27db50(0xf17,']Sv0')]=_0x27db50(0xa0d,'ySL*'),showToast(_0x27db50(0xb3c,'&SjD')+selectedStations[_0x27db50(0x1070,'BNmM')]+_0x27db50(0x272,'5Ess')+selectedStations[_0x27db50(0x1185,'I*r6')](_0x4d30dd=>STATION_ABBR[_0x4d30dd]||_0x4d30dd)[_0x27db50(0x5fd,'5Ess')](',\x20'),_0x27db50(0xdb0,')U6s'));}function initIndexedDB(){return new Promise((_0x3cd6e6,_0x1fc6e8)=>{const _0xee0e2e=_0x446c,_0x3d1ee5=indexedDB[_0xee0e2e(0x860,'7Xia')](DB_NAME,DB_VERSION);_0x3d1ee5[_0xee0e2e(0x1d4,'iEe2')]=_0x4daf47=>{const _0x4537f0=_0xee0e2e,_0x4775ca=_0x4daf47[_0x4537f0(0x461,'LyuC')][_0x4537f0(0xd1c,'WL8L')];if(!_0x4775ca[_0x4537f0(0x1222,'7Xia')][_0x4537f0(0x1170,'MfL&')](_0x4537f0(0x11ee,'PX3c'))){const _0x424c34=_0x4775ca[_0x4537f0(0xf13,'MfL&')](_0x4537f0(0xaca,'K7h7'),{'keyPath':'id','autoIncrement':!![]});_0x424c34[_0x4537f0(0x409,'5Ess')](_0x4537f0(0xd6a,'nR@W'),_0x4537f0(0x74b,'y)UI'),{'unique':![]}),_0x424c34[_0x4537f0(0xe42,'fyWu')](_0x4537f0(0xa52,'zNw('),_0x4537f0(0x7e7,'BNmM'),{'unique':![]}),_0x424c34[_0x4537f0(0x726,'%AH&')](_0x4537f0(0x6b2,']Sv0'),_0x4537f0(0xee6,'mn5c'),{'unique':![]});}!_0x4775ca[_0x4537f0(0x26d,'M1DA')][_0x4537f0(0x827,'u@TD')](_0x4537f0(0xd6d,'%AH&'))&&_0x4775ca[_0x4537f0(0x110c,'5Ess')](_0x4537f0(0x676,'lX[b'),{'keyPath':_0x4537f0(0x4b3,'K7h7')}),!_0x4775ca[_0x4537f0(0xe91,'Oc5r')][_0x4537f0(0x95f,'zNw(')](_0x4537f0(0x1059,'nR@W'))&&_0x4775ca[_0x4537f0(0xf29,'zNw(')](_0x4537f0(0x8ea,'Fj&C'),{'keyPath':_0x4537f0(0xf0d,'iEe2')});},_0x3d1ee5[_0xee0e2e(0xb7d,'I*r6')]=_0x21ab70=>{const _0x55453f=_0xee0e2e;dbInstance=_0x21ab70[_0x55453f(0xf07,'Mgu1')][_0x55453f(0x798,'f#xl')],_0x3cd6e6(dbInstance);},_0x3d1ee5[_0xee0e2e(0x20e,'5Ess')]=_0x423bd6=>_0x1fc6e8(_0xee0e2e(0x83a,'fyWu')+_0x423bd6[_0xee0e2e(0x101b,'hCJL')][_0xee0e2e(0x4f7,'K7h7')]);});}function saveAppDataToDB(){const _0x263eb3=_0x225e24;if(!dbInstance)return Promise[_0x263eb3(0x105d,'MfL&')]();return appStateSaveQueue=appStateSaveQueue[_0x263eb3(0xf5f,'7!Gb')](()=>{})[_0x263eb3(0x343,'#Ux*')](()=>new Promise((_0x31a180,_0x89c969)=>{const _0x5ab058=_0x263eb3;let _0x29cf55;try{_0x29cf55=dbInstance[_0x5ab058(0xc8a,'2Lzj')]([_0x5ab058(0xa1c,'5Ad)')],_0x5ab058(0xc62,'BNmM'));const _0xfb6240=_0x29cf55[_0x5ab058(0x450,'e6gp')](_0x5ab058(0x29b,'iEe2'));_0xfb6240[_0x5ab058(0xc13,'M1DA')]({'key':_0x5ab058(0xfb8,'y)UI'),'value':groups}),_0xfb6240[_0x5ab058(0xb20,'lX[b')]({'key':_0x5ab058(0x115c,'zNw('),'value':activeGroup});for(const _0x1b683b of groups){if(appData[_0x1b683b])_0xfb6240[_0x5ab058(0x10c2,'fyWu')]({'key':_0x5ab058(0xef5,'Mgu1')+_0x1b683b,'value':appData[_0x1b683b]});}}catch(_0x5b5b10){_0x89c969(_0x5b5b10);return;}_0x29cf55[_0x5ab058(0x91e,'7JZb')]=()=>_0x31a180(),_0x29cf55[_0x5ab058(0x102d,'mn5c')]=()=>_0x89c969(_0x29cf55[_0x5ab058(0x979,'7!Gb')]||new Error(_0x5ab058(0x824,'#Ux*'))),_0x29cf55[_0x5ab058(0x8a2,'BNmM')]=()=>_0x89c969(_0x29cf55[_0x5ab058(0x59c,'BNmM')]||new Error(_0x5ab058(0x441,'MfL&')));})),appStateSaveQueue;}async function loadAppDataFromDB(){const _0x54487d=_0x225e24;if(!dbInstance)return;const _0x3244e6=_0x514b8c=>new Promise((_0x49d7a3,_0x5a0b50)=>{const _0x803e30=_0x446c,_0x14cdab=dbInstance[_0x803e30(0xfaf,'M1DA')]([_0x803e30(0xfb1,'ySL*')],_0x803e30(0x1144,'nR@W')),_0x4f32e6=_0x14cdab[_0x803e30(0x908,'PX3c')](_0x803e30(0x77c,'y)UI'))[_0x803e30(0xfdf,'i%tL')](_0x514b8c);_0x4f32e6[_0x803e30(0xdde,'7Xia')]=()=>_0x49d7a3(_0x4f32e6[_0x803e30(0x7da,'u@TD')]?_0x4f32e6[_0x803e30(0xcbb,'y)UI')][_0x803e30(0x101c,'cNV6')]:undefined),_0x4f32e6[_0x803e30(0x296,'VWnK')]=()=>_0x5a0b50(_0x4f32e6[_0x803e30(0xd2a,'&SjD')]);}),_0x59bc42=await _0x3244e6(_0x54487d(0xbc9,'LyuC'));if(Array[_0x54487d(0x63c,'Mgu1')](_0x59bc42)&&_0x59bc42[_0x54487d(0x10f4,'E5)l')])groups=_0x59bc42;const [_0x55ba3a,..._0x259240]=await Promise[_0x54487d(0x106c,'lX[b')]([_0x3244e6(_0x54487d(0x6b7,'mn5c')),...groups[_0x54487d(0x9a3,'7JZb')](_0x6447fc=>_0x3244e6(_0x54487d(0xe23,'mn5c')+_0x6447fc))]);groups[_0x54487d(0x102c,'m1lh')]((_0x5f5400,_0x32e342)=>{if(_0x259240[_0x32e342])appData[_0x5f5400]=_0x259240[_0x32e342];});if(_0x55ba3a)activeGroup=_0x55ba3a;ensureDataStructure();}function ensureDataStructure(){const _0x53bc68=_0x225e24;groups[_0x53bc68(0x877,'2Lzj')](_0x63a802=>{const _0x40badb=_0x53bc68;if(!appData[_0x63a802]){initAppDataForGroup(_0x63a802);return;}if(!appData[_0x63a802][_0x40badb(0x1f2,'ySL*')])appData[_0x63a802][_0x40badb(0xfc1,'PX3c')]=[];!appData[_0x63a802][_0x40badb(0x117d,'K7h7')]&&(appData[_0x63a802][_0x40badb(0x23d,'lX[b')]={'mt3c':Array(0x14)[_0x40badb(0x122d,'5Ess')]()[_0x40badb(0x97a,'lm&&')](()=>[0x0,0x0,0x0]),'mt2c':Array(0x14)[_0x40badb(0x988,'Oc5r')]()[_0x40badb(0xf59,'i%tL')](()=>[0x0,0x0]),'mb3c':Array(0x14)[_0x40badb(0x10ce,'wBCK')]()[_0x40badb(0x43a,'zNw(')](()=>[0x0,0x0,0x0]),'mb2c':Array(0x14)[_0x40badb(0x8c7,'pj(#')]()[_0x40badb(0x1138,'e[5n')](()=>[0x0,0x0])});!appData[_0x63a802][_0x40badb(0x32d,'M1DA')]&&(appData[_0x63a802][_0x40badb(0x1226,'cNV6')]={'mtXac':0x0,'mtLai':0x0,'mbXac':0x0,'mbLai':0x0,'totalBet':0x0,'totalWin':0x0,'net':0x0});if(!appData[_0x63a802][_0x40badb(0xd7d,'f#xl')])appData[_0x63a802][_0x40badb(0xf9a,')U6s')]=[];if(!appData[_0x63a802][_0x40badb(0xac8,'M*BU')])appData[_0x63a802][_0x40badb(0x6ca,'e6gp')]=[];});}function initAppDataForGroup(_0x128b4f){const _0x1bde4e=_0x225e24;if(appData[_0x128b4f])return;appData[_0x128b4f]={'betList':[],'inputHistory':[],'matrix':{'mt3c':Array(0x14)[_0x1bde4e(0x7db,'gL1S')]()[_0x1bde4e(0x123a,'5Ad)')](()=>[0x0,0x0,0x0]),'mt2c':Array(0x14)[_0x1bde4e(0x988,'Oc5r')]()[_0x1bde4e(0x5a1,'#&$8')](()=>[0x0,0x0]),'mb3c':Array(0x14)[_0x1bde4e(0x1106,'e[5n')]()[_0x1bde4e(0x255,'wBCK')](()=>[0x0,0x0,0x0]),'mb2c':Array(0x14)[_0x1bde4e(0x10b4,'MfL&')]()[_0x1bde4e(0xb3d,'u@TD')](()=>[0x0,0x0])},'winningLogs':[],'totals':{'mtXac':0x0,'mtLai':0x0,'mbXac':0x0,'mbLai':0x0,'totalBet':0x0,'totalWin':0x0,'net':0x0}};}function showToast(_0x2a0439,_0x3fd7da=_0x225e24(0x9ce,'Fj&C')){const _0x237446=_0x225e24,_0x239c35=document[_0x237446(0x271,'ySL*')](_0x237446(0x112b,'7Xia'));if(!_0x239c35)return;const _0x4aaf00=document[_0x237446(0x106d,'pj(#')](_0x237446(0x5d5,'lX[b'));_0x4aaf00[_0x237446(0x311,'gL1S')]=_0x237446(0x10e2,'7Xia')+_0x3fd7da,_0x4aaf00[_0x237446(0xd4c,')UVA')]=_0x2a0439,_0x239c35[_0x237446(0x664,')U6s')](_0x4aaf00),setTimeout(()=>{const _0x154a72=_0x237446;_0x4aaf00[_0x154a72(0xeaa,'%AH&')][_0x154a72(0xb74,'e[5n')]='0',_0x4aaf00[_0x154a72(0xb19,'cNV6')][_0x154a72(0xc78,'kMoM')]=_0x154a72(0x102f,'K7h7'),setTimeout(()=>_0x4aaf00[_0x154a72(0x339,'OTP&')](),0x12c);},0xbb8);}function showModal({title:title=_0x225e24(0x99a,'MHv!'),body:body='',isPrompt:isPrompt=![],defaultValue:defaultValue='',placeholder:placeholder='',confirmText:confirmText=_0x225e24(0x225,'5Ad)'),cancelText:cancelText=_0x225e24(0x9d1,'2Lzj'),confirmClass:confirmClass=_0x225e24(0xb3f,'Mgu1'),showCancel:showCancel=null,onConfirm:onConfirm=null,onCancel:onCancel=null,wide:wide=![]}){const _0x2c8419=_0x225e24,_0x272fbc=document[_0x2c8419(0x509,'7!Gb')](_0x2c8419(0x744,'WL8L')),_0xf2c190=document[_0x2c8419(0x66c,'2Lzj')](_0x2c8419(0x815,'lm&&')),_0xe30734=document[_0x2c8419(0x1158,'nR@W')](_0x2c8419(0xcdb,'M*BU')),_0x485c08=document[_0x2c8419(0x102e,'PX3c')](_0x2c8419(0x674,'K7h7')),_0x1e8522=document[_0x2c8419(0x9de,'cNV6')](_0x2c8419(0xc60,'#Ux*')),_0x35a6b2=document[_0x2c8419(0xefb,'iEe2')](_0x2c8419(0x457,'wBCK'));if(!_0x272fbc)return;const _0x8f936b=_0x272fbc[_0x2c8419(0xdb4,'fyWu')](_0x2c8419(0xb8f,'e6gp'));if(_0x8f936b)_0x8f936b[_0x2c8419(0x692,'u@TD')][_0x2c8419(0x1044,'PX3c')]=wide?_0x2c8419(0x906,'7!Gb'):'';if(_0xf2c190)_0xf2c190[_0x2c8419(0x42a,'lm&&')]=title;if(_0xe30734)_0xe30734[_0x2c8419(0x1038,'gL1S')]=body;_0x485c08&&_0x1e8522&&(isPrompt?(_0x485c08[_0x2c8419(0xc72,'#&$8')][_0x2c8419(0x967,'7Xia')]=_0x2c8419(0xa4d,'#Ux*'),_0x1e8522[_0x2c8419(0x965,'ySL*')]=defaultValue,_0x1e8522[_0x2c8419(0x5c7,'BNmM')]=placeholder,setTimeout(()=>{const _0x464453=_0x2c8419;_0x1e8522[_0x464453(0x48a,'e[5n')](),_0x1e8522[_0x464453(0x77e,'hCJL')]();},0x32)):_0x485c08[_0x2c8419(0xcfe,'ySL*')][_0x2c8419(0x1c1,'fyWu')]=_0x2c8419(0x746,'MHv!'));if(_0x35a6b2){_0x35a6b2[_0x2c8419(0x83f,'fyWu')]='',_0x35a6b2[_0x2c8419(0x3d9,'WL8L')][_0x2c8419(0x1c1,'fyWu')]=_0x2c8419(0x4bc,'2Lzj'),_0x35a6b2[_0x2c8419(0xcf4,'fyWu')][_0x2c8419(0x10d4,'Fj&C')]=_0x2c8419(0xded,'MfL&');const _0x13fcb1=showCancel!==null?showCancel:isPrompt;if(_0x13fcb1){const _0x1999a2=document[_0x2c8419(0x588,'lm&&')](_0x2c8419(0xa04,'ySL*'));_0x1999a2[_0x2c8419(0xe14,'lm&&')]=_0x2c8419(0xa96,'OTP&'),_0x1999a2[_0x2c8419(0x683,'LyuC')][_0x2c8419(0x9b6,'cNV6')]='1',_0x1999a2[_0x2c8419(0x10b5,'OTP&')]=cancelText,_0x1999a2[_0x2c8419(0x9d0,'m1lh')]=()=>{const _0x3c3d12=_0x2c8419;_0x272fbc[_0x3c3d12(0x77b,'7!Gb')][_0x3c3d12(0x1c1,'fyWu')]=_0x3c3d12(0xd98,'hCJL');if(onCancel)onCancel();},_0x35a6b2[_0x2c8419(0xe69,'wBCK')](_0x1999a2);}const _0x50fa51=document[_0x2c8419(0x716,'LyuC')](_0x2c8419(0x9a7,'cNV6'));_0x50fa51[_0x2c8419(0x487,'e6gp')]=_0x2c8419(0x816,'M*BU')+confirmClass,_0x50fa51[_0x2c8419(0xc4f,'y)UI')][_0x2c8419(0x300,'5Ad)')]='1',_0x50fa51[_0x2c8419(0xda0,'VWnK')]=confirmText,_0x50fa51[_0x2c8419(0xbc0,'Mgu1')]=()=>{const _0x321ff9=_0x2c8419,_0x3df383=isPrompt&&_0x1e8522?_0x1e8522[_0x321ff9(0x2ee,'K7h7')][_0x321ff9(0x238,'E5)l')]():!![];_0x272fbc[_0x321ff9(0xd84,'5Ess')][_0x321ff9(0x111b,'Mgu1')]=_0x321ff9(0xa75,'u@TD');if(onConfirm)onConfirm(_0x3df383);},_0x35a6b2[_0x2c8419(0x9b5,'lX[b')](_0x50fa51);}_0x272fbc[_0x2c8419(0xa50,'M*BU')][_0x2c8419(0x520,'5Ess')]=_0x2c8419(0xd6c,'WL8L');}function customAlert(_0x30ba1e,_0x3a32db=_0x225e24(0xf90,'5Ad)')){showModal({'title':_0x3a32db,'body':_0x30ba1e});}function customPrompt(_0x2b93f5,_0x23ea4b,_0x2b44bd,_0x2b336f){showModal({'title':_0x2b93f5,'body':'','isPrompt':!![],'placeholder':_0x23ea4b,'defaultValue':_0x2b44bd,'onConfirm':_0x2b336f});}function addNewGroup(){const _0x25e021=_0x225e24;customPrompt(_0x25e021(0x63e,'y)UI'),_0x25e021(0xaa5,'zNw('),_0x25e021(0x3f0,'u@TD')+String[_0x25e021(0xe86,'Mgu1')](0x41+groups[_0x25e021(0xfe5,'5Ad)')]),_0x4ed1fe=>{const _0x2c0751=_0x25e021;if(!_0x4ed1fe)return;_0x4ed1fe=_0x4ed1fe[_0x2c0751(0x106f,'lm&&')]();if(groups[_0x2c0751(0x96d,'%AH&')](_0x4ed1fe))return showToast(_0x2c0751(0x1d2,'gL1S'),_0x2c0751(0xcb4,'Mgu1'));groups[_0x2c0751(0x471,'zNw(')](_0x4ed1fe),initAppDataForGroup(_0x4ed1fe),switchGroup(_0x4ed1fe),updateGrandSummary(),saveAppDataToDB(),showToast(_0x2c0751(0xa17,'kMoM')+_0x4ed1fe+_0x2c0751(0x108b,'zNw('),_0x2c0751(0x1198,'5Ad)'));});}function renameGroup(_0x4d42c4){const _0x25a86d=_0x225e24;showModal({'title':_0x25a86d(0x9c4,'hCJL'),'body':_0x25a86d(0xc6d,'MfL&')+_0x4d42c4+_0x25a86d(0xbc2,'lX[b'),'isPrompt':!![],'defaultValue':_0x4d42c4,'placeholder':_0x25a86d(0xbba,'zNw('),'confirmText':_0x25a86d(0xf1d,'nR@W'),'confirmClass':_0x25a86d(0x1199,'kMoM'),'cancelText':_0x25a86d(0x1216,'kMoM'),'showCancel':!![],'onConfirm':_0x4325af=>{const _0x5b2fda=_0x25a86d;if(!_0x4325af)return typeof showToast===_0x5b2fda(0x821,'pj(#')&&showToast(_0x5b2fda(0xb93,'&SjD'),_0x5b2fda(0x59c,'BNmM'));if(_0x4325af===_0x4d42c4)return;if(groups[_0x5b2fda(0xb0d,'WL8L')](_0x4325af))return typeof showToast===_0x5b2fda(0x118d,'Fj&C')&&showToast(_0x5b2fda(0xbe1,'2Lzj'),_0x5b2fda(0x1049,'fyWu'));const _0x214953=groups[_0x5b2fda(0x946,'i%tL')](_0x4d42c4);if(_0x214953===-0x1)return;groups[_0x214953]=_0x4325af;typeof appData!==_0x5b2fda(0xe3d,'pj(#')&&appData[_0x4d42c4]&&(appData[_0x4325af]=appData[_0x4d42c4],delete appData[_0x4d42c4]);if(typeof activeGroup!==_0x5b2fda(0x353,'wBCK')&&activeGroup===_0x4d42c4)activeGroup=_0x4325af;if(typeof currentGroup!==_0x5b2fda(0xb1b,'gL1S')&&currentGroup===_0x4d42c4)currentGroup=_0x4325af;if(typeof renderGroupButtons===_0x5b2fda(0xc0b,'y)UI'))renderGroupButtons();if(typeof renderGroupNav===_0x5b2fda(0xd46,'m1lh'))renderGroupNav();if(typeof renderMatrixTable===_0x5b2fda(0x821,'pj(#'))renderMatrixTable();if(typeof updateGrandSummary===_0x5b2fda(0x70c,')U6s'))updateGrandSummary();if(typeof saveAppDataToDB===_0x5b2fda(0x479,'kMoM'))saveAppDataToDB();if(typeof showToast===_0x5b2fda(0x1111,']Sv0'))showToast(_0x5b2fda(0x660,'5Ad)')+_0x4d42c4+_0x5b2fda(0xed5,'7Xia')+_0x4325af+'\x22',_0x5b2fda(0x77a,'VWnK'));}});}function deleteGroup(_0x3ff747){const _0x3fa5bb=_0x225e24;if(typeof groups!==_0x3fa5bb(0x771,'PX3c')&&groups[_0x3fa5bb(0xc68,'y)UI')]<=0x1)return typeof showToast===_0x3fa5bb(0x118d,'Fj&C')&&showToast(_0x3fa5bb(0x378,'7!Gb'),_0x3fa5bb(0x101a,'zNw('));showModal({'title':_0x3fa5bb(0x10b3,'5Ess'),'body':_0x3fa5bb(0x345,'lm&&')+_0x3ff747+_0x3fa5bb(0xcc9,'#Ux*'),'confirmText':_0x3fa5bb(0x75f,'wBCK'),'confirmClass':_0x3fa5bb(0x4b5,')U6s'),'cancelText':_0x3fa5bb(0x9cd,'5Ad)'),'showCancel':!![],'onConfirm':()=>{const _0x49a4d9=_0x3fa5bb;groups=groups[_0x49a4d9(0xed4,'m1lh')](_0x37b905=>_0x37b905!==_0x3ff747);if(typeof appData!==_0x49a4d9(0x66a,'M1DA'))delete appData[_0x3ff747];if(typeof activeGroup!==_0x49a4d9(0xf86,'cNV6')&&activeGroup===_0x3ff747)activeGroup=groups[0x0];if(typeof currentGroup!==_0x49a4d9(0xfcd,'OTP&')&&currentGroup===_0x3ff747)currentGroup=groups[0x0];if(typeof renderGroupButtons===_0x49a4d9(0xf84,'f#xl'))renderGroupButtons();if(typeof renderGroupNav===_0x49a4d9(0xc4d,'WL8L'))renderGroupNav();if(typeof renderMatrixTable===_0x49a4d9(0xbf9,'5Ad)'))renderMatrixTable();if(typeof updateGrandSummary===_0x49a4d9(0x91d,'OTP&'))updateGrandSummary();if(typeof saveAppDataToDB===_0x49a4d9(0xa95,'lX[b'))saveAppDataToDB();if(typeof showToast===_0x49a4d9(0x57f,'u@TD'))showToast(_0x49a4d9(0xaae,'VWnK')+_0x3ff747,_0x49a4d9(0x77d,'u@TD'));}});}function saveAppDataToDBDebounced(){clearTimeout(saveTimeout),saveTimeout=setTimeout(()=>{const _0x515964=_0x446c;if(typeof saveAppDataToDB===_0x515964(0xc1f,'5Ess'))saveAppDataToDB();},0x15e);}function _0x4d4d(){const _0x53f931=['cSkMBSoiWQq','qYa8wMlcNWi','y+g6NW7dHSodWRxdVUg7LSoUuEg7JIldKNJcQSoGn0VhGK9npXS8WPBHUlvI','WRKIWP4HWPldPCkt','mWVdVW','rsW7zMFcJq8','WQzGFa','W43dTXbgnWW1','FSkdgCk5gwGlW6/cU2a','lfBcSKufsmkTjhHPWPVcQmorpWjSW5HIW6FdTqxdUCkXWR/dLdPktmkqWP/cU8kxacGByw0nW7XzeCoMW6BcUa0vosKhjSo+qmo3n1vKWR1mWRKVWODpW47cO2dcJ8ohxIKZWOtcTuFdPYucqmoZW7bDvmkgW75fWRJcU8kiWQ8WeSkPW6/cUtDPshVdOZbWWR8sjSkrf1JcSX/cPmojfaldHav3q0bLW6KdA8kiWQBdOmoJvqxdJ8oXWQ7cLh/cQM/dJ1bvCeLlWRJcRgNcTmoaWRiZpt5hWQayzCkSW4rdW6K+W4KmW4zieSkwW55qWP1SWOzcWRRdVZddS8ooWQejw8knk8olu8kdW6BdQGxdIsCnw2L+','W7b7fSo1qmoHxZ5EWQafW6mY','cI/cUSkJAwpcTSkiW4e','DfriwhStjW','f8kiWOS','WRZcQSkgvKuNW7KK','W69HaCoQwmoEuYHE','zthcNmkwDhBcLq','WPRcOSkldt0GW4FdMKWaWRv0i8oGW7f1W5hdHmkZWRBcG8kQbmoEnW','Xi7dGIZdKSk1WRxcG3iCWR8wWQ/dTSka','uYxHUzddNbrLhxRHU6a','hEg6GCkmW4uExSkK4BQ/BZddUSkfEmoSmmkswcVcH8k5WOOHW7JHU4fXdSk/W7NcI8kj','W4KuqWeTW7y','WRNcVSkCvLK','W4DEeSo5tW','qcW7B2lcMXyUWPNdSaunFCor','WQjSmCkPW6RcUmo4','yHGoWOfpW6ldUa4v','BcJdVeHbb8kGzY09','C8kWmCo1ifviomoqWQFdRWvTgZ0+WQmDqCo4W4xcQ0GYg8kTWONdQCoCWQpcM3BcPcW','hCo/W5zhWOjvWPDkz8kDW5Db4Oo0rYZHU7VcNYxIIyTHW68ExwZHU7SmWQldGmk1W5xdV8kBeokcGetcNUg4JCkEWR9AW5yECCsZXRZHUQS0r8o3XiZHUkJdQJX5uIVIG6pcISol4BMJW4HbW4xHU7FdL1dcRWzQWRZcTSoNx8o7bgJcVCkkWPvhW70qWRVdIMSdW7ldHokwLUkxQ+kvTokwP+kxO+kuU+kxS+kvNEkvGEkwLUkuJEkuI+kwU+kvQ+kwMEkxV+kxV+kuLEkwGUkwNUkuS+kvTEkwQUkxPUkvQ+kuOUkvPEkxJUkvVEkxLUkvSokxKUkwIokuN+kvIUkxNEkuPokvIEkvKhK','W69Hb8oI','qIpdTmoGAmkLW4lcPSok','W7xcN1PtWQLzASoGWQe','lIvJW5xdTZNcU8Al4BQUW6e','ruNdV2pcHmkv','W5KAxtePW6zF','W7XqWQtcP8s94BQ7mmo7','WR9KDcpcPCoHqNa','W4jMvCoicfZdSmksW4FdRSoLW4y','CmoDW4PRW45tWPldLtpdO8k1gmkFaW','W7KSAd7cO8o6uW','yZ3dPGznkCoHAa','DYVcMsm','X5f7W5PxW64iiZRHUBzspWHAk0uPW4eUWRFHU5dcIxVdGXaYWP/dKUg7USoyWOtdRLpcGbhcISo9W6NdK8o7','hfpdTISD','wSovWOJcLmkAi8oQW4xcQuFcHNytW6NcRLPPrqddLgZcPmowWQBcMCohWP7dISkGWQZdPCklWPHNW7tcTSophSoHe8kOWRtdHCkHW559sYiLWOBcILxdMwVdRCoBlK7dTW','Ct3cNmoDbY0','u8weWOlcHmkEb1PpW4i','WQJdTSkzx3OczIq','WP03W7K5fCoSW4VdVaxcGmogrYtdTa/dR3vPcrqYW5m7WQDGWR/cSSkuW4ZdO2zHoSozWPdcMfjOnYj7WOldKmomzZpdN17cL8kD4BIZWQhdR8kQpSkmWQBcGEg6TcddSMG','AKXaW77cQJNcNHfsW6WR','r3xcSmkHzfNcVmkkWPPLjtyw','W7pcGvTtWQXyv8o8WQVdICkyn8oMf8kk','BcVcMsLDkSoWx0n9WOX6WRTB','qMJcSmk9','gHRcJqS','duVdUdWFaf1A','WQtcSCoJWRrN','WR92pmkV','pY3cGNaimmo1e2f/WO98WQvoW6tcVmoigSoZimk0WQZdU25fW4r8W7bReJNcP2hcU8onWQJcLmkDg1hdLmkYWRHxlwuvWPeQAN9GWQ9GWPldICk2ih/cJCoacSoMWRu3W6qbsNtcKSkjWQO+vHBcHW/eLhjzFgCspUg7MCk6oe7HUihdPuldMbVHU6fqWRK9C1BdQtnsW7FcHNO','eqNdKCkg','W5tcGrddOWi','W4JdKCo9Eq','nYlcM8kgAXFdHbL0W4XIWOWmEmk6nq','oCkZkmo0mq','WOVIGOXc','DxVcLSogacddRv4HmmkUW5FcOSkID8ksuh/dIhNdHchcUJHXqmoRFSkcWOaEe8o/wG3cOSoNwJ/dSJLuomokWOZcUCkuWRVcI8owW4nlWOnueIFdKrdcNSkVnmorFI3cR8k2WPZdV8kKhSknt8oPWRtcUfmaWQhcNmoTW6ldVJ08v8k2EHBdHqKPW7i0W6pdTsD1WOtcONlcK181CJNdK8ouW4xdOmkoaCoEr0fEvSknW79nWRRcP8oWW78qkmowWPhdKmkOWPzpW7hcHmkQAbVcLmolWRyFWQpcOSoWzrihmu3dRCo8WQxdLLG/iXaqW5KwuCkSW4XnW6tdNmknWO4KtaBdLWWAWRfiWRLflCoWkSo4WRSFB8orW7JdUSodWP7cQCkscqpcHcxdV8kMkfGkW45Yet8byJddJf8dzKFdNg4ZWQNcGt5aWRGnW7rPtZjkW7HHWQX7WR/dP8kaxtxdUmkAWPRcU0PWbGHHdbBcKGZcP8ond0JdRXddHKCnW7pdHg52dSo4W5tcPmojWRGCW6DZdMj4W5yPWRLEbKxcQ3fmDG','W4SAEGq4W6bfW6idW5VcQq','XQ/HU5jAvmwy4BIYvmkbimob4BIlWRjAWPiDWRNdJog6J0lfVUg6TmkVBCkYX4RdHSk8','bZ3cJmokhN7cPqVHUQX+','W4eupNBcH8khmW','y8kFWPRdT1xdNqZdQCo1ArVHU6ddTmoxBSkr4BMiWO93kSohW7xcJKlHUydcMKjEWRpdU8oVCG','nspcH8kyDW','WQj2imk+','EXfoW49hW77dRH8jzfddJWWjfZbJWQvHW57cQCkEoSkwCgxcHepdGYLqzW','AWKz','WPNcLCkcW7ldLKLB','iZVcI8om','ntRcN8kgzMNdKHb9W4P1WPDtwmk6nq','g2y7tJddTfTRW5FcPgDufmkvxmkRlHVcUSkvW6ftW6xcLSopo8klW5bnWQWLWPuHAmo6WR7cP8otr8o8W7HQib4FqSkvy0qWaLVdKmomk0FdKSk5xxqJuuhdV2/cGq3cLYZdHIvTW7/dO8kG','W7rWnCkWD8oLWRW5wty','W4tdQ8kzW6i','EJpdMZzQo8o5DJeNW5W','qMxcPSkN','AbGnW4a','W5dcIWJdIrWoF8okWR/dKNyiW7SA','uYydrw3cNXCUWQtdSduDwSos','tcmxWO/cMmo0W54SWR5xwYdcL3JcTG','WPWSrgSmWOW5lSoqA8oVkmoLW41ugbJdV8oLWRrm','kCk9nSoenvLo','EZldTGbdaCoJytW','W4i/qM5VWPO8oa','kMr3WRDOW4Go','s1n/WOBcHthcHHq','xSoLW7tdNSo1jCk/WQ3cNJKVrmk2W5D1WQKGW4BdMci8W7Sgy8krs8k1fgm3mSoPW6XjWP3cIdNcQsbfW5axW7SXW6eiWQD7W6H9jfRcS8kPkvP/W6ddJGFdPI1ov8k+qmk/bMNcLadcLmoWWOXxWP7cHMLIWRJdVq','XA5EW7CVvGVdGqKx4BQpWQJcO8ksAog4Hq89sq','qImFWRhcHCoXW4zP','W7xHUy8FWQW8aSo4W5O','WRuzWPxdSffhWPOWh8oDi3fpgCoSvLxdTmkZxCosWOz6sh3dLehcMHX6W7SuWPyjW6XxqdZcVZLfi8kwWRFcGW9JASkvW7VdT8oAu8onFSkev8klhqRcKtOPWPjNW5Lxd8kvEh3dIv7dTxeDkwv6FeFcL8owWQv+wMRdVCkRW6xdRmkhcWzFWOWZWQRcMSkYafuqu8oKWOpdLg7cPmkoW5JcK0HBzxRcQsOyWOBdMfWNWQlcLCk8jWBdNCo5WO/cQCkuuSkRW7DPF8k5W73cJ8klW4xcNKyNWQ5csmkbfCk1og7dMmowW6SYjCkLwIddUeRdUmoLCXilW4ZcILZdLmklDSkXeCkTBaVdHg3cIetcPfyTubSRWOLCte1pWQ1IW6T0WOGXu8o2xmktbCo0v8k6W7y7W5JcGx8BWR0','kGxcKG','W47dQHbSja','WOmAxWaHW6PzWOeuW4NcOmkZh8khdq','W5KEngxcN8kdl8o2WPGJmW','W5m6t1LxWOO/p8o/ACo+m8o4WPLsaG','W6/dQ8kxuN0slIxcSLaYm2edCMldUslcOW3cHNBcM0z2WP3dG2tcKW','nMRcOHvD','dCo1W6JdJCoOjmkWW6hcVdGHqSkRWP4','tIC/x3RcTHi4WOpdQZun','WQBdVCkoDMmdBJlcS1nDkuac','zcP7W60NWOO','WRXOyHBcQCo8uN8t','ffyXqG','wL5IWR8','X4hHURCzW6RdG+g5PCoa','W6H9imoIwSohsdD4WQWFW7GLvmkY','sUg6GSotW7e7WOHPrwlcV8kp','WQaHBZ/cQ8kZ','W4tdVCkLW6HocbldMCkIW67dJ3mpWP0Edqy','ErbRWQpcUM3cIda','cmkGFSonWRSiWQO','FINdOq0','W6xdSCooxZbUWOBcLWKnW7W6C8k1WQu','EeXVW6tcRG','4PUE77IWWRKl4BUuixSjpSoXWPpcUCodvSooW5v9amkpW7RdNuJcNSsS4BMbnYlcQCEVXkxHU77cUSoyW5pcJJedW5JcSCo5W4BdSc3IGBmrxmokW6uAWQy5WP1kzEg7L0NdMSoCXjVcVComgeuP4BIVzwldMUg6T8oyiSonWQSLWQ1L4BUmW57cJg3HUBb2WR4HjhxcTeO','uslHURBdOgJdKq7dO8kcW7dcK+g4S8okWPFdTa','EConW5m','f1hdTY0eo1zrca','Ccj5W70TWPv6WRhdKSos','W5mUw3LpWOSsi8oABmoP','W4azW6ZcKbuNWOJcIHhcS1XO','W58/x39j','W4nhW7C5FEg4G8kpW5yBtCkfzIZdQrq','XzlcQmoPetJHUQdcNZe','W4CcW7e','WPJdJSkxWOq','W4qFaNNcMSkcomog','fG/dMCkFsdu/','tog6UWNcJhJdSCoVgb5Jcq','zsD8W6OT','WRFIGipdUq','W4zPs8oihwVcSSkyW4VdQmoYW4e6qaddObiccmkgWOLnW6q','W7vHp8oOwSotvJDVWQOCW6Ktwmk0urxdIG','rmkFWPBcPub8b8oIWRbKbYldTG','lfBcSKufsmkTjhHPWPVcQmorpWjSW5HIW6FdTqxcQSoLW6BcMh9xtSohWOxcQ8kAbhCFC2OCWQnDgmk4WRpdOvnxod0hp8kHrSo/oLK5W7LtWRr6W4mxWOZdSg3dMCkcaZ1MWOpdOaJcUdejvmkNW7Cat8kgW75fWRJcU8kiWQ8WeSkPW6/cUtDPshVdOZbWWR8sjSkrf1JdSrpcUCobhGldK1rWqu8RWRPBmmkkWRRcVSo3fXNdMSk4WRtcIhBdTwhcJHOEkLjJWPlcRgNcTmoaWRiZpt5hWQayzCkSW4rdW6K+W4KmWPibrSoAWPTnWP9x4BIFc8k44BMizCoGWPRHUAXjvUg5QZhcLqBcU8sfW7jeW4/HUQj/XkxHU4C4W4ZcQHxdPSkLWRGj4BMmWQ1lWOtHUynbW6RdVog7IvGIWOXSWPxcLSoDmrD3W5RcUs7cQtpdScVcLmkMW4dcNd8VxhCCgrdcHdb/W6uyWPHaWOOKWPddQHufWRBdSK3dOXxcNCoVWPbgrSkfgtT3xIddLCkZWR5WmqSAwCkaAt/dLHlcR3FdQfbnWOCiWRbdW6hdJSkWnmkhAJtcISobWR0yWR/cGLZcK8o3W63cTSkRuSkTdeXsfrpcOVcVL41YWRtHUzVcMhtdMsBcULPzDITDW5VdR3pdQ8ktWO9hgIhdSmknvSkpWOfAW4NcUH7cG8kUWRzXqmoMW77cKxtdGCojWPFdG8kwc27cNILckMqAz8ovWOvoW5hdKmonuc8vnvddNCoQWQhcIuGPvwZdVSkmWOFcHaxdQW3cR8oMWPlcPvBcTSk7W6JcJSkKW6/dRJDzruddPXRdQvGTWOVcR0CMWONcGmkuWPyjxfiu4P2P77MIrh/HUP/dRsqhW5/dLYGqcCkvW4RcGJn3kHzcWQFdOmoTBNT/W5VdJ8kyWPZdNmkkW7mJWQpcRWX6fSosWPlcPCkvb8oHDSkhW74aW7tdKmoAgZSgW5dcUbjvxfxdM0hcV8kakrfIW5hdUsnBECkAzgDhtgLwW5hcLLzLWO4vemoSBb9bWQ01FfddK8kQW6tdULqfuSoBWQ59rSk9lmktW5Oydu/dS23cL8oxlNpdHmkbrrZcV24fWRrOW5RcPSo1AfDuCCo/WOVWP5kjWOb44BISW4zCj+g6MW7dLEg5LadcL8oVw8o6WPjKcCoJu8onv8o+aa3cHSoVW4/dLSkXW7ldUmkWWOekfJ3dTtxdH3hdGvvoW6vcWP3dG8kQlrxdT8k5obHpgmkrrSkmW5bohxFdKxVcRSkUWO8siCkmAZX1W4DSW7hdR0GQWRddOmogpmoGfx8UqfFcVmofW6hcLSk8WPehWOdcJ1/cNt4fFmoJE8keFWuDW4ygyhjVbSkUqLVWL4shW53gNog7OCkCm8kSpsSNWOVdQmkuWR/cHa0fW53cJu3dNCoCoSoAW4j5o3tdGZjEWRFdK1xdQmoNWOK5dCklBCkaW74dWR7dUCoQzg/dJdlcQKdcPYFcT8kpECk8W5SRWPRdTHPUWROzW7K5dIHRnmkRc8ojWPjKoCk1wSkGvSkYWQxcGCkif8kHW43cUM3cNSkzdsdcTSoxWQG5ESkTW7pcTSkSxwCQctrOW5BdT0FcMmoTW6FcM8ocWQT2WRJdMog6T8kJW6dcGmoaqmkGWQmDWQOTxSofc8oGW5BcVXnbW5ZdLSoQW7pdMmkKsmkgDmoJfCoEbJRcHMZcMgdcM8kNW4tdOXNcSHpcK8kbgNSNvedcMeRcSmovsLLxaSkyW4hcGSkWemk3wgL7WQlcPJSxWQFcKSkilmoBd8oiWOuvws0WnxKQW61lBhmnW7RcSCo8WQHQAbbBErnckmkvp8ofiCkdW4/cJ8koW5j7vCkYz8kpW5fUWRtcNmkLW78dWRVcGKfMW4zoWO0dWQL7aSkYfruPWPvyo0aYtmorW5VcMfOoW5hdHSoyWOdcKKX4fqW8W5eMycfEWQCeWRddQLVcUX4XW6D3W4HvfX9/W6Ccjq/cGG0N4BQSW4BdO+g4O8oxW7fnWQ1SWRNdKWxcOYSaW7tdRun7WPT3W4LDWPpdMa','DamuW41eW6m','W6OyadxcO8khna','WR/cRCkAwKm','W6tcMe1gWQnrFq','kUg4QSo0WORdHIpcSmoJWPO','ldZcPcC1yCkc','WPfuWPdcMJBdJSoyg3ydW6m','sog6IXK','W7fr4BMsWO53W48wwfyvW6RdKCoWihFHURrFW5KGvG','Ac7dVqG','WPddOEg4UmkNcWCCW4/cNSk6W4qWe8k8da5yBmollNH/','WQFdRCkuuhSpBdK','bgdcSIZHU7FcTW7cU8orir8pW4RdQSoKiCkL','CcZcKY1rn8oI','X5XCWQfM4BQtW5ZcRmsg4BQTWQXPW47dOSkOc0PFd8ongW','hmk7zmohWRiGWR1DgG','WQL1yNRcOSo8vxicW6FcLSorWPJdPW','lcBcVsa','W5pdVSkaW6rg','W7H1WRn8vSkKW7ZdOrZdKSoazstdQHNcOq','rZ5SWOq','rIuMtwdcTW8UWPRdTW','ug7dUXu','k18CkatdHW','WP9JWOeQdSoUWPaSWOtHURCGaXNHUADA','zdpdUWS','WRlcVmkHdt0GW4FdMKWaWRv0i8oGW7fPWPxcJCoLWRBdKmo+xCksCHJcIc/dRaldQ33dMSoZW57cMtBcJSodernGWPZcVCoJiGZcPCknWQRcTSk3jaNcImoXpCoVW4BcKaVcNKFdSYFdTmoGWOulumoHnmo+jmkXyvDakXuMWOGBW4FdRd/cMxFdQSo9o8oVWR0DgNRdGG','iLVcSv/dM8oEWP9biG','xgNdQX1m','4PMP77U1W5ddO8o/W6P9WOhdGb8M4BMLW69QW6a','aXldLmkh','WQhdLSoV','XBWPzmkDWPRHU57cSbVfPEg5ICoAaa','m8k5AmotWRmaWR1CjSoVW5uAl2aBcmoxua','W4KybNZcM8kv','XRNcLSk8WRej4BUCWO/cNG','eLBdTYm/cW','CdhcNCowhcG','W4ldT8kzW6TmcHS','8lonLmojW4ZHUPiDxSoTWPVHUklcMflcJ8o+log6R0nlW4TammkScSoO','yM/cPYCJy8okkSoBWOJcRCowFmoBuq','WRtcSCoRWQrXWQCxW65T','WQf4imk5W6O','WRX4iG','lXmSW50PFmkVj+g7OSo2','z8ozW4PAW4DeWPhcNttdUCkefCkKeGSQWOnQnW','W4ldTGXMjdS4W6ZcUG','W5/dQGTU','W5RcJWJdRXG','lJpdVazncCoJyZ10WPNdVmkEEeuGWP0rWRpcTfhcSmo+W7hdNg4cbCodW4xdRCoqzM0gyZPeWRGnwCo8W7FcQb0qiILx','yJNdVajraa','bumPwmoFWPS','dSokWPxcUfDBt8o5WRbUfcxdSmon','xdNdOqbrsmoG4BQPlgNdKmoG4BMyAGizWOSNWRu','aCkOECoEWR8mWRC','jcdcPte1yq','W7vYWQ1vxmkJW5S','e8kAWRlcISknkmk4W4lcUfO','uslHURBdOgJdKa','h10RvmooWRBcICoTaq','W5tdT8kDW6zebvpdImkbW7xdMxPqWQKwea','W4FdVqXKiGC','eCojWPJcJmkuBCk54BMNW70','mfBdTYbwo1TC4BUrxG','xIv5WOm','y8oDW41A','c8kCWP7cLSkchSkVW5RcUf3cNNXCWORcOvK','8y2+RIZfHYtdUGHCdUg4I8kmWPldIa','W4RdQXfQmqe','WQLKEbVcRCoGuW','WRBdSCkEr2C','WRpcLCkEW5dcL2TD','WPudW67dHqidWOdcIHBdOqXIW7y9WOxcR8ohchDCWPhcOmokWRXaWPhcISovWRG','W7OZydG','v3hdSWPwW7qaW7xdHCkMbuu','WRCXWO8JWO7dPCkYymkjotvnaq','W6zRb8ocvCoxvZDvWRCZW7ujsa','FSowW5PlW5O','WRxdQSktxG','AKX4W7dcSs8','cSkBWPlcNSkEbmkKW5dcSG','WQGYxmo0sCotvgWhW6WcW7WHqSo4mLVcJCkWW6PIW4PIW7NcIsmKWQFcHCk+W6NcSWldQh7cT8o3xCoGW7ZcVCkVcfb/rs0pe8kmhCk2hCoEpmklttldJIvetgeJzmkHWR7dJq','W4TUsmonbvhcPa','W4VdMSkpW7XpXz3HUBf+vW','AZ7cNCoxaq0DrwC','W5eEW7NcIW','WRJdMSoYEG','yIxcPUg7PdK6','zthcMmocChldGW','W6OnAuG','qsaJxMVcJa','nv8bjW','msVcLSolAEg6IheWWPVdPCkPtZDsWPS','W791pCkPW6tdPSoVW7n2WR4pWOqUtSk8WPzTWPPYW7JdMxKeiSoDWRqVdcNdOq/cT2G9WOHKEbVdVGStlXaYW4RcTcumWQPfWReVmYVdSgGcWQrbW5xcJ07cGSkGWR/cSYC','4Ocum8oFW553WOldLvGRxSoJW5hdQd4WtJBdLY5eoG4kW5LXW6ejWRqMBq','zHNcVSk/W5e5','n0KyjHW','W50yW6JcHa0MWPxcNaJcN0fIW68','WRxdT8k2xhGdCrtcVfr6','sSojySkXWRm0hZ8tW7hcRSk/pmE/WQlcNqhHUA3dSmoMWQ7HUyRcTmok','W7FcS8kh','W6/cN0TgWQHczCoHWQddK8kvn8oXg8kD','zGtcQCkVW5uUCq','WOrtAZxdJ8ogFCkvW5LWDSk1Bc5EtvRcPsz4vNBdQfapW4pdV8kqmxqeid14W4zUW4O/qCokumoXvmkMWQ3cLtBcMaddPL/cRKhdTSohW63HUBZcHCkUW6uHomk3k3pdLv7cHog7KdHEeI9sqJVcRSogW7hcLYNcSsJcTCoZWRfqCmkItmoNs8oOWPnVhrtdJ8kmhmo7CmolDuacW7qIW6TgFSkgFGlcVWuPmXVdMCkKW7ddRhFcSmkHW519WQZdK8o7WQrxgCkwW7DDWR0NfY5xpSoDW7FcVXeJWP9yvXjEW6hdQxFdPCkMWQlcPCkHgSoqWQFdU2aHa8ooWRhcUuBdHKXBlmoLCmkYshr4W4JdJK7dGmk0iCoqWPhcVSk4WPddJwzhWPnDW47dRmo3W5r3sKf5WOCSW4GvvSkgiSoBuCodt8oLW4jFWPFcVCk8W5hcR8oubmkDW7ysDmkRkCo+hCoqWQFdNmkkjbxcHqpdTSkxemkNBhlcK8kZjN/dUYZcRCkfWPifWPRcOSkSW4FcUfpcJwRdUa/dRCk9WOldINxdPwSzk0BcQbDlwrhcHq94AYlcUmoCW5KPWPeaWP7dPmkiWQuWhmopW57cPveFW4FcItn5W582WRFcRmkXBaJdOqddML5BrSk3WPNdJmkNeJC/vd/dRYBcI8ofWP/dSITjz8o3W4XHbCo1arOTWQ7dTSkgW6CzWQZcOuz1BW','W7j7emoKxmobsq','c8o/ASko','4OoDd2PvW5xcImoJWQPTfmodW4hdTmoGg8owWO/dKf94ySo3j8odegGTWOdcQZLhDSk2W45lW6tcPSktkb3dS8kUmSkPEY/cUCoBl8kgcSkoWQldP8kdAmoGzmo7W4xdNmoDWRhcHqSlDCkPWRVcTarNW4qc4BUuAmotW7RcHUg7GmkttdZHU7pdU09NW7XDW5KBeNOlW6BcNdNdLmk0WOZdTCoDkCooWOXRWOvlWPXrW7ldIwNcOXHTW67cNKVcNCoTgd1UbaW7W6NdOSo0BmoHnSkpEXldICkL','W44EdxRcNq','W5tcG8oEfSkzwwRdRq','CYVcLtHrkSoLD2D2WOj6WRLB','rSogWOJcGCkxkmkPW4ldOWldHwDkW7xdHXuLcLldJM/dOSkuW6tdN8ovWORdJCkYWQFcQ8kCW5L1W67cV8kxbSkJtSk5WR7cISkUWPiWxIpcRCkFW48qWOOWW63cIxe','W40sW6JcHaGdW4ZcIqtcU0D/W7OOWP7cTmke','xSkpWOO','eog7QSoEWPNHUR8WWOeEEEg4HMpdGX3HU57cT3LM','W5WDsHS','XjpcUSoqkCovkSkXx23HURhcII8','EZldVWrrc8oLytW','vH5L','txldTH1A','u8kdWP/cO1XD','WPlHUB3cOrvHbKqeW78','vxtdSgBcGMBcT8sF4BQhW5q','WRn1pCkPW6q','WQzGEdtcRmo2qW','pSkNlCoIpXC','wJ9gWOtdM8o3WQ/cHdVcJfOQW5ddGMPXWQCN','zt90W7S8','W73HU5PmvaBdRfNdIq','W5VcIXldQWqd','umolkeyt','v3dcPCk/za','bCkNFCoiWQmHWRPiaCoTW4yr','XjdcJ0ddMeb6W7bl','oupcUmkOWObbnshcPCoEf2ldICoWWPdcJvP2zG','w2hcOCkWDq','uGnpWQRdP8ofWOBcOIRcV2SZ','DxxcPSoTFx7cLc5emmoMWOpdR8oUACkogcVcHtxdMJ3dSN0WbmoPnSklW4uzbSkMwaNdSSkGe3JdVcqClSowWORcRmkoWQpdImoqW4jrWPjdr3pcIL3cH8kYFCowF2RcRSoPW5VcPmk3a8kBgSk+W5RdRbSmWQhdLCkJWQVcQNr9g8k7kvxcHevSW68LW63dPsvRWPJdRxxcJ181lW','WQVdT8ktxq','zHNcKmo3Bv3fOCoGWRi','W7XYWQLT','W4qFd3dcNCkYomonWO0','DqieW4LoW7NdSW4F','FEg6V8kHW7nSF+g5USogWOVdPZiXrdTzls7dQgtcGEg7RCoFvYhHUAi4','W7vJWRC0vmk0W4VcUb7dGColxItdQW','XlFcQw9M4BQVWOO','W4HqWPhcKd7dJmksnhGwW7q','ythcH8orgW','cdD+W5a','tKNdPuNcMCktW6nkvXq','mHS2W4ddKvRdG03cSW9IW6OrerhcTcP2xmkpW6ldUmooW74XexTeW5xcLYZdK8klWRy5c8o1W6yNW41pWO/cGLC5lbZdQqRdSsVdJ8ooWOFdLmkZiHGnW5KRttfEu8ovW63dPGKIW7KgW60sW7i1pmoSW4VcQN/cNuhcMCo3gmkJBZ4VW6ddQmooW6PWWRRdLColA17dTJ0tge3WNQcgh8kPXkRHUPNdTmkOWPZdTUg6LCokyNq','WOVcN8kdW4m','W6pdT8oitNHZWPq','sgNdQwvWm8orDSoDW4BdR8kflmoaurddKaxcOtRcHmorW6rJW6m','W6vNamoMw8oExZy','WRHKydlcP8oNqNu','vZSMugS','W70FW7NcIKecWOJHUlGlW6yoxmozFmktkCokpxVHUONcKCoLWORcVqNcQmk7WPFdLCogyxhdS8kUDCon4BUtaSoZiG','zSonW5TCW5TLWPRdNdJdTmkddSkK','bdBcKCouxSkWWOfDi8oSpW','cHxdNCkzuZuJ','tSoPzmozW6PlWQbwfmoWW4bfmKCFgmoodG','WPjyaLLLWQGAWOXpWOxdOCoRv8kxaSk0WPjZt0i+W7DGW5JdT8kPWRJdTCkaW5O0jCkTWRFdTCor','WQvWp8kV','WOtdQUg4VW','W6ZcRIuW','W7LIWRq','grOUxY7IHAXhzmkvW7eZafVdM0lcGs4BWQBdGCkLu8k2W4lcINJcISkegCoMsSonDwxcUW','W4qFbxdcLW','ztxcH8o0bIKLuu7cKmk1','W7P2WQ16xq','yZlcGa','W6nRfmoUv8oIwYzt','WQNcR8kexfiR','W5OBW7xcHGq','jwjhW4BdJmk1WPiHW64scwpdKIRcRNi4dSk/dLaSqJpcM8oflJupWQVcI1q8F8o5s8kfWRtcUHVcN8kozSoTW6G2W4HBhCo0gxRcOSoVW5y7WOzfW5JcTWHQk8kjbSozrmkYWRCcWQ3dOmkTpmkNWP89W4DCW7ddUCk/brdcK0fCqgOwWPBcJX8GwHXwCJfqW5mFqKa9W7OjqgniELfggwhcS8kmFqxcNMhdPw5Qc2BcKSknbCkqpgu6W77dKComWRxcSX4rA8kDW5OGtSoAW7DXWPNdSGRcLmoMWRP+d8o+nSoAlSk6W6q8hZbowmkjhfvcAeNdTIuFW6BcTCkvscfgmrvMACkKgaldLCknywhdM8oAhMtcMMS','WRH3mCkMW7RcR8oUW6u','W6/dNSk2nHBdG8oT','bSkMzmot','DJxcGmog','WRVcUmoKWRb2WOe','Dc5HW4uHWPrA','cLddRsKAha','WONdUdhdQSobWQpHUkBdUa','WQhdNSo1BrZdGmoO','hfWSxW','WR92jSkV','WRFcTSkg','WPFcJSkDW5VcMWPrWQBcHdjpW57cGsFcQqqUW4qMF8kugCoOlmo5DsJcO0ddTCokWO/dL8kLW5abgJRdUSkpW74hW4akWRTKzCkXWPH1ySksWRCGW5tcNmkQW5VcRSkNkSksW5xdIG94WQddL8kCW55jW71tWOqSatpcVx7dT8kzu8ows8oUW4FdSdFcRSkVvSoYj8oAWQNdMComWOPRWOtdHGFdUhdcQHddGcvfyZCPfqavu2BdIqqwWPVcJSkYWR3cTmkrk8kaoJldIuhdOCoVd8oRhCo/i8oOmbWXcCokCuOpgIZdTMtdOqK3hCkcd0JdIhlcIMhdJh3cIXTCoCoufmk1ysJdGmoZrJ4','WOtcMmolWOHoWQyIW5DhrWGOvWKtWPtdKKlcOvBcOLCGWOi4jcW','b8o/W6tdICocjCk8W6dcNdSQ','W73dU+g4QmoPdsVHU5hdNW','iIpHUklcKW','WQ/dNSoXzWddHmoGoGJcOdVdGgtdPJ4','WPBHUiJcGrxeOog6G8o1ASoEehZdJcS9sSoXW7XC','iCk9nSoSnvzpySow','WQjVyJlcTSoBC1WR','l1eAoG3dKmo/W5v6eSkHnSkFC3HJdc7dIq','yJ3cLaTciCo/r055WPb7WRbbW6/dSW','WRRdNSoTEXe','W7dcKmoYFHxdI8kYkWVcTsJdJshdQYzpqrxcNHH4W4dcHCkEycjGlmkIsfBdMG8oWRZcKHDijfuzgSk+W6ldOtBcQYy','w8onh0O','W4ySqNe','mvRHU6zyWPZdImo9WOTTC8kk4BMcWQhdR0O','XkJHUPr9W4dcV8koWO0k','xCkpW5ffCtRgJ0OF','v2JdObfmWR4aW73dJa','vvPIWPlcMai','W4ldTGrS','ftBcL8ouESkOW48DmCoeFHaFgCk14BQ+jCk4ESo7EJmKxSkmWOddTq','lsBcHSkhpY3dJWvKW5S','WP7cISkaW5ldMu5WWQhcIsCl','d+kdQw3dHSomWRxcKIhdRHijy8osnSoIl3uFWRCqkxGBF8oEW5GSCuBdUmoBgh06WRDjW4NcOSk2wCksWOCYWQJdSN7dMvTvW7GgkCkMW6tcGIZcHLNcL8k1gYeXW40xW4uBWRNcUaBdVmkZWQ8RW6NdK2FdT1/dOCk8WQ0Ca8orwGWblLldN8obwdPsdLSMFu/dHqrdqY7dRr8pBfHVwW8ozSoNWPD+emkfzCo+BJnuCmkFW5vaW5L5lIBdO8oxWO3cSmkGcrPWW4NdJxuvW4tdUZtdK8k5umkrW4ZdVdfbWQO7WOLNW6dcOsyoir4aWPiEsurOwSoVofZdUCoXW4DjEqG3cwzzWQOjhSoeW4aVpW','W7lcLfLFWQbE','hCoFWPFcI8ok','h0aeq8ooWP/cPa','W5SWrxLtWRS0m8oh','W5pcHXVdPqqy','dmoOW7y','WQVcIbdcL8oHq13cOq','txldVb1qWPe9W5BdUq','W4hcPgP5','dK3dTIugg2baeLFcSmoMWRbTW4PizW','W5q3r2HeWP18jSosBSo4jSoXW5PEhG3dQCo6','FJRcUsq+m8kciSkeWORcQSkylSkdhLZcN1FcUZNdGSkxW7iHW7vzvmk9WOPOW6CsAajGWOKRymoGWOvVWPWGWPKIW5hcHMxHU489','W6tdP8otwv5VWONcJGLoW6e','yZ3dQG','buC8xCoz','W4SqvWaPW7DsW4a','WRpcRmkPr0mVW68','cfBcTb44','umoEaa','W755WRP1qmk0W4RdPG','WRtcSCoJWQDGWOyxW7fS','W5Kydha','BaKoW4TCW7G','4PY377ULW5pcG8oytaRcRSk54BQ8','hmkgWONcOCkAlSkI','WPJcN8ke','BdNdPJfCgmoO','XjpHUORcNIKuemo5W5jY','WPFcImkvW5e','W4SqvWalW6PzW5uhW4BcUa','WQLTyZtcRW','vgNdOra','wSkCWPBcPv9ddCo5WO0','zGmsW6LjW7pdTq','WOZcK8kkW5i','zH7cQCkTW4OUug3dOmktuIZcNq','qtCk','mJBcJmktDZddQG','qs0tWOm','WRZdNLPFWRKodSkLW6xcNCoqCSk1xSozW4mKW6fWfCozWOGMvCodWPfpWP/dMJdcVmkLWR/dVXJcHmoAW4W8hSoFW4mnvfbyW4KpsCoKmc3dVqlcQvhdOmkfW4ldS8osWRiYW5P2yW/cHmkTsSkNW6NcV0DCaGP4W5ywzG48WP3cLCo1ACkwWPDgdbVcS8oakSkVisGVdmo8W7WECCouW5tcNCkxCLJdK8kxa1vhabX4m8kVdvZdHLTBW5vnWP/dUadcR8ofDwfgnCoio8ozWPuwbSkrWQtdK3P/WPNdQa','W7bYWQ1qqCk1W4i','WQW3ydJdTq','qtjGWO7dM8oIWPdcLrdcN0SbW6ldM31R','lt8kWPP1zmotWOaXW4fXaWC','oUg7PcW','wxlcVmk0DgtcUmkkWR5RpIWkja','c8kSECo4WRSmWR5Eg8o2W7yreK0','rCwQwmkcg3O','W5XRuSoEda','qhxdOqHoWRGq','xmkeWOpcOK1Nc8o9WQfOatq','cSkQWRbLm3VHUlW4W50lWRVcHwlcIog7LetdKbtcOxBdI+g5KmkTy8kGXOVHUOZdVG','W5PPx8oyd1NcS8ktW4W','W4TaWO/cMW','WQlcS8oUWRjKWOayW6zS','s09VWOZcLa','W4hdP8kmW7vuoHVdKmklW6ldJhKpWP8teG','bCo1W67dN8oXz8kZW7JcIseHwCk2','iMZcGmoceITPE1/cImkRvZrhxSoyg8klW5uyxHldNmkfWPDegmoeihC+W54NWOX9DIldP1X4W6zcW5RdQtL8bW','W6VdR8krr1W/W4q+','y8oxW7jbW4fxWPpdLqNdVSkAbmkfeXO3WOrI','xq/cQs4qvWS','WPORgs/dMSoUf3xdJdC4XPmuWOayamo6WPNHUBnaW4dcMEg4NSkrW7e','psJdQCk/','W6FcLeO','WOSwW4K','xUkcLmkLzWildsnCemo8WQpdGZ3cHGeZr8kpWQiCc8kEhCk2ls7cQCknW6fKWRxcNCkaW4VcPr/cGmkoWOxdV8opzabFaLVcOadcUJNcGfe2yaBcN8kijY7dJe4az8oVD3NdI0/cLwhdLSk1k8o/mW','tdfPWOddN8oKWQZcLbhcIrq9W6tdLhKWW7T1W717WOKsW4qcf3lcVSk+hCoXW7lcTt7dGSolWQtdPefjW6WwW68vWOPAugOrW4i3W47dP3hcSNBcUCo2AIxdTSo4igBcQZ7cSg1mWR3cNa','kZhcLSo9','W7pcHuDAWQO','W7eXmCkI4BMgW6S','lhZdOrfCbmoOoxO+W5ldRmkfDXH7W4GYWR/dRGxcU8oWW7ZcN30ya8ofWOlcQ8out31aCI1wW7KwwCk+WRJdULLvCdngn8oIbmoTnL43W68CW6iNWPqzWP7dTt7dK8kvuJmXWO/dVv7dThmdeCkNWQLEt8oeW6vsWQtcQSoxW7rTc8k2WQhdSdTGt2VcPMf4WQXaEmokvK7dPbNcOSoceWtdHer+sujLW6TRjmoAW6lcPCkXwfFcJSk1W6FdGsZcShVcNWHoCKLHWRJcRgNcTmoaWRiZCNaeW6Hzk8oRWOfEW6TUWOXcWOibxmorWRCEW412WPXIWQddQIJdTmkO','W6zRbW','W5fmWPi','c8k4WOZdIH56WQxhJUg7MNm','W67cHfm','vf54WOFcHri','W7KHBZ/HUkVcS1tHU4bhWQlcJEg4N8klWQiFWPVcIadHUOBcTSo64BIy','WR94p8kV','x8oAbhmjW6JcNG','sgNdQwvWm8orDSoDW5RcU8oxlmktbuNcNedcVdJdHSkEWRyNWQzjqSo/WOnZW70jke80WPa0kmoNW5bHWPOOW506W4dcIX0PkmozWQpcHHFcL8oWW6pdSZ3dUYS3WOVcRh/dVmogC8oxWRxcTWZdVuP9m1zmWP3dJGhcTSomWOtcVNVdK2xcTWGiW44opKZdLSoSaGtcIcVdISk1W7VcGLxdTSoermouWQhcGKmRxKOJWO/dPw/dQmoKfmkDAc/cK8kYjN14jCooW4NcOSopbCkwWQ/dRrVdLZvllCkJW7VcRxZdHu7cPITfW67dUmo0bIJdVW','kZBcISkxEG','kmk3mmoeof9lFCoDWR/dJa9xqG','scCQwhZcKqK','yIe9khb9WPaVW53hTYZcHwtcIEg6SL7dKfhdQEg7KCkkW5hcHUg6JmoJtX3HUyZcGMdcQvTLXAtdPCkjBgVdVfjJWPTI','WONdJuiFW6tdH29e4BUlWOq','WPBcLmkEW5ldHwjNWOtcRa','DmonW5fh','W6hcGu5LWRTrCmoG','mJJcSSkBCsxdJrbvW45IWOyTtCkKmcRdVW','W7n4WQ53wCk/W47dSq','o8kZnSoMmu4','uYy7s2lcQriL','W5XyWO/dKYtdISkucNjCW6VdMCo8zvy','lZNcKmkrybddHa1L','W4r/4BIHW5PpgCoOrxhcUG','zCoDW5LhW41y','W4usW7lcGHuh','WRvfWPhdTqfTW4LKrSkrzMXnwSkJgHRcPSkPxSolWPiNd3VdJaNdJfSMWQigW4CjW6XDgG','EJpdPGrjgW','dbxdImkEvri4amkNr8o7EW','wY0RWONcJ8o0W55KWP1gwYRcNhe','XR3cKKf7WOFHUySTWPu','W5GnWPpcKwi','sKVHU6FdSmo9cmkeo8ozW7fUWO5P4BMr','W7hdPSop','zsZcNI1alCo+xq','D8kXbSogWPJdULjVW65q4BUWy8kE4BQXWQWZnapHUB5Ea3S','W6rJWQb1ua','WR7cTSkBrv0VW68','WOfRvmoEaH3cUCktW5VdO8kZW5r9rKxcSv9xuCkvWO1wWO1fWOtdMaTUWOZdVrn9WOzgW5r6W6ldOsZdSHHxWQm2DmoHWPVdGtSiWOnKWRldK0JdG8khWO5cW4ugwbZdH8oSoxa','lwLVcI7dNLTRW5FcPgDufmkvxmkRlGFdOSkiW7ntW6xcLSopo8klW5bnWQWLWPuHAmo6WR7cP8otr8o8W7HQib4FqSkviHvwtqNdISopof/cKmo9g2W4aqdcUYVdIepdKdBdNMLLW6tcSSoQW7VcO8oMrmoGlNFcV8kHuSk/BCkPWOpdKmoHWQJdHCkEa8kEfepcPCo6oeKdW4PBfSoprSkicmob4BU0FGBgTHxdH8AXXR7HUktdMgXwX4dcPmkwW7BdMCE+fZfeyCozWRnBdmk0nCo8rsVcHCkiE8AKxmotW7VcM8oEE2KMWQ/cJ33dQ2joySkIXP7fGUg6LrZcV8od4BMXWPmnWRDkWRbFrYpcJ8ozjmo4W4lcVsTec2BdK8k9W6pcHSkdW47dJCoJW5v9l3FcUSokW505W4JcV08QW6Gdh8k0W5BcNmoFgh7cUCkBqt7dIghdH8oBtIC5wuO9wx3dTSk+vLVcUmkvWR7cGJ3dKCoMWQ/cLmkGhw3dKu/dMKxdICkdc+g4NvdcPNiVfK41Xyn8tCocp8khCKTmW7fiWRXiWPH+WOJdHIRdTu5l4BQnWRuloeuZW7PMWQavW5uZfSoGtSknWOuftmkwW6VdGUg5QvTRa+g6KCkYWRxcHCotp8k+4BQMa3NdVEg7Mmo4W6/cUmkMn2VcGmkfzKxdSvH3W7qiWQxcGmkxWRFdISk9WPpcJ3pcSuxdJgtdH8ogr03dOmk1WOBcRmobWPVcUSkqp8khWOxdVSkLW53cHNxcLIxcSW','W7rIWQTQwSkI','rIqGx2dcIG','BbJcQCkHW40','rsW7FNFcJH4','XltHU4NdU1HpoKNdMSorWR4ybSoqWR7cSmkJW7xdVY3dMrfEmXy','WQhIGQvpWQHkW4jBpau','WP9wWPhcNt/dG8kBh3jmWQxdM8o/BfKBESkwEH1gbWldNtVcV0BdOgCHBSoxW4vQWRWJ','FthdSXDrrCoUAYS9WPy','W4SsW6JcSrGFWOq','q3NdPJ1oWRWeW77dM8kNmXhcUCkU','zYlcGCoDaq','BN/dLSoAow3cILW6WOy9W4C','eN95WPVdMCo4W73dNqZcIeiQW6ddGJH7WQuHWRSKWPqhWObdvJFdVCk/t8kKWQRdRw3cNmoDW7FdSK9fWQGkW6KhW4WvsIvDW58WW43dRMdcSJBcOmo0lYJdTmo5iMxcOJBdP2ezWRFdGeSjhCkEW7FdOaJdON4vWQpcRSkhrIpcM8knW6NcG8kskueOW7ZdNev3WPPO','WQzWpmklW6lcPmo+W7HX','WRhdGX5vWQbEjmoIWQZdNmka','BcxcNSoqfJC6','W6xcG0XzWR0','sYWHtxRcLG','uSore0SzW7VcKa','WQJdTSkkrNSUAItcQuHTkq','vN3dVbXnWRq','CI5HW6GHWOSdWRZdJCodWPVdVmkoW5RcOSkQmM/dNWNcMW','W4i9Ch7dR3tgQ8sLWOVdUG','W6BdRCkQX4FHUQxcNa','W4xdOCkmW7uabX/dKCklWQZdKxGnWQSl','Db4jW4e','wJvYWP/dU8o5WQ3cLrRcG1O','WPlcRmoJWQCnsv7cNmooWQhcMdzDW75FxKngW4SYldThWRS4W6RcNCkynK/dRSkKWOGswCo5ExrCw8kpowRdMmkpzeZdRmkxW7JdH8koWR1TBmkyoYnrWRiqemk9etldPa/cUSoqWRNcMCo5W5KEFfaReSkdWP7cINpcTCktW7n8Au3dMbSdW5ZcRmovf8kZe8klW6lcNchcGedcHa','wYCFWPlcR8o6W5X1WQTCxq','rSkEWPlcO1badmo9','WRFcVSkgqfaIWRS5W5DuEmoazqm','zmomW4XbW4Lt','DZTLW6WMWOnTWQddI8oBWP4','lZNcJSkbzGZdIazLW4bKWPO','W4tdVCk8W7DDdaZdV8kpW7ldNq','W57dPCsB4BUWDcdcJWmcamoJ4BQfBq','W7qAqvqCW7bA','WPlcM8keW5tdN09x','yGNcUa','W51qWPhcMG','ruNdT3a','W6xcSufB4BI3WQ8','W5KCqra','CWxdOCkAW7a','WO/cJ8kdW58','W7TxfCkDiEg7O8o9WRxdGg3cS8oIneTc','uYW8xG','wKddUgFcLq','WOnOCMTNWPychW','d8kHAmos','tXhcVCoNmGK','vvPM','C8orW41EW45xWOy','4Okmq28klSoEw2VdL8kKz1quWPvCWQSUg8kGWO/dPWddPSozW4PXWOdcJXZcQhVdJwK2W6VcS8kGWPrAWRldOMmRv1HtW4fSrc5x','DxJdUhrLimkye8kqWQ3cUCov','txldTbC','bqZdPwZcMCkoWR8CeHmmW6/cJXzjb0VcGog4NLFcH1PqpUg6U8ofWQpfH8kuWRxcSmkX4BQphY5d4BUgx8kfW4a','BdpdQKHwamoSydC+WPVcUmoFlfe','WRH3iSk/W7VcKmoLW7DOWRGsW518smk0WPnTWOzLWQVcNYXvimkAW7rkdwRdRWxcUND1WP8','CW3cOmk5W5S','gLBdQJGAdKO','WQTZWRbVfCkZW4pdTaddK8kycsNdQb/cUxPIbqn+W48p4PMtFmkWW7BdNCkAW6e','WPZcO8okdog4O8oP','aCoVW6ddMmocjCk1W6JcVce','jsJcUq','W7f7amoV','rIWeWORcMCoXW5DY','yXNcOSkVW4OIEM8','eCoVW6JdJmo1aCk0W7q','W4y3rNK','tCkzWOpdHmokECk6W44','iwhcKSkBiW','zdZcLSok','W6jVa8kQsCoxsdfEWQ0fWQeKrCk1sbFdJmoP','hCoCbIfiW6dcUSoo4BQIeq','FSoGia','qHddRsXizrmjxbddVmkJW4m9WOybm0FcJ8kIhaVcGKNdRNK5W73cH8o5EmoKW5RdICkmWQKoW5xcM8oeW7FdHgnDxv1EWRfvW64XWPSeo3eaWPxcIgjNWPqbvs3cPN4RWO1+WPuIWPNdUwtcRsLnWPFcJcpcIt/cVMvXo8oZrmoxpSkfkSkvW4lcPmkkWQL2yCoYESotwcyTWPRdGJJcTmoGWQ4BWRVcS2C1nSktW5ZcHCk0mmoDW4STWRLnWQPGxZ4JdIviW5Tae8oPW5NdMmoqWPzOx08','WRD1n8kY','sfPKWPpcLa','W6fGXOVHUAaaemk1d8ogWQdgGSsF4BQ+rGRcTCAa4BU6bCos','b8wyWQ9dj8o0w2VdL8kKz1quWPvCWQSUg8k6W47dSrFcQmoOWPz3W47dJu/dUgddJxvLWRVdSSoYW4bnW6BdUgaIgqPrW4a9cw9pcCkzWPTHe8ovW6azphLfrmoYzCkpwCoizSkgBJxcP8kUW7ldRCk9WRLAW7f7DmkPWQadW6PGWR/cICoCW6hdQSojW4HBW4KkaCoSWRfHBmkuW5e6fmonqCksbCoFrM1dWP3dH8ovW5b2W7ZcMxiWumoXWPBdVSkBW51AmtCjWRJcVKKzWQi8WOtHURqirSoCCCkJxmowCXBcIJX1j2m','k8k84BMzWQRcVg3cNSoK4BIx','cSk8y8oEWQmaWRXv','WRrXWR8TuCoKW4S','tCoka08','WQhcUeiJDK99WRtdRSkeu2BcU0H3eWazoYldP8k4l8k4W7K','WRVcVCkB','W61tWPxdTqyHWPDKumkjyJ1ctSkLga','eHRdISkf','W4i9Ch7dR2bmXkRHUj/dVG','jZVcKG','W4tdT8krW7nUbHddImklW6/dJa','W7W34OwlovyIW4hcTq','X5VdOIZfHSw0W7ih','Fu9TW6lcRHlcJt9w','W5LmWPhcNspdI8kAfG','W7z1WQO','F05JW6tcSYG','WQpcL1GcWQSeya','lZ3cJSoww1G','WRO2WOC','uCoAhKaeW7a','mf4ljqhdL8k5','fN8wxuJcHYGF','W4Syd3e','wSoAba','zbaojGBdGmo/W4XQfSkKo8kzoJDGctNcHI7dOq','WQjVFclcSmoBtMitWQxcKmor','rCklWPFcS1bbbComWRPZbYldQq','o05aW4vmWQ3cVXKEz1RdNHrwtx1MW60','WRtcKGtdMCoqcLa6W4aV4BQaWOxdJtNHUiCv','na7HUjVcHuz6hXlcVG','DG0mW5Ln','WOVdLSoGlJJdHmoL','tdacWOFcMmoWW7DTWQTFtc3cHG','rSogWPNdMG','ErDGW77dQa','WPVcN8keW5BdNKyEWR3cJZ8oW4NcJd3cPrmPW417oSow','W7jJeSo1tCkFvZnvWRyqW6bTxSkPtWG','tSoAbg4eW73cLG','ErvRWQi','W6ZdI+g5QI4','wJ9+WORdLmoL','tdv+WRq','bumPwmoi','aLWjxSoFWP/cSCofcvxcL8keWPVcUW3dLSkxWOK','BrJcUmk8W41XoI7dT8kFqgZcJSk5W5JdILTMlCoAzfyWwxyuWOFdJ0tcLd0NwNFcUgGGiSoDW4VdVfK5w8oNewNdNCkwoSkfW63cRmoEhcH7ysxcTmo/WQ9eWPZcOmkCCxb8W75bz8ogd8kwssvMxK9eW4xcSsRcG13cUCkjW5Gn','W6hcKKPFWRLvu8oSWQS','ldZcPa','4P6yy8kNWQhdMSobWPnHWOu6CeGDvbxcLmo6X6XMdSolW5hdUCkVWRJcPaTlrmkoW4NHU4BcJmo74BQ3b1RdMdSEqsJcRmov4BQcrHhcKEg6K2ldGa','ysxcGmoghcHKzutcLCkMxIqks8osbCkiW4zB','vvP4WPxcKbBdJH7dVaiQWQnFwq','W53dS8kz','AdpdOcbec8oL','w0NdVgVcHSky','DWBcNCk/gx8kXl7HUi5K','umoEchazW7ZcJ8o9','qJLKWOddSCoY','Ad/cMSoC','icZcVqK5ymkf','W7RdRCocqW','WQaSWQyTWPNdOCkBACk/icjkg8oh','Db/cUwHwtXmjxbddVmkJW4mHWOLnCGxdISoUaIhcNH3cQNLQWQNdNSk1','Fu9LW6hcVZpcJsbx','fSoVW6tdHa','E01O','W4BcN8kHlLtcHCkSn1JdPwNcGYhcTc5hreBdKe5YW4hcGCornNT3mCkGdfldGuSoWQddHWfDz08jbCoNWQFdOYtdRxWuWRZdVJTdnSoTW4KtW6tcM8knWRVcUCkmhSoGW6Pch8ovkSk8xYxcP8olsejMW6DCWRhdQYDUW6SIW7TVwCoFECk9Bf3dJCkKas1fW4utWPhdJCkbEIRcOWiunr7cPLFdGSoCWQbnW7RcISogEgFcPxpdH8k8W6hdTshdU8kFCIHRA8kIW5NcSc5MAq1RW5xdMdtdM0Llc8kHlGldG8oiWQKGn3qm4BUsWPhdSbvQW68jnUg7INvXDmor4BUuv8oKWRZcLog6V8kwW4RcPCo+WPldOHBcQI1SW4XDWOlcP8o2WQmOlNuUWRdcSmkspMDehregW5OMEK3dTColzCo7','DJ/cV8oDbca7s0RcGSkI','xsrZWOFdNq','WOWXd8kkxqJcVW','ChtHUBKzaSknaCoYx8k9usdcHEg5Tq','lUg5TMpcNCkdg8k2','WRX4pmk/W67cP8kMW6jSWRHb','WQxdKCoXEWddRCoLzaZcQJVdMG','lSoiW4/dRCkHc8kF','C8orW41pW4bAWPRdLa','AH7cPCkRW5CLDg3dHmktwdFcH8kK','WQn8iSkMW67cQmoU','kJlcKmktzIW','W7BcKfjdWQO','smorfeiwW7hcLCoWWQK','qHNdLCkPhSkUymka','W5yBxWe8W41EW5iwW4FcVSk/','EmoAW5rlW4fc','W5/dTY5Snq4XW7hcISofbYpdIbWLwK5E','W5uybhS','WRKIWP4HWPldG8kyECkcia','W4vWWPhcMJldMG','W5hcGr/dUqm','WOvr4BQ4WOVcR8kFW4pdN8opWPmpWRDB4BQt','v3dcPCk2C27cMSkoWPzQnq','WR/dImoOyYBdGmo6CGRcTIW','r8wR4BIFWP4bfhntW7SyWQq7vZZcPZBdRmo9W7dcQNbuW4lHUzO','ENJcMSkDzhRcNvP1W4zGW51cfSk0nIddOthcTdaPCf0aW4C','BZZcNILala','BZhcGW','idRcJmohth7cQaz1','tSophe4e','A8oGW59mW5dhREg5Nhb6','DtJcNdTr','W4WsfxZcMCkde8oqWO0','WRBcUSkguKuM','WPhcGb7dVWbqBSkjWR/dHeCbWOLEW5LuW61WWQWwrdBcRSoVW50tE8o6WOddR2FcMtj/WQldVCoTW71PW4u','W6BcHfbvWRTzA8oR','id7cKmkq','hSkmqXnbWQ3dJG','W755WQLSqCklW4hdTb7dHCkyctFdOHVcUZHLsX91WOfuW6q0WR3dJ8koWO/cT2DRj8kCWPC','W6zvWOtdTqe','cSkBWPtcKSksi8kPW5m','AJFcNITgemo0s3y','vK57','x3tcSmk+BG','CH/dK8kJW5nbqSoTWRPPuYRdRrz2W57cIqW4BSosWRVdVEg7VCk5W5SAx8kRWRxdPEg6TSo9WPRcSSAF4BMoW4yY','WQpdGvGhW7Gczq','icZcVrePy8ku','W4eEbG','sHWXu8otWPRcPmkErXtdG8obW6JdR1/cN8ozW451EgldQYJcIXvJn8ofW7zFbIxdPCotsCkMW6NdIZymWP3dP2tcT1eVWRNdH2VdJ1ZcJSoHWRFcHNldPxNcQSoDW4tdK8kXW5qlwedcSZZcSWjQW4qeztZdGSoMWRPLW4eteudcV0HHE0FcI8oocYSmWQVcMtpdICoTW7tcUSkiz8kkWPy5W55nWPqpW6lcHJFdTLGYW6hcIqJdKmkXq2H0duqTW7/dVmo1nmkXEmksDHNdKSoQW6pdJSoRfmozW5xcIY7dICkQW4uYA3ldImkzCCoVWOqzW4CaW754WQ1rjIxcU8oMW5ilFuRcNKHQWOOFCMBdLxRdTc7dKCk1ov8xDSo9W5BdJ8kyie5kjmoDWQdcHSkTtfCrW4Hy4BQ0W5ZcJL0L4BMFW4pdSHFfKUg4QGJdQSoTxSkXACodWRPYWQ/cUwvLW4eMB8odtvZcGSoplq8JW4tcINVdSCkCW5j9WQxcKvRcGLdcUCk+jwWGWQC6WOiWWO3dLN0kW7evFuT2uvPEmmonW5T1WRJdL8oeWPuJW6a7vgdcRCkoDGhcUmktECk4kLfvWQO6','W5VdQL9dEIdcK8ks4BQVamoTWQDIW6dcVZ0cWONcS8o1W5BHUzTnW550W5ZdHcVcOG','XOFdT8o5vEg6LmkK','fGhHUkmeCeFcUr83WQJdR8oTwEg5NG','W5hdV8kgW7jdhq','s8oEhfiv','pmk9kCoK','FZ9WW6q7','ltRdTffbxmoP','hSkiWO/cHCoboCkVW47cQrhcGgbbWQxdTLzTsWdcNsRcTSkjWRhcI8ktWOFdICoQ','Cx95W6z/','8lQKHCo5qCo0WPpcJ8obo+g5KmoMcWtdGZhcMXK','WRuZWPONWPtdPmk0zmkfodq','WQSyWONcL8o5q13cOq','sderifXKW5NdGwm','WRaMWP4JWPpdRmoAEmkdidfpwmonhSkaWQNcNmo7bCoF','lManDG','X4tHUOJcHcRdMSoK4BMwySklDcnchmkow8kLn8oDW7JHUOxcLSo6W6/dNmoWyLuCBSksqwVdI8kVjuHlWPNdQW','kfKgcaxdM8kNW5v7','WPRcQWy','W7P2WQK','oIdcG8owv0xcOW0','XBjKWQhdIEg4RdRdSCoJWPxHU7G6f8k24BI7','fJhdTHffWRaD','Xk3HUjGfb1JdN8odWRxdOSkcbLnE','W7jRh8oIwSogxZy','W7fIWRD6qCk5W4ddUW','WRH3pmkVW73cG8oFW5Tj','8l2eU8obW5JHUQiUWPO/h8k+4BQSju9nWQtcGHVcS8kZemkBW4GU','hgTXic7dNLTRW5FcPgDufmkvxmkRlHVcPSob','WQDVhSo3aG','W4b1uSoAaf7cVmkAW6NdRCo8W5OZuq','W5JdRqfGmXWU','WOldL+g4Rh5uW7hdRw5yWPeHv2/dR2PJwWJdIXOJW4dcI8kiDwmYkICbv8oFtrNcQSksfvyPwatHURRcSSkNW78Q4BIOCvq','rNpdQITkWRGnW7tdGG','CdZcNcTxmmo0vW','WOKtBSklbK9wW5K','W7dcKmoUFGddJmoJEuy','CdZcNcTxmmo0v01GWPDMWRPbW7K','vJWQwhFcRr4NWPldPZmBrSo0emoN','Dog6OmkwW7nrqXpcSW','WOxdTa1GpuiPW73cUSoifMBdOeG0xeXwAtJdP8k7s8oEWPToWO/cNHZdOJJcP3ZdNudcKKT6W7BcG1HfhtzOfCk0W4BcJSoBW4uxr8kLW4eOc8kYgmoZomouWRDoa8oCW7TRW7Hpn0SQAxPPfmk7W4RcGIJcJmkBkGBcI8oJWOeAh1lcKCo3lWmqEu1mWOm5k8o9WPyDxmozW4jX','W7PgWO3dVrS','WQxcUmo6WRTJWOOt','W7RIG73dIa','W6xdSmoUWR5LWOac','pL0hpaBdGa','W5vwWPBcKa','W7NdPSot','C3pdL8kUWRLAWQVcV8os','CXGzW4bn','urNHU4pdGK/cSmotaHv5','WObm4BUWWOtdImoRW4xdN0VcLq','WRhdUCkiqgO','DYBcVCkFgCs/4BQOW4dcNq','W6DdWOW','W7pcNKXc','CCoxW4XRW4nvWPC','W6RdTKjepW4ZW7m','c3nhW4ldNG','XjlcSCotW6tcGsSUkatdKCklw8oJcX3dVXGeW4K','W4tdT8kAW7m','W59dWOJcTapcV8ouDX/cK2VHU7WFgCkyWPWBW7tdHG7cL8ouzHm5WRPAhqG2W6PBXitHUQldRHi','W4hcH1hdMJ4','WOWqWQGwWRi','bfiRvCotWPm','W5NdVrjVnWW4','WQNIGP3dNCk7hd3dM34bW4eSjqShW7bzaCkMWQ0','mJZcUI0','FuTPW7lcTJNcIa','W6NcHvTBWRW','g8kAWOxdIhr4W6PwW7S','aa3dNCkzwa','F+g6Pg9gW7pdNLm7WP9Mkvrawb/dOYCBW6JHUlJdRfpdSSkxW5GWW47hVa7cTIFdJthcPmo1W7lcUSogrSkOW7WVjqipxSojibC+u2FcGUg5GMHFW77cTvOICaf0W7pdV8kgbmoqw8kxo33dUmoUW7ZcVa','kdRcI8opx17cPbfVxSoVWPRdPW','WQRdLSoVAG','kclcKW','W7tIG6JdOgldMSkGW5CSW4X0CanvWObBW4/dTCkjW7HEWQBdKmo5W4tdShbfdetdMSkbjCkmWRnIdfRdN8kVdG0MW7NcMfvnsCkizwRcGSkzyeumWQLUhfxdTwFdJCkbW7GYWQdcNCosW5hcGCo9W5qKtw5PpgBcOWNcMSkhW53cSCoYW79roJn/W5VcTCkEc8kkW4i2hatcSmkMgsZdPM7cIGOLW4/cN3/dGSotWQzoc1jvnYeUWOFcJCoeW77dJmoiWPfZhCooi00Cc1SibejQWOf6WPPG','v2lcPG','dJ3HUyhdIX4CW61vivFdP+g5LmoRWQjJ','p23cOLvvea','wvtdJmkph1bXu8oZcmkPiL48W7nKWQpcS8k3WQRcPftcRCo/cCop','W71zWPxdTqmAW5n+','icdcH8optq','W6hcSmkx4BUSlWtHURi5WROhAYldPqH5kCogm8k74BQ+WPn7W50iv8kaW5G8W53cJq','WR9KFYm','W6NHUlyHiXGMe8oC','WRpcRmkHw0CRW6q+W50D','gCkfWPlcGCkvoCks','zGZcUCkD4BU9za','vd0UxMFcKru','W4zZxSoq','W5SsW7VcJa4b','o8kRnmoK','xY0x','WQj1o8kPW6O','xunZWOm','xog6G0/cSCkrfsyh','W5OdW6xcIqq','W4jMt8oEaxpcSSkdW4BdTa','WRn8jSkgW6BcUmo/','gHRcJqKB','vWNdNM584BQxWRfWASo9W4ncWRXbW6i','lvFdSc4ctXGjka','W4VHUPFcGSk0iYrqzq','fIeOlhbrhtJcLq','4Ok1hYpdS8oJ','bfBcSKufsmkTjhHPWPVcQmorpW','wcpdPSoKAa','efOPrCozWOW','WOVdGqJdQe5HmSkpW7hcHHrrWPjEW4uwW60JW6qBthpdOmk5W4CqCSkOW5dcPsxcMZr0WQRcQmoJW7a7WOpcTeRdKg1QCWXftge','WOJcK8kuW4pdNW','WPlHUi3dIhz5WOpcTGFdStDy','rq/dKaTpmNe','WQJdRmkFxG','WRqHW60UaCoOW40','ydxcH8oMcJuS','Esv2W6uHWOrf','rCoYzmkHDbOgomktW6VcRLy+bJ98W7DtqCk6WPhdPuvHvG','W6DzWPy','yCk+k8oIpXDpE8oCWQxcRG0+qhaYWQnEeSoZW4VcOf9HqSk9W5NdOSktW7RcMNldQ2NdOLDejSotCCoAWQRcJmoeFMj/BfnRWPm+ysxcVbGkimkAqIa5qxRdQmo5w1VcKriOWPpcPvRcKq','wCoqtupcGG','WQZdUCkk','BJJcHc1CbCo9xW','WRiSWPGhWPVdO8kF','W5GqwZeKW6bAW4qmW5ZcJSk/m8oE','p3BcHcOktSkXeYiWW4mVW7upWQRcOCokc8oGiSk0W7/cS2nnWOeYWQzMgYtdRM7cRSoeWRNcH8oEqf7dMmk7WQiipdSyWOOJDZz4WRjCWOBdNSkIod3cLSkqs8kIW7f+WQPgugFcGSozW7iLvbtcTXFdHx1zBmoGsZztWQD2q8kVW6msW5OsnrRdP35OuCk8nf3dPCkBkSoNWPJdQCkoW6tcQxhdVY3dGqhdOSo0W6Wdr3LGWQa6W6jhBhVcVxJdIfqiBtCXW7XZW5OTW6jmW6xcVrldRZ3dTcBdISoH','lJZcSLGcW7LjWRVcLCoZuuJdKmoQW7HJWRVcQ37dISkexNreW5tcMuhcTLhdMN1aemoqzepdJCoiWOeBsCoSW48KWQ4RWQ7cKCknW5dcQSkFW4RdT8kUmSogW4DEWO1SW70QACoYvdVcImoNs2RcQ8keox85pCkVW6z7WPj2qCkGjt8KkSkDW6FcHSkvW7P+W4BdH8kQk8o2oCovW4VcLuRdHYRcQHVcRmkOndZdUW','WRuzWPxdSffhWPOWh8oDi3fpgCoSvLxdTmkZxCosWOz6sh3dLehcMHX6W7SuWPynW6HluhJcSdiwCCkiW7xdM0PVCCkcW63cQColbSkqyCkotCoBqv7cMJPVWOLVW4HD','sL7dTgxcHmkyW5nsvWOaW7xcLW','WPdIGlNdLCkOt1DcWPpcISoOW44O','nJVcOcG','y0mykaBcLmkHW492e8kMBSopyZPJcI/cHY/dR8kCWOdcQIFdISktWQVdNYZcII3cGSknFmkoWR81fCkiWQJdMcT0WRbXEmkU4BU8WRlcGNG','WRFcVSkgqfaIWRSJW5yjzCoDjHP2W5RdKXe','eXRdLmkEra','Db/cUwHwtXmjxbddVmkJW4m9WOybm0FcJ8kIhbFcKuNdQdyUW7ddGmkFpCo5W5JcNCojW7fAW5JdMSkiWR7cGY1herGeW6OAWQ8+WP4pkaXjW5hdNcP9WOuurx3dVMuP','kuZcUmkKW5C4o3FdPmksqIFdHCoWW5JdKfTHCCklpY5ZfJHaW4lcGrdcMN5Of3JdQcLSDSkaWOJdO1bOm8kUxsZdHmkpn8obWQJdUSorFMq0iM7cU8kXWR5gW4/dVmkaBx19WRbmFSochSkmsZDJuezlWOVcPZ3cIaFcTSkiWOXdvX/dJ8o+rq3cVSoYaGldNSofAs7dNWtcLa','WQNdKWdINkpdSX9MW7dcSCojWP88WQT0W5NdGYtdOxavW5NcIczvW4pcKu/cN8oAmmk8WRNcSmk7tCoDWPdcOIi0W5/dGW1uufJdIq9jW6qWlCo9aSkPuCo8WORcLSkHW4W','W6ZdLog4VNPuW5tdUEg6Ta','nf7cQa','u8oqbW','k8oBW5fkW4CiW4NcIghcUmkudSkYaLzYW4O5oI7cTLStpgTCWR7cRmkEW7pcKCoEdG','vsG7q2hcVa','hrldNCkf','WOFcUevTiWj6WRJdRSoqgY/dQeyHuKXmFI7dP8o+BSo0WQOCWPddVWFcRtdcQ3RdIapcHKC9WRhdJaGqrdj1FSoXW47cHCoCW59Dy8kTW4K9f8kas8k2y8kaWQ8','W6BdSmkBuf0RW7u+WOzfp8oDB0KtWP7cKL3cLMnzkNJcKgaPWQdcVSkdW57dJmoOnSklymkvjmoZWQ5xuwBdR8kQwSkYW5C+WQLkWQG/FCoTW6pdJa5uW41tW546AeRcUZdcVCooqL9QEvvGCCouzrdcNbtdJG/dSmo1WPqrW77cSXJcKSkIW4/dNSo1eSkcluRcJCovlc4+WQ5YWRXCWO7cUwNcKGVdTvmgW74+ifChzhVcItrmWRTkWOneW5mIe8k/WPLegfu','bGNdNCkkvt8yhCk3tCoX','W5GcW7NcLXG8WOtcLqdcV1P+W6K','WQLKEaG','WQBdKmoOya','WQ7cPSkyua','rwJcVmk1AuhcVmkF','W4eHlhFdPmkZbZfhW6RdGSkiW4JcOGZcM8olvb3dSSkPWRRdHtpdKCojW4rRWPldTrnmk13cNWy5kSk6WR4Ox8oLW4OTW41rzeXEW67cGJ/dSSkBW7G3a8o0qcxcRmoOu8oKWOlcPIG9mSolvSkpk8oUh8oUWQuO','WRtcQSkf','lwLVcI7dNLTRW5FcPgDufmkvxmkRlHVcPSobWQvtWRBdGSkw','qImx','W4tcMGxdObu','WQpcSSo+WRzUWR4FW60','jcKTW7pHUi4a','WPfEaYVdJ8kinuBcLhaIW6FcTMaztEkbMmkLoJPi','WRhdGvjz','cCkeWPRcLSkpymkNW5FcS0VcI38dWQBcOLfKrG','nxVHUO0rW5lcLUg5SmooBuFHUlldGCo7W68CW5FHUjBdJIBHUOLIW780W58xW6e1W4FdOq','WQxdSCkDwNSv','DZBcHc9ybSo0rW','X5f4W5P94BQ6cgq','scOQs2a','dt4QW6L0FSAwXRNdNCkS','vmorafieW4pcLCo0WQddH3XgbvhcVCkdWQHEWQyWumk9WPPqF8oPwfxdH23cHGqWDLO','lYJcPZaXF8oCjCks','lmk6jCoVc1zd','iclcKmkxzI3dJHS','B3v4fGlcNGddUSoBWRq','nmoEW5GAW4ycWPS','vHD0eq','4OorW5xdLmkgW4vTW7FcLSoHxmokyfRcSSkHudGieCkbi8kTW4BdVSoCWPpdImktWQddSCk/W53cIW','WPBHU6ZcIwlcTmoPWPLK','efOPrCozWOZdSmobieddJSkiWQBcVWRdIW','Bd3dSq5cgSoICtyTWOhdUSkwFunKW4P3W7ldUrldRSk9WQJdGZzAqSkaW5tdPSov','WQxdKCoVAWBdSCoPBWW','W6b+WRDywmk/W5RdUWC','jdxcMmkSAbSFna','lmooW4/dOSkHhSkzW5JHUzeB','dfOQW4VcMmk2W6pdGv/dJq5VWQpcLJG4W6LGW6H3WOKfW5mof2xcQCkYhCk3WR3dQh3cJSonWQy','W64aWOBcOaH+','iCk9mW','W58uexNcJSkfoa','W4tcMH3dUbKeFmoC','8j+sUKddPmAy4BMlW7mmw1xHUPJdLumO4BUsmLxHUkv7W4ZdU8kZCSklofJcNUg7NSkE','qxlcVmkNEa','XBWjlCoX4BM3pq','y+g7UuFcPCke4BIGW5W','WQldT8kksG','tJ0Qr30','W55uWPdcIZNdLG','W5iuxW','zJNcGmochYqWjv7cGSkIqcqlxmoAeG','W5VdRrfR','W4KufxtcHSkkCmobWPyKn8o5ywaBgq','W5ddMbVcUbDy','Bog7RKtdI8oSW4tcHG','W7pdQSokq0jJWO/cMWi','cmk7jCoUDf7HU617W5VdQ8oIX4zRbSsoWR/dTXhHUQRcUSoz4BIIha','nI/dP8oNl8ohbG','ksZcUte','4PM077MmW4Ob4BMyW47cVYZcRSkvhXLvW6SQWQVcICoDW7ihtmkjW7K','W7hcUokbKq','rZ56WP7dJmonWQ3cGblcIbnTW7hdK39XWQyUW6uKW4XjWPznq2FdLmkOxSkPWRNdP2pcJSku','W4ldRLpdILJdHW','WRa8u8oGumotsG','qJvKWOZdJmo+','W4yXEgHtWOy/la','WPNcLCktW4ldHa','aXT0WO/cGX7cHH/cVL0JWQ5ywbBdQJXLs8oyWRhdUmooW7rOwIybW4/dNcJdKSohW6T0uCkLWRmZW5eDW4e','nJBcJmkhDW','BuXaW74','W77dT8og','qcanWOpcJ8oHW6f1WQfata','vh3dTITwWRGBW68','oIdcM8oowW','kSkbaCoeWQlcP8kK','shpdSrmpWQOkW6NdKmk2hW','nIBcHsONDSkdfCkCWPxcQG','W49eWOHB','umoqfeyCWRxcMCoGWRNdLI4kba','bmoUW63dNSoKoa','h1ldTJ0ygW','W6pdTSozqNzL','qM/cMCk8FMVcTCkdWQXYiZaknW','f1hdUIqdc1zA','DJFcLcTslCo/vMy','WO/cRmknrXeJ4BMni8ky4OERmmo/4BQ2v3fsW5WvWPyOeCo5oCkqdEg7K8ojWQlcLmosWP3dTha','zGabW5HLW7hdRq','lCkBWPJcPEg7Udm','W5/dUrbKmXS','FsJdQWLa','yX8aEfBcVSoYWPSZg8kQjConyZLUfI7cGc7cSSojWPlcRt3dJmkIWQVcMwpdHahdMUg5N23dH8k0WQCcWPi','qSkHW6/dImoYoSoQW7hdMZSSrmk1W5fDW6T0WOJdMbtHUP3dU0WK','hCkmWO/cOCkxkmkNW5pcS0RcQgPNWQ8','XiFHUAVdKeNcGNJcNSoz','gCkNlCkHomoish/cK8kVBXG+sog7HJxdTXCuW7tdLSoLlUg7VGlcR8o4W6/HUiVdUSkV4BUgWRLD4BMAga','utNHU4ldOM/cSmoFWQC1wq','v3NdPJfwWRWe','kJJcG8ortwtcRbnK','W54eaNBcISkvlG','tbBcTW','iJ7cJCkeFIxdMa','fGVdLmkcvq','nbaC4BQIsa','W73dO8ot','W48axbW','tSolaKGBW73cQmoHWRtdJIq','Cc3cGIDAi8o4vxS','nIBcJYWODSkv','xJfUWRJdJmo3WRhcLq','mtZcQZyKyCkyomkA','B1VcMmolaxPXu8oZcmkPiL4GWR8LW6hdTSo7WQRdTWddQmoNcmomwqFcL29/WOlcJ2a/a8oSvCkkWQJdTmkphbJcRSohWQtcQIeanGigbmoPWPBcL2izWQhcTL3cTwxdVsSmnbmnfrfNiv7dHCo2W4XWW6/cJmosWOxcN8oxe8o6xtddRCk0wHxdNuhdKmo5iCopW7iGWRz1W5XvBwX6W73dPSolWQBcN8o8erJdPh5juwaLvgaQFdNdTmkmsLNdUSkAW7iIt2BdRuxcVCkWsmkuvWVdU0ldV8kkjSk+dgxcKbr9WPjSWOfMW7DYWOFdSYCMnvvRWQ0lWPyzqCofdSkYn8oSk8oHWPfnBtZcGCo5ie/cIWNdVXLxwMddP3hdVSoE','b2mRba','zHKoW49CW7NdSGu','eu3dSc8Favjfpv3cS8o2WO1P','rsddV8kc4BUoEG','XzBcTmoEWPD9nmoyva','lZNcMSkrAG','XltHURVdPW','WQVdMSo1','W4RdTbzimXy','pb7cKmkqDZW','W4hcJXddUru','bf9/WPBdKrNcJWZdOfX/W6HcqatcON44qCkgW6FdOCokW6CHwIysWOFcI3RcLmoBWRDTx8k7WRSWW51uWO7cIWO/fW3HUiPwW6mVW4xcLmkhW4BHUlCIcWddJEg6Q0L2rEg7TSotWQddUHe0WQ1iW6LdWQiPpSk3WOBcPa','cmkmWPZcJCkuiW','f0ZdKcyacKfDgvq','uhxcU8kWAwpcTSki','tc4gWPxcN8oBW5nSWQS','vK57WPm','W7tdRCk6WRfKW5fo','idJcNCkbyq','avORCmorWPhcQmoooq','WPFdTXj3pWaZWRtcUmofhZpdVLv1','WQNcQSklvLq9W6u','zSoqW5WWaSkDX4BeU8o7WPq','W7PcWOddOayIW5rewSkfDW','aCkODq','rZ5MWOldLSoZW67cGXpcGK0K','rxtcRmk/Ea','W73dTSoZth4','mt3cUYW+Dmkymmke','WOleQSkejCoAW5qxEq','W6zUWO4RWP3dQCkd','wIL6WO4','W6HGfCoO','W7WRW7zTuCoUWQxcTvpcGmkfc2xcP1ZdSNCRrLbKWOKrW7q0W6BdVSorW5hdVxzTnmknW57cLv9Yi3fJWO3dLmoaDJRcJ1VcOmkBWP7cOmk9W5JdPmoBWRlcLLySW6P7W6tcPHifW7pdM8kXbmkCqCkCEadcUW','cSkiWP/cT8kplmk4W4i','yJjLW6W','qWtHUQNcJeXIWR3fUG7dPvRcMXdHUQOFzMm5E8omW7VcHUg7GCkloeVcNUg7GSkdiCwG4BU5WQldUGZdL+g4HKpdMG','W4pdPSkiW7nebHddJW','evyXC8otWOVcS8oejfRcHmkIWQtcPHRdKCknWRWWoZy','XQ/dMSoFWOBcPmodW5ul4BUg','W7VcHW8Gb0v5WOeG4BMWW6ZdV1RdNuBHUlRdLN5kkclIHyGkW43dSCAuW5FdSCkdW5DuxmkVW5FcLSoHBKJcKY5sW5enWQHsEwS9ymkjW7foWQ9JW4ZcJSoRWOlcNbtdKCkdeCkKC8khWOXxWP3cTSkDyqSPdGfpWO3dRN1eWQtcJSk3F8kPpX8mxa','dSkgWO/cHCkxbmk+W5pcSh3cHwbA','u3JcTSk2Bx7cSmkjWPe','W6BcMfbsWOzEymoGWR0','WRpcSCkyqeugW785W4WwySoq','sIG7swy','kMrMW7KPWOKqW4lcGSkxW5RcSmkdWPFdP8o5ys7cMeZdLmkyW7xcTb9vW54OWRG3W6VdP8ozsCoLh8orgCopwJu8WQBcTW1MD8kqAcL6WQuxhJxcTmoqmCkqCmosrGPewXbOWPtcVSoPW63cG0FdRfBdHwNcS0JcSwO4W48HbKjWwCkHs1zVWQ4Gduq7W7hcQH0EWPtcVmkRW43cHCosWRJdO8kZW4FdM07dRCoffe45evOOdCkoXiPEW4esDmkZWPiG','pSkNiCoZlwLdDmowWQJdUHLS','duVdUdWFaf0','W6XVb8oKuCoZvJ4','s0T6WONcHq','W6aftGy8','cCkDWONcJCkvkSkJW5dcPa','8l2FSmobW4ag4BQmW5qWs8kpW7K/capdRa','v1BdNmkcrJmL','W6BdSmkBrvaGWQG','Bq0q','rxhdVq1mWQ0','W6tdQ8ogsa','yq3cUmkPW60/zW','scCtWRxcICo2W51VWQPb','yctcNCkFasaT','W5WDsHCJW6bt','W7nVb8oUvSoZ','pCk3kCoUiL9VBmowWQy','W7ldS8kgW4rmbIhdSSkgW67dLuK','WQZdUCkougCdzW','s093WPtcMbxcJr4','ugZcSmkR','s0NdPvdcICknW7m','oKiAjHO','mcZcRIW/Fq','W6TFWO/dSa','WRyMWP4wWOpdSmks','WOxdTt/dSmkVW6K','WRRcTmoK','nsdcRte4kq','WRtcKGtdMCoqcLe6WOnRXB7eLEg5GJpdObpHUOVcJgJHURtcHv3cSwFdOUkbGwdcSog6GSo8WOlcLUg4SSkLWOXEtN7cRCkpXOdHURlcHrBcTEg6PxRdPSownhpdLq','nKqnjchdKmkQ','qMhcP8k0Eh7cKG','CbKtW4q','W4pdUre','WO5buxpcICoEzq','yWxcOmk4W5S5ogddQmkkgIVcH8kGW5NdLG','4Ok8WPJdPq','W6ldO8oFrhjb','XRNHUQxdKSkIqtVcQtG1','WPJdKK93WPddGCsLxYa','WR/dISoJFqddL8oLEr8','cSkiWO/cKmkEp8kKWPVcVL/cHgvpWRG','b8ohWPFcVL5gfG','Bez8W73cVd/cIq','qCk1WP4MfbddUuBHUQ9+','XQCnxmoOWPefmSoc4BM6W5mukCoHm8kN','WRH3nmkL','cJZfKSodhKK+xNlHU4hcRSEM4BMbWQi04BIDbh4','wsTkWRdcOG','Cog6L0pdGmk2m8kIi8ou','vdNHUA7cGSo5A1TgrSk3','W5pcIWJdRrKhp8oBWR7dKLuDWP8DWOPdWQn3','abdcVMBdJSo3WRyEeKDfWRVdG1nubsJdImoZgCkhfbH3wSkqWR8Lbmk9W77dOCsGWOPNgKe','WR0HeCk5','kdJcKmkr','mSkrWOqK','rSknWPlcKSoBlSkMW5FcRK3dLZfcWQtcRL4OsrpcNcVdOmkk','W4XmWPZcNtldKCkg','W5KdchG','Bq0uW49aW5hdSqC','WPtcTXTyer/dO+g7QCowwvXuk0CO','idVcN8kaxYxdKq','DaKtW5G','WPlcRmoJWQCnsv7cNmooWQhcMdzDW75FxKngW4SUEh9hWPWKC8kFWPuRgCo34BIeWOjmea','wL5IWRtcIaRcHG','BZhcIW','nsFcKSkDzG','XjdcReddOUg6NmoEW5O','rSkFWPdcTfXCeq','Bmok4BUtsrFcUmk1W7iUW4S','w1nZWO8','p3BcHcOktSkXeYiWW4mVW7upWQRcOCokc8o8DSoWW7/dVgnqW40KW689bYdcTYJcS8opWQBdIColuuRcISo8WQ5DltOtWOX8nh0IWQWLW4NcKSoRFd3cLCkdwmk2W6bRWR9DuctdJCkvWR13tGVcPvldGIaFFmkVegq','C8o+pqFfOog5KSk1W50','w1D3WPpcGJtcGGddTG','EeNcM8kBpv7cKCkZ4BMtsa','W5bB4BUrW4L+WPjUaog7Sq','wvtdL8kBvtm+hCoT','v2JdSWXlWRyh','CtL6W7W4W4O','yb7cVSkJW4W','W4SAyXSRW6rBW4qXW5ZcVSkVfmoD','W6rJ4Ogb','WQhdNSo1BrZdPSoJyHBcSq','WQxdI8oKyWC','wGZcVevT4BQ7WQ1hmmkKWPVdHCkyCuO','4OkEW6ddK8o3gq9cWQ7dTsDtBCkKW5CMW57dN8omD24gWRVcKGpdVCkAfatdJmk1WQHZWR7cMSo2d8k1WO87o8kslSoNWOldRZnjWOHna3bpW5TbW4rqmvVcUX9nW58tE8kRWRa5W53dVSoRrXddHCoDWPddMCoHt28HaCkgW4BdKt1TWPZcU8oEW5mGWRyyiJJcOmoaW4ZcMSohW403W4RcNae/lmogW5Haiuq3gSoSFN8nW6GyD8obWPanWRVdRqVcIHZcU8kLWRnHWPNcJ0SYWQZdKL/cGmk3oCosWOXSdrHKANrcpYZdOCoJW4pdSmoLm8o7W7vgWPj3W6uNW4a','CstcKSoggIONEW','yqNcUmkTW5CNohxdQSkkvI7dHmkZW4pdL0bW','l0uBiq','sgNdQwvWm8orDSoDW4BdR8kflmoCbuldKfBdTwpdImkuW7LHWQfAdmo2WOT1W6ytkXe/W4n9BCkMWOy+WPf3W517WPZdIK19B8obW6ZdI1NcP8oIWRpcQZ3cQgr7W4ldQh/dV8owF8ofW6ldSrNcSHeVxeToW43cJ0xdSSkfW4RdUwhdHtxdRXnlWOfEjvRdJmkSxvJcNwJdJCk9W73dHGNcUSkqgSoxWR3cH0f+caaGWOtdRwlcVCoUt8oDnsddMSoNygu6l8oDWP/cVCozsSomWRFdUHBcNt9nCSkGW7/dU3RcJaVcPc8eW6ddPSkIhJRdSCkoWOhdJKiEFxmZW4KcntdcPCo4W7/dIe1gW6GirepcRI8ikXXS8jYINIm/X7lHUBfenbRdT+g4Iqf6W4e','ptVcSCowtepcOXK','WR9SpW','fmkCWPy','XkxHUytcUmo3DEg6GsK','WQf4o8k4W4hcVSoMW6u','WRldSmkBv2arqdJcSuHT','W71/W4uXWPFdOCkBymosxNadvCkaw8otW7RdNCk8qmkmW5ddPColWRWXb0KiW4tcQYxcJmkVnKHAWOZdUW','W7FdP8oFAhfLWORcNWjuW5CTsSkK','WQFcVmo4WQrN','W7LxWPpdPWO','fSoOW43dHCoIk8k9W6JcUtq6uSkwWP4LWQi6W48','sgNdQwvWm8orDSoDW5RcQ8omESoaaKtcIuNdPcFcHSkCWQuXWQrsaCkWWO5OW70skHG/W5f0EmoSWOqVW41gW505W5pcMaK4pComWRJcHaNcVCoSWQFcUMVdU3HJW5ldOdRdOCoek8okWQldPXpdQeORmaClWPxcLexcS8ojWOpcVI/dIhZcU1ygW5jymLVcGSk7v0BdLtJdI8kYWRddNGldQmoiuSkdWQNcILyKqX5SWOldPN/cP8oMgmoFFsJcGSoTCcTinmoDW5NdSSkxhSobW6dcV1/dMNCzAmoIWRdcQ23dH0RcQwaBW7VdRCo0wdFdO8koW53dHLailcrdWOWyjcJdTCkGW6tdILm','kddcHSoNse/cOWPnECo9WOpdP8oSmSoa','WPNcTqzQmqyP','W53dS8kDW6rf','xuNdONa','cI/cSCk6AZq','W5NdVmkhW6jFisRdSCkI','c8kSECo0WQmmWR4','DGNcOmkPW50/Cgu','lmkZnmkSj1jhASowW6BdOHD8q3m','W7rtW5RdNGeq','j3iJWRb4W5yFWQxdG8oyWR7dTCor','WRLKBtpcHCoGC3qFWR4','qu3dOG','WQpdGq5qWQKipa','W69eWO7dUsWLW5TIFmkszZq','W5ZcNmkwWOhdLrXr','W7tcNMTgWR9vDSogWQtdJSkv','W4/dSSooq3LPWONcNt9nW7qMD8kjWQuWWPZcLW','arldI8kBttSO','iY/cM8kx','WQNcJ8kzWPFdM8oyxCkUW4a94BUsWOxdJ+g6GCkPqmk3W5G8mCon4BQmWQWPW7f1XzhcR+g7QSo/WOm','xt/cGSki','dSokWPxcUfDBt8o5WRbUfcxdSmonzmkrWPpcIgXSga','W6vXW4ObWPxdRSoxs8kfWRuG','W73dO8oB','rSogWPNdMSoBi8kIv8kKhUkdIbKoW6VdRruLcLldJM/dOSkuW6tdG8kxWORcGSkYWRRdP8kAWOG2W77cO8ogs8kIgCo7W7ZdJSoLWOzTegJdTG','WQy4W6G','rrJdKmkeaq','W6n4WOPTr8k5W4hdSG','WO3cN8kxW57dMeq','WPXq4BQsWOtcR8kj4BILW5u','Aw7HURtcRSk2wSkTlmoE','qg1+cMNdMKK','EdxdOqXhaCoHBsWWW6JdVmkqA0C','vrbiAuJcLmoYWPSVx8oJC8onphP7awpcTYZdV8kmW4BdRd/dKSkiWQVcMwpdHgxdM8kEoCkuWQWKdCoxW7FcLtDXW683l8kmrSoHWPOJWRZcVmoQWP7cTSkndI/dVKTWuCoHvemeyMldPSkGlSo7c8oArCkxBqhdTW8','lwTZW6yMWPmdWRVdI8onWP/cQSksWOpdQCoSmxBcG07dLG','W6zeWOJdSWyJW5T8FSkqBcqbtq','W4fOsCoqcfW','jCoU4BIIW4pcOxZdSCkMW50sj+g6LmkSW4PJW6T/WOJcVYNHU6VdVaS3','nfRcOmkJ','cLddJdGgcKfQhupcUq','wUkbGSohW4VcId3cQ8oyW6m','W4ShrHK','ENJcNmokmIbtg3BcJ8obW4ncw8o2kJddOwpdRsjJz18aWPBcPHldO8kEWR/dNXCiWRbhW7W','WQNdSCkEv2Oi','Cr7cPCkH','gSoUW6tdHa','W4WqtGyRW60','dL7dQZStcX5cduJcR8kUWOD0W5vrFWBdLG','E8kdWP3cVXL7cSo74BM4Aq','tfRdThBcIq','W5WXxa','WQ9KEdBcRCo/cMicWQVcKmolWOdcR0xdLCkBhr0','WR7cTSkpxeu9','aSk8ya','W7vHp8oOwSotvJDOWRCdW6uUsW','WRy3WOrVWP3dSSksACkc','W5VdQGTGmW','zmoiW5jhW4ft','da/dNCkguG','p2/dTG','xIjJWOJdNq','WRb0pCk/W6hcVW','W7KXrtX1WPO8','tKNdPuhcNmkyW7TBxbmNW6lcQHC','W51eg8o6ca','DWNcQ8kLW5eL','B1zPW6pcPa/cIt5wW7W6WQLU','umoMECozW6LJW7mBvCkIWPriEWLptCkAa8ohWOueW4JdO8ofW4ZdO33cQttdPmouttDIWRtcP8kIlLxcGmkAW4NdJSkJv8kEBCoyESkAcCkBua','gdpdVqHwWRagW7xcIW','nmolW5npW5bcW5ldNtZdUCkcamk6sHOXWP12EtxcOa','W5XrWPRcNtZdH8kr','A2RdQmkchGRdRv4HmmkUW5FcOSkID8ksuh/dIhNdHchcUJHXqmo3nSkvW5amcCkMrrZdPSkPs2FcQcKqkSowWONcV8kdWRVcISoFW4jCWO0DcwhdMbhcHmo2ASolBtldSmk1W53cTCoVrSovaSk7W5hdQKKdW6dcHmo4W7FcUcONv8oWnvJcKqr+WRD9WQtcVxnVW4BdSw3cKGHWFcZcGCoaW5JdT8opemkmfrKnrCkEWQmDW6S','hCkBWPtcKCklya','CKXVW7RdSc/cJYbwW7OG','mNJgT8oaWOlHUQxdGXL+qsRdQHenrCoWmdu','W58Xt31nW4i4jCodDCo5ASo+WPHzbbZdTCoGWRrA','WOqUuZWr','lEg7MmorW4TXmSkJhCk0','t8oRW7vP','8jsLKeFcVI3dLSksvCkg4BUcAMpcS1lcJ1Ou','t1BHUQ/dV8k6FmkIm14','ytZcHbPnnmo0','sfPYWRpcHrVcKrK','icJcQI43yCkEi8ktWOldTCkgpCorqaJdGHlcUG','W5NcGqJdQq','re3dPwFcMmkyW7i','WRpcQ8knwei','jmkCsa','c8o/ASkj','FwGHWR16kSk6fCoFXjFcStbepSorWRzGW6WSWOyUW4iE4BQmW4S5WP3dL8onWQqbWRNcJSk3pqen','b8kSFCoj','BalcVmk5W4OqE2ddQmkBcMdcM8k1W4VdI0fQDCoAzeG2vwXcWR/cM1pdKJSRxd3cRa','vvuJb8oEW4JcVW','W4XnWO3cLZNdHCkChM4','W6ldP8omrhjU','mtZcQIy1ymkc','W7vHjSo3sCoxsbfAWRau','fG/dMCkFsdu/aa','WRTUFZ7cSmo6sh9DWQZcI8oqWO3dPHFdL8kodH3cRmkKW7dcIhpcHmoCWOfYWPldVXSckWxdILzNnmo4W6y','WQFdSCkwr2OulJBcSfmYowCwzh0','WRJcSmkeuq','WRlcR8o4WRHW','W63HUQHyWP0NwCkZWP4','CSkd4BMqWR4zxqTKWRTG','jt3cJmohAupcQqPP','ESozW4PnW4PtWPS','ztxcLtzNlmoJwMX7','xdyiWPBcVmoNW51XWQ9vsdFcM3NcRa','W4SEe1dcJSkfnq','W5pdVSkmW6zF','yZ3dPGznk8oICty9','rd9JWOu','CConW5bnW5zFWPddNG','rsuGswu','W4FcMW/dPa','gmkMECoCWRSRWRzp','lUg7PMvc4BMTW57cLSoiWQXAWOVdGCkapr7cN8kxWONcTsfIW6yXW5beoxVcImklpEg7GsxcI8kB4BUeW7ldOmoHuNdcTmoAlmkPa1ZdKSkVA8oEsSkbW7hcS8ocXiVHUlumW7NgUCoOA8kDW6nUdqhdUw3dKcTWWPbsiJxdUCkvW7W9W49sqbZdUXG+lutcMSoiq2ydW4pcV2xcGSkYWR7dRCofa8kPWPHRWOaAW4CwW6tcIJFdSvGNW6VcNatdJCkYwM9SeeP+WQlcVCkXACo7z8ozjL3cISkVWQldJCoGrmkxW5NdI3pcG8ouWQ9GjY/cM8ohC8kTW41nWP5cW7fVWPKCncxcR8o+W4eFBMddUvLQWPOrmIFcGb7hHb/cHCo6Bq8zzmkT','f1hdQt0cnfXhh1JcVCoTWOr4WOWCmqtcNCkGyq','W5/dVrf3','CIlcLSoefIS9te7cL8kMr2ur','Fu9PW7dcRW','WQ/dJCoKBWddGmojEX3cQcZdJxu','tSolcuSv','xt9NWO4','B1VcMmoxdJ44bCoTiSkdiL4GWQnKW7ddP8oUW6BdOuNcS8oMdmkdhaRcKdf7WOhcNIm3uCoWsmojW7xdUSknavlcS8kdWRFcU35CD0GDwSoKWO3cNN9qW7ZdTbVcU2BcUwTvBvbqDfy1BGVdPUg5JCownCk3WOxcHCkCW4jvuCkQxUg7PCoNWROubSkvWPJdJSoPiCkAWRCP4BIjoSkE4OAOp0TRW73cP8ksWPFdM8Ae4BQNs8k3jHLbnog7TfGUmSEHp8k9WQzRjCoLWPtdOcHkd8k4f8oUW79YW4hHUPahWRjb4BMuW4824BI0qdZcUNeLW5ePW41MW78uW47cV2iM4OAhvqBHUziEW5/fPUg7SSkqgCo64BQkW7SZWQtdN+g6GM96W67cUMSrW4SbW6mZhrrUW71WWRRdGMzEwJVcGCkdW5tcUW','W6VHUPZcI8oEnog4Gq','idRcKSoxsNhcOX9SDCkZW5xdSmoNmmoBhZhdHsRcGw3dV3SLqSkkmmkfW4GibmoTuWW','Fd3dVafkbq','re3dOq','eqldImko','CdBcVce','WQaSWP4JWPBdSW','e1ddVsKAqKnBe13cRmo3W450W4HrzHm','WPmQ4BMjk8oAWRtdLYFdJbm54BQahmkasa','fI3cOH54WPynW7BdKa','nan3WRhcVZpcLh9aW7y0WQ9YWOL7WP0xW5hdRmkIWR/cMCoWWONcNdO5jtjWWOfyW4xcKXlcI2pcHWNdHr/dTmoYW5DqaCk7W6RcIx/cLXC','W6lcLeP6WQzdCa','ENJcJCkeCYRcN38XWO82W4nEgCo2EwtcUc/cQd9HjbbqW5BcSehcTSkqWOxcMveqWQHfW6imbcHrW5RcOKDHiby','WQZcRCoyxxXUW5NdSeWaWRv0i8oGW7f1W5hdHmkZWRBcG8kQbmoEnWxcIMZcVX3dTg7cJSoWWP3dNsNdKCoasGOJWPxcVSoIjbVdSCorW7FcSmoSmGVdKCk8B8kRWOhcKa','sCoqpeGtW7NcL8oWWP7dLJmngvm','WP8kiaZdMSohWR5nWQit','W6r8aCoOsW','c2LOrghcIH5SW5VcPdmCxCoguSo9B1FdS8keWQXrWQJdQmkwD8ooW41pW7HGW411zCk7W7ldRSkucCoMWQCGoG5eoSkoiaT8tqNdISopof/cKmo9g2W4arZdR2/dIbdcHg/cKJaOW6BcTCo7W7RcU8kUgmkUkNhcO8o8wmk0lSk/WONdLSkUW6xcLSkUeSkorbVcVSo4jItdGmokoLlcGG/dHGJcJa83bSkBWPtcKSouESkOW5vSwrZcSmofWQ3cHSoFggv5cCo6W6OhfmoXCCoYbXiiWOv/WR8DW4hcSu/dG2GWktJdNh/dV8o6rghdQ8oHWPvmtSoVW5xcVSoeu8oZxSoGbYjTW5VdLhFcSCkyW7GXvrS2WOVcPSoHWOBdJmkaWO7cR8kCiJrQW6VdMSoboCoiW7yidSo9fbxcM8okW57dKcrVWR7cH0vRWPa5','k8k7mG','yWxcOmk4W5S5qxJdTCkB','W6NcN05dWRT4BCo2WRhdKSkckW','W5jyWO8','hCkyWP4oWOiwW5/cKh3cT8oxqCo2r0H+W4OLEwhdSGicDZ0jW6FdOmkjWQldV8kBemkcrmo6WOJdI8k/uCowa3eclgH3w8kqW5FcKSkACvnsk8oHWORcUmksW4GnWOWqWOjqW7Tol8oVW6ldPmkmW6TqF8k5a8ogrCohhspcNIxcG8o3WQFcOCovhSkuW5yfW5DOy8o9Ft3cHfxcVCkcW5WSWQJcQ1KuW4NdHKnjf8kGj8kMamkIW7HVoSkTvdKGu8kQW5RcNaf4W6eSdJHxiSk/sCkfWQ/cTXaukSkjW48vWRC9WP1EsWRdLCoYAJSgwHD/iCkLWRJdN8kNBSoAW64pWPiDcuDeW7hcISoHWP/cK8kEW5/cUmkIW44qpw1KxXWHW73dKCkBcxacWRpdQ8kfl8kgaSktASoPW4KEsmkQWP1mWPS','ysRHU4RcLSomW7hHUz0HWQjB4BUUnSosySkQW7m0a8oZtCoxnLX+','DeXLW78','W6HSWOH8W7dcOmoxlmomDhadvCkaw8otW7RdGCkZemksW7RdUCoeW7bWrqXeW5RcGsxcJmkVkHWBW47cTXjbmmkWW4nntqZdNJ9IWORcHg8rb8o6o1CAWRb3WPNdK8oSnSk2W5tdMmoqWORcQ8keze5ZAh9QWQajWPtcHCkuW7FcR8k7w1qNo8oaWRxdMetdHmkwo0TbW7NdOvf4W7WWWPeojmkvW5SNWQFcNCoYq1GBd3i7p8kuW53cNmoLW47dLSk7CX3dJInrsfLBw1aBjSoez8kyiSo+aCokW5SSD8ovc3HslXTlaCoynmkJcCoyhSo1W4BcVCk9e8oLfYJdP8kEifueWR3cP8oTaCk+W5bsWQBdKmo8qWHXuHrLW7xcSWNdVCk4WRTKW6ZdNXuFWPFdKHbEW57cOSkoW47cPahdUfxcHmkhWQS4W6BcL8onW5ypWQuslMBcVcmFWQJcGSkBW64JE8oesSosx0FdIZdcHrrqW4ZcM8klxatdPvJdJfOgz0vxhb9McmkLbhCEWONdNCktWPOSW6tcKHekWO04WRzmW6D6AJSpWPXSW5VdTxmsW7FdN8oPlfzoW7tdMmk9WPeqnNvkWQ3cHNb1WRNdL8oLpSk8WRtcLmkluIxdQNxcVCopsSodWRldH8oVWRNdOtFdN8kJWOZcN2tHUkpcR8oyW6ZcJSoVbmolASoKWPZdMmkgdbpdMCkRqK9qWOmHW47dI2/cO8ouWPNcOquYW78mo1ddLv9uWRVdImkVW5Kefu/cNXNdJ2FcKNxdKSkhW53cPXpdSCovW7/dNMhdQ8knWQnXWPBdJmo2W4n/WQ/cS8k1WOeWWPlcMG0htSk4FMNcV+g6PYGmyxpcGsRdK8kgW53dMmkAW7pdSh8hxISbE8oYn8o2yCk6kmoEymoQfwddVhNcMmo8CHZdNSofcXyitCo3pSkFW6ilagDixIVdV2BdIKtdKHVdJNnyk2uqWROCW4bFW5FcISoSl8kbgvhdVfyWqWpdG8orDtRHUPG5W6Kowmo+W4TubConW5lcUmoEW7ZcHZ5DWQ4MW4tdI2NcKXFcVSo9AGRcQHBcMKvikwOWWQvqW6tcRdWXW71FWPlcVmkMxfi9ESkaq8koW4JdH8o3WPNcLmkjWR/cH8krm8ourX4jehbBB08uWQFdVaHDW7Phtb0UnSo9W4/dL8ogW7T/W5pcSby8ESo+W5FdKSo3WRydWRBdLSkrWRVcJ1HaxZpdMCoYW5KyW4BcSCkTcmo5ffCdEJhdI8oCWP9LkCkaW53cIKdcPL3cUSoCBmkmWPfvkNe2WR3cHCk5W6VdPSoFWRanrCokDmkxW4SXhmo8W5ZcVw85WRVcKSolqCk+yvhcGMlcGXGxh8kDgCk9W6ZdVmkDWPxdHq3cHtVcSmoIf8oRW6hdJSolWP8bWOPRbstcMCkYW6hdRCoXeSk8C8kUWPqHWQVcVhhcKJ0OW7pdP8oaqSoYmu7dICoDWOiPWPZdGSk/kSkNW6ddJhdcScZcMbrGm8k7yCkwtmoqtmoWWRlcGmkEexBdHmkokutdPSoauseRjf9Hfa','W5BdVCkBW4jmcHy','yCozW5jBW4C','XBlHUztdR8onWQeeWRddPa','qCo0W6ZdI8oZpSo8W6dcNdS7vSkPW4CLWQqJW5VdMdq6','stCjWOxcMmo8W51V','WQJcVSkCxf4p','yx/dVxjKk8kt','rKldSMJcMCkEW70','WOmwW4hcTe9TWPOWh8oDi3fpgCoSvLxdTmkZxCosWOzMhdK','qYSjWOpcUmo6','WO3IG5PDoSkCWPy8W5VdHW','nvVhTvdcNmkDWRxHUA0J','W619o8k8WQ/cQmoNW7D2WQ4sW51IqSkWWPeVWOWTWQVcMwioeSkBWQ/HU5zzkCoZeSkSztdcMog6OhjE4BITruu8wUg7OSouWQS+Xl0Ldmk94BQbpJFHUlrSrCkO4BUEWOhdIf/dMog5VCkKW4a/W4TBW4BdUCoJymoSrWtcSCkmE8k1WPpdHwrVuJxdJCkL4BUuzmobCEg6GSoWF2NdI+g5L3T4jfVcL8ksXlZHUznzuSof4BUtxCk2FwfsWR7dUCktW5XCW7aFW6xHUAPtWPldMCoJW44KsZK','WObvWQlcVCksdSobWQ0mWRispSo5kCkdWQ/cHrqSimoyW6xcNCkXcCofW4/cMmk4WQHHnt3cOuBdGe5HW7m6oa0KxCkThG','eXlcLCk9BW','W4tdKSkfzv5n','lvufjH7dKq','W5OAW73cLXvcWOJcLXxcQvO','qtJcN254WRdcSqfb','WQVcOmkvjZ0GW4FdMKWaWRv0i8oGW7f1W5hdHmkZWRBcG8kQbmoEnWxcIMW','W53dS8kr','Duz1','tIWoWOVcJCoHW5TUWQb2xdhcK2lcQ3W0','dr4kW4L0BM5n4BIFWOu','XkFHURFcTSoZF2pHUj7cKG','WPRHUiRdO8o3yEg5NGBcO3ZHU6LRXB5RDclcSSoZFmouD8koW68rWQTz4Og9sxNcVmoPCmowgGJdUeddKog7UG/dLXJHUR3dVGeYWOhcOmk1gEg5PSkOCSk7nUg4IXRdQmklrgfNwSkCWOJdGt4YWRtcIuZdIUg6V8oxW4JHUzVcL8oQqt/cNI05WOJdS8khW74','cXtdLSko','W65tWPxdKqmOW5D1uCkjqsGMxq','vSkcWPlcUq','aEg6HSkDW5q','WQv4mmkMW6RdPSo4W7nPWRHmWOTRsq','kcBcOcS','vuVdRCo/WRv8WQtcOfi','W7fIeSoKxmoAvt5FWQyd','WPJcM8ka','hmoWsaqPW6e','WR7cS8oKWRjWWR0tW7T8','sLCSr8kCWP3cSCobpKFdNSodWQtcObZdLmouWOC2nYZdTtNIMkTilJ/dICk+AW','lsRcNs9gmmk8qhzXWPDMWRPbWQFdOSkieCkJASoXWRZdPhjn','FSomW5Td','rCkyWPRcTfW','FbnLeCkCW57dVCkaBrtdG8obW6JdSX3dISknWPO6nMlcTgVcNGDYzSkcWQOHscxcP8khb8kRWQ7cMwTAW5VcRMhdVsjJW7ZdMMNcNX3dISkLW6lcJhZcQwVcQCorWP3cH8kKWPesu07cRY/dTX8UW4OolZFdGSkIWRiMW5HdguddPGnTAbpcL8kCfcfuWQZdLstdM8o6W6pdT8oDFCkhW5GNW5WsW5DGm8oejCkUbog6V8k6WPZeRmkDW68kEc9m4BQYiCkWW63dUt7dOWhHUyrdxCo44BI9WRdcKcekW4BdJSEUkSoFWRNdIdTU4BUCW4hdLxxWUjYAxSoOWPxcQ3RdVZtHUQDSWRVhL8ktrtPkW50a4BQhW4qFlNtdGwdcOdldI8oYxXOkDmk+WPNcG8oxCKHgECkaWRFcI8ofFKWtW5ySqCksW4LDB8oQW4tcPfVcKCk9bCkMW6BcG8oQnCkqW7T1W7lcQ2iHWQ48FSoshqtcMCkmyKnSWPBcKgtcPCkiWPy9W6tcNWtdKHpcQmk2ig1/W792WPaMWOddNxuiWROlkuLReKWAiSonWOGGW6ldK8kgWP9GWRv8ccVdVCkPoKtdVSohy8kGEGLoWQGKEEkcPtvGW7GnsgxdTmo+W7tcSSkNBvjeW4ZcVmohpJLZW6K1F3DEdSohDcTMWOLUoWpdSGaZbfhcJ8kHW6vctCo6WQNdSdtIHy/dN8orWQVHU5D+cSkjcUg6QCkMWRVgU+g5QInun8km4BQkWO5EW4feWPClWR3cUd/dMsL5WOtdI0P4WRJcOmkNWOLHq8koCEkcNSkbW7NHUP4GW7We4BQQW4ddJ+g4IINcKCkiWPqcWP5paNxdQr00ma3cKcajWP7IHAlcOmorWO/HUQ5WAIJcG0H+xIdHU4/cHrNdUbVdHK/dH0NHUkbzm+g5HbtfS8AL4BQaeSkcAeldUJVgLSkdWRFdN8o6W5OYW5X7W4JdONtHU5ddGL7dUmkVWPJdKGFcIxiOWOOzW4FdLmkuwcxdGmkcWQldG8oAfokdKCkJpUg7NNtgNCAO4BMsW7r+vCoxkmoUWOm/XkCmdI7cGSosb8odo0BIG4/cQCkzzmoeW4RcPSobW6FdRmokt+g6PX3dHSk24BMeqCkL4BUFgSotw+g7LSosWQ0tDwqNW6iXW7FHUQJdR8k/WOtcQvhcKw3dICktWOddVfRcVb/dPwhdSmo2WOFdL8o3WO7cUmkOWQBcOSk4WOpcMmk5jIJdUmkxWPxcMvxdUSoIWR4JW6XjW5hcS8oTWPJcUb8GW5idWRJdQIxdRGPlkGNcT8k+cmoTBmolW5FdVSkEWPJdI1CaWQddGZHiyCojgxNdTsNdMvG+B8oIxcyAoN/cQbSiiHu0eSkKdCkRW4BdR3ddUmoHW55Uhcn/fmkVBqpcOCkhW6X2WQVcHMbuWOWWWOZdJ8oyC8kkW6e2WP8PW6/cHmoFWOPJW5xcHt/cMCkPW6CCxmoEcHPjWRfZk2CefWOsWRNcRKFdQNpcTYO9CmoOmCknCu1gWRjhW4PaWR00hIeaW5ZcO8oPWQxdTe9bW6jakGBcT8kiWRFdH8kccSkcWRTPiufhWOFcP1hcUgOVWO/dLejNWRiGALZdGmkkW4/cQtzPWPhdJCkuWQRdHSokueFdKmoXWQtcRmkzW7PjnXLAW7FcImo9wSoyW4VcJCoaAqxdQ8kDW6CBWR0ZnIPPW4pcQmoScaNdOSo2WRmWicNcT8kkWRrGWPpdJCkqW4C4W5OvmMJdNmkhW7rVaCkpcXpdLdpdLZtcRmkjWPJdSCkydxTPW5nUDdldOSoSmCk3W5TKWOdcT8o1WQPRWQpdS8kCWO8dbSkgWOHRW6eZW4jnWPdcI8kvA2i4rrhdLKxdQCouW6jNbmkrFMqDW57cNSk9WQRcOSoBWOVINl7cTmEnXjNHUk/dTCkRF8ks4BMRsg3IGOyjW4zSlMBcJ23cPSoYW6PbfxBcNW5oW67cMwqjWRpcPLWBW7LpE8o7bZtdSWNcJYSJW71HmmorW5xcS8k1WPejW7ldTZmFW4uQu8kjW7xcTX7cOIDsWOThW7RcPCkHW73cV8o+W63cJCkwW6W3mYVcTmk4B8k8dCkqm8ogkmk+zCoxW6mkxdZcOSk9WO3dTIddLSkqWOL0WQSpWQe4oNFcVxlcJt1mfSkHWQP4qSoaW5hcTttdNrLbWRFcV8o3WR0AW6bHk2ldLa3cISo4fbOkWP7dJWNdILifE3DUfdFcRSoArmo8FCkqWReSWPVcMc3cTJ7cMmkrW7pcS8opE8oaW4rVzMRcQW/dGfrKWRaGBLZcTxxdTatdNmoEvWvnWQ/cSSkECqudBsVdSSo5WQFdS8kru0Kwhc0TWQ40hCkMe8kzW7RcHmouWRv7eLnqWQJcMCoNW6H/cmkWW6ZcICksW4eBWQPBWOpdV0NcOqqaWOyZxH0ErX3dQrZdGqdcOYJdQCouW7n5WQrLW4ldNv/dP0uesCkeW67dQ0C7W6auW77dI3K4E3LNdSk5Db52rXawsmoyW70AW5BdOCkBWOzVW6T6WRNdSxPCBCogW50KW586wqqLxW9aAmkDWOWKe8otAL3cTCkBiCoqW7XsW57cOSofWR3cMCkYfCoSo8kHamk6uSk1WRtdVv4eEMJdTCofWQeQaW7cOMvDC8olpbFcGCkPD8kbqmowWOddRsqHw8ohW57cMWZdV8ogb8oNt8kJ4BMJgZr/W47cQSkUWQ9owmkdW5n+fcTUwrhcQ8kqF3OoACoAW4ZdL3q5ymoRfaVHU5ZcLCk8WR5Lz8k5W5jEWRlcOsFdO8k2W5zoW5GwWQzVW47dJSkPcCoQwZv+E0FdMJtcPSkssvq+W4NdK8keCCkfW7hdKqvmWPVdOSklW5HXWR7cTCkcWR3cJxRcGmokW7ldISkvtUg4VxPVrx/dP20AW5ddRCk4WPtdQSkoW5FdKmooWRJcVIKzW5mEkG95W55nW6mlW43dJCkBWRpcHSopzCkqs8kuWOBcK1FcVhuBW78anmkrWQrqW6ysWOVdVZiOoCoDF23cOL8TDSoXWRqOx8oeWPWMB8kKEgmVW7ldJCo5tmoWWPzfW5SdCtezpCoGWQOGW73cPSoQWO/dVerQbK8XWQ7cJCo9ECkTW6/dISozoSokWQVcPwH0WRZcQYy/kmk8W6ZdSCkqWOuiwSofWQmccSo5dmoEhcFcLvNcRIJdV8oOWPH/W4ivgGqRWRW5jSkgfdyaemkhxCo2W5X2WRFdK8kIyhDhWR3dINFcTevWzr3cGH3dIr7cH2jMAqX+W5hcTCofubpdT2mmESoVzcFdKW/cQWhdMMS1ss3cIu88W5ZcUCk2WPhdJ1nMWOdcGCklfSo6EuXUW5rmWRaKW4xcK8kinmo1W7X6hhRcRCo+W7pcLmk6hKFdNCkVW7m/W50GbudcICokoIKNWOBcNvbBtL3dSLpcRCoTWPu7lvn7W67cVYxcTeitDSkDWPpcQZ/cI8oFg8kYWPJdLsJcRJCaWP7cSSkNW6dcIXuTW5CqkCkUWORcUxCRW7qpWOZdGmokWQ1kv1feWQGJfNRcN8osANWEWOeMW7/cMCkLW6CyWP7cP8oSWPNcRfZdMbyhW6JcMmovWPlcMmowWOzwcmojWRHyD8o/W54qEX9mW7/dJSk4sv8GWQKBW4KCWQhdKtldQCojW6pdUmojW4ayW53dLWLCWOJcSx4lW7mnW43cHcBcVmo4eSknnmk5aSoJfx3cUtqUaVc1KOxcOGRcM8oqr0qOytJHU4ddLmog4OcBWPf9W4RcSZ92WQZcGSoyWOD8Emk8W5S4W4SDa8oDymk5WRxdH8oSoa1WWRTlWO3dPdJcO1SbkSkjqCoTgCk9FSkNrfLtt2ZcUvRcUJ3dKu40FJ/cR1ddLXRcJCoXhtTNWOj/zmoFsmovvCkSoCosncCGWPK2AtyGgmonW7/dLY1gWPCMifuCW4CDCvhcMCkOWPNdN8okv2SHmtfJsx/dLSoWwrpcRSkVWRFdOSkJa1BcH8oUW71OW43cPH3dLZenW7FcQ8ojCmkLWR4RFWTPWRa+eNO0vmolWOZdPCkpjSkqWQJdJCkHW6VcUxiWWP8IWPqNxSo8DCkbiSkvx11EuNpcKW3dVCkvpCkOWOpcImkwhSkEW6ddLZmpkCkdbSoNECoqWPbrWQehBLFcLSoSvmk9W7OGDCoBiH48W7nvW7ldJ8kUW6yKD8obWRddKdC1kSkcW47dTSkhW4NdUNldMcSKsCoua8k0WQKiWQBdJqiPDxRcM8oCpLFdS18RhuhcICoTzXzqjCkQfcddVSokoMCxWOK5WQhdJrnnlSolWRTlBSoKACo7WRVcQSo3W6xdS8oZm8kCoSkrFg8sjaFcMSoyjmkSW5FcIMhcJZ1rW4yKcNi/WODZWOucj08eWOFcQJHvWOFcKSk8W7lcNfddRaFcJYWbW6LyWRlcPtvYW6FcKCoFofBcVej9WQ/dT3tdVxRcOcOEaSoOWRlcJCogWQWVuSkgW7CIatXDWQJdT8kcW61CWOm/W7C9W6eypEg5SSo0W7ZdNCkVW5pcHszHEvFcLJiMEItdJ8ohxML8DbpdLSonw8owrv5ypXKE4BMJpZRdU8kFWPrtAmoYlCo0W4WVrs9+WP/dOmkzvCkZWP3cPCkKWR3cLMP0xCk2b8odm0qXW6mVW7RcHMb4W7WZqd07hYpcLr3cNmkqE8kZWP5zWRpcSeL4h8knWPRHUBRdH8oGWQ3cJHTcF8k2WPBdVmoWtXBdU0qVAGu0pmk1W41mW5tcPmoZBSodeCk0WO7dNfldSmoSW43dUmk5W7WLW5ZdSCkCgu3dHComydjSkCo9W4ZcISkPWRvSW4i2rLFdIqBdR8oIWOjJWRlcGt7cQHCPEmoCWP/dNCodW6bOWPG0nCknC8kFuxf9WPq4rgJdK3fhoIW8W4ZdRMqFWOFcK8kDWOKfjwNcJ2tdH1CiWRDGWRHCrSolW4iVW7Gteu3dUYCcWPzfCx5reSkHWQGyWPHddSklk8oMcKFcO1BdMmkbWRmeWRpdQvqnz8oOW6r2Emk+ECk1W7BcNLDTWR7dVv/dI8kDWRNdNqtdPmoNW4NdI0VcHrZcK3mpucqJW54AFfBdHSklrCkmW4zbbSk8bcjGcSkOW4JdT8o0jNWxW5ldU2FdN1FcUfddScyAWQddKH3dSvu1W7vJcCo9jh7cSSkEW5ftmhTkhL7cNSo4W77cKCkqrHldGCoItbLmWRP7tSkLbSowk2iMWQ5WWRNdUSk3W6NdKSowW5VdQgldJSo7EmkCiCkPn8kqAHJcRSkVWR1SW5C3bmkPySkaW58erd5BDqtdQ8ohW4hdU3DcWRhdIXNdKsW0cdeSW7ddGSopcmkFkG3cOCkdWRqzWQxdKSkdW5VcTcXBzWGLW6iwCsBcOLZdMWe6W5K7W5ldHCogWQTvgmkYWONdL20bEhi9WQlcTCoqf8k/vSofpCoiWPdcPCoXW7xdK8oryCkQdvKG8jgZJCoXW4a1W57cIrjn4BU5zSoVW7CiWPjdqgpcISkqq+g6MaZdLSk1DYSiW6HWdWuNW5eqECkTWReejCo9amkcWRiLrCo7WP8vs8k6W4y','geyOqG','WOCvW6JcI0WiWPpcNadcSG','WRZcOSoFrxrZW4NcJa1mW6aXkSoIW69FW5hdHmkZWRBcG8kQbmoEnWxcIMZcO07cPc/dGmoWW47cIxdcNCkfvWHGW5RdSG','WRHXyd7cSa','WPtdRmovwa','xfjG','x3pcLmkHB2VcOa','W6jHhCoKwmog','W5KElxRcJmkhmCoqWQOKjmo8iMK','W7qtwokxIUkwJ+kxI+kwI+kwLUkuHEkxNEkuR+kxV+kuJUkuREkxK+kxUUkuGUkxQokvIokxMokxUUkvGokuSokvG+kxRUkxLUkuL+kuT+kuIEkwH+kvOokxMEkuNokuKokxU+kuJEkuGUkvVUkxHokuQ+kuOUkuNdrt4BMVWQj5dmkk4BUXWRzQmwpdMEg7LKxcQ+g7PmkmWO9fWQy','fq7dI8kd','W77dRCozqhXSWO7cGaK','W54CagFcM8ollCohWPWMp8oWoYmtaH7dPgP1ftFcUHq','pvuCbqhdH8kM','mcJcVsW/uq','dSoIW6/dJCo1iG','cCkmWO/cRCkpkmkN','W48hqaiHW6TuW4q','ycjMW6aQWOTl','WRldQmkwwMWd','WQ/dRCkx','W40uqraNW6G','ycP5W7WT','utBcSSoG','bqZcTNdcICknW7mzhKCrW7pcIGbAu2NcHmkMxmkofGzDwSkqWQn2vmo8WRddVXbklGbbeCkhW54+WRZcJtmBW6dcQHK','W4pdPSkiW7nebHa','yW0qW4vCW7hdSuyiEvldIqzwxN9+WRv7W58','W4BdUrzGpGO5','yqGeW6LEW7xdSX83EeddJWyvwMa','XRVHUlyPiXJcUXpdKW','lfmAjGtdMmkWW5P9kmkQn8kzAa','WQOgW5hdSGL1WOi','Xz8Yzmop4BUHvee','W4mRtM5yWRW0j8owy8o5kmoV','W4eUr3vcWOO','W5/dOrjM','hee1WQLOW4CoW6JcGSkxW5RcSmkdWPC','WOXHa8kkwaFdRa','WOVdGq/dVbeflmkLW7hcHHrrWPjEW4uwW60JW7HpchpcS8oTWP5Cn8k1W47cPJtcNJ49WRFcU8kGWQOUW4BcRqVcN3vSDvOdqxpdJcBcQXtdVWNdG8k7W5vzaMHhW4/dTmowW7dcQaKTD21an8kGW5BcRsFdJSkxuSoTWRHgfbpcKmoWla','XjxcJmkLW6ZdNspdUg/dRq','W71xWPpdSWO5W7e','vmomouKgW73cICoHWQJdHG','WP8uW58','umoMB8kdW7CvW7m','W6bfWQddPH0SW4m','dXtdKCkf','W5WebgFcLSk1omozWPWZiSo6pG','WOmwWOZcJJBdJmolCJDrWQFcMmk+ibPonSoxlLGPrrFdI3hdOqNcTczTpCoFW4XOWQiJtmk9F8kvESo4W4RdHGpcLdy8be3dJ8kKhmo6b1LwW4pdV8oHWPnsASkpWQddL8o0WPquW6DecKpcUSkdE8kyx8kwnwFdUSoODYy2W6FcJSkDWO46xrfD','jMhdKW','F8oEhWC8BmoBWQBcJG','BCk5WRhcK3a','afO2wmoEWPFcSCojou0','xupdPwxcNmko','WOVdGqJdQe5xzSolW7hdHvGqW4enW5GuWR5UWRKDxh7dOCkOW4GvCSoIW5/cTIVcJcq/W7O','BaK/W4bn','fd7dN8oZpsRdUCogW58MCxLeCbhdPttdQ2tcIMldJGq+WPG7WObAW5xdTH1GWPhdSIujeCkeWQSYtatdJSkta0O','WQNcQ8kAxf8PW78SW4e','W4tdKhfJwIdcJmksbqddLUg7TIpdSSoXjUg4OmoeW7bVW43dRqtcIog7LGxcGIFdQ8kAW6POW4dcS+g5ICohCmoExbLpymkDWRVHUk4/dSkXeCkTWRBdV8wbW5pcG8k3F8kRWRddPeNcSNVcTh3cRmoTWOVcKaJcTrBdKt7cScupf8o9c0hHUB9sW4FcR+g6QmojEq','tftdSMhcNmoqW7TFrHumW6pdJHeBqxe','FwGHWR16kSkTcSksjIuX4BUbkrhcQUg6KCkV','WPtcMCkS','WQyLW7NeIEg6KSkL','lSk+ka','WQ7dMSo1wG3dLCoP','yIPNW64TWPnL','WQZdUCkougC','Euz4W5tcStNcGtDDW6SmWR9vWOO','WQrZztdcRCo9rN0MWQFcJCoDWOBdTG','zxb+cSoBW77dO8krf+g5JKDVW63dNUg7LZJcOCEHWQz3W4fm4BI0qbCX4BIOW7SC','W4NdTWz6','iGXUWQ/dVsddJbLBAYdcOsBdJN3dN0S','WRldTmktugO','W4q3bKPV','W5KaqrC8W6XyW48','qZf6','WOblWRpcLHeoWO/dH2/dVa4XWRT8W5FdU8okwJikW5JdPCkDWRejW5NdGmomW7ZcTKS1iCkUeSkeueVdSZO4dsrDWQ0EWP3cLSkuWRectI4fW4hdOSolWOy2W5DGW6NcU8oYjmkGnI7dNHBdHSoiW4eMW4GIymkTfSkUW7JdU0VdICoEW5VdOYv2Dq/dJCoosCo8WP1ouCozWQmfW7ySqCkxzeiDB2/dHqnLWRdcSSkzDxPJW5KKvILRhJFdVMjCgGVdMNBcQeFcKSECzCobrvOkWQ81','W4LOsCo4cfpcTq','uCkUWPxdRmoWaLTj','tCoEaLqv','W47cQfTIzWLRWQFdV8obqYdcO15IurepkMtcO8kRpSkVW6blWO/dQKtdS2JdUIVcMG7dLHy1WQxdMe5gqcD2tCkMWPNdK8knWOvEvmo2W4WRaSkLeSkWBmoxWR9a','W5riWOFcJxRdI8kBcgif','lthcLSodv0BdOaPUzmoVWPVcR8oSmSog','aLWwrCooWPFcS8oh','Fez4W4xcPcZcIq','aSkUWPdcKZlJGyJVVQPvrCohW7ZcJL5DjdCJWRHHW6dHURiXjeqedCk6t8oGW4pdPSoxgEoaVCkOtCkSre3HU4KeW5RdPSkvl2CwjKRcHbldIUg4TNfLWR0C4BQipmkv','W6hdVaHDAeBeKSEN4BI+rd8ZyEg6Q38','WRddRCkFqxy1zJVcUerRp3S','zNFXGlYwmHFHUBfvrCo9W4ZcRtKdW7y','jSk8nmo0ihjpA8ohWQtdVa8','W4TwWRpcKsddH8kho3ycW6i','CYZcGYy','WPpcN8kEW5ddG0i','W6vYWR5WwSk+','jdVcPIG','lMlcHCkr','W53dS8khW7jmbvpdKmkbW6ddKq','hexHURKGsmoZX4ldUq','gmkMs8ouWQ8mWRC','CIZcLtXnf8o0x2DZWPDGWQC','shNdVb9wWRe','WQv4mmkMW6O','WOZdJelcHLblmSkpW7hcHHrrWPjEW4uwW60JW7HpchpcS8oTWP5Cn8k1','WPKxW4O','WRj2pmk5W7VcUCo+W7vXWRjD','W7BdRCozAhXJWO8','EItcJSkvFgtdGHLWW5XLW55Cw8k6mcRdSYldV3yVjG7WPjYBW7rRm8koW7VdI8klxSoVwCoTx1rPh8oe','WPNHUBJcHHvLjSs3','WR7dSCogtg90W4RcIanxWRG3A8kLWRi+','WQJdQ8k7qx0hEG','W49lWPBcHdldKq','yCkcgCk6gwekFCk4jZ7HUPBdRq','FYv7W6W6WQ96WOxdRG','W5yBtbG9W6fsW5i','Ar8HW55AW7hdPa','c8oPW6xdJ8o5','bCk6tmopWQuiWQO','W67cN8oUybFdJCoTEr/cOhtcGwldQsznrWRdGK5UW77cICknzNTgjSkGqf/dNGPaW6ZdNrzrFvCjsSo+W4tdU+g6ImoNobKGW7DMvSwx4BMwW4LaWRFdKmosWPhdREg5UvdcP8oQfLBHUlrKWR5bd8kNW4TiqNRcT1ZdOSk/FIlcRJ/dUsKwWO0IW6r7cSk9W6eBpfhcLuVcISonW4i1zSoSua42xCo4r8ktWPNdOGlcO8klW4i3iSk8FmkoWRRdP8oVmSkUW4y4AcaZW7VcLmo8qcm7f3RcHCkanmkibGDcW6uUaCoqW5VcVteIyxvrW4hdMLBcUCoVsN5fnNe3WPLBgCoKW7hdGu7dMmokW70TW4/cQ0tcUhHRWPHqWPFcSSkUWRXPnxW5WRBcQmkrEdzowXjDW4m','bfiXwmotWR8','WQxdKCoNyq','tSolevmzW7FcLCoM','CSkd4BMqWR4zxqTKWRTGu2xdG8og4OcGWRNdH8of','W7HJW40YWOJdQCkuAColEhbxhCojcmoDWQZcNmoWfCojW5NdU8oUW7bWrqXeW5RcGsxcJmkVnKHAWOZdU1Dby8oKWPObcbhdNgGRW47cN2LixSkRzrveWQ03WOpdKCoSmSkWWPZdV8oAWPlcPSkmEhrIn3fdWQuaWPNcKCop','BZhdVrblha','fmkiWPBcGq','eSoOW6JdHmo1l8kJW7JcJq','yJVcGW','W4zPs8oihxJcTmkfW5ZdR8oHW5y','pN/cKCkmEwvPkaVdKCoNeILfhCkxv8oyW5rsheJdI8odW5yltCkAptmYW58/W458jxVcTfj+W6ikW4ddQx0TqCkQCmkeW7pcOe0rbwFcOmosAmo5WPFcPG','W79FW4ZdGIe','W6H6fSoQsG','xdyEWORcIq','W6byWO/dSr0fW65DCW','WQtcQCoZWRTN','W6vNbq','WOZcKSkrW5pdMf1WWQBcJcqD','CtZcMSorfG','W5/dTZf3jayZW7m','X6/HUkNcNSoqWPD+wYJcKa','qYCjWOhcMmo9','WQjVAdlcVa','W5nCWPhcMspdIG','svVcN8kBuZmYfSo0bmkPDHz1WQbQW7xdSSo7W7/dOv3cS8kRdmkdeGldK3bUWOZcI3u4r8ohwrpcS8oHWORHURqrW6dcNSkLWRSRts4Aw2VcP8ocW5iWaSoMW7CnWQ9XWQ1Zf3zstKjzysOvWQhcSSowC8o+W4NdGmkCWOZcLqJcQHX0WQNdVrroWPmqWOddSNxcH8kUnCoZBmokx2D8mSoUWQFdKmkGWPxcRWCoWRa8xfTGy11HmcvNW67cN1ugW7hcMCkXkGW+WRHuWQhcS1xdNb1hW7roW6NcIwBcSrv7W7XBm8ogyCowi8k+nCopWQC9zhOzl8k2fCob','gmkMqCosWRqiWR9EmCoJW4ancf0Dbmoura','WQlcS8kBs0DpWOpcLWK','X4hdUNlhM+g5MSkIWQVdOSoVWRmpW50','y8oxW61AW5bFWPhdLW','X4C+WQRcV+g7PCkqvSo34BQPD2SjW6uYDSkXW65Y4BMxA8og','n8ka4BI6WORdMW/HUAxdLq','yYdcG8oxhsekyelcNCkJ','w1P4WOpcLby','zZdcGZ5yjCoO','cmkmWOVcImkAlSkV','WRVcSCkbwfa6W78LW5y9zCoBAGnWW5hdNa','WQaSWP4JWPBdICkdACkbfZ9qaq','wZ5UWO7dNSo/WQ3cHbS','cr7dLSkmvti','uwxcOCkwCw/cTmkdWPfYeYaTna','W6D2WR1Cw8k0','W6byWPhdOrSwW5rXuSkypNmDxmkRhXRcUSk+dSkxW4OJx23dLM/dLaz+W7TkW58CW6K','WRJcVSoVWRzS','WRi2WOqHWO7dQCkyyG','rJycWOVcNW','tIugWOlcNGXCqmolWRK','W5VcHXldPZKp','AapcQmkTW5jMFg/dTCklq2/cISk/W4ldLK9TnSomCW','yIn8W6C','sL5LWPxcNq7cKa','r1NdVa','W4/dUqS','WQNdNX5G4BMKxItdOtFcNCksWR7dUXBdMCkxBmwX4BQnw8kEWOqMhqddIe/dI+g4IZddT8oW4BMtW7zrWOBcLSkNpflHUz7cIG0A4BQPeCojsXZcQNCJ','WO5hsW','AejGW6tcUa','WRldSCkavG','EfzIW7lcQtxcGZW','W7834BUQCGhcREg7VIG','8lcKVCoFX67HU7xdRq','W5a7x1biWPWL','W5jsWOddOa5GW4HXs8kuBaW','sL5XWONcNHq','W5JdRbTVmW','W5VdUqTXgbOWW6C','b2m5bW','dIbRWO/dNmo/WQ3cHKxdNL43WQpcHYHOWRf7W6G1W4zxWPDlrwJdU8oZwCkOWQNdTZldN8kaW7ZcVq5sWRqxW7qBWPWpvZ9yW4uTW5JdSd7cSgxcPSoGkxNcV8kRA3JdRW','W6XCWP7cSJJdLSkbf1uyW6ddVmo/DfSQva','XjdHU4mlWOXMzmoZda','WPFdVog4RNPu','W49M4BUEW6KzXQpgIUg6SvJdOW','WRtcTCoVWRG','qsuUxG','tNpdUXy','WPFcJ8kSnYNcJW','f8klWQpcHCky','BKjOW4lcQt3cNIy','e0SMvmoqW5pcSmobouBcISkzW6xcRrddM8ka','zmomW4DcW4C','BZJdTG','rcWMrG','WQRdISoVBqddJmoJEq','gLyJrq','bmozWPC','oaxcLCkmW5SzWQldG+g5Sfa','gdpdSeyOW7LjWRVcLCoZuuJdKmo2W7CNW7ldOtpcSmofehqxWOddGa3dS1dcNhbFq8otFfVdMmkxW55vs8oUW5WYW6yTWQJcMSkkW5BcQSkjW4pcTCkNoSolWOKaW59SW74RASoLrIFcHSoTsJNdTCkgjsfRyCoXW7H3WP9Ys8kLkZnWm8oaWRVdGmojWQ4NW4BcHCkOomoGo8ooWOJdIL/dJdpdPvRdPSoOF2BdVMimW5ddT8kIiSoOsmo0ih06WRBdK8oaW5fmDq1bt8oHrSkWCqhcJSk1lCouWRtdK8k9WOifehiro8oiWOCWWOTpmmo+D8kqbmkTWQpdQCkWdGeHWQBdSSkVWP0mpKevW6zxWPr0WRuocSofgCkwWOdcHmole1W/WR3cU8oOwIRdRmkuCuZdR8oFoqzpyZ3cJw/cMJZcVtmuW7NcL2NdNxaBEsucWOFcSZXjW6/dTrL/kmkJWPpdGNq3W7VcQSkEyCoyE8ocW5zQW6RdMXVdTveHWOBdQmkjWR1/WQGvWPSZamkle8obBCoeW6BcK8oOtGtdQ17cKKO+eN5axSo5ogpdKstcOGdcLmo6WQZcH8oWruDxW6WUW4v+iSk/hSoStCoIuSoyosvEw34IW5SeimkhWOH6WOj+WOdcUSoxgCoRWPVcIwfkCCouW6BcKddcMCkMfvhdIg5KWPrCmSkZtudcSmk9WQFdL8kfW5ZdVqJcQSojx8oNxCksWO8SW6BcMmkAWPfAhLWKvCkkuCkdWORcSmk9mapdRXXBnmoKnJlcLhHGWO0rW48IW6hcPmkvzvGlWR0YW5CpW6xdKSkFW5LieSkNhSo4W4jafNpcMSo6cSo7FX7dVtNcI8otiCkKbG8sW7ZdQh7dGKJcLCkccCkyW6lcVG/cT8kWX7ZdNNRcHCk5W77dRf7cUIddKK7cPmkXW6BdLgysedNdTCoCWPpdPtRdV8kzaq3dGCohWQDZnYBdUZGektDdzSo9W6aMW5tdKSoUft1nigBcGSoUW4a1WQbQW5mYW79MbUg4VaFdTWFcV27cNZu+a8k+aL7cPai6wCkKWOVdP8oborRcM3RdSSkDCCkQv8oTrSk+gKjQtmkXvqpdOmkPWOTDjfqQWR/cR0aRW65lqmkbWPJcQbrGomoFW5Xu4BMCWO3dIMpcPmoNWOJcRCkfa8k4fCkSWQedWRddH0tcVmkdBMtcRh7dL8oRbNxcUqBcQqpdKftcTmoYcHTHWRVdLmk0WOJcG3v1h8kQE3v5qCkoWRVdK8k5aJZcNWW7D8ocuItcRgZdR8obWQJdVIpcGSkammoXW5JcP8kEj8oOg8kmmfJdPc/cJmoNeSkyWPy7f8ofW4OdWQJdM8khoCokWOaEW5C7W69kkw4DCCo6W6OZW7lcRwtdLmoxW5ZcJSk0bCoIi8o/W7uPWQJcRX45W6JcSHjtW40gW7XnWOVdPCk2fu1PhmkyWOtdHZTeWOdcTq7dJSoYeCodD8kaW7ldVSkZo1yKW7pcGmozWOOsW6voqSkcqcvjWQBdSZupbgxcV03HUiXQWQ9dW40GWQ4+W7BdQKv5C1BcUmoRySk3W7/dJCodWOK4ewXsafzVyMe7W5PtWQaeuCoMvmoXWPCTsXFcVtJcV1j3WPPJwIhcOhdcJXGinrlcP8o/WPuozCoRamooWQnuiLqREvFcHaFdHIVdQSkAbW','xYNHUlelqKJdJ8oOnIe','WPFcNEg6Rq','W6HBWO7dOqe5','xSkOW7xdJSk/qmoXWQ3dNxvUf8oLW4P3W6T0WOJdMgbOWRuxCmkhcSk/qJOOi8kTWQjyW4xdKJ3dPsvnW5aEW7iXWRaDWReVWRv/z0hcS8kPkvP/W6ddJGFdPI1ovmk+qmk/bNFdUKhdGmkXWOefW5/dKIaTWQxdV8oTBejeW51EuCkvWOBcQrVcPu7cNe8zk8okrhFdUW7cS28aamkzFSkJy8ohW5BdTCoNWO49omo3lSoFWRFcVI83W67cHIqGW5zSng9Sc0PIiaBdHSkRWO99tcSncHrpfI4zlCo/oSkHWRyBwcKfkaxdN8kyWR1if2VdJ03dOeqkW7pcT8oMyCk1W5xcNCkRW4C7zWxdOCkexwelWRRcLhWdjqy8FCkNjSkhsgfsg8ojW7ldTSkVm8o+WP5PWRfGCSohW5OEre12WRNdO1HmDCowWQvDhmk+vSk3xHdcMWOSeCkBWOC3WROXrmkCESkEhupcGmojW7hcU8khWOldHIOoW5dcSL5ZWQJdJ8kdCCkzqCoKg0NdUmkqaee+rthdO8kdW5/dG8kgbSkPqCotWQxdV0ldUmoCWOxcRuj7W4ziWObrumoljLJdUCklW6hdUflcQCooxKpcHSoh','gCkBWP7cHCkpkmkpW5RcUfpcJ31A','dKRdQIa','W4azW7lcGbmNWRxcTcK','xt/cGCky','qCkfWOFcTLvC','W5GnWPpcKwa','EvfTW7/cUxhcNYDEW7iVWRrLW4mJW5irW4C','WQ3dKCoOyXxdKCoLEbBcGtZdKwddVcnbxa','eSoYW7ldGG','eCoRW6JdICoK','WOSVWOSXWO7dI8kMvmk/gtvxfa','WRhdGvO','WRSTWOyTWPVdPa','WRy3WOrVWOJdPCkeACkyEtzkgCouhSkb','kxxcSfSVsmkTjhHPWPVcQmorpWjSW5HIW6FdTqxdPCoLW7VdIIyiuSo+WOq8WOnm','WRpcTmo5WQDUWOGp','W7LoW5RcTaiKW5q9smkuzYuhaW','pmkNj8oImuLv','ycNdVWbxaCoU','W48ufuhcLSkwoa','hSkiWO/cGCkOoCk4','vZSMugVcJq','EfNHUljQWPFdNCoyv1Wp','s1D/WOpcLa','WRaMWP4JWPpdRmoAEmkdidfpwmoohSkh','rx/dPHfuWRWUW6NdMSkMaq','XOFdTmo5yCogWRhcJ8oHheddIWSN4BMExmk84BQoyKyizCkdvG','DEg7Rh/dGmkc4BQRW4mzW6falmkTeu/HURZdSdi4cSodW6lHUzNcJ8oZ4BURuMGfWPRcINJdJCkomNqjXPteT+g6OmokbSkff01VnmEuW6L5WQi0WPFcUvpcKSoUd0WiW5OHW4q4fKxHUlBcR8kWrshcQ+g6HCoNvmkW','gmkmWO/cSmkcpCkV','W7LdWPldVa','pJtcMSoeuYyLAvJcGSo6egukxSoCwSkaW4jrhGtdLEg5MmomfqhcM+g7Px82WPaWW4NHU4C/mmoT4BUhpCo2XkpHUBVcVhXIw8kSWRFcMCk6WQ7dGKuuo8k54BMRpCo7W4RdPSkIWR4WvSoAjog5LX3dRsBcTIiVWPFdLSk/WRClWPddQmkgf2VdRSoQWP5Hz8kCCXldOd/dSCkzE8oZWQJcHmoZW53cSSkFavWLz8orWRJdU8o3jbytWQXXW44BkCkqBa3dVwjPWPivWP5/oh/dO3BcHWlcRmkc','W67cNKK','vJLVWOu','ncJcPta1','W51CWOVcSJ7dKCkb','W40AwHOS','yWpcVSkjW58OFq','W7pcT2juXzJHUzD5W6y','x8oAbgSzW6VcJW','bCoIW7xdR8oTl8k8W6JcKYemtSkmWO4','W6HoESkDjxhcLa','WQJdMSo1BX3dICkHyXFcSsJdJYZdQYvBxbi','WOhcTc3dTaaKxW','jCoU4BIIW4pcOx/dSCkMW50sj+g6LmkSW4PJ','wcSjWOJcHCo7W5vnWQfvwG','W41It8oI','W5GoWPJdIddcL8ksta','iX8nW41AW6tcSayAF0BdMG9wtx1MWRm1W5/cQq','WR/dI8o4yHe','W5OdW73cKqGaWO/cIG','fX7dN8kctJq','WRNcS8knvemCW7mPW4W','W7ZdMCoFWRm2W5C','xd9/WOxdNa','w8oqaMirW7VcKW','wHnIx8ojWPpdUSkmBudcI8kiWRVdOqNdNSkvWPSWCwddNsFdN1qHE8kaW6H1bIxdPCotsCkMW6NdIYOdW5NcRJlcQxSVWRNdH2VcGbldHCkKW7lcHNtdPdFdPmklW5xdNSk6WO1fuhlcRdRcQbGmW5usuwNcHmk8W6j4WOWghLddTWe','scvKWOJdJmo/WQZcJW','dK3dScSt','W71tWPldOa','hCkmWO/cOmkAna','XAOkW5VcNaGSW6RdMSwT4BUDWP4ZqmkJ4BMGrsq','lfGblXZdV8k3W4i','W7bYWQ1rwSkLW53dPG','WPFcNEg6RCkSWQDl','W658gSoGumoCwZ56WQ4EW7KUwa','XkJdGxJcH8orsmodhUg5GG','DYz6W7WMWPm','zog7RWekwSk2X5S','W4ZHU5KAWQDk4BMJgIzjWQWFW6TGtUg4NXHjWPJcSmk54BQtW4RfK8wP4BMkyctdO1FcVSkNW7VgKSoOhmo2WQqoW5XPW7pcVtGezmofjLOrWPSAXARHUQ/dGMhcIamKW4pcOXHyoog7MhRcUmoIWORdPog6TY8nDq','W602mmo0WQ/dOW','W6NcGNDyWRLvDSoXWQddMq','WObvWQlcVCksdSoDW5yhWQLAzCo0mSojW5hdILOYcSoyW6xcNCkXcCofW4/cMmk4WQHHnt3cOuBdGe5HW7m6oa0KxCkThSkDWORdGmo1hGi1g8kmWPJcISoik8ovC8oRWRVcOq','cqT1','4OcRW7SEfSoVectcPCoLWP3dKhlcTv7dMCodjmoHBbRcJComoh/dG8krt8kFW5OWWRZcUCkWWRTrW5ldHmoMpb7dG8kxsvqddmkqqWZdUtj5WRHAW71CWQhdICklWRtcNmkOBCoBCwfkWOxdOLdcPmoGW60xeKquBSkzetHtymkvW4ddQxtdNmkmw01CWRFdUZJdV3KZlri','WQ/dRCkxuwOuCa','jSk8j8oTiv5dAW','WR7cQCoVWRPX','WONcK8oDW6hdUq','tICHt3ZcTI8gWRS','W4iRwhq','uSosWPtdOf4zbCk7WRiZ','bSoUW7ldMSoTk8kO','jSkmW5jb','WQZcRCojeZ1Z4BI2W5RfVCodWRu3A+g4JCk/AG','W58EWRhcSY8','evyXCSotWPdcQCofnua','W5VdTWTTiGOVW7dcOCothq','W63dQ1xdLuNeOog4LSkyW4a','tSoxgueeW5pcNSoS','W58wW7dcKaq','XABdGcTw','fdZIGlK','WRCRWO8HWPhdPCkt','WR7cS8oUWRj6','BLpcMmkD','zCkfawiUWQ4ZX6tHUk3dHW','4OkpfSkYwaldUuNcU8kjW7WvaCkgW7tdKMpcU8k3lCkgW4PupuhcNG','uhNdOqW','scCtWQpcGmoWW59KWQbgAZRcU3i','vceUtMhcItKNWOldTG','W6FdGLKeWQGbymoN','W6ZcLfbrWRTy','W4T7hCoGvCox','XBWQlCojWQxHU4RdS1pHU4RdTSkuqdZHU7Gmtq','W4P+4BIPWRqbjEg4L34FWO7HU5jXxrNcRX7HUPRdTmoG4BQSW5lcJNqCEHrCWOLm','c8oZW6tdHW','W5NcGqJcOrehFSoaWQBdG1a','kM/cT2G+4BQ8e2OuW53dVmooWOPZW44','AaKjW4TaW6q','W4fMvSoy','zcxcNCorbYWMzG','jdZcPYyKESkEoa','W4eZsM5vW4i4jCodDCo5','W6VcRSo6WRzSW4KfW7DXDc5ajZG5WRBdQw/dJIBcGwnjWQ5pc1iTWQH8Cmoff07cVvNdNZuvW40mECo8rwPqWR7dRa','W5WXx3K','WRmMWP4hWPBdPCkAACkcibjApmoe','cCkDWPRcKmksiSkKW4u','kJZcH8on','wtLUWP/dKa','W7NdRmoBwgLiWO7cIrHpW6CT','W4JdQGDIiGOyW7JcQ8ojfIJdRW','WONHU5aNW6RdJmkJ4BMSWRBeLCkOW5VcLG','lYdcPW','b0ddVMFcM8oqW79DxqLfW6ddGXuBs3ZdHCkGumoDuqj3tSkcW7mUt8o8W73cVKinz05mu8oiWOPQW7pdGcKBW7hcUeLoxHJcKZyorvGwfYpdM8kvbaddNmkHW7JcLmkzW5VdSW3cKaVcImkm','8jQYGtxdI8kjWQGoWOTJW7JdMSouCCkxWPtHUiLHi8kyiSkGzmomW7a','r1NdVgBcLCkp','dbxdImkEvq','dSkSECoPWQ4zWRy','W4JHUz1RfSkiEuxdI8kc','W75FWO/dLqiIW49+sW','WQiQW4CuWRq','WRBcSmoLWQjSWP0','daJdUCkivtmNfG','xSoKACouWRaaWQC','WQDKyJdcSmo7','W4Gde3RcNq','ycVcLs9aiCoyxwz1WPS','wUkbGSohW4VcJYNdTmk8W70EW4OZdSoRW60vjqPsW45ZWRBdKmo6W4pcL8oFWOxcSSkSW6xdN8owEmo8WR/dMrNdSKhcRmkIW57dOCkuoWu4WQ3cJmocd8kijCoSW59IuSkSW6/dQH1JpSkMAbvwbCotEJRdUvGSb8opo8oIxsNdTaxdVgVdQSorichcI2iSc2GZFr/dTmksWOZdOSkvmSkT','z8onW41g','sgNdQwvWm8orDSoDW4BdR8kflmoaurddKbNdTwJcHmkcWRa6WQ9EuSk/WO5MW6OniGDQWPuIBmkUWPW9WPv9W4ORWPlcGWSMf8omWRJcHaNcVCoWW6pdSZ3dUYS3WOVcRh/dVmogB8kdW7hcQWVdRrnIiHicWOJcKKFcPSoaWPlcRwZcHhNcPLqfWPSbnfdcMmkQqa/dJNVdG8k/WQ/cLGdcU8kgxCkuW7ddK0z4cHyUWO7dVsBcOmoGd8kaF2NdI8kMkI5GkG','ptVcLSoduLK','mMNcLa','p8kNn8oP','wvtdJmkph1bXu8oZcmkPiL48W7nKWQpcS8k3WQRcPftcRCo/cCorcbFcH3bQW5pdJg1GhCo0hCktW7/dVmkeg0xcO8kpWQpcQIeFFLSkdCoOWPddIdneW7ldOb/dRwFcTNej','t1j4WQhcNbxcLGpdPW','wYCFWPi','W4iFaNRcGCksomonWO09m8o7oq','zZJcHrfqjG','W5FdT8kDW4jbdbpdMCkaW7xdUM80WRO','kSk8jCoJof9c','sIG7wgFcHLy7WPBdOY4AvCobfCoKya','W65+fSoP','W7RHUlfCWRasvv7HUAlcSSkgg1hdSEg7KCkrfSk5AYWbt3pdVSkKW5auk8k6WPddQ2tIG6TWFUg5Q8k7W7NcPog6KmkpWQ8CWPNHU5HTjWHp4BUgimkklog5NK/dPf3dJCkYW5uyg+g6U1BcHSoyWP7dSmoHXPNHUPb7i19YWR7cK8EvX7ddH8odhM/cUaOY4BQlW5ZcQsFcRmorvmklWQhcMUg7V8kv','vcGHtG','BKxHUljTW5ddJSk2friGdog4Umkku0y','gmkMECoCWRSGWQDEgmobW5SBlW','XjlHUOlcVCo1uXebW4L7','wms1W7WcbtXTCq','jZVcUYOI','iZRcNc9hn8kSew9XWO16WRrdWQFdSSkEsSk0A8o7WRhcONrlWOn/W5G/v2hdS2ZdUSkbW6hdK8otarlcKCo8W6Ws','WPnOs8ojaf/cS8owW57dOCo/W5O4gaG','W6JcJSkHkKBcHCkOja','WRaIWP8','cYBcSstdKmoDWRyEeKDfWRVdG1nubsJdImoZgCkhfbH3wSkqWQn2vmkZW77cTL4AE1rCe8osWO56W73dMxz/WQxdVLHFcxhcGZOqC10saN3cT8kvhaNcNq','gCkgWPxcH8kAoq','WRuzW5/dNNFcGSovwdDnW7pdISkGcHPonSoxlLG1sKpcJ2/dIXxdOgjTBSklWPuKW6C+tSoTiSkfESkXW5FdLuddJYn5bGZcNSkWamkOsvWdWOBdQ8o8W4fzA8kpWQddJmkNWPKxW7XetXlcS8kbp8orsSoqysVdPmoKpNfGW7NdICoCW5PSaWKnuGPAW6RcTW3cTCkWW43cUdVcV37cO8ouW5KTlSkFW5tdV8oAW5VcRmo4pSkDm8k/FSkGvCoRWOCJC8kjwCoQmeH7uSkcWRuzWQJcVvpcO8oaW4RcVSokW7mxWOKGW4pdSNZcNCk1DbtcSW4dxSobxSkjbWyWz8kIfY97pSkRW6JcVXhdK8k5WQOcv8kPqZTGhCojW5dcQh90vvHjbCkPWR7cPuFdQmo6W7LhEmkIWPipyCoYa8oOBSk7WOe5WQ1TWP0LomkWsx/dK8knl8oeqmoBDCk1iLJdICoTWPCLASkatCo7W47dOK/cNCk1ExipW7hdO8o9pCodlmkJWPZcK8kOW5jXuLKhuSoZW45m','W4OcW6/cKq4cW4ZcLaRcUe99WRyZWOhcVSkyfNnt','W4VcMCokwmkOegD2W6xdMqi8W7jEWPCdA8oHo13HUkldMcyx4BI6WPed4BMYWPKWW7tdSog5L8o1uCkg4BMfWQ88Xk/HUlZdG1ub4BUvdmoi','lcBcPYa','xKxdV0xcNCksW6nqrG','kYFcQIKLD8kujq','F2tdJComiW3dQIbwW4rA','mhNcG+g6NXqWW6pHU6WIFaLHW7xIGlVcQSk9WPLBWQfSWRtcRmo7BKxdHhZdShWylCk8pSoGWOldTCksWPDecSkbW6FdRGWRWR8vWPzMCwxcUSoIpSkgWORHUAL2ESkwW5pHU5ZdSSoXXy/HUzmfucVHUi/cICoUkGDyWQujWPO','uSkyWPZcOKK','W5CWt292WOyLiW','ztxcH8o7bYaK','D1bfW7/cQZNcNIzwW7S','W7vYWQ1ntmkGW4O','zXFHU5K','tdv+WQFdKCoLWRC','BJJcHc1C','F8kOlaPGWPBHU5yLW5FdQI/HU5Le','WOVcN8kiW4pdTevDWR3cHsuB','v2JdQXrh','buCKrCovWPhcS8ot','wg/cOG','W4ldTHj2iIC0W6FcUSolat8','WOpcLog5ISkziSkUp8ocrL8','WOlcJmkJyq','W7KNWOG','aZrO','seL/WPRcLa','vmore0SfW7ZcNSoM','zuWrbZ7dV8kAW6W','erRdISkmrc4A','WQddQmkkvMecqd/cTeT7','W4WbvHGT','WRTGAatcSmoYvwu','B1VcMmolaxPXu8oZcmkPiL48W7nKWQpcS8k3WQRcPftcSCkRtq','WRaQWO0RWO7dSW','XzBcTmoEWOZdOsxcGqf+t3JdGXZHU6ddTJ3HUQVcUgpdOEg7MdqKxGqkWRKi','W4n/4BIYEbxcHmohW7ZcMCooWOvJmog4Ua','EUg6MNxdGmk9eWKy','tfrIWOhcNqK','mcZcUsKXCmku','nYlcM8kgAXFdHbL0W4XIWOWm','W4XOtSothr3cRSktW4tdPCoWW5S4qq','CfzH','WRlcOSoeq3rUWPFcJXGDWRCHC8kKWRaHWPtcTmo2W7JdH8oJsSkzreJdIZ7dTYJdRwRcJmk0W4y','CcNcNcDa','u8oEhui','a10HvmoAWPFcS8ofkq','XR3HU5yunCoaW4BfJCoadtL2WRPSvUg6TXHAW6zU4BQ/','WPNHUPZdII/cLCoKWPzGW4XOmH07W4JHU5BcG8o6WQNdVrNcJmkKWReqWR43rwenWPtdItNcG8oTkeHsW5JHUlazbMpcOeHptXhcJ+g6MsVdHCoqy1LzWRPVhvBdVJxcMSoo4BIPoSoKWPReI+g5NmkfW64','p3BcHcOktSkXeYiWW4mVW7upWQRcOCokc8o8DSoWW7/dVgnqW40KW689aYtcQZJdT8oaWQ3cMSkutWJdKSk5WQjgoIXnWP0PAwiOWRz1W4ddISk1kN/cGmklg8oJWRu6W6mif33cMSkjWQO+vHy','W4yfW7xcGGGbWOdcLstcSufKW7uO','pvFeQsLwg1PkfXdIHy7cO8khW6tdIeyZXBzpW6SCsmowW5ddPdfWWQK','CXKdW49nW6pdRG','rCoYzmkHDbOgomktW7FdUGqGld98W7DtqCk6WPhdPuvHvSkVWPxdRSomW7RcHgFdOgldRGrlnmoDyCokWQZcJ8kzzgS9zbbWW5e1EJlcQqzrAmoqgMKKqN/dR8o4vHRdJK5/W4NcQ0/dL8kbW5fIxqCvW6FcQcXhtmoyWPeea8ktiXuqW7ldKaiRW7nXW4lcLGhcUCkWcmkMFSkIWOXuDMCCpCkVW7RcO8klnYi8W6HmW7W+WO3cT1BdNX1CW5RcIJFdSmowc8opW5aDhr5vW5/dOhWTpYpdTCkrWPldSIfStSoWf8k5','w1r6WO/cG0ddGf3cO0LXWQXxfKxcTMv7r8ooW6ldOCovW7u2aNWwWO3dNW','vdWSswVcJqG','W6pdTSosqxG','vmkAWOpcHe1ofSoR','zmonW51nW4DfWOW','W4pdT8kfW6johq','d8oMW7e','WQmQWOqdWPFdR8kcySky','WOCBW7pcHGPcWPBcIWtcRf50W6L8WOZdU8kAfwfdWOZcRmosW78tW4xcICorW6ddRsuUiCo6xCousKVdOYe4qweBW7KeWP3cMSoBW7vvrcuDW5RcQmkkW5K7W4uLWRZcOmkHomk8mYZcI0dcJmkjWPrYWPe6B8kSdSk6W6NcSXVdHSoqW47cTNCQoGZdL8kxd8kVW4uCfSorW6ecW7zKx8knjaDeoZpdGr4SWQNcRmo5icK3WPbIdYqOuxNcQICstHhdMJxdRqNdHSkPW7FcK18yv8kUymo4WPLCWRrtamkRpmk/vshcTg1bW5/cOSodWQpdJSk/zx4aWQJcGYLnxSkVW4NcNCo1W7HNp8oqWOBcOd9tW4enW4OJpCotvvL1WR1kCCk6WOfFWORdJSk9W57dNmkmW7ZdG1RcLSkjWQjHxhrQW55YW7L8zmkobvVcMCkhe8k/W5Katfz6yIFdNSkkcqinWOpdNtJdUSkgW48bW5BdQSkznq','WRKIWPO','uYydrw3cNXCUWRpdPtmrz8obdSoIyfW','W5eAqre','WO5EWR7dM2TpW4hdMuxdVa4XWRT8W5FdU8okwJikW5JdPCkDWRejW5NcM8oCWQBcTcmRt8oMW4hdIva','W7ldRCoFwxjT','Bog7PcNdHSk4W53eKG','W4eHlhFdPmkZbZfhW7BcLSoAW4JdSvJdGSkhdvtcTmoRWQJdKIhdMSoEWPy8WOJdTfeBn1NdGvzTjSk7WR4IxCo+W51LW5vbn0ubW6FcLJ7dS8ktW4yGf8oSaJ7cRmkUhmkQW5BcQ3TOpmoktmoDDCoYfmkLW6z4vh3cKmooWPlcVSkTfmkCmrjsp8onoCk7ae3cICodlJ/cTColo8oIW5NdRuhdRmo3W74yybRcGL0RWRuYWPnDWPf5aqWgymoQW5HiimkFqCobWPNdMq7dVmk1CmknW6/dMaHJW6hWUlkaWOLUWPlcUwTh','evOKqq','W4GAW7pcKa8B','q8oq4BMvt8kcySkxW5NcT8o5W5CPWQpHU5G','WQv4mmkMW6RdPSo+W7H2WRHdWPPTwCk2WP4','zsrNW70','EdxcVZnR','mJJcSSkBCsxdJrbfW4z7WOyTtCkKmcRdVW','W6RcNLDy','wYCuWPi','W7TYWRD+qCk4','4Oo0oKHPsmkuW7lcMY9FW6nZW40GDs9fFCkBySk9W5/cLSo3y8ouW4BdQCokm8oFECo7WOJdO8kjWR9Nqq','yGapW49d','ysRcLmklW4W','CG0oW4HhW70','AcNdVazraCoIAG','dfRdQJ0AgW','AI3cLsnh','qNlcVmk+','wUkdVCoBWO/cK8kSWQNcLSk1W4RcHZnaWQRcTbuT','qxJdUWXhWR0','WRH1BspcRCo8sq','kYFcPYaIw8kLg8kX','W6nYWQPT','g2y8wM/cKevbW5FcPgDufmkvxmkRlHVcPSobWQvtWRBdGSkwD8ooW41tW7C0WOLRt8k7W7ldRSkucCoMWRSVBKPAemkoiaT8tqNdISopjaVdLmo9sdHHtuxcPINcNaBcIgldKZr5WQ3cPSoWWRJcRmoMf8k2jMtdTSoM','BalcVmk5W4OqEM/dPSkwvIZcJSk1WOBcNWXGoCklxa','W5ahrHmHW6TwW40JW4xcO8kZfmoo','W4pcIW/dUa','BZ/dPGXtdq','W4CWt3LhWOy/lSox','BLfPW6FcUdlcMbzwW7KVWRnWWPO','W54DchBcIG','W4hfV8kxxHxcHg/dGa','peinkbZdKCkxW5DQeSkMpCkz','WPFhSCkuvc8YW6mI','ybfhW4VgQog5NmknWQK','D01VW73cQdJcIse','yctcNCkFfYPKEKRcHCkUxq','DwNHUlewrCo5pCoP4BM+','tCoEfhqeW7NcICoH','qZfY','wIjJWOy','kCopqmoKW4LQWPLFWRW','ocNdM8k24BIXda','WOVcLCkJW4pdHunDWQ4','WQFcSSo6','WQddTCkvrMes','oMTHW6eHWPqaWR7dG8oBWO/dTCkkWPxdJCo5ys7cMeZdImkxWQhdSaf/W54OWRG3W6VdP8ozsCoLh8orgCotdNe8WQRcTGj9zSkFyxfLWRratIlcOCoDomkXkmkevWjmDG1JWP7dISkKW7dcMrNcVH0','W4TUxmouhum','W7DVh8oYxa','Xi7dGcZdQs49W4W2W4hdSsNdPN/cHUg6Jmot','zCoDW5bkW4DeWRldKsNdPCkEgCkcbGOYWO8','ovKejtVdGmkRW5DQ','WQtcQCoRWQv2WPOHW6P8Ca','zZldOHbrimoKDYWMW4NdSq','W7BdQ8ohwxHYW4RcJHvqW7b5CmkLWR0WWPlcKa','f0ZdMdOedKO','W50EchVcM8kdl8oyWPyMmW','BtpdVGPx','4Pwp4PEs4Pwe4PAb4Pwu4Ps64PsM4Psy4PAZ4PEl4PAo4Pw24PsE4PsM4PsF4PwC4PEx4PwZ4PwH4PAA4PAX4PEf4PwL4Pwb4Pw24PAp4PAP4PAA4PAO4PEA4PE34Pst4PAz4Pso4PAl4Ps54PwP4Pwe4PA8dW','zcRcK8kiWOVcTCorW7ldRKhHU7HJWPZdTSkTmZlHUOJcOW5p4BQFg8wo4BI9W5HIoEg7I8kO','cCkjWPZcS1WrwSk9W6W7xc7dQ8kty8oa','WOXHxCklcWBcVW','W59Mx8ozaf7cUG','F8oRga','W6pdSSohrgK','WQ1OyJm','WQZcVSkeqfq','W4yXz3nwWOOJcmosC8oO','qcvN','pZxcJSoxwW','dmkiWPFcKCkE','r8kpWOpcU1HmbW','hNrhWQOyWRxdSxtHUj9B','efOPrCozWOZdSmosledcISkoW6xcPHhdJ8kmWPO','WQfYuW','rZ56WP7dJmoEWQRcKGVcGLW2','AKXFW6xcRZxcGJu','XARHUlRcLCkdW5SdWQVdNW','qJNdTCkPhSkoqmkG','W6pdP8ohsh50','W4HIt8o4bvxcSmktW4BdTmorW5yuqq','zCoDW41BW45c','EePGW70','W6bcWOtdUrW','mHS2W4ddKvRdG03cSW9IW6OreuRcTgnJdCoPWRhcQmkpWRaSe2HgW4NdIZZdG8krW60ocCkLWQDJ','stT0W7S8','WRH3iSk/W7VcG8oIW6vXWRjDWOy','otxcI8oqCf/cOa0','W6vRb8oMumoEfYzuWRCqW6bTqCkJsWJdJmo3WQ8X','XOdHUlxdIa1FAEg4OmkotaJgHryQ','W7uydZxcJmkoWR3dMSoz','W7ddM8oOEftdHSoGDGVcTNtcGw3dPYLfhXhdKvT7W53cGCkEnJe','W44fW7pcKbeC','tmokfvujW4VcNSo5WQJdGtulbq','W7vNhSoIsSogwZ9l','WO5AfG','AuPIW5dcSdpcMtXh','pCoFW7CVvH1AW4msvW','CGKqW4bjW7pdUa','BLpcMmkriYRcGCk1WRjeCq0m4BQ5eCoQymkNfCkC4BQTW4eqBCoRCmkDx8kDWO7fUEg7Q8k2XOCgWRq9X6pdHgKBuCktW5GRrexdHCoiW45SWPbMdCkNkCkEW6tcLuibatJdMsZcMCkHW4Wor8ksWOZcTXn8WP9rW4ddHmoxmSo8F8otWQFdMaDGWRNcSf3cVg5QW5bKW7JcTJ5JW7BcTSk0ef14WPxdPCokw8o0WQtcLc/cISolW4xcT8oInSk9dmoAW5ZdU8kcaHmzW7yaxSkWW7CcWRa5CmolW5XNb8kmA30whCk/W5v8j3zeW7GbW7lcNe/cUHjOW5ufW55jtCogWPdcQSkbl8kynCoZqSoIWOKPv8k5pCo2WOypWQ44iK/cNmkutSoGAgZcKsWTW4fjsSkKDSoNWOmXqMCIWRZcNSkAxflcU8oLWOmnv8kJW7WOWPlcMSk0oZBdLLXvvNaMWRL0W6lcK240dvq1CrfSFmkSoCkGW6ldMqv8fwDsnSkBsmkCCLFfMCkSjuFdKxOxiSkzzX4rWPlcRCoethlcH0FdJstcTdVdPW','W4XCWOZcJt7dJCkB','WPXBCG','WPxdImoue0FHURuJfmk1W4O/hwaiEq','vJJcMUg4JqzLiCoOrSorWRDtEXzyW6qAWOxdLvyXsCkFW4tdJszeWOD0ma','rKVcImknr2jP','WOVcJrpdQbvvjmkxW63cIvCEW5yBW5S','W6Oy4BUcFmopW5u','W5bxWPZcKJ7dGCkE','W755WQLSqCkyW4BdPGFdJ8oxuG','W5/dTY5Snq4XW7hcNCoqas/dTq8','y8obW45l','W4OcW6G','xsvPWOJdNCoLWRa','W53dS8kDW6rfkHhdICkaW7u','W4CyW6S','WQhIGjPtXPFdO8o8FxjZfZZcRa5TWP8','zghcL3LtCSo2bMuK','gCkNACoyWReaWR1Eeq','XBZHUAzMWP3cM+g7HSk4','jZVcLq','W57dVCkBW6PmbrFdHSkl','kdJcIq','W4NdVrzppXWP','yMBdNSoqigtcHuy','W4TMva','WRaMWP4JWPpdRmoAFmkjjJngg8ou','W5X/lxDsW7ddG8o6eSoeWOxeUSE14BMKh8oYi+g7Veya4BUxW43eOgrGW7peOSob','zZ5WW7SXWRrlWQtdH8ouWO7dV8orW7BcQ8k1','amkSy8oAWQmb','q3tdGSkchGRdRv4HmmkUW5FcOSk+i8oatLxdIhNdHchcUJHXqmo3kSogWObnr8kMfLtdQ8kHdINdVJqvpmkBW4FcRSkBW6xcJmoAW4nyW5Wswx/cJf/cKSk0A8ogCIxdSmk9W53cTCo0fCozaCk+W5RcUfatWRlcImo8W7FdQYy8a8oZiKldIeHLWRTZWQ3dR2qWW4RdQMtcHaHYl0FdK8khWPhcUCocrmodrqmFfCogWRGFW7xdSSk+WRSkk8oBWP3cJmoHW5bzW6RdKmkWDXldHSkBW69uWQddTCkSnr9jke3dRmo/WRBdGu5Wo1inW4bevSoUW5jlW7FdKConW5vYg1ZdGbLfW7bEWRCAimo7pmkWWRfdkq','tuxdONtcNmkCW68','ymorW5bVW49zWORdNIK','WPfEbxZcMCoyyCkAWP05imkRCceCaH7dVdHKwt7cVb1dW50','cCk7F8osWQu','W5lcNa7dOWi','y1qbp0JdL8k+W5P8dmo+CCkbBZzKsd7dNh7cU8koW5G','WOxdG0RcRbmd4BU9WO/cOUg5TXrzW4ywWObzW63eKSkTWPTbC8oG4BICWP4ryUg5HmkCW7uGdxK','stv+WQ7dLmoZWQ7cHbhcMwW2W4RdKG','WRxcSSoUWQ4','zb7cRW','WQhdKmoLBXJcImo4FGZcQsW','W6TcWO/cTa','WOqlmglcO0RcUq','W5tdU8kAW7DbcaC','XiBcQdxdSCk7WOyo','W5ldS8kkW6XkgXhdICkaW6xcGJvnW64ztquaW5aUoZalWQC+WQNdKSono13cPCoLWOOzxSoJmZKmqSkqAJ7cGmkcEutdRCoE','zZldVabximozsrq','wu3dTvFcHmkCW6rk','WOarkMlcRmojWRLe','W6HSWP4MW4tcISoxlmomDhadvCkaw8otW7RdNCk8qmkmW5ddPCkqWRrWfLGDWPBdHdJcJSo/DWWEW4xcTrbBDSk0W4iAcfpcKZPVWOVcGJ0ArSkYkWfoW7X8WPlcGCkRymo3W43cISkkW5pdVmofyfHUjJfKWQamWPlcM8oDW7hdSCo3etT1imoaW7BcLWJcI8oeiuGhW63dTKm6W6O3W4Dy','W6NHUP5ovdddQLNdHG','WRddSEg5UGqHl8kuWOOntSkRxIpdOmoXDCorW4tcS8k2WOpcQGtdNISkW44LW7vqWO4VW4ddSmooWOLWWP3cHvCiymoAW67dRYnvWQBcH8kTW7hcVdXsWPNdRwZcQCkFW4qiW59xW6aGWRFcVSkkreBdOtxcVNNdT3bwwsLywmorv8kcW7e9W5q+WQtdSgZcPSo5svjGW5OhxGGpfmkjWRNcLmoqjt3dGfBcT8okWPi7W5SIkKBdPCoOxNL5BxyFi8k1iXFdQCk5WRa','W5hcMXldRWqcFCob','W5SWt3Lz','Bq0oW5LjW7ZcSbSjDexdKGym','kCoVDCoeW6zQWQxdPEg4VNuIXOFcSmokm+g4PhtdHmkr4BQhpq','d8khWP/cGCkDjmkKW5pcUq','utBdPWTcbmoO','DmoxW5bAW4nFWPhdGW','W6tdRCoNqN5HWOVcNZ9uW6C9BCkN','Xl/HU60mW4BcOog4USoz','WOVcLCk8W5JdGe9bWORcGtGk','W7nYWQ14xmk8WOldOrZdLmoer2JdQrNcPG','W4JdTW5Sjfv+W7lcQmkqf3ldV1n3vu9xBY/cSmo9zSo/WRenWOpcV0JcRJRdSZldJWlcJ1yTW6ddKairh3CLxSoSWPS','4P+CWQldPSoopuhcG8kxbu7cTt9Rnmk/mSorX7vPW7JdHmkR','pthcMSowFuxcOWPKFSo6','BJNcNCozoIe','WOVcLCk8W5JdLeTFWQZcRcqyW4ddKXpcOrm/','sfP/WPlcVW/cJH4','dJ3HU6/cImkyW6aJWO5FWQ5gjSkJW6jX4BQNWR0','dSkqWOVcGq','bKeSuSoz','WR3dJLZcRfblmSkpW7hcMLGqW5aBWOKwWR53WQedtw7cSCkRW5esy8k4WOhcVd7cMMOSW7BcV8kHW71RWPJdOatcN2S5jazgf3JcIItdUL/cTexdHmkUWObEgJDnWP3cS8oFW6JdUK4LnwPaF8k6W4ddVIpdG8knhmoQWQurue/dK8k+pCoBW4LfWPddLCkriCkcAmkOWQlcOgRcKHpdR8oDW4XLDCkzW7JcNw7dJupcKgTHW4Xapb7cGMFcP8oZWPpcHYqClCk8WQJcR8kDymkrDurPACkNWR/dPfVcRCo1a1tdVCkUzvVdU8kIW4qoW53cK2ZcJCkBWQpcKCoQyComW7KTW4nuWRNcSCo4xMPPWR5ZW5ddOCk6mmojW7RdV3/dImkdW4RcGJ7dLCk1zCobWQFdNmkxWQdcRmo4hSonbmofWQVdImoIzSkBW6hcImoWW4BcJ8o/WRtcUYeoW5iVW7VcJ0tdIYBdPLSAqHdcR8k+W4WDiCkZW5isrCkJmWC','uSkpWOFcKLvkd8oRWRTZmttdJCkt','W5L/4BM0ArxcPog5USo7fmkaW5fc4BQeW6LCWRhHU7bLrG94WOrqWQCS4BMeW7ZcLmkeXB5SkhW','CIZcLtXnf8o0x2DZWPDGWQDUW6BdRq','DJNcH8oEfG','W6rVW4/dKW4qWQNcNUg5Q8kGW77HUBb9BetcUvvDdSorW6OTWOme','W6jIgSoKuG','WRNcRCknveuRW7ilW4WTECoeBGrTW5/dNW0','yd3dVWa','jaKTW7pHUi8G','W4zPvCoyg3JcICk7W6q','W6VdM8kgW54zW4VcMXa','WP/HUilcOxOCt8oHn0tcP2NdKhxdSszld0tdGfvNW4lcLSownZ8Il8oNr1xcJXW','qCkpWOVcOXzhfSoJWRK8ecxdPCkfDCkBWOVdKsi6qmk2WPy','ArGfW4fB','W6NcLSk9irddJmo6kxldPwNcGYhcQgOsvG/dLrPOW4hcHCkFzZiWp8k1tuBdIabjWR3cIrTuBazofmkZW6VdVdFcSZToW6RdU2uqFSkUW4SDW5xcMCktWPhcUCkmhSoGW6O','AMtdKSoewbldTq','W5ZdJKhcRa','WQ/dVCko','W5qqvGC','W5KugwhcRmkjm8obWPW+iG','yIrCW5OhWRrAWRRdI8ozWP0','CmkjW5Pm','gSkGimoRWPK','BvD1W73cUa','W6pdTSokwxrVWONcIq','WPxdJGRdRrWED8ksW7m','WOVcLCk2W57dJ09x','zZNcG8oms0VcOvnYzmoVWOpdQ8oToCkFeZ3dKJRcJgtdUxm0ba','hh1UWOldN8o/WRC','zSoPlCkDW7DjW7mBvCkIWPriEWLptCkAa8ohWOueW5tdSmocW43cR2VcVJNcTSk7udu2W7hdV8o2iXtdJmotWO7cGmk5fmoBi8kqmmkCvSkhzf0RWQJdPLFcVrzGWRxdT3ddMYaSEcpcPSouWRNdO8ogWOCVWOBdPmo5zCk5h8oZwSkTW4FdPCoRDmoeW6ldIv8itZrQDJxcMJ5YWOJdUv3dQeBdMYZdP2tcKhBdJmkrW4W3WRFdVWiNWQtdTmo4ASoiwmkpWP5vWQzlWO3dJ8k2bwjeW7ZdL8oyoI4/WR0SW7CjzSkUDtnAamkfW6JdKLZdNwumW67cTcb0W7aKdgO','WRRcVmo+WRrQWOWs','f14QrmosWOO','WP1vjvrOWQuxWOfcWOJdRmoMwSkAd8k5WP9+qK8ZW7PTW5xdUSkKWRxdUmknW5DQFmo5W7BcVCoMBa7dGMPktrFcSvaQzYzVW5NcOr3dQ2zwW4NdUCkhWO9fW4tcGYJcGZhdK8ktaCorWRmolXL4ceyBW4FcVhrxW6BcGYa0W6z+e1aCWPVcUZhdMxpdHX7cKCoQWODBCs7cTCo5yCk1pSksWObBospcJ8knBSo5WPL7WP/cMIrTWRRdJ2pcI8opW4JdIKlcK3aLWRpdUZfDW5GopuvPa8oOW7tcJSonpSoqD8o4amkUW4VdJSkUWQZdSuXBpdT5WPVdL1SxwCo1gSoxWR/dP1X4WRxdHZldUs7cP8khW7DCW6WbpCkHWRe9kSooW7GFuCobmdldUCkcE8kVW4VcKSkTk8oHfCogWQNdKuNdPCkfz8oDWRVcM0JdVt4VW4WfBCkdW4mqWQ4cpCoD','cSkMF8o4WRykWRS','zG3cOmkVWPz6jthcOmoEgMldMmoKWPNdKLyT','gmkWFCoy','zCozW5bkW41B','zZZcHc9Dkmk8r21KWOjJW7HnW6/dTq','BLz/W7K','eCoZW7pdG8oVlCk4W6VcHa','ztT5W6a8','rSoqBCkXWQKZddWtW73HUPC','W7HNWRX3','EtxdTHfn','ohub','W5KfW7xcNWqMWO/cNWO','Bu5TW6pcQxhcHtXdW6O6W6SS','qCkfWOFcTLvMfSoRWRHehd7dSa','stWIsgVcJaG','lZNcKmkryaZdTtHD','Cg3dM8kB','z8okW5DuW4D/WPhdLJi','ECoxW4XdW4nAWPBdIJG','W5tcGH3dVWmLC8ocWRq','4P+jWP/gKCoTvmA14BMzFLJcImkQWOnaW6WNr1W','kXldLSkdaq45bUg5VKy','CmojW5VdHmoBBCoQWPBdVr7dIJmoW7FcQvXZcGhcMJBcRSorW7NdNCkbW4/cICkYW67dQSktW5XZW7pdTSojqCk+v8k9WR7dHCkJWPa0tc7cOCkgWOvgW500W6BcI38BW6VcP8kjwdqZW6iTwrnrWPz4oSk2fM9lWOzKW7LaEmoYgCo9yCkHWPyDjCkxysWliGj/cSoYWONcQmkSW4fNW7vtW5HHgeldT2SLW7hcO8kDW4xcK1v0BZ3cOSklW4HiW57HUlGqi8o4u0ldLmoRX4lHU5uQWPeohCkPfCohWPDMWRlHUjP4ehRdM+g6VSkQWRzoWRi0W5ZcG8ktW73dJ8kscstdJ8kwW7ebWRPKCSoFtKaDcmoCvI9AnZpdI18DW5TpEuFdHmkeW5xdNsWwW6TcWOq8W7BdQuJdOWTAWPOyWPZdVCklW4VcJCkSmmkMWPjwW5VcGmkNfmo5DCk1W5RdOSkvW6uoWOXGWOldQHL8tSkGW7BdNemqymklACkNWQXnW7nMcLhcTCoZW4dcHLGhemoJlSomWQzLl0RcO8otntFdUw3cGXT6WRFcV1NcLSkKgmk9WPZcJgNdKL7dOmoYWOpcRCoGWR/cP0ldTYGqnr/dUbyFa8o5EapdMWFdOCoUWR3dL2zRW6JdQsNcMeTInXH/BCoUFSkgWOpdR8kPW7jZW73dLebekv7dIJRcTwVdN2xdICoxW5ldV8koEH/dOSkHW4bpuJWYWQP4nGZHUjxcGqLY4BMcvSosWQTiW5lcJCk4eCk5ASkgpmoesmkzE0T3dSkgqWzLA8kLWRtdLGtcN8k7x8kxWQL5umkechBcPmoZnSoAmCkLumkoW7a4d8kul1jPvHWFyg8SW73cSb3cNZXIxqyIW63cLv3cRCkuW4XuWRRcTKFdL8osW4dcGupcIKCjtgiveKBdQ8oRWRFcS8oJ4BMXW5nhmUg5GsNdMmkoW7SAomkhW6PpWRmlbGFcVrRdM8kOsCoOF0xdNCodqXxdR8kbyxzvmSoZWRbtfmoVWOmIW4dcImk2WQ4twb/dQmk/WQhcJ8kMyCkdWPe2W4PmjZ0wgxHZlq3dQstcSSo/p1ZcV8o0iJVdPquaemoIWOKEWOVcS8oPDwRdQc0urrnNW4JcQmoQWOlcUSoB8lw3Tq3gLEg6OCoZW5fLcmo8W5pdOmotfSowWQiIB8o+g8ouqmkUfs07WRhcNSo2WOZcINZcU27dImowW5m+W4ynW4uZFb7dMSk3W5tcUmkHW5ddH1ffk8kvW77cPHFcNcdcImoCWR/cPCkZfCkfgmk6FgnYB8olW4GoWRBcQgmZgSkaD8k8W5xdIajmW68Evqm4bCoSW50/gCkQW7LyWQtcOXBcQmoUvJJdKmkCbmoQWRJcKuGrW7RcPWdcSWSHlCkXhYdcISoviJ/cOszaxuOvW5ZcH8kRemobW6xcJbC5kSoKsCkaqr0hgmoQ4BIDAeqJkJhdL1PcWO4SW5JdTmoJWPZcQmoDe8ozWRLuWQPstmoPW6LfWQ7cMmoQWO7cMCoMf8o6WPrnySkSqmosomkIW5FcNWldPCoFp1nXCSk2','AKz0W6xcNJpcGIzwW7e6','W4JdU8kmW6K','W51E4BIkW7vpgCosECovWPmJgrRHUOy','WP/eQmwEWPb3W5tHUl5yDmEb4BMKW5S','WOZdMCk0zK4Q','W4iStMPeWOeLd8owzSoSmSoXWOm','rNxcPSk7','oSoY4BIKW57cOqZcUmoHWPG','ug/cP8kwFgNcSq','b0ddVMFcM8oqW6fmuXCvW77cKvmpbxJcH8kGumotxvC5qmkqW6u/dmk5W7tdPbaEyvbBeCkxW4u+W7ddIhvpW7RcQGKnru/cNJSjxq5xxYNdI8kkhvFcLCkNW7JdKmkCW5/dQftdMWhcMmobgCogdLqSkmk+gmo+W5BdOKVdT8ooxmolW5nfWQTmW703WOPWWOagWRlcQ17cGCoyWO51vGqDp8kEzJ5ikXpdICkIyLtcIf/dJcxdMuBdVLmfW4yRW7KKBSo1xxTFW48CW4/dMhLIWOKIc8kWkmkXnb4cW59cW7OZsmkXW6VdONddKCo1v0NcGZNcHCo7WQlcLCoxjIS3WR7cGfJcL2e0n8oyDuhdVYxcPMtdJLNcJmktc8oof8oPWR1qWQ0ic8o6dhmywgRcS3dcTSomWO3cKmkZjhGMW4ujndHHW4lcGmoTiCosW6NcV8o+zrKjr0eZWQusleRcO1WOWRLyW4q','x03dVxhcLq','W7T+WRDYFmk0','Fs5S','sf/dOM3cL8kt','W5SsW6ZcIqamWOq','oJJcI8obwW','ydhcLs1FiCo1','BdhcNSox','rL7dUgpcMCktW7DsCWOkW67cJqC','W5qRrx9vWOy+jq','W7xdMSoqWPFcLWOtW6NdGgTpWOxcGwZcTbj6W59OjSojtmoLkW','W58ubNZcGmki','uN3dVG1h','yCoSWRfk4BIOWRq','fmoMW63dN8oKoq','o8k9cmoUi19uw8osWRJdQW','zSonW5DnW4KB','WPhIHPCBW6KBXOdHUiBcLCkuWQ/dSCoAkvffWRmol0VcLCkot8kzbmkxWPOtDCkmWRTaD8kBhCkhymoSW716WRCurSoVyMFdSSohWPm4fmkdzCkLWPGDW4ZdKCorbmkEhqTDWOpcS3X/yc1SWPSKxMqyFupcSt/dS8khWRbmh8klW4BdNIFdICoYWR0FW7bYW7hdLMldM8o6W5FdQdtcKqXKW5tcMSotxSoREGZcUxSUFuvmh8k2WPBcVMqQsmosWP7dM8oYgxqCpGrDW5zJmmoNWPDlu8oeWRqLav9TWOr7zmoJhCkYW6OaomkCWQ4kW59CW4BdK8oTWOSjwaXBWO3cKmkrASkoW7tdSurVW7RcMuyoW5v2amoh','W7v3a8oI','BEg7OWNdHSkpW73HUj1IW65rqEg7RmkCnSkVzUg6IWxdS1BdKdKBy8kCW5H/jr/cTmkEbx9LWQXbWOBcO8o4a8kyWOq7W67cSN/cGXe','y8okW5Dd','DamSW4nlW7hdSq4OzuhdKG0C','rcCE','emoMW6/dJSoUjW','F0DOW5tcQZNcGIz/W7y9WRj5WOaKW48','W7ZcH8kwW6jqlhVdJSk/W4e','ESozW4PnW4P3WPpdNa','yNxcUJuXFCorjCkjWP/cO8oamCoceL/cNeRdSYdcH8ohW7b0W7CddCkMW4XHW6yimvHYWOuLB8o8W4S3WP0JWO90WPldLbi4E8kdW7BdKatdRSk5WRNcTIFdQJPNW5pcT33dOSooXz7dGSk/W7bFW7fwFh9xqCkEW58eWRZcMW','zZZcLI9bkmoL','zJ5MW6e','lSk2ia','W5pdMSoxW5NdMf5wW67dJgSBW43dIcpdRHy7W4bPoSkmc8oskCoIDwddPGNcSSkcW5VdJCkLW4ercJ/dOCkpWRfrWOvyW70OkSoMWOj1ESkxWRiNW5tcMSo+WPFcRmkTnSoBW5RdQWz8W6NdMmknhKFdVHZdLNWcomoZzCoVWOraW5yBW6dcKSocp8kMWRvyW7SJW43cM8ojW5pcT3RcJmoTlSo/yCoQvmok','zt9SW6uT','p8okW5pdTXKpqSkUW7uNu23cPmoxjSoEW5/dJhDUbSkNWOfyW7VcNazdW7JcN8kOC8k+WPRdTG/cTCkpoZVcKI7dP8kcW68VwSodubqSkCkEx8oUudfBWRSFtCoFe3VcT8k/FCkuWQJdTw0MW4RcMCozWO/dV2vViqhcHSogW5eHkCovW63dNSkaDmoVvgC5W6BdHmoBW4lcMCork8opWP5uAxVcLCkCfZHsiu7dRhGGr8o+dcpcLSonfCoLW6GxWPauWRRcVCkZEmoDW5OslmkZW4qnWOVcStldJCorkHivmsXWoNHUWQddQ8orW6tdVt/dQSoKvCkEzSo0nmomWRKODCkOWOZcKWXshCo7rSoij8kXhCoPDJ/cVxNcHSkZWRJcNbldOCo/WOVcMY3dQ10Hj8khW6DlWO9RWRFcTSopcmoEW4xcHWZcO8oouCoKW6NdKJ3cQmkXWQnPqvpdML/cQHuyW63dPhZcUCkVFmkVWORdNmoOWQ08hSkaWOlcHSk4zhP/bSoADgCIW6fWW6eGqmo9f8ouoSo4W5bTDKnZqbrNWOL+W6abbZiLWOhdIgNdKSkI4PUx77IUDSw5rbOcy8kR4BMPW6KO4BUuW5xcIt7cUmomXjJdQSoxW6/dQ8oGcmsO4BIxW5ZcQZ/hGwhcJ8oSoqpdJmoCjv3HU4n3WR5+kv0EmSkytmowXQFHUQpdP8oLWQ7cNwyUbc0QhGldJWddUmobWOhcSmo3WRZdSSkM4BMhW4rNW5ldVmktWOFfSUg4JW5LW7tdLCs84BIugCoIlXSVXipHUiX3zWjMpeRcKqxdIKJcR8oaWPddM8kGaGPXW5FcGSkzWPe54BIwW5n1vmoF4BQAeSooFKZcTKxcGmkoW5ujW7RgNog7SvOKBNldTgKVWOVdG8kMqriFWQyNW6lcUmkEst10W6pdLSkhEEg5Lmo1WR4o4BU+kenf4BM2nCo4XixHUQlcS8oJXkhHU7tdSLyup+g5Vg7dV8oWBSoPna50qstcM8oadmkDWOacW5BcP8kvW6ZcSH3cH8kjWP/cHSk5tSkqWQaXoSkormk+W7WxdG','WPyzWQq','sdSMtwFcKbONWRBdQsGbwSob','W7xdMSoqWPFcLWOtW6NdGhClW4ZdL3dcSXqJW4b5ySkhrmk5E8kLpc7dQ0VdVCowWO/cGSoOW5SjwMFdUSkpW7CEW4SmW7b7y8k8W4DVo8oiWQm8WORdKSoYWPtcPmkNnSoCW5VdIGX3WQ/cICorW59lW644W5r8txBcSc3cRSokb8ktbSoIWRpHUAC1WQddUX3cGYtcHW','W6bjWPRcKdpdI8kBh0qCW6BdISoQsu4lE8ke','W7tcNNjzWRHvDSogWQtdJSkv','W4Sqxaa','wfJdRxm','W65GeSoLvSoatG','W4SDsHO','dwidWOFcMmo0WP9OWRPxrh7dKa','s0NdPuJcMCkoW6i','WQzUAdBcQmk+rx4dWRm','W4qcigFcNCkhja','WROSWPGVWPVdRmkEDSkj','W4pcMEg6I1JdR3nS4BIWWQVcNCoFCSoz4BUfW5NcR+g6V8oHFXxcUSoa4BQZg8odW73HU5tcN8ovmmoq4BIIWRddMbNHUyFcIG','qNxdVGXhWQTeW6NdLmkNgaFdNCkJWRyZW67dOW','z8ozW4XDW4C','WQWQWO8S','WQDrqtxdJ8ogFCkvW5LWDSk1Bc5EtvRcPsz4vNBdQfap','gLOZvmkrWP3cSCoplL8','WQJcUSkBwL04W7m','gvRdRq0AcL5meKtcNSo6WQP5','tsCtWRK','Fuj8W7JcQt3cGh9aW7CVWRr5W4mGW5aAW4VdSmkY','W5XQwSophr3cRCkeW43dTSo6W4OQceFcSLreb8kyW40oW4Ta','AxNdGG','wxdcTmkWDh7cOa','WRtcKGtdMCoqcLa6W4aV4BQaWOxdJtNHUiCvESopCY/dNaG','yLNcQ8o4','vh3dUWPSWQWeW6G','e8khWOVcKCkpfSkLW5JcVLBcI31jWQ7dPWGNdrhdNgJdOmoP','idRcJmohtglcMtnn','EcrI','F1mEt1ddNmwlXltcO8of','s156WOxcKG4','W4eQsMHiWOa/zSoqAmoOjmo2WPvycbJdRW','qUkeLCkH','C8oxW4LaW45zWP7dLa','W6hdH+g5I8ojAKKWW73cOW','W5e/w3vvWO49zSobzCoGjSo0WPKAerddS8o7WR9C','jCk9lCoV','WQtcSmoRWQv2W4qFW614Bt9q','W4SydwhcISku','lCk3mmonpuLs','W5hcHXddOa','W7fyWPldNSwh4BMPWPSq','W7lHUk3cH8kNErSB','WRZcSmkACfaTW74','lMVeHEg4RJ0','vSkFWQ/dRmoQoCswB8oI','w0LZWOhcHr/cPGhdTKiNWQrf','WRn8jSkv','dSkSECoXWR4AWQC','W40qxXGPW6zs','W5u7x1LnWOO8lSoDDmoppSouWPm','Ee9TW6xcKd3cNa','f1hdVs0oifu','idJcJmkXCYFdIq','W6D2WR19xmk+W4G','er7dI8kF','BcxcNG','ltNcOaaDdSk9','W7NdRmoiqwHKWOlcIq','W7pdRCohqM8','Fw/cU8oZsx/cTa','dLddQq','Bd/cNCox','Cs5HW4WKWOjdWQ3dJmodWRJdQCoQW5m','tw/dKWPqWRGq','XjxcJ8oSWRrnkJvY4BMu','W6vNfmoUtCob','WRpdNGK','wvtdMSkEvs4+hCoT','WPlcNmkL','WRvWnCkJW7VcUa','itlcISkXFIhdJbb/W5TuWPO3xq','W67cTCkHlLtcHCkSn1JdPwNcGYhcQgOoeKBcGXORWO3dHmomnc8YACo0uKFdLe4mW7pdNW','W4xcIWRdQqiyDW','jsZcVqa8DSkCm8ktWPlcJCoCrCke','WRVcR8kyzKuVW6iV','WR9J4Ow4ySor','CvfLW7BcTdlcJt5YW7iHWRnYWPO','wJtHUBKebtZdPw3cSIFcM8oaWOtHUQa','CmokW5fBW5iB','XR3cKKf24BMcWPz9W5VcKEg7VslcTtHM4BQ9trBdQUg6PZfwnCw44BQttmoc','BezRW7JcSJi','rxdcUCk6Aq','qConW5CoW47dHmkrW5D9W7NcN+g7JmkMr8kfkSokAZhHU6tcPH4CjdZcL8oSW6tdNCoV4BIKWPO','Fog7LCoNwghcSEg6JG','dbxdNmkowq','WRlcOSoBtgL0WOlcIaiDWRC','CNxcMCk6Eh/cHSkQWPbInay','W48yW67cOaamWOK','W5BhMfbEW698A8oRWQi','DbNcQCk+W4CyCg3dOmkDqY3cMW','W4SdW7ldIamAWO3cKKJcUeT9W74OWPi','iCkNkCoJmuHv','tfrAWO/cKHVcJWJdH0yVWQ9IwrFcUwrY','FSowW51cW5DsWPRdGW','WQNcQ8kjqvGHW7G5','WRv2p8kRW6BcPq','cXtdJW','BCkUcCkoW4ZgHEg5Uw/cPG','FYxHUQNcHCoFWRBcGq0rWOu','W6BcSmkyqvy8W7K/W4HzFmoiArj1WOpcKa','oKGnkG','qsa8qG','W73dQ8ofbsqYW5FcIHqmWRvTnSk2WQz8','Bu9LW7lcUa','gveVvmoFWORcJSouiKBcHG','W6hcKKPFWRLvsSoGWRe','wCokh04','W4zZxSoqgG','wLZdVw3cK8ky','sLhdRmkXWOS1WOi6','WPLiuL7cP8k8nSoTWPO','sx3dPHTk','bfWWx8oy','W4esW7xcGGKB','pJ/cG8oggIONkf3cKmkRr2XyhW','WOldUCof','W58/wW','W7ZdNCkNW4ankda','WObZt3vgWOyL','Xi7dGIZdHY8YWOTYhmk/aSkVW7BcGghdTrPEW7ddPSoYWP88WOJcM2j24BUUmxBdK1ZHUjVcJqtcIYFdJSotW5SzWRddPSow4BQzcmkHWRZHUjiQWPFfQCocha','W5RdRqDXlZW4W7JcQ8ohbYNdQq','wv7dUh7cLCko','eCoYW6ldICoKoCkI','aaNdISkeuW','W4RdQbjMoaSEW7ZcP8oifW','t1NdV2FcHmkuW7Lq','ytldSqPigmoHysWS','hSkSFCorWRykWRy','osBcI8obwW','W5xdOmkBW6HF','XzNcT8ocW5RdJuVdRrpHUQXKWQ7cNmoQ4BIRiSkse+g6UmkjECog','ALfTW7lcUa','W50yW5dcIGioWO3cNdhcTun0W4GOWOxcSSkehq','jCoBW6W','wg/cOCk2','umoEhLirW7tdLSo8WQpdKJqqwLNcTCkoWQzC','uhpdGqXqWRahW7W','lCkNmmo1o1q','W4vOuSot','WOZcLSkzW5tdKG','WRlcOSoirCATyCohWO7HUR9oWRuG4BQIWQNdV3xcV8km4BI+W6BcG8oNW4FdNLzbW4CLW61oXPxHU4ZdGmkK4BMpW4zWW5dHUB4EbM7dLa','BLpcKCkDwG','CdxcG8oEeIyS','CZJcMtX6mCo8qa','4PwI4PAh4PAb4PAQ4PAb4Pwk4PEr4PAn4PE94Pwv4Pwo4Ps34PEf4PEQ4Pwx4PEl4Pwu4PAO4PE44Pwa4Pwi4PAv4PsR4Pse4PEJ4PsQ4PEm4Ps24Pwd4Pwe4Pwg4PAq4PAa4PsS4PAG4PAQ4Pwj4PEi4PwekW','WQtdVmktr2Oc','W5XCWPhcIJldKa','W5HCWOVcUZVdH8kyhxKfW4xdGCoxza','W5uArHO','a3HVdJZdNL94','EtL8W64HWOLpWQtdO8oAWPxdPConW4m','WO3dJKddRK4','BvDTW6xcTdpcGG','D2NcIJdHUOf6','xZaoWPZcICoM','W4TwWRpcKttdG8kzhuqfW7xdKCoWzW','W43dRqXGiGyYW7O','arldJG','FIRcPIe1lCkvn8kiW5xdS8kkB8kpfvxdJGNcOsBdH8kEWQaMW71FdSoOW4W2WRLAAHzQWOqPnSk0WPCWW5pfNEg5MMZdK8kjaa','qdrHcau5W7JHUQC2ACo3DCorlXm','WQ7dI8oViXxdGCoOoHxcPcFdLMddPa','WQ/cSCkmufCNW7GVW5W','W7TtWPhdUa4UW58','W5KEfxtcG8kXnmoB','vZSQxgVcKa8pWPldOIybwmob','CSoEW5pcM8ond0RcU8o1ybRHU67dRCoE','W4qFbxdcL8kPoW','dSkCzmoghxTOxW','W6nLWRb0','W4aqd2dcJSkkCmogWO0XiSo8i2btarpdTNi','DHNcR8kVW5S4zG','W6NcN1PtWRC','WQZdUSkIuMW','jdxcLSobvG','W5/dTXzIoIyPW7hcO8oNhdxdRW','WRdcUmo+','d+g6KSkG','WOVcLCk8W5JdLeTFWQZcSZ8DW4ZdJZC','W6ldP8oBqxXJWOi','WQ3dM8oLiXpdL8oJyGJdQcVdL28','W7TxWO/dSaaG','WRxdT8kVq38dCrtcVfr6','Xj7HUO/dVaifpmoLW6uO','krtdLSkmarS/','WPZcImkvW5BdG09xWOJcLb8gW4JdHcpcTae3W5W','W5NdUqXNoqi','W7tdQ8omrgLZ','nslcNCkxDZFdKG','W7f4WRDTzSk5W5xdSa','kCk7kmo1muG','W5hcHXddUbuzp8oBWQJdLLfCW4eBWOLtWQ53','W5WAqqaPW6XzW5i','bmk6WRddRZmArmoRW5ddQ8o6WPD9tJ/fJCwN4BQqaSk6W5lcQGTHbEg5NSkjW5hdUCkcWQqZW7hHU63dUXKf4BQdWPXRtSkQW4a','gJZcI8oesGRdPL5g','t8oEhKmFW7u','W64zX5f0W4/cHtxHUBJcLW','jMZdNqy5','gSkOyCoiWRi','cHZcJa','W7n+WQPPwCkXW5y','hmkaWPFcKmkEpW','wWRcOqbZ','W73cT8kovZfSi3FdVqC/CcLgmsNcGMBdOLNdH3VdJLX2W5JdIc3dImoiW4agqWVcH8kLW5umW7VcJrHypSoZW4ldHtVdJCotWRWmWPJcIrRcJmoCCtxdNx1NiXtdQmoMfCou','thFdNSoumMtcGvuXWO82W4nEgCo2EwtcPhVdQx0TyraFWO3cRutcPCktWQ3dJHHuW7WnW7GDfdHuW4hcOGuUCLjSgmohgComWPTOjmkHaeXVW5/cQMBcGGhdTqaVi8koW43dVgtdGZ/dIXz6WPWts0JcGJRcPLZcISkpzmoUWPX1xxRdOSoAW61SvexcH1m6h8oOoeNdTCkUW5hcKSkqAW4MoCoSi8kKn8kBeNlcVG','Cd57W6O8WO5bWQy','AJFcKYjbimo0qa','W4zPs8oihwVcS8kxW4xdPCkUWO0Vqe3cTf9lrSogW4SdW5XhW4pcMg5VW4/dSXLWWPKoW4m','rrpdNevXpCoa','Cb4fW5PnW77dQs8ED1ldJG8p','W5xcJX/dPXCzFCoAWR/dGG5sWOeyW5rxW7XIW6m','CZLNW6y6','zZ5WW7SXWRrlWQtdH8ouWO7dV8or','WPtdRmovwJW','WR3dQ8kpbG','W7dcKmoJma','eN95WPVdMCo4W73dQ1/dJq5VWQpcLJG4W6LGW6H3WOKfW5mof2xcQCkYaCkYWQZdPwBdI8kdW7ddV0juW7XhW6mDWP1fsZfiWPe7W5hdRwBdUx7dQCoOjxVcOSoLCYZcTZ3cVJaiWQhcNa5xumkhW6JdTLpcTxP9W7pdTCkfghBdNmk4W6VcJmkuCgu5W7tdJ0rSW44IwCk/p10GtHVdG8k5WRVdQKDosmkUW5n1fSo1bCorW6m','W6jHhCo0vSoExW','W7xdSmozqM8','WQhdNSoX','WRZcTSkeqvq8','qM/cMCk8AM/cQ8kLWP51na','bmk7AmoB','WPr3jSkVW70','ytZcHajDn8oL','W5XQwSophr3cSmkxW4BdTCoYW4nWuuxcQvfjrSoCW4aFW4Xq','twJdTXvr','ptVcRSonxuVcOrTszmo8WP7dRmoL','W5FdU8kiW7C','zbZcVmkiW58/Da','W7ddTmkOW6NINidVU6zkWQXQBt8jAJvOW5dcPJ3dLcxdHYvFW6XzsuKTW7i8ASovbdpdUbdcMh1bW5DonSkSdIuaWR4','peuC','pcddTCoZpsRdUCogW586ntasCelcRtNdOYhdLcZdGHy/W4jWWP0AW5BdQX05WOZdUMLrrSkdW75GaGldHmkzrredWRJdImkliCkdivVdGxhdICoO','WRiQWOyU','kIhcKCowuuFdObnUDmoVWPVcR8oTiCoxaJpcIsa','mMVdKmwE4BQtmq','W7tcNKPxWQnd','W6HSWOH8W4u','W65GemoRumoruq','W58udhRcMCkdfmobWPW9','W5fwWO3cKZBdJSkCaNi','uSkpWOFcLK1BemoNWRDYbYG','WPfrWOVcKZS','fIdHUiGRCftcMdFcK8kb','xmkeWPFcSKe','lHjsWOubhtGsWR1p','WPRcQaf2oqy','WQXKEblcQmo2sNqjWR7cOmorWQhdPG','emoIW7hdHSoGkCk0','wSopWPxcHSkipCoXW4RdU1dcIgbEW7ddRCsLW6vdsmoo','z2RdLq','fIe9kZCZWRpcT8ks','lmkCWPldHmkxWR/cPmorW71DWOlHU55aW6SGqsvegUg5IZVdOSkfW6thRHxdG8oq','oZxcJmoguuC','W5LDjCol','W4RHUPhcJ8k0oYxeMW','uUg7TgxcSCk2nog4SZStW6VHU6/cQtZcIUg6RSkDgCox4BMzWRpdUSkIWRpcJ8kwoMDHg1pdIq','W5y7r3LvWOO','oupcUmkOWObbnshcPCoEf2ldICoWWOZcGG4KzmoDzqqGqMemWOFcNbldJJSWq3xcQwuLmCosWP3dTfe4tCoRdZFcH8oaE8koW7RdOmosBNrYmsJdVCk2WQXnWOhdU8ozy3rXW6OgFSkDbmkxcJi0x05lW4xdQsVcJWNcTSoaWOzwqqJcMSo6crRcS8oHcv/dLCopAs7dNWtcLa','WOPhWQZcG1ijWOC','yZ3dOG','F1z4W74','cmoOW6JdHa','WPpcOSozW6fluuy','puuCpqFdMG','bYZcOH4rWR8p','W5SqwXuHW6KAW5unW5ZcRCkQv8onrSo3','qNpdOd1dWROb','bbrIWOtdJ3ddG03cSW9IW6OrduxdScO1e8odWRhcQmktW6rOeZSsWOZcId3cL8ofWQDHuCoXWQOIW4vpWOBcI1DZnqpcOu/dUdJdMmkzW4JdGmoMBWPcW4WOfMinqCkaW6hdVuGXWQDpW6KvW6PGlmk5WOtdVNtdMuW','W4fYvG','nmkiWO5iWPfqWPK','rZ5PWOFdJCoYWQBcKG','lYtcV8kgycxdMa','W5JHUkhdGG1nAbxcLaS','jGRcQSo6W5X9DW','WQpcSSo+WRzUWQStW7C','A2VdTX3cO3ldKqlcLmkiW7pcIM7cLqveWP9lWR8qWOtdKCoKy8oJg0/cVComj8kPrMvvjCoaCcFdOmoBm8o5BmoDoCotWPGjod3dJmk4WOqjWQhdV8k3WQeJ','pCkZkSoLo1C','wuTMWOxcNX7cOaxdUKmM','ovWnmq','XA7HU6ZdTY9wo1VdIaW','W5y3wgXnWO4O','B8kPB2tHU5FcLW','u8kgWPBcRW','rIpdUmoKAmkZ4BQbWRZcGSo5WPldSConW58','DmkoWP7cVLCpt8kUWODIacJdSmoxs+g5K8klW4W8jUg6J8oU','lIZcPYiKEW','W4pcNbxdOq','W4PhbIy','WQC2WOGXWO7dSG','nsdcPWq9Fmkeomkj','W7BdQ8ohwxHYWRpcGXXf','bZdcUCk8','4P6/77QDW4NgL+g7UabEW6GeW6/cMfGvlri','bc8PhgZdIbK','at7HUz3cNtjW','kY3cSq','WRP8iSk+','WQjPpSkJW6ZcRG','C0j4W7lcTq','x8oPFUg5Rmo3hCkH4BUKvCoUxGz74Oc9t1hdIvpcHSolbmkBWQVdImoeWQyZW78UW6FdNr9NlmoYWRNdRJqfW5VdGSkvWOlcP3FHUzKJW6jxo3/cMqlcNsVcUCoMfmsT4BUvi8k1WRmLWOiGyJdHUQBdRSkCW7lcSmofWPi4W5q','W7j3W58','WPNHU74RW6RdJEg4Ha','WRpcSCkowG','jhaQW4VcMmk2W6pdGv/dJq5VWQpcLJG4W6L8WRH3W5PrWOPcuNJcQ8oXuSkTWRpdTJldImojWRddPX1tW7LEWQCzWO9hqdLFWPfPWP3cSIxcPdxcSCk1AcVcMdj0zCoXoSk6k/cHKjpcH3zb4BQAWP/cP8ocamo6FMxcQmkOeejTWPi+W73dGmoCCNbIWR3dKfNHUR3cGgbumJrgy8ocfCkrWPBcHSojjHPvWRCdkqhcRv3cM8kYWPqjWOFcJtpcQHqoCCAoWOFdU8oiW4TgWORHUBtdG8ojkhrnW5jJvUg4H8kpW7zArHxdLvWwW4VHU4Pte8oNW4zJW5qkW77dI8odv3rgWQNdHdJHUidcQfxdKcZdHmovbW/cVW7dGSo5WOBdUe5aj8kle8oRlmokjZ3cPmk6xcNcTYJcLxtdUJJcKmoOW4uRAaBdQ8obtNxdH8kQlmk5r8o8WRWxBCkyW6xcN8kHwmoiwJFdK8kSeCk1WR8YW44KWPJdSxGdm1ddQt4BpLRdNmoJb8kLdSkmW7JdSCkol0neW7ZcJXGaWR/cRSk5W7pcTmkCWOXsWOtcHmkdWQtdUJndd8oaWRtdISknfsqepSkJsmoEW4ZdK8ooWOPPWPhcRXZdMaRdH8oHw0JdImoRygLMvciY4BQ5W4PRW5rXjSosALpdICoXW53HU4HJWPmWXBtdImojbSkCWOVHURvQpog4USkWeCoSeCklDSEmaCoaDSohWP3HUj/cVfZcQa7cJNLuDUg6NbddIhpdUSodw8oHjrFHU6FcHSo64OotW43dNog6OmkjWQeR4BUdlSkAXONcKSkeWOzXWQlHURpdICoFp/gjNzL/v8om4BMEW4jq4BQyxCoNxwjeaf3dQ8opaSkUW55mr8khWRWWcSADW7VdSCk+W7Si4BQhvmo3kog4KsGFWOdHUzLSbCo6W4BcScRdOhRdH8ECXQ7dUmkbWRZdS+g6LCkWWO9OW7pHUPaHwEg4UGGZW7/hPUg4G1fUrmkakmoftmk7WQ1pWQL8l+g4OfXbbmkGW4ZdM8keWRbBqcXuzLRdVIdcOCkvW44omCknqSoQW5WJW5NcMZNcPclcTCkUWQ9kWO3cSX7cL2lcQhpdUCoPjWnIWRnUWQLrbYfTW7RcLZVcUmkjBJ/HUBShWQtcGCkn4BMbfZVdOEg4SSkZWPGBlIOhW4tcGCkHrrlcOSkxzalcTmkeWRZdTCoBw8kAWRpdN8oYWQpHUi7dJxdgGK1CCdmLh8oVWQpdLmAsWOhdOSktWPeAWRJHUiyCoCA+DSokW5DD4BQhW7hcNdtdOmoDW6ZcOLVdP8kQ4BQ8FCoCtog5HfyuW7u74BUKWQpdNCoNqJdcNsJdO3xcISEJW7bbWRW0Eog5GGldP3/dN8kOWPyqwSk2pY0ktqddIL4vzqDqW7uWzrDnW4/dMcJcV2tdVCoJW7jtWQdcKGyYW5iVhmoIWRSVW7vuWQFcHvPiDSk3W6CrWOpcL8k/tSk+E8kHWOvaqSAY4BMDWOa4W7GyFCkle8oAtwlcQ8kMDSotW6uAXPldGmkLrGpdVog4TMSWimomW7JcKmEt4BI/pSon4BQ4smsR4BINlCoBddfs4BMgCCkaWPFcMCk3WORdSqldPCk8WORcK3rVc2pcNCkrjqhcM8kpWQddQ3BdNmoqEwn+vSoetdLNWRaYkYWuWOtdHeBcGCkRyq9PAXzdsZBdSGRcQeWcW6jLq8kTW7JcKCoBz8kEW6L3WOdHU7enntRcTu/cMhv+WQLmaEg6NXbqW7LGW4/cUxHUuCoCW78gWP1VWPNcVSoPvx3cHmkWqCkksLRdP8kFW7LcyCoKWQ1EBCoixSkTWR3cL1ldG8kOW7RcUXtcVSkGWO04W7leN8wrjJhcKCoWW49iWRFdI2jok2FcOmkWWPRdVmkfEmopWOxcP0xcLWHSWPpcHCkAWOddPLjrW5NcHmoyWPi3h0pcHCkMmdRdLSkyWRa84BQ0W4m1yq14WRLLWPyuWOCvmgJdLKRdKmoXX5JHU5yjBCkm4BIJWPC2W7FhMEg6N8kxW48brCoUhvpdMmk0W6mhi8kBpW/cLtJcRCkIoSk7gZeCmCoRa8ksW4LzW4vlASkOcsVdGghcGSooBCkL','WRJcS8oPWRTRWOOD','FUg7P8kSW7nF4BUf','WQpdJCoOAr3dI8oTEZNcQcBdLM/dVa','hgS1WQLOW4CoW6JcGSkxW5RcSmkdWOVcS8kRyx3dJbxcHmosWRZdSKm+WP1JW79LWQtcSSkxdCo/','XBxcMSkyWQHjWRm+u8o8cmorA8kuCSoZBmoG4BIWWRFdPmoSWOFdVmkNtCkfeWRHUyfPl8oFW45Q4BUurCoSW5ddKSoNW73cLHrw','yWrhWQu','dMxHU4Ohl8kuWPb3qtC','W61zWPBdUGmIW5T0','lYJcUq','sCoAa1m','W5NcJXhdQq','WRFcVSky','fSoIW7ldNG','C8o9mmoLAJagomktW6VcRLy+bJ98W7DtqCk6WPhdPuvHvSkVWPxdRSomW7RcHgFdOgldRGrlmmozFCoAW6JcGmksnZqJjKG1W50UBstdT1qnnSoofMqKrgNdO8kMrWVcJqvWW5RcOa','ofuCdatdKCk/W55Hc8kbkSkKza','WQNcQ8krwvq','WR3dQCkpbG','W6GzWRZcOGGoWO/cNG','WQNcUSkCFeuRW7S','xsCtWPpcNSo7WPiPWQHhrYdcHN/cRx1YqSoZ','WPrXBsxcSa','WOLJWQ7cHIFdRCk4','XkBgSmk0W7nF4BQPWRFcGCoFXjBhVUg6UYDWCSkr4BQmW4fKWP/dRSoavW7dJxddK2pdNEg4UX0','xSkOW6xdG8o3Da','WQySWP8SWP4','WOnAqaq8W6XyW49C','WQNdUCkj','XPashLxHUAjajmoRWQ3HUjdcHhldSHCyW4nWWQJHUPfB','W6j8fSoMtCoxFZ5EWQ4uW6i0','WRZcGK5xWQeqD8oXWRZdKCkvB8k3hCkwWO9RWRnQ','mrnsWOybpSkJhCk0cmoK4BUzfZZdUZddSCo8W7NdRCkKgCo+W68mWP1BlCkw4BQXF8ooWRP4FeW','lmAaWPxcG8oBgsRdGW','jthcJmofsKi','eLO2qCoqWP/cPa','xdilWO/cMa','WQZdKuPEWQzdkSoZWQtdKCkfn8k8xmohW6KKW6fWfCozWOGMvCodWPfpWP/dMJdcVmk5WRdcU1hdKSoeW6y8hG','m2lcN8oD','gdpdOqHdWRDxWPhcLCoZuuJdKmoQW7HJWRVcTY3cMSofehqxWPZdJ1NcT1ldSJKjq8kakalcLmosW4nxbSkVWOq/WQ5OW73cICkgWOldO8oiWORcR8kQpmkgWOSaW5v+WR8LCCk2qdZdImoHfdxdRSkrm387zCokWQGVWP8HbmoPyNDWmmotWQJdLmoyWRSYW53dH8oNASk4n8osW5xdJuRcIdNdVeJcR8kJmJZcSsfqWRBcSSkVA8kMgmkHDh10W6pcNSkcWOHkoqzdwSk0qCoMkbNcKSo4ASkEW7/dG8kSWPjla2jiCmkdWPaRWPremCoPz8or','WQVdMSo1sXJdGmoHCHBcSqVdMKJdRa','WPONEmoi4BQ4wCo9W57dR8kZWRpcHh1Igmo9gWuSWOtcJKtcMCs0W7xcKW','W60UsM5v','W6r+WQn8','W59dWOJcTapcV8ouDX/cK2VHU7WFgCkG4BQXg8k8WRmjWOdHUivMt+g7Ia','WPtcTCoJWRzwWOatW61xud4tuZq4WOxdKNlcLwVcPwOG','WRrRimkLW70','WOmrrGjOW6zBW4arW5VdSCoKfSovtmoYWPiPea5JWQOOWOFdUmk6','WRNdKCoLAXldJmoICHW','WOFdKmoVlIddKmoH','wMxcU8k0Awi','u8kyWPZcUG','W7FcSog5R8k0','W4BdUqX2nWnWW73cOmoubJlcTGu4v0fv','dSk8ECojWRGh','W6BcG1fBWOXyzCo3WOBdKSkunW','WR9UqdJcS8o2vvigWRNcHW','WOJcK8kEW7BdMKvgWQFcLa','W4xdRq9HmX0','qM/cOCkYCxK','AdxdVGK','WRpcRmofvf06','8kAoMSkyX7VdGNOYWOddS1VHUzG','aSkMy8oy','AwVdTvncxCoQma','rIpdR8kPeq1a','CokxQEkxU+kxPokxU+kvJEkxIUkwTUkxNEkuVUkxQUkuK+kuRUkxI+kxJEkuTEkuHEkuQUkvSUkxRUkvJ+kxGUkwTokxHokxV+kxTEkwQUkxSEkxHUkxG+kwI+kxV+kwTEkuLokwNEkxJokwQUkuPokxKokuO8os','W44edNW','W53dS8khW7jmbvpdImkhW6tdLG','sCoqi1mcW7hcLCoY','W5HCWOVcTYpdH8ky','fNPVXlRHUQNcIW','fqNdKCkira','XjdcJ0ddMeb6W7blwq','xtXJWOJdNq','sx3dOG','wCkpWP3dKmkFECkUWO3cU1hcHgCdWRZcQfXIqGBdLc3cRCoyWQddHa','WQ0hW4hcSf0','WRbPiSkzW7VcQSo/W7m','e31+gd/cMWKYWRxdPGO','utNHU4ldOM/cSmotiJvz','W53cGrxdOG','WO/dSog5L0mVfEg7KNFcLGD84BU3z0zY4BQMW5zN','WRjXm8kKW5dcQmoJW7DR','zsz0W7S8W4PdWQNdJmocWPVdVmkoW4pcQmkTiglcLq/cH8oeW7u','dcJcPgxfGog7MmkFpG','WPZcLCkCW5JdHq','ztxcH8o3hYaKBuxcHCkfs0ab','pCk3i8oOo1q','Cc4gWPxcMmoEW6nzWP1/tdFcKW','WRhdRCkjwW','eeyPxq','W6ddT8oyrq','ovBHUlOHvL4taLZeOog5Q8oGW4nFW4/HU6zN','XkBdOmo1WP/HURX+','dIBcPYjWuSkF','at7HUz3cNtj2','FJ3cU2uZF8kqjCkoW5VdRCowyCkba0tdNvFdPgZdJCkuWRnUWQrjamoOWPWLWRDAmreLWOmJzmoNW49SWP1XW58HW5hcHHvRBCknW7BcHeRdSCkXWRdcOcddUxH6W4RdVIVdSCkukSovWRJdSGJcPfrJor4EW4ddHGhdSmkB','WPvyW6/cLqabW5/dS0xdVa4XWRT8W5FdU8okwJikW5JdPCkDWRejW4xdJ8kyWRJcQge1iCkUeSketa/cUMW4xNaeW6fBWOdcImkgWRPmwwWAW5VdQmopW5i6W4qJWRpcOmkHm8k2nItcKq7cLCkqWPeJWPiUp8kSdSkZW6hcSGZdG8oFWPRdUdG8BfVdN8oufmoSWPCYx8oRWR7cKCoSzGJdNG','W5PlWO3cKsu','W6pcMvTvWQrvya','W7LIWRr7umkI','XzBcT8oEWRRHUQCQW4y','eJrJWP3cMmo1WQ/cGaZcNHnTW6/dMxTZW6q0WQeJW4vaW5eqFc19W7XAW6hhJCs04BURWOJdKmo0W67dH0hdOqBdR+g7LCkxfvpHU7fyWOVfIf/dUZNcVshcOmo4Da','CsdcN8oBbW','W7j6eSoZumoDvce','ugxdOH0','W7VdVCkTWRHWWOarW6PMEsC8AdqJWRtdSJRdMcxcK20wWR9xhWHHWRT2mSkrxfJcTepdNxrdW5CbEmoZstaCW6FcPe3cHCkZlmo/aCkUeCkyW5mknJGBW47dR8kmm8k0W6aybCoCaSktWOm','uvv1WOZcHb7cHH4','vWNdNGz3cq','nJC1','WRuzW5/dNNFcGSovwdDrWQFcMmk+ibPonSoxlLG1sKpcJ28','lmkAWOaKWOiwW5/cKh3cT8oxqCo2r0H+W4OLEwhdSH4nja','k8k7n8oXofTF','W4eQuNbe','W7TtWOBdVqaJ','WOW3c8oBdWJdPq','W45PuSoqcetcTmkzW4BdHmo2W4m8xa','Ccj5W70TWPu','W4pdLCkeW5pcIsatW6NdGgTpWOxcGxddOeb6WOW8F8kfcCoKFCkMDtpcSLddVSohW4BdJ8oXWOrjxJlcOmodW7GwW4TcWR5TzmkYW4CNmCoBWRuRW5/cHSk8WOJcOCkYiCoCW4NcNH5TW7lcMCoB','W7BdSmoeqf5OWOBcIc9pW7eX','mLegpaNdMmo/W59GeCk1oG','W7P2WQe','iCkyW4hdI3lHUOTXw8oHgmkPXjpHU4fYW7n3WRpcUG','WQn4jSkJW6dcIq','CtZcGcjvj8o0','WQldKmo2','amoRW67dICoQ','W4a7thvoWOe','uLr/WO4','W7PcWPJdUaO','W4JdSanXfqa5W7hcJ8oq','W4SCqHe7W7fwW4Ws','C3NcQJa/EG','FhPDW4dcVtVcQa','tt9MWOtdIG','W4tdVCkLW6HocbldMCk9W7xdIN8tWRK','WR7cS8oSWRG','W5WXwxfaWOm','W6GGWOuMWP/cVSogpSomz2qFwSodfmkxWR/dGW','XBjKWQhdH+g5NMRcVg3cK3uMW5VcQ8kcD8EAXzFdHSkFycBdVEg6HNq','WRGMWOqLWO7dQa','W7jLWQT2rW','oCk7ACoxgG','tsjVWORdJmoZWOZcGXxcIe07W5BdPfq','WQJcUSkywvaTW7m','pvFHUzbOeSkDe8s4cCoeWRxcO8kq4BUmWOzc4BU0bSkpW4vv4BQiW5CDXPRHU64PWQNcVmo84BUAWQ3dMmkvWOtHUjWtW5JcL8ob4BMFW40TcvNgIbJcQWBcRYNdM0q','Dq3cVSk/W5S','rr3cP0jwtXmjxbddVmkJ','kCk7kSoLhvrcFCol','hSkOECouWRGR','W6RcT8k8WQGGoG','yGKuW7HrW6ddUa','WRHTn8kNW7W','W4JdUrjQiG4XWRNcRmofacm','wZaoWOS','itpcNa','cSkCWOJcJa','buC3wmosWPNcTmogna','XlFcQM9+4BQGWQPBkEg5LmoQifrmW5arWQTI4BQAW6/dGEkcLLpdUmkk4BIBj8ooWPKh4BMRlSkk','WPmOt8ozvZRdVCowWOJcOmkZWO99bqRdVrafv8obW4PpW4PqW47dLLzOWO7dRXLRWOzgW4z/W7hdO3JdQfSnW6PRCmkIW4pcJJSoWP87WRZdNu/dImkgW5qcW4rabLZcHCo6BMGZE3tcLZ5pzbHWhmoHFCkKW5ddRrnnWOtdHCommmkaWRtdPG','aLy2rq','sIGMrcpcNWS7','W7pcHv9cWQzFASo2','dbxdM8khvd40aa','WOmwW4hcTe9TWPOWh8obzZGzgCk/aGZcUmo2qmoqW4iVt2NcMfpcL19WW7jmW4XcW6XFttlcV3mwySkdWQldIXvIymkjW6VdT8oAuSkwE8kpa8krfb/dLt1MW58GWO8nsSkAlIpcH17dTxTsy2vMlXhdI8kCWR4Grh/dVmk9WRFcOmoEoX4pW5qZWRRcGCo0tbbixSkZW5hcLt7cVSozWORdKHHCjthdL35xW4JdMb9RW6pdHSoVoGtcN8kXWOpdVmkcuSkQWRq6CCo1W77cImkwW5xdJKe3W6jcwCkbaSo0lJ7dMSoeW744BmkRrIBcU1RcQmoUj10xW5hcJf7dN8knDSoOs8k3yqxdIw3cGuxcPfyTubSRWOLCte1pWQ1IW6TLWOu9uSoNxmkhbCoUuSk6W7qmW7dcKN9EWRJdHCkuWQ8U','W6FHURXAvaVdREg7KmkbsSA44BMRWRnrXQPABCowDW','ECoxW5bl','WPxdTXPDlWtHU5P3WR7dHNXWzW7dOMq','eeeQxa','aCosW4ldOq4AcSoLWQjVeqW','W4qwW6W','W73cMueCAmobXOFeGaZdJW','W7VdK8oU','WP9X4BU/WRRcR8kfW6pdT2VcTq/cQ2BdMCk9WP0IWQuHWRBcKMayjW/cUdDzBSoYgtnYmmknXi5SxSkWqKW8ug/HUjxcOJ5hWQ7dJCk8iJC','AtNdPIbjdCoGyty9W7NdSCk4EW','EIxdOGa','tsCtWQRcHCoMW4y','otxcKmorwW','X68zW5ddG+g4LKutWQtHUy0/t8ooW4NHU7NcTuaYqhi3WOvkWRbMW6j3','W602mmo0','qwhcP8k9','WR7cS8oPWRT3WO0tW7a','BgS4W4dcUEg6QCodlSo7W4jIWODyqW0','wLJdQgJcLq','W41CWO/cKJBdGCkq','aCkOFq','WRpcTmo8','W7BcMe1FWQ1zAmoSWRhdHmktoSo0emkEWOy','AdxdVHfagG','W4WzrHCT','W6D7hCoKtCoBvtW','ssyHtW','c8oZW6tdH8oY','W6D2WR1kqCkXW53dOq','XBjKWQhdQog4Rr7dSCoV4BMEoYKxWR3cJZRdQZJHUiNcKq','W7ldP8oFEwrWWOi','FdNdOGLec8oO','W4NdUqfOmr0YW6hcOmoaswxcQG1LcHnBiclcPmo3y8o3WQTdWPRcU0hcPgxdQhddHH/cHuDYWQNcIaGmbtv/qSo9W4tdGCkwWOijbmoXWP16wa','xK54WOpcHrpcJam','s1JdVYtcKSkjW7GtvrueW6i','WPpdOmoXFbVdKCoJscC','gmkGymoy','vcuMswS','W6THgSoP','neeqoKxdNCk8W4T6cW','e3b8yuBcPbatWPq','jx/cRNe','W5TCWOVcNZ7dJSoychidW6tdNCoWDa','W7dcKfPsWQzEyW','DEg4NbKhimoWcCo7WQO','bKeSs8ozWRFcS8ogiG','yZ3cNmohhte','qspcGCkpW5eLywtdQ8kkEY3cImk0W4NdHG','W6VdSSoOW6KIW4e','W7eD4BQcbgJdSCoDW49cW4BcPduxWPqbWRC','XltdV8kYafFHUBWDWRVdLZiEsmktk8k3y8o1W7/dVSoxW4u','WOtdTSkovN0','W4TMtG','lfWbkG0','WPHhWRZcPHtHUR7cImoziSEmBa','CrKfW55rW4pdUaCECKFdLbe','wmonaKGc','W4WfW67cIHm','XlFcQM9sW73cN1SLWP93kLq','W4ddP8kAW68','WR/dISoIBrhdLSo/','W6CF4BIXWPvbaGldMstcUen4W7vYW5NdTq','lv8DjWW','WOpdONv3WQFdU+g7QN9hj8kwWOJcHSoQ4BQjW4/dI1LjXODPWQa','W6tdP8oywq','BtBcHcS','pJ3cJmoJu0xcUbb1','W4y7u2HIWOa/p8owBSo5','4OguW4BdN8oeW4DlxCo3W6PRt8kfWOfWW6baESkmph/cHqNdUcNdOMLVWQjaW6tcNa','WP/cOfm1yvO1W7/cUComeqC','t0xdV2dcUCktW7jBsG','h8kLzmoEWRi','DZBcVcfdiCoJCgnJWOy','DtNcNCoZhIO8zL8','mLeCkGddKCk2','EePGW6xcUc7dGt9sW7e7WQDWW4mOW5mfW4VdQG','bLi3qSoz','W4/dUrzIjqOP','iSkZmmoIphTkDa','WOldSmkpxwG','nt7cHmkr','W43dSq5V','WRRcSSojWQCnsv7cNmooWQhcMdzDW75FxKnAW4r6pgfTW6HSWRpdKCoDk03cVSoLW4Xwemk3pM5jf8kdzMRdICkuB0tdRmoyW6dcGSkBWR05mSkwoYnsW7WjqmoRs3FcTeJcUSoqWQVcK8oVW5KEBLu4emoxWPxdM2BcO8oCWRqW','zahcO8k5W5a/','W75FWO/dUGyJW51CumkACa','kIFcKCo2w1lcUq','zWNcUmk/','WOWjW5ddIwC','tf5LWPq','EtxdVcrib8o4AIW','tcOcWOxcH8oWW5y','W65jg8o6ihhcK8kX','h8s8WQZdPr5+dsS','WOZcJSkcW57dMu1AWQ/cMq','iCoVW6JdI8ovi8k0W6pcOH07wCktWOu5WPqAW4dcLY0','WRpcSCkmueK','a8oRW60','WONdRwi/W6tgG+g7Rh8p','W4pdU8ktW6i','erD0eCoBW5RdRW','D+g5I8kqW7D1rSkiW7S','ChrZeqlcM8kfW7xdNq','W5X/lxDsW7ddJmo6a8ozWOxeUSE14BMKh8oZ','WRuzW5/dNNFcGSovwdDrWQFcMmk+pe4CnSkeEGf5d17cJq','lwLVcI7dNLTRW5FcUcmDqSkvd8o/D1FdO8oCWQCqW7NcJSozjCouW44jW6aMWOWZjSkGW7lcQmoBr8kYWRzPlWCtxmoxoLG9a1RdH8kCFq3dMCk7ag4MkWdcUYVdIepdKdBdNNu1W6tdOCkIW6BcPSo1wCkXn2/cOCkJbSoZjmkIWP/dLmo5WQBdKCkEvmocaupcPCo4BhhcK8kECXtdMWlcHuFdGLTYsmotW4ZcLmoqB8kKW55HwbxcPCobWRVdNSktqtf1smo7W7uos8oTACk8avXfWPH+W7XlWORdSLtcKgWOitNcIdpdQmkHetFdSSo3W4LwhCoWW5/dUSkxuCkMf8kHbsr2W5ZdGZZcQmkAWQyRcuO0WPtdTmkTWOVdGCkbWPNcT8kAlgvMW7VdJSoCBSknW6acnCoTfaRdP8kjW4hdHvD5WQlcMevGW54YWOZdK1PWyWifmHqEWQZdU0XkWQVdHCoMWPK9WP7cTSoUW5FdQuK0W5CfWOSiW5xcT2NcNH7cPIfUwu55W5mPtCkpW7ZcHZRcMa3dSuddRSorWOy/WOxcIsNdUbDlsCoHcs5cWQ/dOcZdSXFdHZ8mWQuoeCktvKZcKCoXW5FdGv1XqMpcPSkSrCoqj8oHAX1b4BMbCCoQW6BdTSoZ4BUzDCkEW6ZhTUg6HSkYqMVdU1VdTCobW5NcQCoGWR3cK8kpC8kXrComzmoBWO8jhCk1W6hcHSo+WOtdMSo+W59TWO/cLCkOW7pdJ8kEECkFFCkSffPLW4VcKSkiWRz1yaiMgtimCNNcHdzCWOhdSwZdK3FcT8oPDg/dQeCEW5NdLuNcRNRcGCkMWRiBhNOElHZcGmkfob1weW','AXNcOCkUW5S5','W4nFgfavWPjJW5S7','umoMB8kd','WRpcTmo5WRzGWOutW6C','tSoke0qvW6VcIa','X5f7W5PqzW9ID8Em4BUMANa','4P6fW5fMW7FcJbbkW43HUANdS8okCSoEl8kHWRaKWQ83W5xcGmki','meiblGhdMSkZW5DoeSkSjSkdDa','rtrMc0jiW71S4BU7imkBW6tcNUg6VKTSWPVhSUg4Pmk2bCkRW7H1WPP9sUkbUmkqWO/cP+g4P0WHW4zJECkfW7TfwCk+WQldPLOqzSoPgwFdQEg7TCk+n1O/W6vuW6fGW5vcW4hcPYSCWPutd+g6JmocWQneWRpcSrmdWQNdTaLuX7vRwCk7W77cLSo64BQGc8oXWQZfUUg6U2ybFEg5ON1JW69o4BUAW4Ocs8oNfmw74BM4frFdNKRdSqvKp8kMquGoW6VcQW','lxFcIUg4NZi','W714WRb3','ESo2mqC8W5NcSG','W4xdRq8','eCkyWOpcL8owjmkKW4BcQeO','W6BcNKXZWQ5tBa','WOJcK8kEW5NdNKruW6tcJcqiWOJdGJ/cRHq/W4jO','pCoFWRKffXO','W4mRtM5yWRW0j8owy8o5kmoVWRzBha','ztBcGGTvj8o5','WOmwW4hcTe9TWPOWh8oDi3fpgCoSvLxdQmoGdCktW4HMt23cJv7cI1G0W71gW5GwW78jb2pdPwLllSkeW7tdLu5ZySkoW7hcV8oedmkAESogqCkicL3dMMaH','m1uglHZdNa','4OkfBcxcJ8orW6ddVCoRx8ondM/cO8kwodJdQwddQhFcIqxdKW4lASoTW7TlW7/dLSkKkmolW5dcPmkMdHhdOuxcP1tdJHuhCa3dJZddI8k8d8kYzCoPWQ5QnCo2W6GGzCoTEmkKkvJdUCkhdHqFW5FdTmo0cmo4oZBcSSk5WO9kCmoEWRJdQ8kmWPrWytxdP8onfINdHJboW6H7bw9pfCodW6tdSCk9xLSuWRZdKxXeWRnQ4BIMWRpdKXxcKCobWQFcRmkaww3cSmkvW6xdJSkfg8oOWPNcJCovjZztW5jRg8oWW4BdTHqoW4BcMfXoWP5pg1FdVmozWQNdIrNcQ8khW40cWQjoWQhcIIVdTmkVemoAi8ozW49Armo+xSkjWRlcMmkuaq5ZWOzaWQj2WO89lmkXW6OemSk3A8ogBCo5ASozWR/cJhDRxCoXWPqujCkE','gmkSFSoj','jCoU4BIIW4pcOxJdSCkMW50sj+g6LmkSW4PM','iGX4W7xdO1BdJhitWR9UW6y8W45HWP1vWP7cVSoMW7RdI8oHWP/cL3W','WPZcImkvW5BdG092WQxcHsykW4VdLq','kSkGnSoUjG','iokdH1ZcG0RcRSkxs1SXe8kBq1SFmJhdOdxcL8o0WOr+W5WslmoxqCokivbUW6hdUM7cNSoHc8kaWRpcGx7cPCovW6ldJSohW7RcSHLdaXRdIsbFWOeHWPVdHCoycCkJsvFcGSoxWOzWW6ldU2meW4LLW5fFzN1lW7FdNCk8nSoqcI8lW7NcOCkIsNf8W6ZdGdpcLmk3WPVdKvLRwmoiurRdUM47W4VdRra','cbuG','WO3IG5PRnCopW4z9WPxdMxb2WRvSlL5rvCoXyMz8DSoOua/dG8o/WPaXDfrSFcFdL2lcM28kW5TgW7j8W5ddQCkpnSkogmoQx8kQv8kIW53cVa','W49mWOZcLG','WQrVBZVcRCoWta','W4pdPSkqW6Ti','W4XnWP7cIJ7dJCkBcW','WR7cUSkCvfGIWRS6W50lC8omzqm0W5/dNXldGY0n','WOZcVCkAW7Dmb0a','c8oPW6/dJ8oZaSkfW4dcSq','zdZcHaTyiCo8vMXKWQf2WPXl','gLyRvSoiWPy','WPlcM8kiW6ddNK5hWQe','W5xHU5SDW6azW4ziWQHvWQrrW6/HUQDnW6zwe17dVCoQXzpcIYZcVSkjygZHUyRdIW','uhpdHWHsWRWBW5JdLmkGfa','W44sW6JcOa0kWOZcNaVcQgXOW5i4','g03dQYCe','l1emgHZdLCkGW48','W6tcKf1uWQzvCa','g1iXuSou','fSsrnCk6ndBdTSkvWO9Np2DeDL/cUZpdV3/cLsJdGru+W5uIW7KxWPtcPeLTW4pcT3navmotWQyi4BUZqmohXzVHU4iAfSk4W5NdHZVcGYfaW5r0W4JdTCkxfYLFzmkCjmkmWQtdNfPfW4BdNmk6o3a','W4azW7/cIrqlWOtcIG','qtZcMSorgh9PA0pHUlZcQrjNdCooW5P9WQddIfCFsSkoWP3dGr5iWPXRk3hgOEg6HSoilMVcSSoSBaRcVKFHUBVcPJSYr+g5VttdJCk6WQldM0Ouomk4wt4','Dr7cQCk6W5SLyuxdOmkyvJFcHCkK','WQldISoS','lmoMW6ZcISAr4BQbWR/dPq','WQ7cSmkCvf0zW78K','W49yWPpcIJBdJSkEfxGtW67dLmo7oqndCSksEfzYaXFdHZRcIqFdVwK','AeOHW4FcKW','xSkBWOVcPbrla8o6WRaQadNdPCkdC8kn','W4yXz3ncWO49lSoNACoGiSooWOnfgrpdUW','WRdcUmo+WPjUWOWBW6zMBaKetd8','E1f+W77cRW','leqrjq0','WQpdUCkzwgGuBclcS0mLCZGdiZdcKstdUvNcHttcGeX3WORcLI3dNSouWP8jeqFdGSkUW45nW7pcHveCymo5W4FcKZpdN8kn','A01OW7tcUZxcGJDx','W4tdVCkLW6HocbldMCk6W6JdLxmUWQOnfW0b','W5hcGq7dIreiEG','4OgXW7/dGa','zaKuW41bW7ZcSb8uzvldL04mvNW','se5I','WQldNSoSAW','WQJdNSo1BWFdGmo4','uhpdNHDbWRGfW77dOCk6ha3cO8k+WQOQW7xdSa','smwkySo2W70idcC','stGhW5WuzsDG4BQgWP/dP8sJXRNHUOzEWPCe4BI1WOKck2ldKCkqWPflaCkByxjXW5i6W4r6p2VcSLyI','gumKuSovWORcPa','WRKwW5hcTf9TWOLGr8oDigfFx8o/ebm','DmoDW5bAW4De','vG/dHIS','WRhdQSktswOv','wJ9+WORdLmoFWRFcHblcRKe8W7C','W6pdRSoctNG','WR7cUSkCvfGIWRS+W5CnCCofjHv8W4O','XjxcJmoSWOdHUj8/','d8oMW6/dN8oGjSo8W6NcKJS4xG','WR0TWPO3WO7dM8kzBCkbmw0bb8ofhmkAWRxcK8kXe8ojWPZcVmkhWQrYohCsWPVdJxddICkYna','WPfEeMxcJSkiy8k/W5LWDSk1Bc5EtvRcPsz4vNBdQfapW4pdV8kqlsCelti7W5bYW5W/qmksamkVgCkCWQBdNsZcJqVdSH3dSH7dRSkuWQddTCogW7ldTY13WRC','WPRcOSkldt0GW4FdMKWaWRv0i8o8WRu8WOFdHmoGW6ldMSoMqCodnvhdJZtdT0pdPwpcICk3WOdcKYldLmoch1X7W5RcTmoIofxdV8kBWQRcQ8k6AGldMmoUkCkWW53dKWNcK1RdPNtcUCo9W5CcqSkTy8kOpSoOCf0CyeubW5XuWPFdTIVdIs/dSCo/jCofWR0DgNRdGHCoubqwWONdTSoAWPnPDmoG4BUKW6tcJ8orpCosWR8GaW','WRhcKUg5NCohWPDE4BUeW6NcJog6Je/dGEg4Gd7cP0bPWOmRF8onrUg5R2RdOJFHU6xcQWNdOSoqWP7cNSoGWPuq','mdBcKSkbDW','WRtcVSkfua','Db/cUwHwtXmjxbddVmkJW4m9WOybm0FcJ8kIhaVcNH3cQG','fmkgWOW','WP9P4BUNnSoKW4DpEmknWQtdGSoGWP3HUl0','WRD2imkpW67cQmoJ','4OgQWQtdLuDRwaL3W70hp3aPrJePWOjMW6jzW4D7W5iuzSkCWPSQW4xdNCojxLXDWPBcUmozvCk3WOaDvJFcP8kBW5i8W57dNSk6dmkyWOKAWOZdNhe','W4idchlcHSkipmozWRG9oCoGiNO','XzNcT8ocW4fw4BUNWQnE','ESozW44','W4nIvCoAhvG','WQpdRmkuhMGuzJlcSW','W6n4WPv2qSk1W53dLHldK8oa','qJS9rxW','aEg7Umk3WOj5y8kmmey','nIBcVsq8rmkyoa','DxFhRUg5K2C','WQdcISkrW4xdGW','fXtdJCkfrq','Cx/dMuO','BWpcPCkI','W7mWc1TiWO4/la','dmoYW6W','W6ddO8ocx1n1WORcIq','l3hdVG','WPNcK8kCW4pdKLG','rNNdPIXBWQKm','WOKu4BM5WOHba8kieWVdVexHUQ7dR3XaW7S','WOdHUAJdQc4W4BMkWQXBeEg4GJW','Fcr8W6C','W4SmxXe','W7dcRmkwxa','DWVcRSkTWPz7oshcVCosf3ddMCo8WOZcKGa8ymka','W6XVXOVdNeLtlSowW5VHUzhcS8A+4BQEbuNHUBjeba','W5NdPSkmW6PE','W5KCqWaTW7C','WOFdT0bapmkfW4tdHtK','Ed3dVHba','k187prRdNCk8W5W','WQ7cRCkbwa','kX/cOCkTW4W/ohldSCkFqYVcHSk+WOhdGuW+o8obzeC4u3W','nIlcJCkC','WOnUr3m','qZ98WO7dRmo5','gfNHU4SGsmkm','W4/dSrfZoG4K','lmkyW5HbW4XcW5ldHZJdVSkqcCkIxq','qZf+WOJdKa','X4tcOmokkUg4NCo5W5DG4BMloNbnhEg4JqS','W4OufvdcG8kdmmoqWPCKfmoSbwO','W4zPwmorhftcUmkf','yt/cN8oDax9QBK3dHCkJbM1EhCorgmkkW5mpcKpcGSoxW4Ogg8kDB301WOTZW4DHCsZcRXuGWQXxWPJdOY4Yv8oL','zWNcUmkyW4C7Ca','XzlcQCkGzq','WQ1UFHlcPCoWtW','WO/HUjtdV8o3qCkb4BQrWQpeMog6VZ4','rNlcVmkPEepcT8kaWPa','W7tcNNjzWQXrAmoGWOhdNmken8ogcSklWOPQWQy','WRtcGuy','vmkAWOpcU0a','W5FePJ3dJXNdVNuCFa','sdXVWPm','W61xWPq','tICPrq','ksFcN8kxEZddMa','e8khWOVcKCkpbCkJW4xcQvhcMgO','X5VdOIWVn8oYb33HU4dcPmocW4BcGog4R1W','pSoqpbhdImkxWR7dI21qeCkpWQ/dRWZHUA7dMCkn4BUYnMlcTg/cLHuHl+g5TCkMmGzXWQZHUlih','4P6Tg0lcIbSxW4mJW7VdNc8','W4pcGsNdVaaoymoSWRddLve','n0hcQmkLW5KIyq','XQ/dUCoFWRdHU6pdRmkY','W7bYWQ1CwCk1W4ldSb3dLmoNuGZdOW','WQrVFYlcP8oWqMiu','WP3cN8keW7VdNLLh','wtLKWQRdLCo5WRBcJWS','wJ9zWP/dISo/WQ3cHG','WRiQWOy2WP/dSG','rIWxWPpcMmooW5XGWQnxfghcGhpcPxO1bCo+xuy0xJZcISoAuwSfWRdcNLS2y8kN','ycNdVWDagG','DYdcGcS','WP9xWPCFlSkEW5OAkuVcPW','WRRcSSojWQCnsv7cNmooWQhcMdzDW75FxKnAWPSUkYSEWQqPWQ7dK8kEzahdSCk3W5zvcCkJF30le8omiIFdM8ksCuhdP8oFW7ldLSooW6v1B8kpBgGlW5xdHGpdVEg7TcpcP8oAW67dKdNdNmkJW77HU6i/egiwWOxHUANcHZBhIH3dUgLYuCozsIpdNog5V8kgfmoMXPFHUz/cTCkyBmozxmkA4BUkCqzjA8o7W5TesuyQ4OchW7BdHog7HmojW7zjWO8aWRlcRCkzuJVdHmk4bSEZtKhcMmoPW4/cVgBHUipdKmk0W69vW4ldP8k7W6RhJEg6QX9fWO0WW7LxW4aI4BI7yCoIWOVHUinri1BHUOzjmCoEWPNHUPKiW4FcHbOLE8oW4BUTiahdQIeWqLfuW7axCmo+W7RcSq4jtmoZWPhfNmklWRtdTMLMeog6Hqf6WR8SWRvdumowW63dPCk3W6VdNxtdHSksiveUfSoLWQSlCY7dMCklsMznb8k3WRddGYRdUZxcPHu/WOpcIG/dV8ooW6m9W4dcOqBdLbmHgCk5WR3cImkSaIJdKxWfCSoHy8o8fNXiWR/dR8ooxN4EjZzKvGvrWOySWOxdI8o1W5OrmCo7W4JdHSkEWO0Ry8keWPFdGmoJW7pdGWJcO8kUneeZxcmXEdCzFXmJFZPwWRTtmfONWQrRWQL3W6mzWQ8mW5/dUJ06scizW53dNCoRWOS4WRRcJrrvWROSnCorW50SCmkMWRyYAs/dI2ZcGXZcK8oehZ7dMge6W5VcNXNdSwxcK1iEWOnOWP19qgldJePwWPBcHmoMW5uZWOZdICoZW6DXWQdcO8ofW7JcGKntmfTYqSkxjLG5vGT1WPKyW4dcMSkFvYT3WOzWWQZdV8oUWPvKg8kHW43cTSkJgMOrWO/dOWXuWRddPmoBWQZdLSkObSo+t1BdO2f5imkji8kBw8k1WO7dOdZdTSkjrmkmiLKODHRdGCoqW67cPmo3W6OQi8kPp8ozBmoZq8k7WQ0Iy2rtimkJpKRcKdeVCCoqkhvTW5L9W68SoMG9WOjnW7aouthdJ8oMcmo5q8oeWQX14BU9ea/cPCEY4BMadmodlmkvm1ddUvFdHxRdP8o3W6tcPYz/c0/cOmkTWPNdOYvZWRTzW5PrW4xcNSoGW5GwWODKBH9rt8oaivuqWRZdKSkzW7pcJ0CcsuNdJxpcM8oEW5GsWQVdLvdcHtDsWP/dNCkfWOldQWBdN8kzCfu4vYlcOx7dR3NcIeX2nCkfC1LkWQavWPOwW5C7i8oSWPldNtJdHHhdUdNcHSk3yEg5LbWbg8EMW4PzW6ZHU7FcJSoTWPZdLmoav8oGWOBdJYJdU0ZcJ1tcTCoKa8oAiSoHW4fdW44zDSoSWOiyWQxdKJXzc8oIW4ldIr3dVmo0WQBcJcWgp8oBWOBcM8kCt8kVrcm7fHJdTsJcQmkkWPRdVrNdS8odaHWUs3mEDSoMACoWCmopxmopW6xdMSopt8kIW5BdQSkIW7ztW4HXCSofWPZcVKyzgcyGWPBdQSkNW6pdRd5iW6/cMSk/g8oHWPlcPmkDW57HU53cOCEMy8kIreWlWQtdGfjjCN9fwNNdVWVdItpdNmocWQ7cQmksW5tdGbnirKvcW6ZdMN7cKuBcP8o/W60hoJDObmkbjYytjuHYhGK4kKuGW57cMfxdIIu/W6zcC8kNWP1jWP/dNXJcLJShxmkBxmkLW6D2kCoaBg3dTMddVSo+W7qlWOFcL0FcMmonWQRdQtlcK0VdPsFdR8k4WRJdSw88W7GPW6vIWORdT8kvW5rQrNxdO8oSWO4RACoGW7ixWPZdO8oXW4O7FZ0','Bb/cHCkIW4GUz3xdOmkA','W73cT8kovZfSi3FdVqC/CcLgmsNcGMBdOLNdH3VdJLX2W5JdIc3dImoiW4agqWVcH8kLW5umW7VcJrHypSoZW4ldHtVdJCotWRWmW5VcGbNcJCoAzMxdLt83lepdRCkTt8orWPZdOq','W7uIi0u','CYVcMs1r','WQn4pmkUW6dcPG','vCozW5eoW47dGSoFW4q1W7lcMehcPEg6TG','i8k3kSoMifi','WQRcRCknq1qGW6ioW50FCCoCzWm','as8iWOlcJCo5WP9IWQ9atq','w8okhKqeW7hcLmo7','kZBcKmkbCYJcJaz+','W40qxXePW7e','hCk+WOZcGLbcpHmHE8oMa8oSW6v3XQphGog6VmklECE14BUcWRPSi+g6SCk5BCoh','XQ7HUO7cNmoEnCol4BIYda','jCoGbHhdQmkSX5/dRGO','WRxdVCkjrW','W5LqWPpcIJldKmkHawCu','WRpcSCklwuqQW7m5','WP9X4BU/WRRcR8k44BMAWRzXWQ/gN+g4Pg0m','r8kzqmkqs8o/W7KorxvsW45qrXbXFSkKCmkvW7VdNZRdNNTJWPmeW5rLetVdOCoTCSkrWQjyWPdcSSkFpEkfMmkzW6xHUy/cHSo2W7PvfWelWOP0vEg4VgtdHr7dHG/dP0xdNSkcW5FcNcVdUUg5PJSeWPvwW60lXzRHURTsWR7cICoYmCkcuhHoWR7cO8kR','8jwdOCkX','WR0TWOKUWO/dPmksFW','W5VdUrzRoa4WW7e','4P2NWQFdMuVdOMRcV8oL4BMqo25zWQ3HUyCN','yIraW7K4WOjCWOVdG8oeWP8','W5NdVmkkW6TydrVdJW','muuf','WPfUg3PhW5DP','zJNcLHvRtSkbvthcJZBdG14zW7z5zmk4m8kNEYHYdMBdMCo0cmoGWO7cR8kzurdcQexdOG','W5xcMHlcOrCzD8okWR8','W4eYqN9e','f8kiWO/cH8ktdmkMW5O','WRz8jSkpW6pcRSoMW7nRWQLTWOzhsq','jGauWPC','sdLMWP/dNCoK','WRtdTSkEvMKpBtlcUq','n8oVgog6Gb7cUmkpW6FhJSopyqZcJLRdUSokW70q','WRuHWPK','jhaQW4VcMmk2W6pdGv/dJq5VWQpcLJG4W6LGW6H3WOKfW5mofW','lmkNn8o1o1ClDCoCWQ/dRXOZswK5WQuFamoJ','jEkuKUkuT+kwTUkwVokxHEkxOUkvKEkwNUkvOUkvUEkuK+kwOUkvHUkwKUkvG+kuIUkuU+kwG+kvVUkvS+kuIokvQ+kuJ+kwRUkwQokvNokuGEkuTUkwIokwQ+kvQokuJEkvLUkwK+kvVEkwUEkwGEkwKUkvSmo0W4iVWQRdHmoAW64po1GLymkcW4ldSq7dG2pcQUg4KcC6x8o6X5NHUB02W7dcNSk4WOJcP8kj4BQdWPZdU+kuIEkwREkuR+kwKEkxJokxNEkvRokvS+kwOEkuQUkvVokvSEkvNUkuOUkwR+kwSEkuQokvIUkuVUkuVokvVUkuGUkvMEkvSokxU+kvTokvSokvV+kuN+kxJUkuVokvOUkuNUkvQUkvI+kvPEkvV+kuVokvGSkdWRbzfEg5Ug7cQMD3r3VdM8kpfEg4J3L3CmkM','iYxdKa1C4BQjW78jiIZcGte','W4BdUrzGpG','nHpdKCknvxP6u8ka','XjxcJ8oSWRrnkJvT4BMiWP0xASkoWRNHUypcGLRHU7n4W4xHU4yeXyldLtGmXzldLbNcLa','oIdcKmolue3cPbH4','CqpcN8k4W4WIE2y','w2hcPq','cqLY','WRL7WRz6xSo9W4ZdTahdHmkfugxdPr3cStXSfanLWOnvWR1GW63dTCowWO3dTZa6ymozW4hdGX87DYD1W47cGCkaoMRdLfVdO8kwWP3cVCkRWOFcTCoyWQBdHHu2W7iZW7VcQX8fWRRdH8kXxmofgCowCrhcQxHJWQJdTmo+W5FdP2qkdwOrWRFcUCkmW4xcKmo8W4GIFmkBW7BdJvZcImoxsIHjDCoVgmoeWOJcM0bsiLtcUSo6WRyqWOxdICkvWRVcVCoUD0ZdKCksoeLKWR3dQYreACk1WQf+g8o7pCkUk2zxW4TCW5RdVMVcISkajWj8lSoKuYldLtG4xCoGmYldV8o0WOW0r0mwW7RdRYFdM1Tzc0OIhCkAfhldRmkIbtHeW7hcQCoSqmkBW63cPIOCW4ZcQCkJEbPlW50JW63cGmkGW5ddGmonW7ldGmoLWQJdRvhdLCkgWQhcVNZcGgHUDCoJWO4wkmk2kZTbaXddLJ3cMSoOW6eLxSoFW6qWk8osW6/dQG','zW3cR8kNW5K5ENtdQ8kAdtdcJSkYW43cIH4OASkDmGHHaY1mW5lcJWdcJhDZ','W7eD4BQcbgJdSCoDW49cW4xHUjFcR1tcLae','XQ/HUO7cNmoEfCol4BIYda','h8kBWONcI8kj','A+g7QJBcIbeuWOrnW7HhWRBcPfyndEg4S3O1x+g4Pa','qsy9B2/cNrm','nIBcMJeIESkFmq','WQ7dTSkzx2yfAa','hgS1WQLOW4CoW6JcGSklWO7dOSkdW4tcS8kGlwVcHu7cISowW6lcU0yTWPf9W7zZW7e','bbr0W57dIW','W6tdM+g4QCojds43W73cOmog','leqjpqhdM8k8WPz8gSkVnSkoDdXGc3ddLwxcSCoy','nIBcVsq8ya','W4GtW7JcObCkWO/cJsNcTv1LW74YWPlcQq','iZRcUIW3Fq','WQW1W6CtfCoWWO/cTvpcGmkfc2xcP1ZdSMT/aKXJWPLiW6SLWQlcSmoaWONcP3yLlCkvWPRcK10Hj3O3WPRdLmoCotZcKGZcRmkgW4JdRmo5W5BdSmowWR7cLv4+WRmKW7dcRHGgWQdcJCkMrSkFe8oA','W4ZdQG12jHW','FI7dUX9aiCoJyJC','WRZdNSoLxqddHmo+yW','mtFcVCogs0xcPa','rZ5UWO7dGa','W4tdVCkDW6zbpHFdKG','lfuelaVdGmk3W58','W6CqXkZHUlGit8kjaaVdVf554BI4nCoxWRJcGHm','cCkfWPlcH8kE','WQddLSoVzt3dGq','jEg7OMvfW5xHUl/cS8kaouBHUyddGCk4WQFHU5ZdLSozW5b1Aa','CIxcGmoA','W6pHUlSsW6Tqj+g7J8ogW7hcIrq94BMLxSonqSkIW6pcTK9k4BQkWRpcO8owWO96WRW','WQ7cSmkKwLiVW7OVW6SnySoazra','nvDTjHfpumoAxf3HUlNdOmodC0zom8w2Xj/HUAfFc8oDvEg5HZDR','w0NdOwJcKCkEW7m','W5HMsCot','Ea8/W4HjW6u','W4SAwXuKW4XdW4qpW6VcO8k1dG','r+g7KSkcW6ZdQHLq','leulkG3dH8kH','4Ooor8kxWO9ilg95W7miWQKIxJZdS2tcO8kZWRFcQSkKvmkXWQTrW54FcSkiiGxdJSooosvfWQaqW5lcS8k1W4nvx8oGW4RdRCoIiaqZbM9bWQFdGSosmaldPSo3dCkVCCkTCXD2uK5EvJvYwmoBW7pcMhpcRCkDWPNdKmojWOGkW6XtoSo9W7bhg8kDeCkAWRaZWO7cUMVdRI3dKvzWEIxcRmoYWO3cPSoiW7DCumo8DM1bWRSTuY4Qoog6I8oZW4Wttmk4W5JdOZrkd8k4f8oUW78AWO4hrmkYdmkRW490WQuoE8k6fh3cKNddHs/cOxldLmkNFMPWsgNdQ1JcKqmCW4CFW7SKW70VWR7dJGbImmoFWROTqSkkbCoWsKHbACkOjCo2WOWuwvuWWPRcGSoxW7FdHa','k1uBpq','W4VcUmoAeY9gi3FdVqC/CcLADwddLgBcSq3cNJFcLXuWWPRdMJRdMSodW5DufbhcHSoNWOiqW7/dK0GmmSoYWOhdGJRdI8osWQTfW5BcLbFcH8ohpMxcHN0IBKNdV8kTvSkoW5RcTG/cMSoSi0dcO2tcLr8wjmolssmqW5NcO8oNdgNdOdXlW6xdTcFdTCosW4ddVMuOqSoWWPKdW4jOcSo8CaBcSGFdGSolW6xdRguPaCoEWOTfEfv5W4SHWPjcW7hdNHa5fmk/WRi+WQFcTCoWW4ldMmkMCmojWPH2W4xdM8obBeqMymkfeJdcV3nPt8kWWPNcVZiztmo5oCkSWRvIW65yWOGUW7tcISkAW7hdQCkPuSoRWOVdKmk9WQ51c37cVmowWQadsJmTWRmTFtOtaqeoW6msW6CHW47cRYH7ge9qaeddPIqIs0PLxNnsxSoQbYpdGmoJW7RdKSkPcCoHWOm9e8kJW7ddK8kPWQy9p8kum3ZcSJpdJNNcVSkqWQSvWQD1lCk/emkVC8oFW7JdLmkzW5XLWOZcMZjCWRNcJmo8aCo+qCoPrJJcHCkeW7/dUtfbh8okyumvW5mqWQdcJmouW4lcRrNcO8kfWRZcOs7dQCoRAY/cGq83WPNcG8kHl0ddVCklggxWLycpzeZdRSoAW7GPpog6Nv7dTCo7','ySoQWRVdS3nIkSklW59OWReGrmwbW5ldUttHUzWQW4L64BIohMW','W5ZdSqXcoWaOW7RcUG','W7RHUOWlx2KICqBdUK7dHq','W612iSk+W6BcPmoLWRzZWRXdWOPRemoXW5G8WRZHU63cRmoAi+g6K2pcGSk54BQ2xJxcQa/cQwH5WPrJpa','WRNcUmo+','W53dIZq','8j6fVCoSWOf9A1rfW4JcT3LIWQtHUiRdPq','hfddOrSEdLDgcW','umkeWPFcPg5gfSoM','ldJcL8kA','W5KEmMhcNCkpm8os','W5KueMe','W6BdSmkCuq9eWRzQWPHzmmkjk1C5WP7cKL3cLMnzkNJcKgaPWRZdTSktWPRcGCkGk8koC8kizCoRWQPCvNBcRmk1xSk0W4TWW6DDWQm9CCo6WQ/dGqvuW41cWOPRpWZcT2tdVmkjrGCYnWO','wCo+W7O','nKmHjX7dKCkGW49QgW','hEg6JIzPpmoMWPC','aSkOymoy','lfuCabZdKCk/','meZIG4S','tEg7GCk5W6ZdUsj0B8oI','WQf4nSkzW7VcQSo5W6i','W4y/wxTeWPSA','XOdHUk3dGa1r4BQVWOW','gmkrbf8e','WRDSpmkPW7VcOSoKW7G','yqNcUmkTW5CNohxdQSkkvI7dHmkYW4NdLG','DZBcOZPglCo/va','W6rxWPxdTWCmW5z8','XltdV8kYg+g6JCkTsq','W4eHlhFdPmkZbZfhW7BcHSobWP7cOL/dJ8ksbaZcQ8kRWQtdKdJdMSofWPDKWOtdVX9mAvhdIvCUpmk7WRKKqSoHW4m+WO9lyu9xW7NdI2lcSmoDW7y2r8k0gxJdOmoRrmkNWOhdUtOKCSozhSoFASkLbSk5W65Xb3ldImklW5xdS8kTwSkgobKBEmopy8o9wI7dH8kenc7cPCkBy8oIW4JdVXhcTmoWW7ezFHVdMWO6WQuLWP4uWOLVcXGwECoOWO8MpCkDb8kiW5xcJuVcRSk4pComWQhcJuKVW6ZdTWFdMu/cJ8o1qurSquxdVdlcLSkeWP02mSodugxcMsFdRCkyW7KWWR7dSHlcLCoMWQxdSMBdUhhcTmknAfhHU4yHW5fZWQ8MWRDvWPxdNmoTWONdMSosu8k1W4v9yvTsWRzhcwC7W6SB4BQHA17cTrlcQ2pdKCozbSo2pv1+rCkfW6NcJ8khnuBcN8kqxrK6WRi5W4tdJ8kFfsm9W7a/WO8agmoPW7VcMSkpW6tdPvddImkGW7CkW5FdJCkzWPKpamkKW6RcUmoHo8o8W5nlhSoUW74oC2fTW4VdMGKBW7ziAZxdPb5LWQpcU8otW6RcTmkjv8keWQTIt8oFFeGZW4ldM8ovW5bPxdhcIh9vvb3cMtddRCkHWOjvq1tcGMy4BSobW6boWPJdIGVdMCksBmkIlXWWmMzlpcvmmxuhimkcbHvTdNtdRmoGsSkJk8oauCozW5axaSohWPSVWQddJmo+W58kWO/dUwxcQYRcTxCnWRPnv8kyeCkdsSoUhMBcJHTLW6CgbmoqW7RcRJ9OrN/dQSk/ocxdTa9xjYiFWQVcNgxdGuDOWPdcR8oFW4S1CmoxW6WatSklxtBcPmkfESkxuSkszSkdW5GQWPmbW4O+d8oRldb7vmoWW7/cKCkMWRxcOcBcQCkTnCkEWR7cNCo7WPZcUCkBWPLZCbHIWRddOSovW6dcKEkCGx1vkqhcR8olbmkCWR4tWO3dRSkzW5BcNeVdLZBdPLqgD8ofW4C1iCk2W4JdV8kwWP8szaH9o8kfyd0Pg8oFWRiTW5NcS8kQWPNdNKy+cCkVjSoEW7VcQKxcNKXGW5/cOYHPnCoiW6fEWQvHlCkACSo/kMdcMCk3dmoUW69RWQVcQmkhxSkaWR/cT8kjW6NdLCogw0ZcMXPkuSkPWQNdHquRhqddQ8oCrtWvzmoMWPdcM3ldIIpcOCkDx8o1c8kbW4b0jKFcTmkpjCoskCkPCGeOW4LOWOzaWRfcouhdGK3cVmoqf8oJbCkes0XFf8kLW4hcNYBcLmoGW6egW5aCW6TtW43cHdOnW43cGudcUZrLWQLFW57cVHaOW6dHUOusCKnjmN3dLWxdRCkFw8k2sMj/WOW7W6BcSmoGdmkSWRBcUSoUW78inNa/W6RdGdmRW78MW4yGWRTcW4SVWRtdLSkSWOT1eddcGG3dTCoHE2ldTsVdU8oQWOnQj8kvW6SgWQ3dNeVcT8kopJLiEwpdPeLlW6hdOupcK8o5jCkRqSkmW7TDCYZdKYRdH8ohf3S/W7dcVmorWR/cK8o5r8oNkSoDi2CLgmkTqdi6vSkjWODVW7FdV8ojW6lcGhBdKSkuWQ7dJWySW43cOr9aWRtcUCo9W6NcJSkFvePeWOpdL8ojEq0Ghvzzq2dcIZJdQCo6W6xcVglcT8oeWPVcMCkJWQbDW4pcGCo0ySkcW5D5WQ8Gr15bWRixwSk2WR/dQ8oiW4ZdNSo+WQFdHZFdQ0FdK01Ia8omxSkNW6hdJSkcrZhdRSkCW5z8W6BcJblcMLFcPmk/W7HrtSopW6xdGmojWRFcLSowtCovtSoephPfjvNHUihcLLjz4BUWcHBdQ+g4TmoryJKDW53dPSkfuSomWOqFnmoBlCopWQpdOYP8smkrW6xdHgKHlSoE','CfzHW7pcUc7cNW','W59c4BMN','qCkpWOdcOW','W6/cVtJdGa','W6pcG1TxWRTvymoeWRe','WR4wWQ1Gt8wD4BIDzq','EYPT','W69IWQb8wW','oCkZkmo0muK','nIBcHsOZCSkDm8kUWPlcVComySkh','FYxHUQNcHCoFWRBcJCkieCkf','s093WPtcMbxcJq','u8kFWP3cTe1gdCoG','W4LqW5lcQbK','stWI','h8khWP/cL8kSjmk+W54','W6PAWOJdPa0IW5TIwW','cSoZW7xdMSoYCmo+WQlcJZq5gCkIWOmJWQmHW4RcJtmTW6DiA8knxSkPwdDQjCo/W60dW5ddIYxcVcvnW5iuW7nPWROuWRPIW6KGoatcO8oPbui9W7ddJfldSxizfCoHumoHrs3cG07cJCoWW4HlW5dcGwLQW6VcVSk5orabW5muaSoAW4G','yGKuW6bbW6pdQq','WO1neMxcJSkiFCogWO0PoSoWCsWDaHBdQNrIvw/dVbeCWOhdP8klmtiBiIG2W5bVW582h8kEe8k8dSolW6NdGNFdNf/cOXhcUXtcS8ojW7BdSCosW77cRYO3WRCW','xIv+','gCkBWP7cHCkpkmkfW5tcT1VcIwD7WPNcGq','XBjKWQhdICoPWQpcOCkTWP/cTcexWQylomoRiKJcL2aQ4BMmc2RcI+g7SCoSqUg7OILN','FvfPW7dcQtNcQt5wW7iRWQHO','q8kdW57cGxC','WPFcTWa9xe99WRtdRSkeu2BcU0H3eWafngBcRSoUmCksW7LzWPNdVqFdON7dQdlcIu3dGq','ugvi','W4pdVSkaW6ri','WQZcKSkzW5hdGWOyW6NcOG','WOVcLCkeW5BdM1K','tKxdShq','W7fr4BMsWO53W6NdLrVHU4zrXPBHUBpdSgGAbNNHUybTwghHUP1dW4pHUOJdI0JcU2rTnCkjWOHOWReSw8k0Eq','aW7dLSkivtm+hq','ytJcKYvtnSo+rMX0W5KSW6vjWRVcTSoysSo7','zcPHW6aNWQy','sCogaei','W5TmWPdcLW','W5JdVry','ndlcMSkbCse','WO7cLUg4QhSrcCoFc8o2pG','W5yBxWe8W55zW4apW43dSCoKcmoFsmoWW5aWtXX2WRyOWPBcRSkMW4JdOSooWP98A8oRW7/cVa','D1DPW7ZcRG','WQ7cSmk9rueRW6qjW5KkDq','xdCeWOxcICoMW4e','DdhcN8ohfG','leqjpqhdM8k8W4G','W6TtWPxdMay+W44','W5hcGrldUcmcAmok','WRRcVmoKWQjJWOvBW69NEsi','zGumW5HnW6ldIrilDa','WR/dLSoMybxdKCo5zr0','kCk7kmo1muHYyCodWQ4','ku5E4P65fmk/W78Ed2vCW5vDCr8YmCoGnCklW7VdKdRdGJGSW5DbW4OHtghcTCk+Cmk0W6exW5tdT8kbpCoQWPNcSCkEWOBcTmkZfartbmkWDaBdJwtcHSohWOHi','D01OW7tcPq','W4myW7xcIW','WQJcUSkpxf4G','W6BdO8ohwhG','W50qwYS','xNFcNZXDi8o4xwn8WQjIWRPAW6tdTCokfSoGCSo1WQ3dVhjVW40UWRnRxZxcUYxcQCkpWRFcKSkFvfFcMmo8WRboF25nW542ygm+W6u4W4hcT8oSAgJdGSo5h8oNWRWTW5e','xKpcUqqz4BUowHnCdmk+WR0','WRuzWOpcQK9hWPOWh8oDi3fpgCoSvLxdTmkZxCosWOzMhdNdLbldJKu2WR4jWPrzWRfavdtcV34mySkFWQpdNriJy8kiW7hdPSkfgSkvDmkztCojqXBcGguPW5m1WOKiwCosiJpcH07cQIPyngyVlrhdGSomWQv0whhdQSoJW73dVSkjmr1FW5XYW67dNSo7tHikqSk0W5VdLhVdTmowW4pcKWOiDwVcUcXAWPRcMvSIWRBcLCo1kvtdH8k2W4hdR8kzsmkXW7DTD8oWW7JcK8krW5lcJKWVW6Hzg8kydCkRoJRcLmklW6yZj8k4dNlcSGdcS8k/Bq','WQhcVmoMWQjN','t8oAffitW70','X5XCWQfMhEg5PSo5','WOZcJSkjW5VdKG','wms0W5WIbtXnuq','WRZcTSkeuei','pItcGCkmtZeTkeJcNSkRqxKeu8kkvCovWPqaxvxcN8ojW44xhmoDDhqPW4r+W4bIDJ/dRfWQWRnCW5BcT2L5tmkXmCkyW6JdOaSDaghdPmksmCoGW5NdRYVcTdeyW4L2WO1oWQDIW69Yl8oOW5ZeSCk+x8khA8ovsEg6Q8oHW7BcLUg7IMBdNxer4BIGimkVW59JW7lcR8kbW7hdJCkLW5C','W4ibahBcHSksja','W7n2WQ18zSkKW50','8jAIGM9YA8ktwYFHUzBdRwCarSsf4BQNW6GUumoUWOJcPr3dVUg5J8og','ttyjW4VcJ8o6W4j4W6nDxdC','WOvlWOJcHmoiW6VdQmo+4BUmW71eWPDNdCkh4BMEvSoic+g5USoAm+g7OwpcMSkKEfLUWQCoWRhdR33dM8sC4BUdc8oKxEg7OZZIGkONW47cPhFHUPpcSWZdRMPT4BQsWRvTWOxdRehcH8oAhSkmW7xHUkFcSZNHUzXaWO3cQ8koWRNdLfvnW7ZHUiNdQSo7W4FdKYCZWOX7WOe5mYRdMmA0aCApWR49W43dTog7QgaQWP8','W5XrWPRcKq','jSk8kSoKjNjYvCo/','lYhcJmobsKpcOHa','Xy/dK0GXWPVdLCoYW5JdRHZdOYdHUlWGXytdReu+W5xHU4hcSq','dL7dVrScdKfD','W48cW7lcHHugWO7cLW','WQFcVmoUWOr2WOGeW7C','rSkEWORcU1W','W591uSohdhNcS8kqW4C','XzBcTSoEW5SYaeimmCoC4BUh','D018W6tcQrtcHsfhW7a8WR8','rCoYzmkHDbOgomktW6VcRLy+gJaVWRiFbmo5W4xdU29lvSkVWONcUSkiW7RdLZpcUs7cQXLvlCosDCoBWRhdGCkkjYmOiqK+W4y3AJpcVLzlmmoex2SXrh/dSSo5bbtcNba/W5xdTXtcNmouW5mLdWmqW6xcQIucqSoyWPWgh8kuDtfaW6hcHHfJWQS1WPFcKLddG8oXs8oJzmoSW4mdjczmjSkTW6tcICklnYi8W6GFWQHNW4hdSKVdNuOvWP7dNMpcQmoosmolW5fkceitW5JdPN4LDY3cPSkpW4VdSIy9eCkSr8oOW7NcR8o2WOpdQWqaW4/cKbCTW4ZdMYaljdBcNSoCW63dHfpcR8kFW7H/sgtdICktd8kFvCoOtgT/WO/dMSoPW45UW5TQFrXng8oDW5RcPmkzWOxcMmofWPZcVwKIhdJdUmokpgVcKCocxmo9j8oHW53dOCkKuNPLWOtcKmowWPZdTvrqWOVcQ8kDW7pcUmksW7ucWPGDDwDjx8kcCCoMwNHpbZKQWPzkWRSEzSkcW6bLF23cV8oCW63cHINdImk/WQ3cNCkScmkVyCodWQVcKCoBW6Kjm8kdWQJdHcSFW7BcLSovW7JdOCkOWPFcUmkHimod','8jQVPdxdIIdHUk4oWRVHUBpcL8kUW4j5W7NcGa','W6m3jq','aLWqqComWPVcR8oJleFcHG','EUg6HwtcJmkyW6lcQUg4ObhdJu3hV+g5OmovoddcVs8OoCkjr+g4QG5zlxRdVXq','W5KcW6/cJq','W6pdT8ojxMLYWO7cLaS','WRH3nSkVW7C','p2S4WRDOWRnCmSomW5ddMG','WQzEWO7dTW4+W5n+v8kjAZag','DXeSWQ4','f2uYW5pcGmoxWQlcKJZcLge','o8k3n8o1','d8oOW6xdI8oTz8kHW7/cKJG+q8oOWOm5WRSHW5W','vL7HUPOrW4JcLSwT4BM/i1pdG8kjpmkIx8orWPJcL294FSk1j8kmahG3W4xdTxDfASkPWPWBWRZdQSknAehcN8k8jSkYEte','W7nReSoJtSoauYzE','ss0vWQpcJCo2W5O','DWNcVmkGW58OCa','4PsK4PsC4PAs4Pw44PsI4PEz4PwP4PAB4PA14PEt4PwX4PwO4PEW4PEk4PEy4Pwd4PAB4PAx4Psn4PA64PEL4PsW4Pwu4Ps34PAG4PEG4PsT4PEt4PwS4PE44Psz4PsP4PwJ4PAG4Psi4PsI4PA04PEY4PEJFq','W5H4WOa','Xi7dGcZdV+g5VcZdJczBFYdcRJZcJCk1W5msWP4','wCkpWP3cSe1h','daJdUCkzuZSO','W70E4BMDWOTbkmkiWPGlWRS','WRxdOCkkvG','WRNcQmoN','aCk64BUPW7f0tSomDSktWQBHUzuFpKv3m8o3tWpcPmo/WQ3cLIXw','XODIlxavW7JdQmAfmCkj','fmoMW63dN8oK','ENJcNmokmIFdJHSX4OknnSoFhaC','W6n4WPv2vSkXW4pdScddLmoxqIVdOa','W4XnWOBcKJi','BLfLW7lcUa','jchcJSowv1RcOrS','W47cUhb+W69Ktmoq4BMPW7m','kmkOWRxcO8k+','b2mQdq','Db4bW4jBW7NdQqiuFW','g2y7tJddTfTRW5FcPgDufmkvxmkRlHVcPSobWQvtWQRcLSosD8kDWPKwWRqLW5b3nCo6WRBcQSoDr8kHWQe6pHjbemomB1K4cfVdKmoEAaFcKmkUvcbXrqdcUdJdM1FdGspdI241WQlcRSoWW7BdOSo0hmkRjh7cUCo8wCk+lmkVW5FcHmo2WQJdHmolqmkurWVcRSk+nwlcHSoroGBdH1FcKGxdJun+qCojW4ZcHmofymkZW54+avldRW','W6pdTSokwxrVWOK','msZcVq','teL/WO0','pJ7cM8kA','WP3cLSkPfx0pW58','4OkfBcxcICkgWPZdO8obx8ondM/cO8kwjdFcRsNcVMNcOWxdKW4xzCkPWRiD','W45dW7VdLG','ys/cR3e0j8kv','qNxdVbW','jtVcN8khyqRdGbH0','dmkpe1iFW7e','W5KElxRcMmkdl8o2WPGJmW','W45mWPRcJc7dSCkqfhisW7pdL8oS','W6NcGN9eWR1rFq','nIxcKCkcEYRdGHa','zZldTGbD','qNlcTmk9BMVcUSksWPzPpW','W6hIGlpdHHXTwaL3W70hp3aPrJePWOjMW6jzW4D7W5iupCkmW59NWRVcHmkfg0fFW4ldVCkbaCk6W4frh3ddQCkbWPWHW53cLSkTwmkxWPugWOldGhy0WO5NCMugWQBcSvldL8kCWQ8aWPNcSNSEWRqMWPzpa37cMvOVbSkaW6ZdQrr0W6G/s8kMWQ0WW6xcNCoBWRXSnuJdOCogsSkAyHFdPJjBWQ4wWP3dI8kLWRa6CKldKq','cbRdJmkisrS9hW','thvGxMRdGhfRW5FcPgDufmkvxmkRlHVcPSoDW7exWRBcKCoclSkcWOHsW7OWWOWXiCoYWRZcQCkoh8k2W6m0lquwx8oCoGHLwuJdMCknietdLSkYvtG1uKNdOw7dKLldGwBcHM43W7O','WO/cM8kcW4tdKG','WOi+WOSvxYBHUlSKWPCvXQddNcSCCCoxWPlfRmoxlr4QnEg5R2bKW6/dPSkwW5BdKSkAoUg5J2BcLrpdVSk2beO04BM6WROxWP3dJEg7P8o0gmkdixxdPSo8','tvpcKmofcNn6wSo4aCkIjG','ngT4W6GWWOTlWQBdHCodWPlcRCkb','yci4W58g','W6b3W5TWW4VdPCkfDCkUnH0','WQ3dVCkuvhSo','WRTQpCkK','FMBcVsfUgCorDSoDW4BdR8kflmoaurddKaxcOtRcHmorW7G3WQCBhmoPWPvRW6XBzWvKWOqOyCo6W5G3W4y8WOuIW5pdMKzQECkjW6RcNHJdRCkOW6pcOhlcT2jZWOVcR2ZdR8osFSkwW6tcRf/dVvzPiKypWOhdHGlcVmkFWONcVc/cKxdcVqHjWP9OCr7dJmoVeHtdJJJcJmoZW6ddHbRcUmkqsCkdW6tdIWr/qX4XWPxdVsVcP8oWbCkaEhRcLmkJp3CNzSoFW5NcPmowuSkuWQxcOL0','bfy1xCoDWP3cUa','W5mqqrm8W60','W6HU4BQyW5rjb8o9W53cImohW7RHUiW0brW','eCoZW6ddNSoOjCk/W74','dtzSW53dMSkGWQe','qghcUCkMEa','WRHKEbBcSmoNvxGfWR/cLSon','WONfPNZcJeHLW4hdMuxdVa4XWRT8W5FdU8okwJikW5JdPCkbWR5DWOhdKCkYWRJcQge1iCkUeSkeueVdSZO4dsrDWRfkW5NcISkdWRPoxJeiW5ZcR8kiW5SPW5uGWR/dOSoTnCoKEdVcGLddKSoaW4SLWPT0D8oVfCo+W6pcRWFdHCodWO3cR2r0na3dICkufmoUW50qcColW6ekW65OvCkqjfvootxdGub+W7tdO8o9ixCWWPb+eZn6dgFcPNLEbchdMNBcQeFcKSoSWQxcIf9AfSoTk8k/W4StW6eDrmkXsUg4NfPLWQLLq8osWQTrWRVcKmo2phjk','h8knWPlcKmkEkq','pcFcH8oqe0tcRbnKpCoNWPNdSSo3iW','CI5HW6GHWOSdWRJdH8ofWPNdTConW4pdQSk4lghdJqlcNa','gfWXva','wfNdThBcICkUW7nsvWqrW7tcKq','W6pdRCogsa','ouugkHZdNCk9W5u','W5SwW6JcJa4U','WQtcQCo4WRHPWOWLW7DXDc4','4OoPq8oPzxaZW5f2W53dHSoVWOuSW4bremoqbCk9nCoxWOhcPs3dVtfpWR3dJcFcQuzLvsxdGgWOWQJcKhNcL3ldTZNdK8kyctG9W4ZcUmkybSoPWQldVq','lmk9mCoVibDtDSoaWQ7dOHn9uNO4','WRCVWOSXWONdJSkwyCkj','xmosh1iEW6W','vmkhWPZcOLDB','XkxHUy3cHSo3XkLAWPBdPW','WPRcQKleK+g7SrP9WRZcICktu23cUY9HeWSzxdFdP8kZl8oFW61q','rg/cOmk9Eq','W4dcHXldJr0ez8obWQu','f1hdQt0cnf1ievxdOCkHWPf4W4fiFaNcGSoXwuFdM17dVNSxWRpcNCo9Emk6WPpdMmkn','yCk+k8oIpXDfECobWQ/cRG0+rh4/WRWue8o1W4tcQWf7vSo9W47dUmojW7ldHshcTs7cUq5fzmkppCkcW6xdKCoqzMzKjWSYW5WOBdpcVK5lAmoqgMKKqN/dR8o4vKVcMH8QW5dcRe/dMCknWOC/gL9CWRZdVgXkhCkAW4TkvSkjnrusWQ3cLqDUW6HKW4pdKGFcUSoRs8oYCSk8WPSyjhynySoPWQ3dH8omlsiVW7OCWQq+WP/cOWBcHWzCWPFdI3pcV8kbeCoFW50zqGndWOZcV2a6DJNcOCkEWPtdPc9KwSo6bCk3WQNdUSkYW43cRuWsW5pdHKKLWPddLNvhkchdISklW67dKa7cTmkFW7H1axldK8oiwSkawSoYhZqZW5tcJSk5WPv9W5XUpffyuSoyW5FcT8ovW5ddHSoyW4ldRcf7r33dQ8ofBhhdI8ohwmo3iCkJW57cPCk4xIWGW5pcKSkuWOFcTqyVW7pcO8kmW6pdQmokW7WzWPHa','usZdTWTbaCoJyWSKW5RdUSkfvLyPWPuX','WQtdQSkixh0','W5SWshbuWOS0oa','dCkKySoiWRKD','usGJx2S','CtZcLYDBkG','Evu2WQFcMbVcJqO','W6PEWOddPIWIW551FSkj','r8kpWOdcOLvB','z3teOHKcWROb4BMwW5S','g2yTx3RcIHqLW4K','bCkNBSorWQinWRzi','k3ldPH1r','WRJcGuy','iWZcSstdKmoDWRyEeKDfWRVdG1nubsJdLmo8tCofw1WUrmk6WQn2vmo8WRddVXbklGbbeCkBW5fQW73dJ39EW77cGbKwrrJdL39DfrrxtJNdH8kyaXRcLCk8W6NdGmkxW5lcOuZcLLhdMSkwbSoagaaNmCo3wCkGW4FdO0RdT8omwCoDW5SsW6PuWQS4WOf7W5vuW6BcQvlcGSoyWPzMs1fjpmkaogypkrldNmk7pLRdL13dK3dcJX3cMGCFW4zOWRXQoSkWd2bFWO1DWOZcKZ4SWOqIeCkGFCo/zHWkW5DqW6uJdCkHW77dQdNdLSoVtuZcHYlcKSo9WQddKSoxkdf0WRhcJfxcIdLKEmkxobBdT2BcRqBdIbFdMmoFsCkjFCk3WQ8vWR8rg8o4a+kDHGGLWQldQ3dcQmof4BMeWPRdUItHUR5SW5KuzJ1TWO3dJ8o5mSkXWQFdU8k7pqmjvvaNWRignfNcTuG/WR4AW4W4W6bHWRlcOapdKalcQ0JdNmkov8kkmNXxWRjqW498W7DzW5/dGK7dVNbJW47dMxuKWOCiW54oWOFcHSkrdCkubmogWOddKcSlWOXAW7OvWPldIY92WPfl4BIqWO4ncfSeW5ZdLSkUcbnwWPCaW5mbWRBdMSoTWR0jmmomWOdcTcnCWQqiW6yvz0VcJqPIWPWnv8oKW7ddKmoCWPeWsgyUWQtdVCkwW7JdRNhdM3xdUSk9W6xcRCkOWQXen8kKWR9zW5hdV3TusZdcJMBcG8oHW4BcJ3RcLKlcGb3dL2aUdCkLvSkwz2xdGCo5W73dS1NcRavdCSoYW60XzfJcHNlcMSofWPnpW4FdL8kirJDfachcP0NcMmkgWOWupCk+gxVcOWnyW53cKMGvaCkXWR5McYiinCosfCoRW43cRmopWOddRuDMWPBdV0DcWRPanGJcLN7HU4hdHhxHUO0LWR17k0aOW4i8xxJdKWBcLdnMBG0gFCoMWPpcIreiW6ZcImoSW6xcJer9W5fmWOvWBCkQEem0FmoGWP3dQLnMlqxdJSkLW6SvWO55qaaJDNbocSo5WOHjW6ecqIZcHSo8WONcP0pcMfJcSSkVvZ53hSkdm8kZbwWLW65x4BUpAsrbWQDVmvFdR8o9emkp4BUIWRBdOdVdHmkgy8o/WPDhwxZdVavIWP4eyc47WRtcNmoVxM3dRHtcTI/cUXbeWPlcI8krWO7dKZCwWRZdLCkna2NcM8k1oSoKWQtdUYPfFJNdHSo+xJhcVmoGW6hcVNrgW4fmWP3cI8ooWO8yWQRdLmkdW6mtW6ZcNSoFW63dIcJcKXGZAWFcTuHOfSkHBfjsW60ScSk3WRDpeI/cNSo8WRFdG8ooxmkOqaPXW70ciMFcKbaChN5Hu1zJcvTAmCojWO1wd13dKwHLrJBcI37dUdNcQCkeW7iDw8khWRrnhLKUdxTKx8k/ncj2WQi0WPqTcmooW7q9eSkEW6vpWROymmo3hwxdTmo1CCoTW65dW4LMFbD2W6O+zdRcPsKIWPddLmopW7qpcCoNW4qxW4NdImknghhcPmkUdCoXFuRcVWRcT8oQW5ddHHFcT8kDWQddGsZcPxJcJSk6ptLmWPBcKZL7tNubECkkc8kfrCohW7JdI8orW4ZdTSkirSklhSkIwSotWOZHU55+tEg7O1CWWOJcUCk+chBdMSoKW55LpGxcUNXeW5uLW5ieWOxdT8kGW5tcImkLW63cVwhdTu/dL2NdJ0xdGSkxWQ9bW6BdRvaZqI0Wmmky','CGKhW4vhW74','gueSvSovWPdcVmomdfNcJmkuWQBcUW','xSoxfuqBW73cNW','W49inW','vvPIWOpcMr/cHW','jog4RNq','oSk8imoKmLniFCox','xSkOW6pcLmk+qmoXWQ3dNxvUf8oLW4P3W6T0WOJdMgbOWRuxk8ktfmogfMnKzSkWWQamWOdcIMNdQgqbWPLzWRW3WQnyWQWVWQLHovZdT8kLkei9W6hcNv7dPs9iv8o5cCk/bc/cNW/cLmk8W5jmWOxcLZO8WRFdSCo4pbPFW59ajCoArSo7smkI4BU7W5Li4BQck8ovwEg7ICoIs8oGjCkebmoDzcSGW5BcL+g5Smk3WPVHUQnSWRO5XO7dTmkHzIxdS+g4Q3a/W5H7ncLDcWGJy03cGCo5W4aOaM8xfqPotweu','xfPIWOhdNaJcGHNdUKa','W59MsCooda','W5JdRan3pWaZWRNcVCobhYpdUbX6q0fxFM4','EJNdQHfegSoOzq','F8oY4OoV','AqidW4bDW7tdUbG','Xz8Xzmo1jUg6Mqy','yWxcOSkO','W6lcHePcWQbE','WOe9cYqwW49JECkgimk+D8kTW5CgreRcVmk/W6mADa3cNLuewWfMWRpcJZNcHmo7WPFdQ3/dMYOJsx7cMSotxfddU8oorc3cSCovmaGLW6yuo8kuWRddPmogtXrLBSkSrYNdMW','jZVcKmopx0BcParK','qSoYW7ldJ8oZAW','bcBcQJaJm8kFpSkCWOJcP8kfEGaEeaqfW6xdU8okW5hcJXlcM2HpXOZHUk8NW63cLgug4BUu','x27cTSk/Ag7cVmkv','EI57W648WO8','WPlcM8keW5tdNW','W70F4BM3WOrbo8kjWPdcJ8kYdLNdRUg7OW','W6rzWOxdTqnGW5H/w8ke','xSkOW7xdJSk/qmoXWQ3dNxvUf8oLW4P3W6T0WOJdHdqSWQSxBCknwSk5qMmNkSoXW7nFWP3cIdRcPsvtW41uW65UWQurWROSW71KmHhcOmkYz10/W7ldLqNcRMuAemkNxCoZcsFcHqZcGSo0W5mhW5/cHgfHW7dcUSoWBG','8y2QQIWuWQZHUzOhyUg6TSoQWRBdUSwh4BMGEa','ltlcH8kqFtpdJW','gchHUyhdJfKkWO/cKM94','AMtdKSoeduZcQ0u','W6DHaCocwmoruG','fX7dImkhqdK0','lJhcLSoNuK/cObTVzmomWO7dI8oM','W55DWPVcUYhdH8kBdfSyW7tdJmo7BL8C','emkgWPlcIG','W6zRb8otumoFxW','y8oxW7jbW4fxWPpdLq7dO8kfcmk4aa','W5NdVmkzW7jzirFdJ8kAW67dIM8','W7hcHfTeWRzJyCoPWQddNSkepCoN','WPpHURCrW6RdGCkcW4xdNG','WQddMSoEBrZdHmoI','CqpcMCk8W44Uz0ldPmknuG','W4pdPSkiW7nebHdcKCkDW6tdLhmEWQPsdGiiWO5I','W5iuvW','vNNdOHrdWROm','srpcQSo2jqSwq27cQmkyadLxc8oOl8k9W70','j8kGiCoN','kYFcUtaKw8kyjCkjWONcVCoC','cLRdOtW1af1Dgv7cQa','W5XZqSorda','W6f2WRvSua','nYlcL8kxEwK','AIRcStXgjCoO','W4eud3lcM8ko','AsJdGSAYW55dW7DEpxlcRSkeW7BdUZVdL019WOS2WOHUW6GICGBcTwJcGmkswvZcPaG','lYJcVsy4uSkDoG','x27cU8k2B17cVmkEWOS','WRuzWPxdVrSHW58UnCobCcuwvCkPsh/dTmkZv8osW51MxNBcJb/cNqXSW7DhW5ndWQ1rsYFcTtSno8keWQddGbqHEmoTWR/cSSokbSkyD8oCdmoyfaNcLIOKW5C1WOCkuSozD2BdJNNdTw4gysrdxaFdLComWODPxx/dTmo1W77cVCoyB1vsW592W7JdK8o0g1vseSkNW4JcKZZdQ8oBWPBdL1jen23dRgXfW5JdGX8OWQZcISkGAb7cNmoOW5pdRmooqmo1W6e6ySo4W7VcN8kmWOBcIXLXWRGsq8ootmk0pchcNCopW6rSCCo3fdRdIfJcQmo1yGqaWPtdKHpdNSklASo/h8oUnrFcKJhdN07dTen3afWTWOKfeaqCW6zRWRL+W5z8wSoVv8k3tCoPwSkPW71MWQpdH2OoWQ7dLmoaWOCUWORcKJhdHCkJrmkwymoZj1mJWOPTW7xdRmosW6xcLI9NWRfrW7JdI8krca3cICozW6bUhMnBW5TbcmkbW7NcQW/cP8oVWOzyp34aW6amwCojWR/cQKa8AdGfiCkQW7RcTSocW6BcG8olW6yrWRBdVmkmWRCVkCo+wCkIW49hgJKWlcZdQsFdVszUo8ohh8oFkCoZxmkTEmkrW7pcLCoKcZXvx2CSWPFdImoeW6VcHLxdKdhcPSktsr8bW78mW6lcU03dTmkcW65OW7/cNCklgs0oo8oJfmoGW7njW51tirFcOHCsr04Omx/cRmowFH3dM8kot8kzbCo+BglcUmkCW5xdJ8oodaJcGtxdLx/cVCogkgFdSLSQWQviceyuWP7cQSk1dhSoW4/dSwSQWRhdIZFdTSkHoCkpeuPzCWLngCoSbtRdUCojFKtcQsr1dqOnW7dcM1nLW7n4W4iIrcy8gSkWW5CyWObkWR8EWOeOWO82WPWEW4dcOczEt8o3dZausmk4D8kWW4vzWPVdKCkRuCkVdJddINW4AfjSbKxcPYhcMmoprxVcTwxdPhlcU8klWQjlW4TYg2ldMmopmSo4zCkXuI0AW7OtWPredv0JqCkWEYhcSSoSoIhdKSkkimkdhSoJW6/dT8k1WODSqqGcWPChW5FdT8oNW7iyvxFcHs4FxftcNCkTW69uW4RcVgbyWRvDWQBdMmkAW7lcPY4Gomk1W6JcTSkxWRzmcCkHkCohDgVdLffpB8k3WO4MWORdGCkKmCoJWOm4WQRdIaWWn0WuBhtdS8oWWQjms8kjW7VcPCkzAXtdG8ocvvXAlfL5FNWMW7HEj8oGkmoomKmzfG8xW6BdTCohW7mpiCojW6ldLSoNWRKvorv2WRldMmk/iSkNWOqPcSk1W7ddTLuPW75AymkArL3cUSo/W63cTmolm8kza8ksgSoOBXeDdSkrsZBcJCoGWOn4WQ/dVCk7cmodWQNdTadcQ8oAwxVcG8kjW4FdK8oLWRRcP8o9W6ldKmoAW5vGmmoBWOVdJSoCW5LyjSo6fmkRW5xdJNf0W5zVbtKKoftcPCortH/cTSkbxCkglSo3WPqtWRDbW4iWpCoCW5NdT1hdHCk/W5pcTCoABcelj0ldIHuKreKtW7JcOXjZWRpcImo5w1tcI8k8WO/dS8onEa3cVCoapCosW6RdN0CStSk8xa7dTmoBo1v/f8ogFmk/qrVdOaqOu0TfWOPvWOGiCCk0W4RcPSoVe8k9WQVcU017WOCqW6mWqWZdLJVcK01vWOqlWPHjDh/cS1FcMSkXrhBcGhRcIWiGCCk0qSojy8kNW5ddHx46WRWXACkLWPtcSv3cSItcPXldTY85dCoCW6ixzv1cW63cU8kvE8klWQRcSCoUWQdcJLnnWOS9W7fBlCkEW4GLW5/cKJ8Rks7cR8k5W4lcMXmPW6rUW5TMzNxcQLjuW7mU8k2dU8ktEuhdOXRdQxBdU8k8W6teJUg4KXldLokbTf7dGSk6dHSV','W5fLWQZdLG','h8k9DmorWRi','WRJdKmo1BXJdSSoLEq','W6/cG1DrWQzEzCoPWOtdKmkFj8o7cG','EJpdNGPgcCoHyqS9W4NdOCkFEa','ishcRcy7DSkv','WQxdKCoVAWBdRCoywJq','WPjXX6lcQ8kVWQH4WRzH4BIYd8ktz+g7QSkMW5PHXzJHUQVcU8oAXzhHU7nJWPBcO+g6SKmPW6xcGCk2phmAyIm','W6jIhmo0xmobtG','WOJcRCoVWRLMWOayW6rBDsOpCriIWR/dQ24','WP8wqbPO4OkNfW','WQ3dKSoUEXRdKq','jqqSWQldMwS9','wIWdWOpcISo8W5XKWQO','W6pcPSoWeY9gi3FdVqC/CcLgmsNcGMBdOLNdH3VdKHGY4OgtWRf5WPhcHmkfg0fFW4ldVCkbaCk6W4frh3ddTCkoW5qXWOFcVmoUf8oBW4zwW4pcJMS2WPXLCJzsW7/dVqVcNSoAW78sWONcR34vW64+W55EhYhdKeaTrmoaWRhdSem9W60+a8kWWQeLWRFdMmkqW6qQkuNdUCkcxCoto0hdRZDyW6TBWP3dI8kYWROUAr3cISosfZ0fsCkizmoCfSk0WOWloWRcLCkYpSkNWRxdSmocW4tdOJNcN8kyjCkrWOlcJsLzjctdJf0IWQzMzbRcUmovWRKMqX/dOhhdVCkJF8oMaCohoCo1W4NcNCo5WQFcVXZdTSowW4pcU8kVEKLOWRZdMmkPaXKQFCkWjMS3gbqwxSo8hSkZEmotW60IkuaatqXaW6yJAvvBja8Vcb3cThq+W4ddTCoQW6NcQbNdPa','CXbpkW3dGmkgW4j/gSoKF8onDd1MfNpdI23cS8ozWOpdPt3dJa','W7FcRUg5M8o3DaKzWQnMCmk4ecu','ydpdVaa','W73HU5zbe2JdNvldJeldPog5RCkVwUkcQq/dMSox4BQxdaCZWQNHUQdcLmo6W7ddP8wO4BM2WPq5y8oOW7pdUmk14BUVcq','WPZcTx7cUwxdIqjVztG/fEg6Ocj2WQRdQw3cGxu','mZNcMSkrDc3dJXb1','W48cW7dcIq','W58/x39jWOO1','bmoOW7pdR8oGkCk5','bHtdLSkytJy0','BCk5WQdcGW','W7JcMfTy','FYxHUQNcHCoFWRBcJCkaeG','W5pcHW/dRrihD8ol','W60UtNjfWOy/lmoGBCoSnCoPWR5dfrddRW','seL/WOpcLa','W5SsW6/cKa0B','W6vRb8oMumoEfYfEWQidW68OaCkLvW7dG8oK','XPNdLCobW7dcNwZcMG','4OkfBcxcICkgWPZdO8obx8ondM/cO8kwodJdQwddThJdJuZcHra9zCkPWRiDW6hdVmkKkmoxW5/dOmoVwa8','cCofWOFcSWCLqSkUW7uNu23cPmoxjSoEW5/dJhDUbSk7WPjyW73dJq','h8w8WQZdQH5MWOiWrG','XkxHUlJcVCkqgweJW4C','WQbSn8k4W7BcMmoUW7PGWR5BWPb8Bmk/WPy','W71xWPpdSWO5','WRHQe8k4W73cQSoY','W7ZdP8ofsMLO','ntVcL8kxDW','ANrHfqi','xv7dUgK','lcBcKmonta','W7v+WRD9','rIWdWOpcLa','tSoqhui','WONdRwi/W6tdP0/gOEg6USkKWOu','XRNHU5ddQCoftK/cRq1fWQHgDmo0FmkqWRlHUyKt','fa7dNCkzwaK0h8k2s8o9BqW','tsCtWRlcLCoLW5C','zCkLiuiUWQOtpUg5MSoQ','DamZW5HAW7NdSWW','kZBcISkxEGFdJGb/W5S','W602iCk6W67cPCk1','WRZdISoYzG','xKpcUrZHUOfpx+g7RLW','ugNcUCkNEhG','W5zxWPZcKIldHSkqcW','WRH0BZtcOCoGva','thFdNSoumMtcGvuXWO82W4nEgCo2EwtcUc/cQd9Hjbbm','W5a7x0HyWP80','FSowW45BW5zTWPhdKtddSSokq8kKaG83WOvRDdlcT1jizYXhW5/cUCkEW7tcKmoyw8ohaa','W7XrXy/cN3FdGCkD4BQ1EvhgLLJdTW','W6ymW6S8D8kMhWm','W7L4WRD8','fSkmWPxcG8kpjq','m1KgiIhdKa','xYvJWOJdK8k7WQRcJW/cMfPIW7FdK2bSWQGYWQ02','W4XVxSos','zHNcVSk/W5e5l3hdQSkxwtBcJmkIWPC','WRhcQmoKWRr2WOazW60','AqNcOSkRW4OJ','4Oc7WR7cHeL0DSozW7bmamk1Dd/dR8k1pmkhW5RcMCk2WOpcQGtdGNnmW5XSW6acW6v8WPpdRComW4S/W4xcH0KIymoAW7lcRxybW67cJmkQWQFdVZnFWOVdRslcTSoFW5WhWP1qW7HSWQtcMEg4SGPdWRuVW6hdPmoRDHnuBujAWPyXW4FdRd/cMxFdQSoHF8kMW6SDwtBcG0rDtrzaW4JcUSkpW5zRDmoqsCoZWOtcLg7cMc8It8ooW78qo3zNeHPWWRqWbmo+','lvuBpatdGa','lNddLmoCbIHUjaVcHCkVw3Pls8owg8krW4ilxWBcISocW4Stdmktyxm0W5XUWOnD4BUoEmoHX5BHUQRcTrdcNmoUndzlW6bxW5FcUSo6caSuDSoWWOPZW7VcICkYo8k0zKRdNsNdKHVcTg7dTdn9W4RdH8oYW6jDWPFdTCkuxZddRmoOWPP7ESkyAftdVJxdV8kvDmoIWRpcNCkXW5FcTmkbtLuRDSkeW6/dRmkPkrHiWQfoW4GupSkqBaldMMDPWOLoW6q5pY3cU3e','hg1q','FYv7W6W6WRnlWRddLG','W6vNamo3vCotqW','WRH1DtVcOq','Bq0uW49aW7xdUq','WRVdLSoVtXNdISo5EqW','lt3cKCosuKVcTa','W6H6fSoQ','rJFcHcTg','DdNdNSoKpq','bgdcSJmF','XQddNb0','W4yNw3K','W5eaqG','CWajW49n','vmommvucW7NcGG','FfDIWRZcVJtcItfyWRi8WQnVWPSTW4Kg','XkJdGxJcH8orcEg4SK3dSeFHUQ3dQKlHU7XfWRpHU610e8keW7JHUkVdHSkWXj3dGa','qupdONdcNSkCW7TB','kJJcI8obvq','W40sW6JcHaGdW4ZcIqdcRK10W7uOW5RcUSkhfwDeWOW','W5e2tNm','E01OW6lcIJxcMdO','WOLGy3FdSmkZzmoXcCkTW4lcGmklX6Sf','WPrHvmothr3cQSktW4hdP8o7W5TNr0xcSvqEsCklWQrpWPKeWPFcMHn1WOZcU1WZW5jlWOCZWRJcPdBdSGK','jdlcISk4EZFdLq','cMpcUSk3EdtdQmouW581zxLrzG3dTIpdOcdcJda','BejIW7xcSJe','k8k84BMzWQRcVg3cHmo/WPn2','W49yWPVcRspdG8khda','qGZIHimKW5S','WPJcImkFW4ldHW','W5BdP8khW6rzabhdKG','W48BW7NcNq','CtZcGZTymmoI','WQS4WRSNcCo/W5VdSu3cQSkfc2xcP1ZdSNCRrKWWW40rWQDGWR/cSSkuW4ZdVZ58kmohW4pdIbXVicfLWPRdLCkqmMpdKHtcP8okW47cU8kRW5ZdT8oEWQNcGWfWW5HGWRtdP1zbWRRcLCo2hSkeeCoeyWlcPxHYWRddP8oYW4VcOJamhtLrW7JdPmkfWO3dHmoNW4S1jCoCW6FcJ0lcHSobgx4dE8kUgSkqW4ddMfLmyGNdSCoTWQ8FWOZdJCkjWQFdU8o6mwBdG8kgAbf/WR3cPMuCzmoIW6G6t8kZj8kUp3zhWODqWOxdOokATSodWRaH4BQ7kgNdQuXMWPq9eGNcPwT2W7lcTCoaFqandmo6WQXIWPupafyfCee','jt/cM8kxEshdHq','tog7S8oXrwSbW6nS','mhNdNq','ndlcJSkyCYFdHa','W4BcN8kHlLtcHCkSn1JdUwBdH2JdVNqKeKBcGXO','W4r/4BIHW5Ppa8o7xq','WQaSWP4JWPBdGSksEa','b2rV','qCklWPhcU1WcbCo8WRPYa2ddSmkECSksWPO','WRvWiCk6W6pcQSoY','va1peCkCW57dVCkaBrtdG8obW6JdR1/cN8ozW451zdBcSYFcJab4n8ofW7v3uMdcVCkhrmoNWQxcGM1nW4pdRxFdPY9QW6VdNcJcGbddGCkZWRhdGs3cP27dRCkrW5/cHmo2W5C','pCkZmmoOo3G','jCkzWPRcLSkp','hSozfHesWQ7cMq','hfRdRqqFheC','FI7dTXnabSo5qd0VW5RdVCkDAW','W7K2W59YrSoppYpHUj5UWQ3fLSsT4BIuvfao4BMnWQ7cUEg7IYqyW4FHUPGwvSobomkLWOn7W4FdTCoNkdldI2f84BQYi8kAWPuEaCo7WPBHU5b0WPVcGmoYcdFdOSovFSkeWPlcT8khuGtfLmoTW6XhkCoBW53cOa/dG8kEWOBcT+kbGXOi','W4pcGs/dUaicFmoi','WRT5n3FcQCoYxZWqWQpcHSoCWOdcUeldLmkfdvi','ydpdOaHebmoKFJ0','eIr4W5xcHmoIWQFdGrZcGKi8W7pdL3yLW6T1W6P3W5PrWOPcuNJcQ8oMwmk5WQJcQwNcH8kzW6pdQbrsWQqlW7mrWPWovZfvW48WW5pdPt/cO3xcUCo2CxBcUCkKBZFdT3VcVt0zW6RdHryphCovW5pdTUg6Umo4FgxIG5ldOmkeW5PTWO/HUi/cPog4VCoakwdcTSoZWOHE4BUlWP1GySk7WRelpaWoW5xdOmoUWQSEsbK','fG/dGCkhra','xmkeWPdcU0Xlb8o9','WOW2jXddSSk4ycrmWO3dLSkiW4ddQurpWOupsCo1ESoPW7zYWP3dMHvPWQhcQeTBBUg7TCotxx4NW6JHUljTqUg5GmkgF+kdOLfkDX3dJmk+jCoGWP/dRgZdG8oGaLpdJSkUdCk9W5BdP8kVEG','WQuNg8kDsrddVCowWOJcOmkZWO99bqRdVrazrmobW4PrWRmeWPFcMHn1WOZcU1WZW5jlWOCZWRJcPdBdRL0aWQ1WCmoGW4ZcHgPdWPLKW6FdJWddI8kmWO9rWPeCg1VcLSk/Bty5C3dcJhyx','idVcKCkBya','yCorWPn4W6W','jtBcJSkDzIxdJvHZW45LWOztwmk7nJhdTNS','rMhcSCkaAwVcQ8ks','jYhcJW','AGmjW4i','kc3dPWPruW','tYWMtwBcIG','BSoxgueeWRJdKmk1WOS','tcOgWOJcS8o5W5C','W7BdQ8ohwxHY','W4Sed3BcM8kpmSoB','W4lHUQehWQDn4BMfgJ7HU7ZdOW','qSo04BMqWORIHjnQ','W7dHU7bOpg/cPH8d','veJcMmE74BQgl3fBWPqqWQKPxLVdPgtcQmkZW5dcVmkKx8kXW4XyW5fqq8k5kcy','W57dVCkhW6i','W54EW7lcPaWaWPtcLXe','W7nRfmoUvSoC','W4jM4BQ6WQCiWPjDo+g6MmkQuCkKdxJdQxu1WOtcSmkIlEg5NshdUCkyi2pdRUg4HSo3W6NdLbxdQhBdMSkjb8kW4OkjW7pgNSkybhzbWQPCeCkng+g4NqBcJhldGe4/WOWUh+g6UtqTESoQWQOzW6nZzKdcOKDdWPxcQCoTWQ7cGmooCG/dJWFdL8ouW5ddKog4QCkTWQC','ertdJmkktrG0bW','WPmOsmojefZcUmoiWPtcR8o7W4O8qrtdOvjkd8omWPa','dvpdScSt','BvDTW6xcTdpcGIe','tICHt3ZcQH4ZWOm','zc5LW6uPWOrl','iWZcSstdKmoDWRyEeKDfWRVdG1nubsJdImoZgCkhfbH3wG','wSkifXexWQ3cNmkH','zsz0W7S8W4PdWQNdJmocWPVdVmkoW5RcQmk9igi','W53dVCkQW7CIW4LwWQmOjc8uC3SLWQ7dV3hcKtJdHwGEWRruaqXKWQL7ASkldWZcRLJcG30oWOelzmo2tt4fWRRcOaxdK8kPz8k7bSk1gSk8WPSxoYSqWPpcJCosiSk+WQ98uSkZtSoxWOVdJmohW6PjxmkwyZxcMSoMW57dSdVdMcCJWQZcSSovvSokcu8iAuldUc9/W5RcRc7cHmkft8o/WQ1VWRNdO8kbj8oCnh7dHSoMdXuNedfAx8kosLGrjSk4W7TeuI3cOCkNW4HXhghcImoMW4RcLJ/HUO0YbblcQUg6Q0T/W5C','ffyXzCofWO7cUa','afiPrmoz','XQiqsNu','lMFcHCkq','m18liKxdH8kXW4LQgSkT','Bs7dTWrrdCoiAd0KW57dPSkf','W67cNLbt','sYj4WOtdIG','W4TCWOZcIG','DaKyW5HRW7/dSX8EF0C','CsxcKmorfJy6','hCkyWP4oWOiwW5/cKh3cT8oxqCo2r0H+W4OLEwhdSH4njhG','cSkBWP7cKSkEi8k+W7lcUfJcI2zcWR8','Ca0eW79CW7hdRX8','W55YxSopegpcUmkAW43dO8oNW4aV','v3NdPJLwWQ0BW7ldL8kMbq0','cSkBWPlcNSkE','FYNdTXDCo8oOAd0QW4/dP8kd','g1iXuSouWR3cSSovi0a','WQ9GDqJcT8o8','iCkZkCoK','W7b3xSotdvNcS8krW7VdRCoYW50PBf7cUf1w','W7XyWOZdTrSUW5j1wW','B1VcMmolaxPXu8oZfmoTAWG8WQaWW7RdV8oYWRFcPHNdSmoZqmkzhGRcMxr7W5tdMsTZdCk7emkDW6xdSmkreXpcR8kDW6dcP34mmeWkwSkNWPlcK3rgWQ/cUuRcOIpdPdrFiKHwdG4UBK3dHmo8WOj+WQ3cGmkAW5NcLSkeg8o6rg/cQCk+wX7cIaBcMSkIzmomWQDOWQH+WOuAC2fXW6RdPSorWQlcKSoYdb/dPhKxhg54gtbuw2RcVCowd0pdQ8kiWQj6vcxcUaVcQSk2tmkovbddQ0ddRSosDSoNtZJdSvmVW505W48IW60GW4dcSwyUjvL5WRKeW5nfbmkfvSkIBCkLy8kTWPDpBdVcLSo+lL/dNKdcRuebsgpdVN3cP8oChGuxmSoDW57cLmk3W4RdTCk2W4W3W6ZcKg3cPHW2W7VdJCkjfCkXW7hcN8oCW6bIEdDce8keuGPvWRhdIKNdPmkZtLhcVSkWWPKOW7CBWO9hW5RcP0XPwWCaWO3dOSojW54GW73cO8kUDCkUhLyLW4ZcTmkXc8k5lSk0WRZcNNdcPXKrW67cPvFcTvbmWPtcRa7cNZmFv8oIEYVdLtytWP0VWP/cNf1Uffa5WQZdVmkGWQpcTYtdJX/dTCoPkFcKSQrboUg7OH9BteVdLCkBCSo1yEg5J8k0bg9aW4dHUkWvWOldVmovWPFcSvyblZxcQmk7btaVW5WuWRv1WOtcRXSJWOrQW5W4otz8q8kIaGOoW5xdRaqXlH5G4BM6DZqrWQhHUi/cImovwCwn4BUuW7BdTZbQWR4QlImEW5194BUsW6ldTUg5RSourHDdWRRdRgpcGICBpt7dGSoSWRxcVa5WhSoPl8oIWPqzWOxcNmoEWOFcVKNcS8ooEKZcHmkRWRqhW7RcQ33cKSkqWQXPd8kLWQpdGmoqW4PhxmoJXRVeK8k9W5FdNEg7Os8lWPFcP2dcKfhcLY1HWQX4eYqeWOjWdN8WjsHWW47cI+g5QdSC4OoafCkaoSoDbeFHUB5TpSo44BUczComXRRcGmkUWRVdUh/cOLlcPxDQrEg4KK0/vog6NCoCWRJfI8oyW73dNbOrnq/cVCkgfEg5I8oYCLxHUjddNc4k4BUIeWBdOUg6OKldN8oFbfpdOX7dVZFHU6S0WPtfMog7SCkqyCon4BI+nCohWOqTW4KrqIxdU8odW4NcH3TzW4PJkSoFeg/dR0hdL8kkFtq5WOq1W74ms2yawW','zUg7Vx/dI8o/W7/cOSkpga','CcrNW4WPWOrg','xupdPwxcNmk0W6jBxYqkW6JcLW','W5hcLSkFW5tdNaDhWQdcLcCkWOxdMNdcOW82W4nUzCkfcSk+B8o3yhxdSXlcSSoeWPtcG8oXW4Xcq2xcPmkvWRfaWP0iWQuZkSkGW407FSowWQqHW5JcLCo5WO/dSSoOC8owW4JcL054WQJdICkcWO0hW71qWPSOgtNdVtFcRSosv8olhCoIWOVdLY/cS8kKt8ksnCojWPVdG8owWPbPW5pcOfJcUdhdTKJdMvzD','qCkfWOFcTLv4c8oG','W55jWO/cUJBdLSku','W6rVW5RdKWeqWPueW4K','WQpcR8oRWRLXWOacW6PNDG','WQPSyYlcQSoN','zdJcJq','WQldSmkFxa','rNbpW4u','cCofWOdcP1HbxmkeW7uNu23cPmoxjSoEW5/dJhDUbSk7WO4mWQxcKujjWRldRmoKnSkJWPJcTuddUCoaAse','EJNdOre','qd9+WO4','XzNcLmocW67HUP5+','W4pcNSkzW4hcL1LhWRdcJc5sWOFdLtxcUbr3W41WnSocr8oIASkNoZtcO1VcQCoeWPtcG8oXW4Xcq2xcPmkvWQbdW5uaW6zRzCkQW40NmmoyW6PWW5ddGCoZW4pdS8k4jCkcWPZdHqbYW7pcJCkvWPXjW6ajW5zIoEg6G8o+ASkUW5zfWPnvWRBcNSoEpSo6W6nEW5aQW5BcImkAWPZdJJ7cJ8kZdSoWjSk4','tdfPWOddN8oKWQZcLbhcIrq9W6tdLhKWW7T1W7H7WOKxW4mAg2xcU8kJeCoHW6ZcQJRdMCozWR8','W49lWPRcIdldJmkbphixW6BdJCoYDa','WOWqWQqw','W5ZdT8khW6bzaq','W6nUWQL8','lZ3cJmog','ntlcKSkrCtddHbfEW59IWOOrv8kL','WQq2WPKQ','W4qwW7lcKaadW4ZcLqRcVuC','xdfKWO/dL8o7','W6XVaW','WQtdLSoLAHhdIW','yUkdOSo1AIr3W49CW53dHSoVWOuSW4bremomcSo1AmkA','z+g7Oc7dHSk8W51Gt8kj','XPNHUPJcQSk0i+g7O8oX','W7H5WQPSvSkZW4RdPGa','FrvlWRtdTmozWPFcTtdcSM8lW47dV1zhWOebWPSF','rUg7I8kIW6ZdQIpgTa','4PQFW4RcP8kL4BUOqqu','xmoP4OkM','WQddMv1E4BIgea','W4y6u8olW43cKHjLg8kKgog4RYKf','W4tcGHxdRXu','qImtWOxcHmoWW5y','xSkpWOpcOW','zZldSqLqdmoODW','W5blWPBcMt7dJmkuffyCW6JdJCoWDa','CXGbW5HbW7/dSXG','W5XyWOddOrSLW5vIvSkhzJvpASkLerVcTCoNcmkaW4m','W71zWQ3dUWWSW5z1BmkjCtGbxG','FSoInmo5','ns13W6SUW5uA','WO7HUiddRY4GW5FdQq','dbxdLSkouXifpSkF','k8kxW41AW5TAWPRcJMhcUmkFbmk3a1zIWOHQptJdRa','W7FcOCkQ','xcOgWOlcG8oIW7bTWRTa','BZhcNCoheILKFelcLmkP','W5NdVmknW6jv','W6XeWPpdUX0','bLBdVcy','BLpcKCkh','FsJdSXfmb8oJDW','WOlcS8oRWQj2WOezW7fHyI4zjr85WRFdP3tcMG','WQpcSSoFWQDYWOWeW4bPAY4','W5fLWQNdHa','W63cKe4','W7RcHmo/W4u1hCEIWPCc','WORdKr4wW68qjmkLW6xcNCoqCSk1xSozW4mKW6fWfCozWOGMvCod','WRC6W7K','W4jMt8oEaq','WPdcTog4QCk+iSoy','fCkKWP3dLey2XQiBDG','dce6kha','WPtdNKZdQHztkG','eeyRuSoiWPFcSSoo','WPBcLmktW5VdGK5wWRO','W4a7w3baWOW0','W4eub2e','hSkh4BUMW48tgMHFCmkc','W7GC4BQmhwJcSW','WRmJf8oUxSoBtG','W6qRqJXnht8SWPnUW6xHU6RdRCoxzog6Ov3dQM7dSxW94BU5W4v/xUg7M1f3W6FHUBG','eeRdTa','umoEbeqy','W7tcG1DB','WRhcTmoMWRjX','W6vYWQL1vmkZW4O','jhaQW4VcMmk2W6pdGv/dJq5VWQpcIJD8WQa2W7zDWOKfW5mof2xcQCkY','WQ/dK8oGFqFdQ8oTEH0','W4ldTHj2iJqZW7xcO8obtMtdQq0WwK9xnNhcOSo0ASo7WQ1BW6tcHLhcOZlcVxFcLe8','zqGjW5HnW7q','W755WRD8r8keW4RdRqC','WQddMSoVAqddJq','W4zI4BM6D1ldSmo7W6FHURG','exeLACw44BM+WPZdSW','eLRdTY8cbW','W4pcMEg7S1JdR0tHU6/cPCkHW4/cNYldSrhcJSknkmoHoog7SSozW5XU4BQKWO3dLK/dI+g4IZddVSoSW77dVfhdGmorW6zV4BUV','q8klWP/cOLW','WR3HUzVcNSkxW5rc4BQCWQRdGcGh4BIkW49WWQ0v4BQlW4i8j1ziW7G1WQb1m8kYumo+W4FdHSopW6BcJL1fBCo7WOZdTXFcKrZdQwWOW7JdTHRdISk1W7mg4BMPW47cVSkzW7BdQdFHUlFdMmop4BQjDmoPW5xcJrCeW7aoWPzI','bhZcSKufsmkTjhHPWPVcQmorpWjSW5H+WRpcPWxcQSoLW6BcMh9xtSotWPNcVCkDaZ8Cm3unW7zzhmkUW6ZcQH1FBgOBlSo5t8kJE0e7W6DzWQjGW6bFW4dcTxVcQCoBvq8+WPldOaJcU2Su','WR9UqdJcP8oYs3q0WR7cKmobWOBdPq','i1XqW4PoWQJcPq','CvnPW78','qh3dPHL9','WRFcVSkCvLKnW7K/W5yn','xHrirxZcOSod','WPNHURqNW6RdImkIW6RdUgi','XjdcJ0ddLf3HUlxdQuSDEf/dNKmXBf1FW6bHW4m7WP5YW4j7W7JcMqBdIW','Fd3dPGXkkq','W5/dTXi','W7jGW5L7W4e','WONcMSkPAN0bW4iEW7CMqmoOxYnCW6ZdVcldPqy6xWRdUrrqW5/dKSk2W6NcOq','W5SuwXeBW7ff','W4fOvCoy','Xk1FugNHU4xdTSkC','W6PeWOtdTrSOW75/xmkiBJqbtCkkbbtcS8o+gmkCW5i','e8kDWP7cICki','W4yXz3ncWO49lSoGDmo/lSoZWPa','fmkgW5BcL8kpiSk4W5m','W7PgWOtdSqWLW6LPuCkjAZqCumk/','W77dT8ogt3HYWPq','jSogW4RcISopbCkFW4O','cCkeWPRcLSkpymkJW5JcRuVcNG','WRZdNKPsW7e6jmkLW6xcNCoqCSk1xSozW4mKW6fWfCozWOGMvCodWPftW4VcNJddR8oTW6NdTXtdJ8ogWRj5rSklW45mgbKFWOCvcSkHFNNcUfdcSLpdVSkVW4ldS8osWRiUWP4/nq/dL8o5e8oRWQZcOKuir1iSW5TxkKDNWPhdMSoZDmkEWPesvfxdRmk5ECkYi2P7qSo8WR5kp8ozWOFdKmkxmaZcNCkAraCgwr54ymo7vbdcNWrzW5zyWOldSaZdVmkald9AiSkAn8kkW50DqmkrW7pcHtvWW5tcQGqoW7mYzCk/xGtcNSouErBcRmo1WRHtWRjMWQ0/W7FcLCkkBgNcJmohW4NdNmkjmH/cIcddTmoFW5D0W6eTW4C','WPNcJ8kEW5tdG0nCWQC','yUg7QYRcP+g4GW','lZNcNCkyzYddHay','x15IWQxcNr/cJGJdVvSaWRn4sq','W5mAtb9LW7zuW5mhW43cOG','W4lcGbJdQrycFmokWRu','WQ9AWPxcRW','WQ9OEGZcT8oNxN0cW6ddN8kkWOxdO17dNmkcbKtdOSoMWRNcI3JcJCoCWOfRWRS','W7PdWOldTWO+W4K','WP7dQmkFxwSpBtdcJKP+iN0VzwZdJZu','W4X1xSoChvxcLmkyW4ZdPCoR','zSkWkSkL4BMHW78','y8oxW7jbW5vtWO3dSZZdPmks','DIlcMSoF','xZaiWPlcG8oHW4TXWQS','WPhcN8ke','W4ldTGfViWS4W6C','iSkZmmoIpa','Bd/cH8ox','tu3dPa','W5SqdwdcIG','qfJdTgNcGW','AKz/W6u','W4dcNbxdUbu/D8oxWQu','W6r6WRHRqCo9W4BdUWpdLCor','y8oxW6TEW5jtWO3dSZZdPmks','c8oPW6xdJ8o5bCk3','v1HZWOhcNW','hvpdSc0yg2O','s8oDW5VcQa9TWONdG+g4JfC','WPXesKzXWRzv','kZhcLSo2r1RcQa','qM/cGmkJBw/cQ8kLWP51na','XR3cKKheHog4USkpFCob4BIoCdRHUzjS','sSoQpSkeW6W','W7WD4BQAgMJdHL/HUjqm','W53dUq52mW','amoIW7xdVSo4oSk0','WRldRCkzugOvCa','l3NdLYfglCo2wMXXWO9oWRHaW7/dR8kEdmoSiSoGWRFdPMqhW5CGWR5QeMJdSxldUSkDWRlcG8kstWZdMSoGW6nblZ8yW4b6kMKZW7POWPRdKCo2FcpcVmkqs8kIW7f+WQPgugFcGSozW7i5aeZdPatdIhikBmkPecLBW7SMu8oRW6ihW4aAkvFcQgfZu8kJzHldRCozj8o2W5NdTSofWQddSdJcVN3dN1NcUSk4W64FwcSWW6L0WRanEJlcQsxcHr0lDxq2WQvLW4STW6PkWRZdQXhdOJtdVd/dLG','8y+bK8oAyg4jiXtcTCooB3blWOD+kCoHWQFcRvNcVtRcNKC','dSoUW6/dGCoilG','WPzVcW','FsNdSqzag8o+','zZldVabxpmoOFcW','XObHWOTzDCoQWORdMGdgKog5TIaJWQ7cUEg7UmkbW4tdP8o+q8oKtmoEDmorW4qRWQi','DGncWQJdTq','W6GNWOm0W5RdS8kdDCkamw0bfSopf8kCWQJdH8k/vSkyW4FdRCoCWRjRrvGbWOldLsJdJCoJFW8uWPBcUbipn8kHW4GAcehcNsXVWOFcNMarb8o4EWOAWRiRWRxdICs4mSoKWPPiWP/cGUg4QmofEftHU5eNphhcVSkFWPVcKSojWRZcUSkLsJPUBCoE','oZhcKSoox0NcQa','xmopaeiEW7ZcUmo9WQtdJIu','W7i3kq','F14aWQGrWO7dSG','lSk5W5xdHmkZ4BQEW6RdTCk1W5pdIL5hWQxcPq','e17dQq','F2ldHSomkGxdGazsW5zz','qY7dTuK','WOrAWRhdIeXcW4ZdLeJdSqm8WRzXW5RdTSohvZ8hW5xdQmkqWRWeW4JdGSkvWRxcPwW4lmkJh8kU','W50yW5dcIGioWO3cNdBcQfX4W7u7','dKxHU4SNd8kuWPbxyrC','W5RdRqDXlZW4W7JcQ8ohbYNdQsK7xW','bGNdNCkkvt81mSkN','uvv4WOxcGY7cHHxdPW','W7j6cSoRxa','W5CSwxnt','vX3cPW','zd/cGCo3eIyH','WRlcS8o+WQvRWOWf','C0j8','uvv4WOxcGZlcTYddNW','W5/HU7dcOa','g2yTfc7dMbuPWOtdThWieSoBhSo4FGdcJmobWQvtWRBdGSkwD8ooW41pW7HGX73cTsZcOCoYW7ldLGNcTCoVDIiprXldJw9hmX8tW4NcIxODW5BdRW93oH8','AKXaW77cVJ3cGdDGW6S8WQ9YWOK','WQdcGUg7RW','Fvz+W6pcUdlcMh9uW60HWRnSW4mTW5WxW5VdSG','W6ddSmoow3HUWPpcVGLgW7qHB8k0','xSoKW67dJSoKDmkLW7tdGxOTwmkHWO9PW6D0WPtcMY8SW7avz8klx8kJqN9RjCo/W6rjWP4','thFdNSoipsddIamVWQuCW4nEbCkIocBdTgRcTHvHjbbmW4xcOedcPCopW6VcH3SqWQHfW6imbdqfWOJcVg1HibyPsSokwSkdW4TWlCoVubv6W4JcRttdPedcPvnQomkmW5pdLNJcL3FdLCsMWRRdLq9ehmokjmkmxmkkWO9KW67cNhvbmSo0W53cT1Gd4BQoW4LpnuVcOczJW7xcRSorWPlcKgSojIxcUgVcUKtHUAOoFCoQnSojhSoAoSoOpmoBE0SjxCkfWPNcPmo3Eog7QrddGKdcQubwq2/cSh8+Fmkoe8kZW6K/W7pdJXqYEdqCEwaQW5lcOfTztXaQimk8tCoMibBdGmkliSkiuEg5LCojjSkYaIZdUg3cQLXpmgZcT07cJKRdUN3cVd/dICos4BI+CSkhtthHUQNcUqPKnxGOogifxCkNW70/W5NdKSobbSoBW79XW6dHUQ8Eq17cOCoXsItcGfClgCono1acWRJdQINcLx5hkSouWPNdJSowW4/dHmktWRNcJmoeWRVHUQJcJCoLCSkKCCoykc3dQCoUWPddUf8mWQZdL1HOW45KWOtHUPDkWOr9cJCtuSkjk3uZwL7dOSknW55VWRhcIfqSW6VcPmoYzryUrqHzDfiRuCoNW6H3WQnldSoUWQTVWOXXt1jniee','FSolW79CW5bxWOy','WQFdQSkvxKWoyIxcNKH7nq','W4OBsXeUW6XzW4qg','otxcHSoXsKVcVWO','yZJcOW','W47cT3O','WOZcS8kTW4HUpsFdRmkRWQhdKgiqWRjbqGSsWOzIzMmpWQ0TW7FdJ8obzGJdQSkKW4WyuCo6E3nlxCkEzZ3dISkpzfZcQ8ofWQhcMCkqWReOCCkdAMHcW7Txv8oMggFcTeZdQmktWQJdKCo2W4rxAvrUvCkeW4RcGglcSSkgW7OJiq7dMHGkWO7dR8obbmkNgCkaWQxdKdRdLWFcHa','WPNdI8kUCq','q3tdGSkchGRdRv4HmmkUW5FcOSkID8ksuh/dIhNdHchcUJHX','W50qbuBcM8khl8ob','rJeMWPtcNSo0W4S','z+g7UCo/wa','WRSHWOaNWPNdTmkKEmkdjJvTfmonhSka','W4aeW53cLXmoWPG','v1v1WOZcMbNcIa','XjlcS8otW4Og4BUGpsHnWPJcQ1CPbLxdNHBdHmots+g6VeJdI8oeW4RcKK/cLYbYWQxdNJtcGa','j0BHU6zFW5VdNSktW4eG','eJhdTq','W57dP8ke','WRdcSmkbwW','BKxHUljTW5ddIa','g0FdVcS','W6FcHSkgWQWPWOf8','vvP/WO7dNbVcKX0','DGnEWQW','rIWxWPpcMmoDW5TYWRPDwZO','W7NdRmofsg9uWOlcGHG','WRH1FJ7cQSo0tNCE','WRS1WO8WWPZdRmkyEW','uvvYWOxcIq','CqNcV8k4','W4qFewdcM8k9mSoBWPO4n8o7k2TuufJdPJv6kW','ENJcISkqle7cGvuXWO82W4nEgCo2EwtcUdpdVhTHD0qvWPxcSrxdOSoEW67dNrvzW6ycW7GAvhbkW5JcVg1HibyPsSokwSkdW5CKzCoXuWL1WPZdUwJcMXtdSrWKomopWP/cLZFcKcldIvqUW5itcrZdJdFdOq7dI8owzSoUW48HggldPCkiWQTLcYVdGXP0wmoYkHNcRCkUW4FdGSoiCeHPD8k4lSo3FSobv2JcR2/cH2ZdGtJdGJZdM3TlcuhdKCorWRRcMZDOwCoEt8o9ceHPB8kWFZ58W4fDW7dcUsldUmkABNNdQwzBFZLIWQ7cVv0akvvzCmoWbmkYkbe','WOnDWPBcIhFdGCkzgwqcWRRcMSoYB1Kfo8kdzWX5d0hcKEg6P8kftSk0yUg6QhpcMmomXzNdO20lWR034BMaC8o4W5ldMSkjWPLVlKjuW5JdVG','WQZcRCojeZmGWRpcKW9lWRu3W6lcO8oXXyqrWO3cS8o14BIeW6qeX6/dTKVdGNy','WO49rhHeW5fGECktm8k5z8kOW4elxX7dS8oQWRqwDokgQSklBbzB4BQwj8kXWP8OWOFdPSkCW79NW4S7j1X7WOZdJuXtW6/dL0qR','WQCSWPG2','Cc3cIsjr','lmk+k8oYmq','rxtcTmkNDgxcT8kv','zdNcN8ogfJCDCvVcLa','jwjhW4BdJmk1WPiHW64scwpdKJBdOJn6v8kJdLaSqJpcM8oflJijWRtcLePNjCo6gCkiW6lcObJdHCocySoRW7r8W4HbqSkPsNddOCkYW4G3W5GvW53cLmkiDdhdNUg7LCkbXA7cV+g5TW/dPSoZWRy9W7lcNZhHUzirW6hdT8oLW51aWPLAs+g7JgDsWOKbfZOfbfS8BGddH+g7V04dB8o84BUjx24gEqT34BQbmSofrZfsW4C5WQOODKNHUQlcMmoxm8oczde+WQ3cQmkgW6dIG5vnfUg7NSkhW54N4BU2W5RdPdtcN+g4UaJdNG3dUtypWQRHU73cLgNcUSkGW65rD0jyW53HU5ChtczvW6ZHU7bwWRlcR8wv4BUoF0PYm2VHU6xcOr1nW4BdHUg6GMlcMSANWOGHW4WG4BIkxXKiWQpHU6ddO03cGwP+4BM7kcRfTUg6PHj1W6NcJEg7JCoeyqBdPGDfW4FdHfKUWQzHxZpcHXfgwH5kmXBdTY4dr8oNxSkfWOPyW4BcMmkEr8k8WO3cOHHshmoMW4mUWQpdRMyeWQa4W6BdPbFcMCkIWONdGCktFSo9f8kCnCoDlSkXWRldQxtcHCopW6L/WQlcTG9cuXBdUfbafCkZm2ZdO0H0gwGzobBcTga4W6HwW7BcMcaWW63cU8oduwFdIHqHz8oYW7HNqdJdRWnvW5RdSxbBk8oHuqdcVmoxWQdcPmkzlSkIvSog4BMHW6FdHvS1hSk9ECkaWO9RWONdR+g6GWRdRSoSaUg6VCkzW6WXXAlHU70GW5Sz4BMkWQiYWQJcGmkDkJFcSmoDnUkbTcddNCkF4BMDy0m6W4WrW5PhbmkjnEg5Mmo7y8ke4BULw8oWWO0jsSkCWRBdUmoIzYFdVmoxW4uHdHBgK+g6HSohW6/cIK3cT2/cSu/cLgamiJ7eOCEH4BMWW4FdQw3cR8ouW4jcE8ogjmoiWPdcIvVdMSk/W5/dNvVdPCoQCfVdK8k4W5ddUh9+WOtcO8kRW4XIsYvkiI9Tz3hcP0RcGHlcN1CSeZKmWPtcLaaFWPhdUZFdMmo8zmkg4BU0WOteSEg7G8oPW6XGt8klXzNHUyHRW4DzW6xHU67dRvNcU8kpW4xcUrxHUluKc8kjW4PpcMKj4BQkW5rKa8EV4BQgtaPyW6u4j+kcOSoBcSkXFMVcJgm1qSkXWOtcU0/cS8oCW5y1WQNdRCkSW61ntsRdM8kOW4tcQ1zanfHucYxcImooW4i6ErKNWRxdQZldNNqkWOtdUNhdJSkRW43dS3VdJ8kOwgdfR+g5QMJdOgy74BQlW5FcN8sRA07cK3hdG3FcJuNcGKjFW6iXFdVdMHGTWP55WPldO2qEpCkxrc/cN8kMB14MW7FdSCk4W57dSSkYhSoBkmoPWPLoimk/WP4XhmoVnIpdH8kvEGTflmk9W7WRWQJdRu7dSSoiW5RdKuKOWPPyW57dPog4HKFcPmkehSoid2TFW5a3xSoHAUg4MxtcMhn34BIggL0d4BMzruqLpgS/CXtcHEg4MmoQsEg6P8kinmo9jComvItHU5L+ErVcH8o74BMliCkhW7VcHGBdLd7cPEg4GSkVWR4rFEg7SIm+4OoctCkDAJCVW7xcMN/cKZqfoav/W5tcMxxdSSoahmEhW6NdUCocW6CdiufnWOFdLCkPyIJcNMpHUOa/W6/hTog7SmkpuEg4TJ7cLw7cIUg7UblcKmosWOrLuSkyD0FdNrdcGe7dNCoYsCkHWPldQCkkomo5fCoyWRz3uSoDumk/W7zdW5RdMmoehSoQab5NWPddSePdWPTFcSk9s8o6WQ9RW6XYstD4yf/dSmocj3BcTog5Q3NcHCo1WPRHUR3dR8k6W7NfKEg6LH3cIfhdVCoVtmkPfSoBtmoPW6aCe8kyW6dHUOajnog7IxPEW5BcICkxBcXGW5q/W4RcUCoWAxLYtbVdOLhIGyLjW6RdK8kdWPGcWQBdOqm9s8o2WQNdMCooW4ddGtv+W43dQ8k/WQi+gmknFJtcJYn3W63dLmo5pZjBy8o7WPDJdtOpW4nGW6LL4OkDA8kw4BQVlSo7W50ae+g4QJBcM1ZHURPoWOWpWRXxlIRHURJdRJRfQxdcIfSSWRdcSSoJ4BIVlmkUsSoVvWDgW43cIrZdJxiQ4BUIW5RdS0q2CbRcT8kJWQ7eP8suW7BdH8oI4BMXaGS7vK7cHxz3W6ZcISo44BMVWPZdJCEt4BMybSkL4BQeEmofWO7gQSojv+g5RCowwhFcU2DFomoGW7T0WPSBm8kXcH7dL8kHdSopumoRC8oIx8o3ACkUW5XkfY9SqmouW6pdJCoXWRtcLKBcUvpdTrFdVCkMWPHHWQtcMSkkW4qqW5JdVSkQWOymWOJdR8kEXjvxvLFcG8A9yL3cTwFdI1VdOaSmX6qpW6LYCGaOFKm+WRzr4OgFwepdTHJdKetdR8o9AcldPXVcGmocWQZcGSoAW4a5fCkqWPNcNZaRzSkComkkW4ZcTUg7JaSmDSkzWQWFW41oeSAb4BQQWRWQW6tcIWlHUA5KyZZdKCoXlu0WqCk9xSktawajW4O6W7mhFCoYWRNcLhNdPSo6W5JcUIpdQfFcQ8opW4tcUmkjW6VdPSkbpog5NKtdLx7dTUg5NCk7WObvy8o/xmkzA8kjW53cPSkdE8krWObvWOCgW4CTWRBdVuKAxcRdMCk8WPPnW5ataINdHSoUW4hcT3yOq17cN8oOWPCcWQ/cPCkawCkYpCoIeaxcMHrzggFdVmo1WRP6pSkwW4nWW61rWRpcIEg6RLddKuJcOCkm4Oo6W6PmW4hdIshcVfNcJCkyWQ7gPEg6LSopW7tdL8kDWQPOsdm6emkHaszNDSkucSoHdf7cJCk7W4BdJmk/W67cIxJcMdNdJ0pcL0BcQmoZbghcGCkzmgddVsVdJutcMvdcL3dcJdWVW63dLcydoqqtWPldNhtcQq/dV1yDWRPQW4fZoa/cHdRcI0RcSuG7W6xdOCkSWOFdMCo9wwpcQvtdGCowdIFcKG9eW5GcWRxcOYNcIdPwW75Me8k8pJ/cKSoiW55tWRSD4BU9j8ogBEg7JSoVW596yfRIGRuMWOZcP3bpW5NcGIG0rfRcSaaGb8kRdqTvW7JcReldK8oODM/dSCkXWQuNium4kSo0EGXNWOT0WRRcJ0DmrYH0W6hcUND/yqtcNfuwdmoGrmk5W7mlCCkYoxJdHSoWW77cL08CsNJcISkxW4fsW4bGsxbUnWNdHKlcJYL2W67cP8k7W4FcOeuNbSoen8koWPXTAvbsW7XsDKexWPdcQ3VdHmknmtvswvffmmktW5hcVSooW5CjwSoTy8ocnZq1WOFdPa3HU44nl8kVW7lHUBHam8kExgddM1pcSgZHUkldJCkPavtcOg3IGyhdHHldHdiIWR1oW5JdVW7dTCooWOtcGCkTwCojDIldJSkJWOxcVCk2WOpdN1PpW5hcGvORrfxHURG8W58F4BQ0WPnjW5xdMCkfWR5Iovv6W799r3BHUQdcPbBcTf7cOYbDWRvIt8o/WP8XWRpdUSkblCoQWPnOdvhdRbSJtY7cSmkb4BU8WRVIIy7cNCk2Agisw+g7UKWKW4hHUPOJuqRcUCoCWQpdT+g6SmoywSoX4BMKW40YWOBdUrtcImoDWRVdPSkhomoVWONdMCouWQ8xWOdcSWJcV2hdJYZcVuRdImoxkmo2WQvjW5NdPH0oWPldLqtdIbRcUmkgss1/WPe+WRnDAY7dLCorW4ZcHgBcQ2NcRsmVWRhdQ8kXwrO9W67dK1LxyCkseSkrW5pdPSovWQFcLmowWQLbW4ldSKVcMmkjWRmvWQhdNIVcS0jmW4ldOSoLWOFdNCoccfP/jtpcNXXIW7W3uSkyW7zOiv3cGSowWOaqogrOWO3cUSkHjb05dZy3tcrLFmkQB8kxoLFdPcrxw0u+W4xdNCkAW4/cTmoZjsLUWQhdHvJcMmoMFwjWWRRdH0DVW7anAmosk8oBWOxcRINdSX7dLmkfCmkyoJVdQa3dNCkOWQpdSv8jitxcT8oQWPhcQCk8WQSgWRDyWRhcVSkgsLq/WQdcMCoSnmouf2q5uqubc8kMW6RdI8k2tr3dJCoAfCovhsbDWQNdQa3cPConF8kRWR9Vbog4QMFcIK0ZduldV8kWW5uUW55P4BM1a8kSoSkhWQpcNEg5OrlcMmkiBSoupwuu4BMyFJFdJmoYtSoOXkBHUlBcGCovW5dHUlNdTSosW5VdUJRdKSoRmCEz4BMWEMNdU0pcTcdcQCwfWQFdMEkcHmoGWOpHUO18WO02oCo6AEg6JmoGW5OkaX1tF8k/W67cIEg7NMRdRu3cKmkOkCkryuOUmHJcJ0pcLSkY4BQnWRCWw+g5Nmkhe8kH4BMFls1e4BI9sCoOlUg6QhCbW63HU7jGW5ypWPa4WPtcQCkk4BMVmmoRW7FcVEg4VXddOSotrms54BQJe8kgbCoPf8k/XkBgUmkqqSk8aSo0sZpHUzhcUmoVm8oomvqTdSoC4BMTWOikf8odgSoCymoSumolhmkhcGBcR8ozW4BcNhpdP8k3emotWP7cK8oeWR9vWR5OWO3dMSoQjmoBpbNdGa','WPtcTEg5H8k5iSkfgEg4OMe44BQuxwePoCkQW6jYWOnRW4DXdCw84BQIcKG','Xl7HUOjeWQZcMmoyWOlcQa','WRdcVSoyxxXUW4FcIrHzW7KXpSoIWRm0WPlcJ8o0W6tdJmo/sSkAlqBcMNZdPv3dOMNdM8kZWOhdHt/dJ8kFvbHWW4RdQCoVovpcTSknWRhdVmkTmvFcG8oRiSkXW4ZcGbBcHW7dPc/dVSkPWO4kq8kVASoJzSkLjL8dmK1dW4zpW4RcV3BdGZldSmoSkSk/W6ugvZVcKfbhhHLAW4ZcSmkoWOL8jmoBbSoSWOFcNYFcLZSOsSogW6vEiIyXfKvMW64','W4zPx8oyex/cUW','naXhpqZcISoyWPSVx8oJC8onihuVrx3cNsZdV8kmW4BdSgVcLSkiW7JdJtRcIdZcKSoyBCkcWQaPtmotWQBdNIb+WReWi8kmvCk+W5bOWQFdQmkMWPpcQ8ofsxpcUbbYq8kHtXjv','yWqfW4m','X4fv4BUZWR4','W4ZdVrzgoGOWW7hcOmoqmt/dKGW','WR9Sp8kOW6RcUCo4','W6pcMvTz','CYVcMtrr','W5JdTW9M','WP8RhIZcNCkGWPLK4BMboNdeSSEf4BMdgmotWQNHUkZcVaJHUy/cGmo5WOJHUjC','vColhuTCWRJcMCo6WQNdM2eFv0pcS8koWRnyWRfJbmoHW48wmmoRBqRdJwlcIXnHmW/cKx7cJCo4WR4dWQ80hmkRW4VcJI9zC8oomuyhWQ0dEcFcSbRcSKGvWRRdVIFdS2ZdMmkoW7/dHdHcdCkXnCoVcwtdK8ohbK0amHn5nCoDsCk0a8kRWPNcH8kpWOyHyhdcQ8owlcRdOmk5jWLGDGfWWOldJvlcIrZdQSoPgSkNCtZcNdVdS8kXW4xcUSoIWRJcPG8PWRFdPSk7WOZdJtZdNSkugmkxWRe2aCoCx8oIaCkch1tcSSo7WOuTWQPzW6HdqvTekry1zSkvuK/dLZnarSk1','WQRcRCkbt1q9','WQBcGeTzWRSl','WQxdUCkpBgSe','CGxcOSknW5mKyg/dSq','tWZdVq','AqxcOSkNW7CV','xcNcKtXa','W4FcNbNdUHufzSoRWRtdGfueW54k','uCkpWOFcTLbdt8o6WRPZeIhcQCkzy8kk','pSkAWP5pW5bFWP7cNthdTSkvbmk6wKOggwr5jsbqsIzMpxhdOSobWRpcL8oormowc8k0WPBdL8kWbCkshvSclgH3r8kFWOpdLSkyvaCanq','wdfMWP7dNq','WRHSBsxcSmk+vgugWR7cI8ohWOBcR0ddKSkyha','XlLzzw0','WQCZWOyRWPNdPq','kLBHUzGMvIHAsbjx','jJZcPIW','tHHuW44','Xl/cOKFcQUg5JCoH','4OkEW5BdNmk1bYvcWQ7dTsDtBCkKW5CMW57dN8omD24gWRVcJGZcUCotqHRdPSk1WRr8W7RdK8kGeCkFWO87o8kslSoNWOldRY9gW4Wevw5LW5TbW4rqmuFcTfSeWOKnuCk3WR99WPtcQmo1BtRdHCoDWPddMCoHt28H','EMNdKfVcVmkYW4jQFtGMW47cScC7AfFcUSksBCoIzW','r0pdPG','WRa8u8oevSoCgHvsiGe','FYvLW7W8WRXaWQNdJ8osW4FcSSorW5lcOmkWlMdcLr/cJCoBW6tcS1v9WQntW652WQFcSSkCvmoN','WRhcTmoMWQnNWPS','WRu34OwlorC','AZ7cNCoxareSCf8','p8kZimosifTuBa','tHRdTJdcL8oo','W5fLWRddMI4','th3dOq','rceQswxcMX8','vsW/rM/cNr4','XQdHUlxcNmkSXl0CWORdLCooW6BHUAfMr8o+mIPmk8kLlMv/imo/z8AdWRpdNsnFWR7cQrHFhmk3uWXjfSoxrxZcKCEWvaJcOCorW6lcMGRdRgm','ux01W4xcVmohbSo5WOldKmkt4BIZW4RcNG','igNdGcHsFmkP','s8kLWR/INR/cVwxcS8o4WOKHivNdU8oGD8oRDmkiW5HGAmk1cYtdGWRdRbzJzhRcV8o0smkEWQbPW6HKaCkzwCk8k8oZwmo/EW','W69zWPpdKq4UW5i','W5qXsgLs','Xz/HUiakW4z0BM7dMCoJ','W7xdMSoqWPFcLXyCWR3cGIqlW5ZcN1RdOebMWOnOpSohrCk9n8oix2ddPHxdTSolWO3dJCoMWO1qwwZdVmknW6ieW4GvWRX6C8oKWPXFkSoBW7nKWO3cLSo4WO3dQmkRkmkhWOVdN1m3WQVdLmkDW4zxW5OsW5r8txBcSdhdQSkduCktrCkUWOBdGsJdUSoJuCoEjmoCWPBcGSkbWQRHU5VcH8oNsmoG4BUvW6GqWOhhHUg7G2DKy1e8kK9aW4L2wCozW4hdPSoUW7ZdMbxdHtuOW41gW7VcSuZcSvZdKItdPhnqBL3dGhXbqru8W7X6W6CDnH7cHGXjW4uNW4W1WPST','W7z6WRzSw8kK','qh3dPH1XWQ0B','WPlcM8ki','W6DIeSoZDmotsG','uhpdNHDbWRGfW77dSCkYbq3cO8k+WQOQW7xdSa','W5iuqqePW6KAW5eqW43cUSkVh8on','shNdTaW','WPSiW5/dMMxcGSorsW','ertdRCkBut8JmmkYw8oS','bunVcI7dNLTRW5FcPgDufmkvxmkRlHVcPSobWQvtWRBdGSkwD8ooW41pWRCUWOq7nCoUWQBdS8kwxmk2W79UoG8+vCoAyuiWjf3cJ8kcxHBdLCkXxWbXv0xcSW','W5JdRan3pWaZW6C','W4pcGtddOXmkFSokWOldKKyyW5Wz','W6NHUlKmiZuhX63dTCoUW4CB4BQlW7vim8obtL47BcFdTY/gIEg4MLNdGs5gW6m','lI/HUynf4OchsmogvqaAWOhcQa','WQ10yJtcSmo6sh8','WOJdVGq1nfK/','WQxdUCkouLa','WQldSmkBquWjzZlcNfm','W6rJWRHTxmk/W4e','Bog6V8o7whlcSCkBW7xdKG','gWTWW5hdHKJcGG','W5XYwmoEdepcRG','W6FcLePZWQnvACoGWQVdICkYk8oCgG','BdNdPILmg8o5','icZcRIW+q8kqiSkv','s153WPlcKHi','qs0q','xmkeWP3cSKT7b8o2WQe','W6OUtSkN','WPXxW5/cKog6SaBdGCk+XBxcNG','BtBcNIS','bSoIW7xdI8oOjSo8W7NcKIeVw8oOWOK4WR46W5W','W50atryKW6a','jSk8nmo0igfiECoEWQ7cS1rSq3G1WRGDtmoPW5tcQqaIaSkTW7tcOmolWRlcKNddSMVdRW','WRxdUCkivgOs','q27cSCk2E2pcT8kdWPS','r1VdL8kfsdqHbSkNfCkRDW54WRiWW6BdG8oYW6tdOb3dV8oSpSkCgHhcILPMWOVcGN0T','W4azW7lcGbm7WOtcGre','8k2cVCocW67gJUg7ICk5xIi','dwBcUSk9AsFcRSkdWPzHos1EmL7cTstcTgBdLWtcJ1DTWOu5W5mxWPtcPeLTW4pcT3navmotWQz7aG','W6VcLeC','BsZcNq','WQ3cU8k+W7ddSG','uhpdPHLoWPaDW77dMmkqhHVcHa','xg/cVmk9','nvDTjHfpx8AzcrdhJCsZ4BIaFSkgvEg7PeFdG+g5Hq','lmkGiCoGif9PESozWQ7dRqjnuNaUWRi','vmkhw8obAmkJXOhfQmoSW7a','Aq/cPCol4BUrcG','WONHUQfpD8kiW5RdRuq','hSkaWOJcLmkxlmkZ','nL4ojG','W50Wt35nWOW9iSoqAW','EhNHUlnkWRFdNCoyF38','tI8iWPpcGSoH','WRiQWOqM','WRpfISkfWPFdO0jsWRddGmwB4BQ6W4W','dvRdRqeccL4','kIH6W60TW5KwW7VcM8klW5xdS8omW5pcOSoNyw3dKog6OCkgWPFdHSoH','WQpdVCkoF2yvDW','EJpdHXvvdCo/rZK6W54','cEkgVSkX','hmk8FSov','XObIW4in','aEg7RSkNzqr7Xza','xsmjWOlcG8o4','W7vVaCoGxmog','XR/HUQHqWP0NW4tcS8kr','W5WhsHu8W6b4W4miW43cR8kYkCooqmoRW5O','WR3cUSkCCf0RW7SVW5ynuSoqqHm','Ed54','wsmlWPpcIq','CXGsW4vgW7FdTa0c','W4hdP8kmW7vuoHVdKmklW6ldJhKp','tdfPWOddN8oKWQZcLbhcIrq9W6tdLhKWW7LSW7PJWPOjW4eBaMNcUCk8dmoZW7xcVW','jcBcUWaXCmkz','WQhdNSo1BrW','jSk8iSoU','aSk8ymoFWRiBWQa','uvvMWPxcHtlcIH7dP0aWWRm','WQVdJCoUEWtcIa','xupdHhtcGmkyW6r9uXqa','nxVHUO0rW4GtWRpdIg1aWPeBWQBcQf/gRGpcGdj4C8o3ymkw4BUxAhVgSsT1rw3HUiJcNuxcPSkIWOpdVK3cNSkUzMq1z8k5WOaI4BMmfCkoWQRdOWn4WRpIGy3dUCoc4BM+WP/cT+g5IGLg4BUWW6eVWQJcLsNdL0u','gmkSDCojWPqgWR1pemoSW4a','WRhdQSktswOVBthcSG','WPhcLCkcW5RdLKzAWRpcHq','jdxcKG','AIRcUsbciCoJr2D0','WRn8jSkEW7BcU8oU','W7lcKfbsWQbD','dKxHU4SNd8kuWOBdIEg7Ha','a8kDcSogDhTO','W4LyWPpcIZi','iCkNkq','tICSrNVcMH44','qfJdTgNdNq','jIZcVsq5F8oCiSksWPlcRSojiCkcfeq','eIn6WORdLSk2WRdcLqBcGuTYWQhdLxD0WQyYW7j0W48DW4qFahtcSSo0uSkVWQJcQxVcGSkkW6hcVb8cWReDWRXwW5b2t8EGumkloSov4BMpA8kYXzqPW6DQEZBcPY5LWOxcU8o9krVcSEg5QKauXk4lW67cPog6TSk2DslcQsdcIG85WO7fRUg5N8kbW45Hps/dRCojqIy','W48BW7pcIHm','WPZcJ8kdW4pdMeCEWQtcJY8oW4NcJd/cTGuOW4b9jG','WRDWpSk+W6RcUCoFW691WRG','XlFHU6yKcKakfsW','pIBcI8oww37cQaz1','sx3dQI9lWR0DW7m','xupdGNdcGSkuW7Hz','DJxdTWS','E8klWP7dT8sP4BUKdmoM','fxbSWOtdLSoIW67cLHRcHeKNW7FcJhP3WQuKW7n1WPCVW5mof2xcQCkYhCoHW7ZcPcJdI8oqWQtcPG4rW6ffWQCGWOBdLuK4eCoFmog5VmoSp8kY','W41ZvCkqdv/dSmkFW4BdTSo2W50P','WOlfQSkekSoAW4ZcMglcIW','WPnsqby','tcrKW4BdN8oKWQBcHbe','W5qevWDLW6XzW5exW5W','XQdHUlZcOSkNy8k9mmo7','Fd3dPGXkkG','WRhcKGpdMSkx','W4aqeq','D01QW74','tbtcTSk9mHddQog7I0xcJ0lHUiKWFSo2fWXlqSkYfq','FbnLeCkCW57dVCkaBrtdG8obW6JdS1ddI8kDW5bFEgldTYFdN1qHE8kaW6H1bJNcSCkxsCo1WR3cKMzgW4tcRgBdRcn7WRtcHIFcHHVdGmo7W6JcH3xdPZZcQ8ksWP3dJ8k1WO1nxe/cPMhdQ1W3W4HqnwdcNmk8WR4WWO0ggupcS1u1FHldLSkEqhnrWQBcLItcJ8o5W6/cR8kym8oFWP87W4euW5veWR3dHMRcSfe','ytBcLdC','ebxdNmkorZm/fSk3','W7pdO8oFtNu','bX7dJmkNscKL','v2JdSWXlWRyhW6G','fCkoaCk5xG','W7ZHU5bAvdZdT8onW4jcW67cPCkQh8kAzCokW7aqqGr7lIpcKSo6W6ZHUBBcQmknWPVHU54P','eLRdHIqt','AdZcGdO','W6nRb8otqmocxW','tfrAWO/cKHVcJWJdGfSWWQnFsG','hGtcVmk6','sYaHquFcMG','W4ldRaDUjq','tdJHUz7dGLmXWQnMc8kKWRrxE0vE4BIqgCoeW5/dKrWiW4xcNG','WP1vqbORW6LEW4ijWPxdRSk1h8owsSo6W4SzeabMWQOmWPVcVSoxW7BcQSocWPT1imkN','leaeibW','W6hdRmktxqvgi3FdVq','uSowW4PlW5a','WRldRmkdx2O','W6ikW47dOaTZWRaWh8oDi3fpgCoSvLxdTmkZxCosWOzMhdNdLbldKHfYWR5AW4aaW6fwgxFcPtShySolWQ7dLezMA8oDW7ZdT8oghCkzFmohv8kEhqJcJhn6W5GUWO9zd8ktpt7dKGRdS2yfA3ySnKBcM8koWQaPacxcUmk/WRhcOmonlfeAW4v0W6ldJSkOqHPCf8o/WOhdIG','W57cGb/dOaupD8oC','t8oAaeSrW7VcNG','WQ3dKCoOyXxdKCoLEbBcGsZdJ2ddSq','W5XnWO3cKHZdH8km','yt/cN8oDax9QobVcL8o0vg9EhCorgmkkW5mpdK/cKCovWPHdfCkpEcO','W6lcNrNdVLbj','WOpHUkFcLbnBfgy','AdZcIt0','WQjTk8kMW6O','hmkOASoyWR8aWRDE','gfWRva','W4mEfMFcJSkw','gu3dTJ0gqLfDeHa','pfeyibZdLCk+WPzThSkWnG','DSkXAColW5BdVUg5RSkpx8kvW50U','WQtcSmoRWQv2W4qFW614Bt8','EeX+W5tcVd/cHa','WOu24BMjlmkDWQdcUwSppq','geRdTYScbLXh','yqJcISo3D0ymW6y','kL4mla7dNCk8W55R','tuxdTM3cHmko','zslcNmoha2G','qHddTJGccefgcuddOG','dfRdQsqxdfy','qcvNWONdNCoKWRa','fX7dJSkesJ8EeCk5tCoQDIToWP8','Fez4W53cTc/cMa','CdZcNcTxma','dbxdImkEvqe/eSk+tCk0iaX5WRqTW6ZdVCk6W7NdOrJdTmoOgCotjLNcNxrQWO3cHxXH','WOvXWQBcPmoOW6VdIxDQ','xb/dUdOFdH5fhvlcUCoVW54/W7xHU7aZbmsF4BMHxWNcTb3cQNLQWQNdNSk1pCo5W5JcNCojW7fAW5JdMSkiWR7cGY1herGyW6voW64ZWPWdEhyCWOxdGsGOW5vqbcNcUWfSW4CvW5XUW7dcRshdOeCyW5RdJMBdMZC','W50eeN0','W4KuqWeT','WQzWnSk+W6C','e8klWP7cPWi','W755WR92','eGFdKmouwUg6L8kbnNLcnSkUf1FcVG','kCk7kSoL','lYJcVsy4','ydxcH8o+gJy9','zJhcH8oxide7','fSoOW43dHCoIk8k9W6JcRIe8xSkRWO0','lCkCwCoY','CqpcUmkTW5ijChu','W4q/r2Le','A1bPW6pdSdlcJt9wWRiNWQHSWPS1','aCoMW7hdG8o1k8k9WQdcJta8vmkGWOqJ','WRvcWPpcQLm5W54WxmksBYiFwmkIs1FdOCkXxCkbW5i/uhZdIrdcMGbUW6OeW5uvW6rusM/cSJSrySkdWR3cG19GyCkdW7BdVmopu8onpSkmd8odeqNcLdf7WOT3W5nxx8ktl37dKGJcRL0B4BUvANePd8knWOJdUcCBASoQW6C','W4FdOmkaW7ni','WR0TWOqNWOJdLmksDmky','AJFcGdTadmo4qhz/WPf2','W5zgWOtdUGSKW5r3BmkqyImBCmk4eXJcPW','DtdcI8ouhLNcUqDTDCkZW5xdPmoToCogxsZcGspcGtVcQYOHgmoSkSkfW48bcmo0deVcQCoXgw7cSI9cECoaWORcSmkoWQZcM8ohW5rtWOmCqhpdLHpcMCk4iSkczZBcRSoOW4tcO8kZxmkchCkVWP7cQeGcWR/dT8kLnSkWEJWuzxPf4BI0cx3cOmoUWQ3cSJT6W4ddT3FdIa','jMZdMWq','W6JcNHNdOHqcFmoiWOldI1udW4y3WPftWQbW','tqJHURRdVwG','orJcVSoYWOi/CshdPSkrwZhcMCkXW4lcNWW8ESkjyKGYrwTDW4ddKL3dMYW8gIRcRx8Lm8olWORdSLKMtCo3xZlcP8ohXQFcGmkOWRKdmgrWW7aGW7ZcRCkKW4lcGmkHW4G7zxZcS1iLW5muW4y','W6HIEstcSmo8sJWkWQxcHSojWOtcR0pdJCkogGxdT8oWW6NcNYFdKSoiWPGLW4VdSWPkyG','bokcT8kywaldUuNcU8kvW7nrsmoqW6RdUgpcU8k3lCkgW4PemaNcQSoadCoZtmoyoqLdWOaOaSkuW5ldG1CgWRpdKhVcRJVcTCkeWO7dH8kTWP7cH8kMWRD1WONcNGNdHg3dVh5+WRPjjSkxW7bkE8oQWPuLiha1WQFcSJVdJ3KFW6T8xxaWW5pcQmouW5JcUZldNCohW6DQWQr+WPZcHCkyhSkiESkSs8kPWQr7CCkRyfhcTSk2W7fXW7vkWRz0mZRdTmkhWO7dGeT5t09EWQ8yWRzTcCojWQH8W5FcPmoBWQZdLX1ri0v6WPRcIZJdGXKLW7r6W4SBWRNdTmkOWQyscM/dQmoUWQRcIWH0a0hcRuNdGdJdOuWxW48pWPRdMCoEW4vbqghcVmk3W7isdSoGWOn2tCk6WOqN','bCk0W6BcMmoME8k1W68','wIjRWOxdI8o3WQdcLrBcGKa','W4ellhFdPmkZbZfhW6RdGSkiW4JcOG','dCk5FCoUWQmiWQDE','zs5H','W6aRCSkgEW','W7hHU7HLphxcP8EX','W5ZcIWxdQb8CFa','cCkDWOlcImkE','W6VdR8kewG','uSkyWPZcOKLC','W5NdOCkOW7vFcaC','sIG3','WQS4WQ19c8oAWO/cTvpcGmkfc2xcP1ZdSNCRwKnKWP8p','WQFdSCkwr2OulIpcPfD6FxOdFwZdGti','yKrWASkyW53dNSomuW','W4SyW6JcKq4cW4ZcKbhcUum','W69dWO/dTXSKW5v+','W57cGaZdUqqJE8oCWQxdIuyi','h101rmoiWRBcTmotovVcKCky','XjlcKmotW77HU5mr','iCoV4BI0W4tcOqBHUAO','sLNdPq','lYJcOcT9CSkbjG','DtNcL8oggW','XQ/cLq844BUPW7e','amoIW7xdTq','WRtdKx1d4BIEwstdGSEvW78','eCoOW43dHq','cSkgWOS','g8keWPtcKCkvoq','xeldTwhcLSkuW7HBvG','qCkWW5pdVXiW','XOdHUzhdHuO9tSkgWPm','h8k5yCouWQm','WPRcOSkldt0GW4FdMKWCW6eMi8kZWQuSWP3cGCkUWRtdGCoRr8kvCfFdHtNdRqRcVIZdKmoPW57dJwhcI8kEv0OVWOJcTSoOjaZcPSkhWRpdQ8oSieVdISo6pSo+WP/dNapdNXBcPh7dVmo+WOech8k1oCo8BmoHDf1wA0ryW5XuWORdTI3dIs/dQSkUDmkJW7rzgNNdKGDiq1jqWPldTmoeWRLPDmkdhCkQW4JdKxpcMMXTa8kDW7LoohnUsG00WRfLg8oIWQpcSSo/FaldSNdcRYKXW5BcPe19amkbCwlcVCkrzSkZWRe5gc5JWOBcR8oHW57cLSkYCCoDWONcKujHAKtdP8kuisuYWOVdGmonW6mlW6Xxld0NWOTsW4pdP1asoCkMCgFcVwNdNSkJCKTtWPtdR8knW7tdQd97W4fMW4ufW7apWRbYqmoPW4dcQ0OGr8k6wqTHW75gC8ooW5VdQ0DbWPFdSFcLN58ozUg5LGlcRZzD4BItk8kLEHBdHCoZWPlcHmk2W6S2W61hiCoDWQhcLSk3WRlcImkqWPCbaftcPSkIW4bWo8k5AIPYccb4WReRF3C8W5ddNmoACCkiACoCpmkQW6tcHgBcIttdHJKbnmkxWRTTCSkLW4/cUSk3sbFdI1RcMSoXs8kfW717lCoDW6tcPSoRWPJcV8kpc8o2W5lcRConWOCRn3xcOmkkW4dcOdFdQWpdVdhcUbD5W40GkK7dVmkSbYmWW6RcQ8kwnI8EEf1GW4Cay0uJsh7dKSoZW402rMO/rt7dJCoZW4bEW7mVtCo8F8o0W4lcKSkjWRy','dmoMW6ZdJW','WPhcLCkEW5i','yLRcQ8o4','a8oQW67dN8oVpG','WP7cMCkeW57dGu99WQZcLa','tWZcUCwy4BUrgG','qHddRsXizrmjxbddVmkJW4m9WOybm0FcJ8kIhaVcNH3cQNL2W73cMSk1BSkTWOhdKCkmW6XyWOZcN8oqW6RcJMWlwf9wW78nWQSYWOypzd1lW4/dTIP9WOuurx3dVMuPWPnuWPuIWPNdUwtcRsLnWPFcJcpcIt/cOIW/A8kMemoxDSkvnmkaWORdSSojWQj/y8oQA8kbaNbSWPVdGJZdQSo6W71jWRZcQdb2oSkpW5ZdI8k2pmocW4z7WRSjWR9TtNzTssjEW4PBx8o0WO0','W7dcHe1E','WOnUuM5mWP4dpW','zSoPlCkDW7DjW7mBvCk+W5ablqKCgCodt8kcWPGgWOxcVSodW4/cQMddSc/dP8ofbhP7W6VdRSoKC0ZdL8kvW4hdJSoTgCkiASowESosa8kkhGuWW6VcQrVdSKr6WRBdRMtcMJnUydJcUmkEW5FdO8kvW5n2W4RcOCoKz8oPxSk3hSkjW4dHUypcV3RcLmkMWPbFgvq/yNz6WOjSBCkCWRzCWR0jW5nWW7jYW4vYW4pcGSoh','mHS2W4ddKvRdG03cSW9IW6OrduxdScO1e8odWRhcQmkpWRaS','W5jlmSoyDCo9BGz0WPWIW4ebFSkszZ3dPmoCWP4hWRGDWOVdQfDnW4G','d+kbLKFcJCkeDmoriCkMW4zey8kCD8k7m3i','W4Oufq','zCoSih4','qMNdVbTwWRagW7u','b8oPW7xdMmoOl8kI','W6DNh8oZxmoa','sCoqbeyCW6S','WR18pmkTW7VcOW','bmoUW6/dJG','W4XjWPpcLZtdHW','XiBcQdxdQUg7PCkxdSkMW4RHUjRcJSkWW4tdN8kUW7KIzKi','W4zPs8oihwVcSSkyW4VdQmoYW4e6qaddObicd8ouWOLnW6q','W7GI4BI+WQSMt8kJnsVcLa','W6NcN11AWRPuyCo2','vSkgWPlcPePHa8oJWRa','W57dVCkDW6i','W7ZcTq85cCoq','W6ldP8ogqMTLWQtcKGvmW7e','idBdOqPl','rSkAWP/cVK0','aH7dJmkUtt88fSk9xmolEZD4','WRLKFdVcPCoWqG','W7P2WQ16xCkrW4pdUq','tttHUkClbqtHUlyKD2NdUmoNWP8/rsuzmG','lshcJCol','DZBcTIDmiCo1','xupdNwVcK8kCW7PByrmxW7lcJrq','WQRcRCkbt1q','W5NdVmkzW7jzmHddNCkdW6tcHtqpWRSyfWWiW4z9ptmcWQS4WRhcRmohAaxdU8kMWOCtva','pemuW4GwWPRcVuTBmrpcM0nBhZiXW6a1WOVdU8oqjSkwFcZcHbxcK20vC8oJWRKHW5lcRKxdJSo0W4D7W77dNCkLW5RcNCk0W6LuhLuxW40Xt8kklmosW53dIGFcQ0KfW47cJG','WRb9nG','W57dTGzMmayZW7hcQG','yWxcOmk4W5S5','W4O5WRH0wSkLW4hdOvpcNCkfaZxdPG7cOtjncGnXWPKzW7mOW7BdOCkAWPRcVM59kCoqW5pcIe87Ddz5W4tcKCkFmM/dJvVdOCokW7JdR8oVW4ldP8ocWQBdL0vUW7jGWRtdP1zbWRRcICo5sSoad8oUyWlcPxHYWRddP8oYW5FdTNqsawObWRNcTSorWPRcKmoTW5mPDmkBWRNdGL7cImoxrZrukmo1hmkcWOddMfSqpuFcUSo7WQ1eW5pcG8onWQJdVmoXyWxcH8kgAWjSWQNcT3ajF8oIWQ51aCoNkSo9DIWcWOevW5pcRMtdMmoemauQyCkNwthdItD5gSoNC23dSmkR','W6pdP8okwNHLWOm','vcWJt23cIG','erldLCko','lSkInmoKoL5LCmoAWQFdQG','WPdcLmktW5VdNKLy','oxdcLCoDhtfKF07cMmkGwN1Fx8oyg8kaWPWaqYZdI8kqWOjsaCoFidfXWPbZWOeUp3JcOJiHnLZdISoYBYVHU67cSgFdLW','BZhcNCoheILKE0q','W5ldT8kDW5nugrS','W5ddV8oifrfUWRzQWPHzmmkjk1C5WP7cKL3cLMnznJZdMtyPW7pdTSkoW5BcL8oPCmkgF8ogn8oZWQ5Dgd3cOCk8t8oOWOuGW7flWRKGCSoXWRNcGGXvW5DtW4LSBaxcOJ/cRSoEgX1Syun2z8khFepcKXtdNXdcUSo1WP4sW7NcSLxdJCkSW4pdJ8kOv8kwiq/dJmkqzsiUW7KRW6eqW5RdVMlcIuBdVLjjWRHRCe1fygBdMxObW6CnW5zgW5bLqSkXW5uzfeZdT1BdMSkWW7TFWQvvWOfGlmkKbCk0gr8dW7LIjbLOWP3dLCo+W5v5W4KVW4uIW782WPFcQqdcVmkrW6hcIqlcGCk5WRbhW4ddG0FdNCoVj8oGWOaZdH3dRmkol8oKr3bekCkhBCoypJtdQ8kqW7BcOSoKWQhcPN3cGsT1B8ohW4aScSkGjSkCDJnwvxb4W5/cGCo3W5RdHCk4uvzHBCkdWPjSymoQWO51WPldUvtcOgb0aWBcR8oCW5r6WQpcJCowWPbXWPldR8o9W7CVWPVcOvZdPmo9a8kvfqBcTh8CBH7cOxpdLCk4iaRdTCoZWQS','W7yWCmo08lYGGmkRW5vQWQ1wW59JW47dS8ksW7hcIxtdT8kynuq3WOhcUcK9kCkNqmo5pdddMY0IxSoKcWi8hIFcHSoJEKxcSbi','XiBcQdxdUY3cLeVcVmkcW5RHUzFdPmkdW5ZcR+g5SdqUW5VHUOVcICkx','o1eDfGZdLG','hNjhWQOy','W7tdNCkKW4rcbWRdMCkaW7xdThKCWROAgG','4PUE77IWWRKdjZDGcrjxpmo6W4m','iCkNkCoJmuG','WQv8kSk+W4ZcPmoLW6jGWRnB','xmopySo5W70mWOthOUg7Qmo8','BdFcKYzvkSo2vG','ssSlWPlcICoN','q8oqx0FcGNqtW541','W5eIjftcSmk1gmo2WQWce8oP','gmkMqCosWRqiWR9EjSo2W4ybnu4','zSoPlCkDW7DjW7mBvCkIWPriEWLptCkAa8ohWOueW4JdV8krWOJdVYhcRIJdPmoue2eOW5VdV8o2iXtdJmotWO7cGmk5fmoBi8kmp8oieSkztL0RWRtdQqpdUqHkWRxdT3ddMYaSEcpcUSkaW73dO8kvW5n2W4RcOCoKz8oPqSoJwSoKW5RdTSkOlmorWQFdKaSpwdiJCIVdIwHSW4RcUKVdQv7dLZRdVgFdHsRcLSouW5rXW6xcP1KxWRxdP8kOmSotwmomW5ezW6KzWPFdJmkLhsaaWRRdJ8odjhK','WR7cTSkE','k8oxW45AW4TzWPhcKcVdTSkBfmkZwKO','W5OhxrS6','W4tdS8kBW6bihq','kveepa0','Dam1W5XyW7xdRYGAyLy','p3BcHcXBimoOdt4/WPDUWRDdW6/cV8owbmkKA8oIW6hcHtCjWOfHW7i/v2hdRYJcS8oxW6hcKmkFqehdGSoHW65bmJ8eWOPRD2GSW6uZW5hdK8o2D2NdL8oCsCk8W60TW7OhhNNdTUg4Rmk8yLrE4BIvcCkeF8Ej4BU8W6asnmowW6nOcmk1W6adW5HnCelcUW','jhaQW4VcMmk2W6pdGv/dKqeRW6RdGcy','W53dVCkQW7CIW4LwWQmOogTDjxT2W7RcPJ3dLcxdHYvFW6Xz','WQC3WOS2WPpdR8kzFW','4PUf77M0WPJcOeNcRJ8uW7nqAgfEXi3HUjGQW6VcS8AgXlRHUACxWRhdPqOraKpcNEg7U27dJSkm4BQ6AWlcOhVcO8olW4BdGWpHUPtcOCokWQK/kK3IGzeye+g7ISoPW4lcLSoIaSkYWR9iW6bXW77HUOixFvlfV8kEhZLUq0JdQ8owj+g4R8ojWOVdLEg5R8oycmo+tJxcQCkX4BQvg8oj','lJtdTSolDq8C','cSkoqrzfWQVcKSoqWQddQtCu','dL7dSdO4gL5A','yqxcV8k8W5iQBa','yJL8W6q','DratAqRdM8kQWPz8fSk5oSkdz28VbZldJ2JcUSoEW4VcRNdcISktWQVdLclcLJ7dHSkui8ohW6HMqCocWQVdKYn5W6u0FmoceCoGWOiU','CJhcMSoaptaKEW','pb8qW41gWRddRH8cFvBcHKeyuh5+WRiV','iCkjWPJcGog6NI5XaSkM4BQlWQLSgx3cQMtcQ8o0W77HUzVdQHpcSCoP4BUiWPXBdqrOl8omWQRdQYu24BMreSoB','WRhcSSo4WPjJWOOE','s3ldTWPqWRyB','evyXDmoqWPVcSmofi0dcOCkyWOhcQW','AHZcRCkVW5C/BchcTCoqbde','Ft/dOaPjbmoeAIWMW63dOCkuAa','WPFIGyvaWQmsvrJcJ8oXWOyuuCksxSofcSoIz8kXgrzzWRpdRCkExa','W75s4BQzW7mUemkjWQtHUAi','hsyyW4Xz','pmk3kmoKn04','qeldT2S','fwqRq2NcLW8','qCkfWR/cUe5kemonWRr0fG','D01IW7tcRXtcUb9/','mcJcPYe/FG','W7NcSZG1WQhcRXpdVq','W4y7u2GoWP89kSoABSk2jmo1WPzfaXJdQmkZWQrCmHxcKW','vgxcOCkFDhNcRq','W6n4WOXPrCk1W53dLHldK8oa','jdxcLSobvK/cQq','CKzIW7BcQtq','W4isW6ZcKq','e8oYW6tdMmo4gCk0W6hcMdy6wmk3WQS7WQC','ffddScy','arldI8kkqZy0fW','avOHrCou','smoiW5TaW4zFWPhdLW7dUSkwe8kIlHW7WOD2','vd0UxMFcKru4','c8oPW6ldHSo0lSk0W74','rW3cO8oSW7lcVZuZW4BdNHHIW5RcKW','W4P1sCosgW','WRaMWP4JWPpdRmoAFmkjjJngg8ouvSksWRFcKSoPdSoy','umoMECozW6LJW7mBvCkIWPriEWLptCkAa8oBW5faW4JcRmofW5hcR2VdOg/dUmoqfhf/WR/cUmoSnutcLmoiW43dJ8o1w8kjoCkpECkkumoFxeKWW67cQrNdQrS3W7dcVJFcK3q2oMZdTSoeW6BdOCkl','CIPSW5y7WOG','gfpdUdW7dKm','sIK9','oItcJSolsG','BLfLW6VcUa','yZ3dVbbebmkGDZC','W7KUna','W5RcJWJdRXGoDG','lCk3mmovluPd','vLrKWO3cKbBcIHFdTG','W5JcLfmwWQpHUPfTWQxdO8kDWPm64BMCemkrW4nWWRphOog7RSkAWOHThCkkWPebW5FHUzDG','ChxHUzmwaSkEamo6W5VcTa','W6dcRCoYW7CZW50gW7S','WP7cISkaW6tdG0ThWQW','CrxcVmkP','W6v6W5X7W4RcSCogyCknoXrgbW','W4aqfxBcHW','pCk3n8oUoeXd','W7vHp8oOtSoxsbfAWRau','BYVdKog5IKX6jXRdS1XKBby8W7nKWRNcSW','W6HGemoRtmowxYe','hmkOACoUWQmiWQfp','uZSMrW','qNddTWa','zCoSn2S','c1hdVs0qbL1mga','DSowW5DdW4ncWPBdNZpdK8ksdCk3hG','sIG7swBcMX8','k1eAlG3dGa','sL5MWOZcKbNcHG','W59Ysmov','lmk9kSoYieHtE8ohWQtdVa','wvD6','W5tcNbNdRqqov8odWRtdI1eFW4y','kdJcISkr','WRJdJCoOyW','W61RhCoGtCoA','W6PjsLldMmongSkdW5ixy8k+cZPE4Og5wSoiuNC7gmoOqrZdG8kZrd10oq58kSkujSojWQCl','dvddTc0','WQFdT8kiDM4fAW','lmkHn8ovmujs','DWBcNCk/gwVhKSsVWRTG','W65m4BMCWPaWWOlcUX/dTbG','CCwGiuiUWRiujCkq','XPdHUz91fSkbW6rkW4i','yqepW5LgW6q','WQFdRSoe','W40qsb0NW6S','lveCiaFdTq','f8kiWO/cH8ktkmkU','xLj6WPtcLaG','WQJdTSkuvN0UvXRcKq','nL4ljr3dKmk3W4G','WRa4h8oO','qtWHsxRcLXqL','W5NdPSkmW6O','dhb5WP/dGCo6WQBdNf3cMKCRW7FdNIiPW7LWW61SWOLrWPzwq2JdQmo+vmkMWRlcVMVcJSkEW7ddO1WkW6edW6GAWPOyvdLlW45JWOZcShxdQN7dQCo+k3hcSSkHBIldT2ddThfdW7NdHufmeSkyW67dVGddUhX/WQtcR8krsYJcJSoZW6BcJCkyzJb8W7ldHK90WP0JxCoUErjOsGNcN8kTWRFdQa9zu8o2W4bLwmkhhSotW73cLbxdHCktFCoIW4DdCCk/W4BcTCkpW4SfW4lcMCkrWPDYyGFcNsuBWRpcISk3r13dM8kAhHRdKe9fr8o7WOldQ8owgmk3W4NcIeZdTfhcOSkbySo7WRuuW4eJW5JdLu1sW75cW5FcUmkiWOiwwYxcI1ZcPw/cHM5+W6/cP15SW69TW4P0W6j9WQddS8ompLLEWRhdMaCG','xZCuWO4','r8klWP3cS1zc','WQaRWO8S','aXldLmkFrcH8amkNsCo9DW0XWQCLW6q','cSkvWRpdLmsc4BQwW68Y','WRRcSSojWQCnsv7cNmooWQhcMdzDW75FxKnaWOvSkY9CWRrQW73cK8koE1BcVSkt4BI9gaRcTW','WP1vwXZcQmoRx8kbavZcOSkHwW','leqhotJdHSk9W4TUgmkIj8keBZS','rwZdOH1mWR0QW7pdNmk/fq','W602jSkUWRhdGCkRWRyLW70pW58UdCoZW5OIW4HOW7JdMMamn8kkW7zKq3ddQWxdPd5KWP51DLpcPuDlE1a9W5NcQxbyWQnEW6qSCs3dOsWwWQvpWORcLu7cMSoMW7ZcQdNdLKhdJmo5W7C','WQaIWPGLWP/dTa','WR5Ro8kTW6BcPCoQW7PeWRbaWOPGwq','zCoDW45cW4nvWPO','WRFdUCkwrMO','WRxcUmo+WPTRWPOc','WQaXWOmV','aLWjxSoFWP/cSCofhKdcKCkiWQBcQa','WRldTCkBqxTlAJNcRvjR','XBxcU8kyWQxHUPuufG','W54fghNcIG','yCkI4BIzWPyzEYRdHX9j','WQpdT8kwvW','bCo1W67dN8oXoq','W4hdTWTT','W5SWw2LvWQC4omohB8o/pG','W5eqwW','c8o0W4ddICo1i8kNW6G','W4TwWOVcNZVdKq','WR9ZztO','AMxdK8ktbHJdUG','W5pdOmkmW6zzdbRdVCkA','WO3cM8kEW5pdMeC','cv/HUyaKX6eEWRzDwUg6QGS','W5ZdU8khW6j6abRdImkg','W7ldP8oFyxrZWPm','W6DIWQPX','jZRcKCkbFda','WPtcIbRdQHynDa','jrddRa','cCkoWPRcOrLCfSo3WRLItM/dOmkEDCkoWPpcJs50qmo3W4TuWQldKWHpWRxdOCoHnCoNWPFcTuddU8oBFNxdHJtcPmohWQf7a8kEh1uPjmklw8osagLaWRTsdmknvdldUCkYkCoBW7JdR3WQWPxcHCklW5NcPWmQEqZdKCkuWPbXm8kcWR/cN8oqB8oTsG','g2y7tJddTfTRW5FcPgDufmkvxmkRlHVcPSobWQvtWRBdGSkwD8osWPKlW7GZWPKSkCo+W6/dRmoatmk+W68IlWytv8oaoKG5a13cJ8kDi1/dLSkYvtG1uKNdOw7dKLldGMBcHM43W7O','W5WRrG','FbnLeCkCW57dVCkaBqJdJmknWQNcRrRdK8ohW6r1EgldTW','W51IxCoib1tdSmkFW4BdSmoMW5S','W5GpWPJdIW','g1hdRtOFcKa','4PUf77M0WPJcS8oaoxe9WRVHUOxdPYiMW6/cSG','kCk7kmoT','qeldV2hcGSkPW7ngrG','W71eWOJdUq','W6JdSmEsyNymnEg5MCkG','W75EWOJdOaOEW4PXxmky','WQxcUmoTWR5TWOC','W6BdVSkSENiAW48AW71zEmoDzHSNWRtcJHxdGI4vkJtdKs5UWR3cOmkbW5pdKmoQwmoEFSoqjSo7W7eUhJBcQmkTvSoZW4yIW6vkWR4Symk1WRBcTdD9WO4oWOuMxeRcPJFcUCoxu0flW7rBm2eikepcVX1pfSo9','WR7dNSoVAHVdIa','XPNHUPNcISk0iCk5W5r3','BmoIDmoNz1Xa','W57dP8keW6vigW0','W6hdT8oox2rtWOlcLGLdW6e7Cq','WRC38yMeRrxcM8ohyr3dH8kfxZD9eSk1D3JHURDmFG1EWO0','W71zWQ3dUXGOW4HtxSkozG','W59YtW','z0TZWO7cLrpcJqRdGeiJWRHfzbhcTwDM','yX8tW7HnW6JdQq','g2tcTW','W6tdRCoFthfcWOlcJG','oupcO8k8W4OIEM/cUW','WQC3WPGRWPtdP8kEASkv','qeldOxhcHmk1W79nrGGxW6i','WQRdVCkkrW','WQbSn8k4W7BcMmoUW7PGWR5BWPb8','jslcIG','qLVdSd5wheDqefxdOCkHWOvYW4HvpHtdHSo4wrhcJWZdUIfXWQNcNCo6CCk2WORcH8okW6HoWPNdICokWQBcMc0kuePFWQWaW6mOWP0AldqzWONdHYHJ','w8owheS','AwmHWQZcISk9WOtdKfthVwXV4OkxWPzvtmoMdCkgD8kCbCkFW5OBzCoeW5aDW7ddRmkKzb/dNG','dmoOW7pdH8oGjSk4W7FcMa','WQxcVmo+WR5TWQG','W7OWWP8VWPFdOCkfDCobnZfreq','C8onW5fh','WR3cVSky','j3TLW7e','EmokW5DjW4TyWP7dNbZdUSkyfmk4eW','W7j6eSoZumoDvh9iWQyDW6KJwmoRsbRdG8o1WQy','zWKuW6LeW7xdSa4vzxhdGIOF','WPZcSSooW7DFab3dMCojWQ3cMgivWRCmubuhWOD7pxzfW7zgWRpdKCoDk03cVSoLW4Xwemk3pM5jc8oxpMxdJSkekclcQCofW6ldLSoEW6vTp8oxD2OvWRita8kUgxFcTrRdSSkeWRtcKmoKWParBv0MeCkeW4RcJIZdR8kxW641CG/dLaylW5BcRmovbCo1x8kCWQxdIY/dKGBcMJzIuq81WR7cIHaExg9RWQlcINZdKCk/dmkJw8kVW6tcKfiMfCoTrCknW4jhW4RdVmomWR1TW4ldN8kKW7SmcmoVW7tdOaLDaqdcHZ/dVGpcMcNdQ3NcPSoyW6qbnLOZtJJcMCohvKhdLaeaD2pdTKr1a8k8WQH0g8kbb8oPbmo4W6tcSmoYfrjDWRe','rghcU8k3CMC','W4BgQ8ofrt1mWOJcLaS','DHJcTCkGW5S','WQr3nSkVW6NcOSoLW7nH','t0pdO0hcKCkEW74','mIJcUZy1D8oComkiWOVcRCoaFSktxfZcMvBdTq','imkMy8oAW7COWR0','WRCRWO8T','W6n4WRHQqCoW','EUg7L8k8W7nTyJVcImoFCSk8oGXWx+g4GcNcRYdcNgddIfy','W7P2WQ16xCk1W4S','pCkiW5NdIW','EI7dUWG','EK3dUctcNmks4BI3vXieX5xHUBJcGeLuvUg7MCoiW6azW4rC4BUxDWNHUAhcOZxHU5pcSSkWWRXy4BQNyaaMwog4HmkxpSo0W4lHUQryW6dcUrL1WOvwWPbKxuBHU6vxxdNcMmku4BQftmog4BIEWR3dKSktq8oYcCoBu8oa4BI8aCkobLqlWQhcOW/cVCoWW7lHU5lcVSkg','mvOKeCoWWP/cTa','wLNdSMFcLCkoW6u','FabylW7cJmoQ','e8khWPJcImkokCkVW4u','DCoDW4PIW4TfWOS','BJxcNCovbY0','W48EW7dcKqqDW4ZcJrZcReS8W6G5WPVcVSkjdG','AZ7cG8ohbW0GE1/cNSk1sW','WRJdKmonyrFdHmoGCIVcStVdIM/dRW','tsyMra','whxcUa','W6riDCkDpwxcKa','W547rxTvWOC','qCkpWOVcO3Padmo6WRbPbW','DJ/cOmogasWNBW','rvBcMa','yt/cN8oDaq','k0Kyla','4OcuvqFfPmkPWQPVW4JcImogW7BdPG','h8k9BmojWR4gWR0','f8kgWP/cHCkxymkOW4pcQuRcHx1D','WOVcImkzW5O','WRJcUSkCEvG9W6i','WQtcRCoMWR52','W5euqHe','jvSSv8oiW57dTSkacq','W6vtWO/dSXSL','vxlcSmkYAw/cNmkkWPPRndCq','W4tcMX/dRXuyyq','DSwA4BIqWRqzw+g6T8oGWRiNg+g6RSo0','id7cKSky','idRcGCoos07cQa0','W4yXwW','txldOG1wWOihW7RdMmk2teRcGSkVWR8QW7tdUsddICkaxdfuW5tdGNddQq/cKhXkcmofBa','bHFdKCkisG','w0NdVgVcHSkyW5DkrHumW7NcLGCr','bGNdNCkkvt8EeCk5tCoQDI1OWRW2W6y','W7rUW4O','WRSXWOmLWPpdRSkwymkTot9wg8ou','FYxHUQNcHCoFWRBcJCkgWPZcHa','FYv2W6u9WOnlWRS','hmkCWPxcH8kpjmkLW5G','DSovW5fBW4Xc','W6byWOxdSrC','WP03W7K5fCoWWO/cTvpcGmkfc2xcP1ZdSNC3aGvMW41cW7m5W7pdT8kjW47cUw1MomouWOdcNuL+FI5RWP7dICkviI/cNatcP8kDWPZcQmo1W5BcT8kAWQBdH15UWReVW7JcQarBWRNdKmoKw8kCv8ouEaldPZCGW7tcOSkGW5RcTdTgvsvmWQpcU8ovWOBcKmoTW4G8CCkAWQtdGX/cJmkbgM5yDmoTf8o4W5JdG1TsCHxdVSk+W79EW4ldK8kvWQJcR8k+l0ZdG8kgDeiVW7ZdQgvpmmk7WQr/uSkXzmoHCZKvWOehWOFcUcJcH8oqn1fMAmk6dwBdNxr9qmoIiYldQmo3WO8XrbymWRZdOYZdGqjpeaTNrCoewc/dP8oXrMi','W7LNfSoP','W4SAAr0WW6bt','wKtdUglcHa','WONIG5ZcOmokfqVdN8oZrCo8dJhcU3ZdL8o7W4PAmGRdMmoLWP3cSqNdHCopWPJcPmo8jtvYW7PlW4GvvSoXBN1vCfddRfldLmonWO7dR0filX3dL8oGWPhdIg3cMJ3cV8k2W7i5WQm/CCosbSogW5hcNMldGInRW7HCW6q','iZNcUsa+D8kYpSkuWORcQW','W6HsWOu','WQxdSCkjq2mhEG','E8oDW5bjW5zE','txldSrrxWR0mW6G','W6r/WRb/qCkBW4RdRa','W4WbtGaHW6PzW5i','DLZdShBcHa','WQfSiCkI','eCoZW7JdHSoK','W6ZdSqmJgG40','pZRcNYPrESkIadSSW4XSWRPlW6/cV8ogc8o8yCo7WRVdQIKFWPnXW6SPs27cScpcVSoeW78','WQxdKCoIyGhdGCoPza','ySowW5PlW4rFWPhdLtK','W4JdSaDS','DamuW41eW4FdTau','fJZcPSk+FgBcTCogWOXYkdubBrpcUI/dOYVcMZtcJe55W4qQWPepWPBcUKe','W4tdVCkDW6zbkXVdIa','W6n4WRHQqCo9W4ZdUH3dLmoeqIVdOG4','W7HdWOtdPHyEW598wSkEDZ4D','WQfQWOhdQv7cJHuHs8kIh8kYFapcOLenWPpcRmk5l8kllSk1WPDeBwBcICk+WQxdVog6G8kHFSoHkW7gGx3cUSkVgmoxjL0G4BUXeCkC4BQFWRTsW5H0XjJHU7aZWOWOhHf6BZlHUkZcSSorWQjNk0u3rrRcICoLW6hcSSkyWPDytbTjWPddLmkeWPJdOmoYW63cPHCGWO16g8oyW75/W6SdW5ZcO8k8W4emaupdOLHPC8oPeCowW78zWPOMlZZdIJ8aW5XEWOWmgSkHyCoQCvL4ffBdISkcwbxcNbFdGCogmcrdW5JcQt3cJKBdV8k8DqNcHWtdHCkwWP4wWR8hWONcN8kNvJuCW5RcIYrbW5/dGCo9W6fFmEg5KmkiW6ZdOCoGa8k2EqiKqmkg4BIYpqKwnLe/kvT1W6RdL8o8gWtdGSkRW5PCW5NdMCkAzSEjWQ/dGglcMfZdLHVdMGZcSCo0W6yWWQ3cTSk8DSodtmoAWPi2AUg5VmkEsNNcGGSZW4KjW6m5WOrWi8oEkmovCwr6z8k2WRGqW59GtJXkWQOxySo7WOzxWPC','WR/dK8oOBre','yLVcQ8o6','W4SdW7ldIauaW4ZcNWZcSfP0W6K','WR7cS8o6WQj2WQeFW7b8DZKe','vmkUoCkmzSozW5mJ','E3RdUN1HwSk6a8k6WO3cGW','gmkMwmonWQCmWQf4fmoXW5e','W41CWPJcLZJdJa','f1hdTY0ej2DKma','k18KjGVdLCk+W55Cc8kXoSkdzW','kZBcJG','W6r7WRb6ua','DsD6W7OT','rxJdTJ1uWRWhW6/dUCk6aHZcLCkKWR0X','W4xcIWZdObeiDW','W41It8oPeedcUa','WP7dVSkgW6rgrbRdMCkDW6lcMhrDWQvFhqWkWOr8yN9eWQ4QW7xdISoDFaldRmkHW4euqSoYFYvtc8kvCc/dM8klo0NdPCkjW7NdLSkd','W4BcN8kHlLtcHCkSn1JdPwNcGYhcQgOoeKBcGXORWPhdI8kyCdeyACo0arpcJqjjW67dNuiykrTmv8o8WQFcS2xcQsqjWRBcUxicp8o5WOWEW73dJCowW4NdRCkbx8kSWQmfuCopACo5exhdOSkzu0i8W7GsWRBcSI1RW7r6W6m4bmobDCkRpqO','x27cU8k2B0lcJCkRWRm','pmk/jCoZibDlECoDWR7dRXOZs3a4WRyF','W6f+W7rpEW','WR7dMSo3yr/dGmodDrlcOcRdL1tdMGy','WO3cN8krW5pdMerFWRa','yH7cO8k5W45M','umksWPBcTa','iCoVXlhdI8kHjmk54BIGWPn1Xz/gH+g4PSkjD8k44BQfWOJcKog6OZJcTuFHU4m','XBxcMmkyWP9jWRa8uW','vHGYW7Ttb8kfrMm','aXFdNCkt','WRTZAshcOCo9u1ucWQZcG8oDWOtdTG','oItcJSolxu8','W48qaN7cImkumSoaWPC0Bmk2FgHpwKJdPd0','WPpdSCkCW7rzbHpcKCkdW67dNhCrW7mqcayuWODVix9jWQuJW7FcKmkrjG7dV8k3WOG','w1PMWONcHrVcJ0ddSu4XWQ8CtaJcV397rW','qCk3WRhdJmoNCSoP','bb/dNmkUvZ8/b8kFqCo6DHTYWRy2','W4LYvCoEhvNcSSky','WRNcQSkC','o8k9cmoUn1TkFCoGWR/dVb9Wqq','W6mmbCkSpGj8W4C','W4PxWPVcMZhdI8kBhxm','W7OWWOCJWOJdTmoAF8kynsrkgSoovSkqWRJdH8o/cmojWPpcSSkbWRq','WPJcN8keW7ldM09EWQZcJJ8TW5ZdQdq','BalcR8kGW4SVChi','W4xcJXldQb8g','yLddTCkBxKC','W54wwX0+W6bWW5mnW53cVa','yZ3dPGzn','f1hdQt0cj1PAcf/cRSo6','mNpdSfSVsmkTjhHPWPVcQmorpWjSW5HIW6FdTqu','8jgsIZBcTUg4ObtdG8w8CKeQW7ar','qeldSMJcHCkzW7nn','lSkoWPS','eCo3W63dG8o1','ovWhjHO','X5hHUzNdMHS9rNdHUOBdVCs24BQOmYKeEog7JSowzSkpo8oo','W55YxSopegpcUmkAW43dO8oNW4aVzeBcSq','W7pcGvjFWRS','WQRcRCkbt1qhW7GSW5C','XOFdTmo5EL3HUj3dGCk1pCoivKzL','DmouW5DnW4K','W4ldTGzMlG','kMr3WRDOWPtHU7/dTmknW5pcK8oMWP0','mNpdOrvebSkZocS5W5RdPSorFe4TWOSXW7RdT1BcTmoWW63cGdCycCogWOxcQSkzqsPulg8uWRvzfSkOWRBdPb8o','XQCnxmoOWPefmSol4BI+WOzygog5TqVdHvxfVEg7Omk7t0xHU7JdPG','W7frdmktD8kcW5uen1hcP8kyWR5dXORHUO11W5DYwdvkq8kpg8kzW5pdUMfTyCoFW4XOWQjp4BQXW7rSWQ3HU4NdKG','lmk9kSo1nvniAW','WQv2hSkLW6ZcQSoNW7nbWRXBWPPDwCkHWPnSWO8','dSkgWRFcI8kylmkMW5pcJKRcMhPaWQW','WRtcQSkfv1q8W6u','WQv0yq','W6rJWRHTxmk/W4hdPG','ENJcISkqle7cGvuXWO82W4nEgCo2EwtcUc/cQd9HoeqiW4C','WPVcM8kf','tCoEbfmvW6RcLCk4WQtdJdiqbuhcUCkEWQ5FW6u','amkfWOCnCmsd4BI7gmk1','W5VdT8kzW7m','WQNcTSksua','W6lcKf1DWQHcA8oWWQVdMq','Aa3cUmk+W5CZ','dSkmWOpcKmk4iSkKW4lcUfdcNG'];_0x4d4d=function(){return _0x53f931;};return _0x4d4d();}window[_0x225e24(0xce4,'#&$8')](_0x225e24(0xf7b,'ySL*'),()=>{const _0x1066bb=_0x225e24;clearTimeout(saveTimeout);if(typeof saveAppDataToDB===_0x1066bb(0x2ad,'%AH&'))saveAppDataToDB();}),document[_0x225e24(0x50e,'&SjD')](_0x225e24(0xa8a,'iEe2'),()=>{const _0x45f36e=_0x225e24;if(document[_0x45f36e(0x52f,'7JZb')]===_0x45f36e(0xdda,'lm&&')){clearTimeout(saveTimeout);if(typeof saveAppDataToDB===_0x45f36e(0x93c,'LyuC'))saveAppDataToDB();}});let searchTimeout=null;function onSearchInput(_0x740164){clearTimeout(searchTimeout),searchTimeout=setTimeout(()=>{const _0x3d9ef9=_0x446c;typeof filterAndRenderMatrixTable===_0x3d9ef9(0x5aa,'e6gp')&&filterAndRenderMatrixTable(_0x740164);},0xfa);}function parseAmount(_0x3c27c1){const _0x3c2042=_0x225e24;if(!_0x3c27c1)return 0x0;_0x3c27c1=String(_0x3c27c1)[_0x3c2042(0x105e,'BNmM')]()[_0x3c2042(0xa87,'#&$8')](/\s/g,'')[_0x3c2042(0x3b9,'LyuC')](/,/g,'.'),_0x3c27c1=_0x3c27c1[_0x3c2042(0x4d3,'gL1S')](/ng$/,'n');if(_0x3c27c1[_0x3c2042(0x640,'zNw(')]('/')){const _0x4e62e2=_0x3c27c1[_0x3c2042(0x350,'5Ad)')](/[kntr]/g,'')[_0x3c2042(0x104f,'&SjD')]('/');if(_0x4e62e2[_0x3c2042(0x703,'iEe2')]===0x2&&_0x4e62e2[0x0]==='0'&&/^\d+$/[_0x3c2042(0x8a0,'zNw(')](_0x4e62e2[0x1]))return Number('0.'+_0x4e62e2[0x1]);const _0x40a8d2=parseFloat(_0x4e62e2[0x0])||0x0,_0x246aed=parseFloat(_0x4e62e2[0x1])||0x1,_0x55405b=_0x40a8d2/_0x246aed;if(_0x3c27c1[_0x3c2042(0x10eb,']Sv0')]('tr')||_0x3c27c1[_0x3c2042(0x1206,'i%tL')]('m'))return _0x55405b*0x3e8;return _0x55405b;}let _0x4f9b76=0x1;if(_0x3c27c1[_0x3c2042(0x74c,'E5)l')]('tr')||_0x3c27c1[_0x3c2042(0xd61,'gL1S')]('m'))_0x4f9b76=0x3e8,_0x3c27c1=_0x3c27c1[_0x3c2042(0x6b5,'lX[b')](0x0,-0x2);else(_0x3c27c1[_0x3c2042(0xbe9,'y)UI')]('k')||_0x3c27c1[_0x3c2042(0xc0e,']Sv0')]('n'))&&(_0x3c27c1=_0x3c27c1[_0x3c2042(0xd27,'e[5n')](0x0,-0x1));const _0x1b2f6e=parseFloat(_0x3c27c1);if(isNaN(_0x1b2f6e))return 0x0;const _0x1d5bbe=_0x1b2f6e*_0x4f9b76;return _0x1d5bbe>=0x3e8&&_0x4f9b76===0x1?_0x1d5bbe/0x3e8:_0x1d5bbe;}function mapBetType(_0xd4c369){const _0x418438=_0x225e24,_0x58135e=String(_0xd4c369||'')[_0x418438(0x346,')U6s')]()[_0x418438(0x1055,'lX[b')](_0x418438(0x862,'PX3c'))[_0x418438(0x3a2,'m1lh')](/[\u0300-\u036f]/g,'')[_0x418438(0x91f,'ySL*')](/đ/g,'d')[_0x418438(0x76a,'MHv!')](/\s+/g,'');if(/^(bl|blo|baolo|bao|lo)$/[_0x418438(0x2e1,'VWnK')](_0x58135e))return'bl';if(/^(da|da2)$/[_0x418438(0xacc,'lX[b')](_0x58135e))return'da';if(/^(cheo|che|xien|xuyen|dx)$/[_0x418438(0x1250,'u@TD')](_0x58135e))return'dx';if(/^(dvong|davong|lienhoan|dv|dlh)$/[_0x418438(0x9d9,'wBCK')](_0x58135e))return'dv';if(/^(xc|xiuchu)$/[_0x418438(0x221,')U6s')](_0x58135e))return'xc';if(/^(db|de|debiet|dacbiet|dacbit|gdb|dacthuong|dacthuongbiet)$/[_0x418438(0xdcb,'7JZb')](_0x58135e))return'db';if(/^(dc|dd|daucuoi|dauduoi)$/[_0x418438(0x791,'e6gp')](_0x58135e))return'dd';if(/^(dau)$/[_0x418438(0x1c5,'lm&&')](_0x58135e))return _0x418438(0x740,'Oc5r');if(/^(duoi|cuoi)$/[_0x418438(0x11d2,'2Lzj')](_0x58135e))return _0x418438(0xc23,'#&$8');if(/^(4c|5c)$/[_0x418438(0xe4e,'gL1S')](_0x58135e))return _0x58135e;if(/^(10c|10locuoi)$/[_0x418438(0x1250,'u@TD')](_0x58135e))return _0x418438(0xc84,'wBCK');if(_0x58135e===_0x418438(0xfb7,'Fj&C'))return _0x418438(0x417,'iEe2');if(/^(3d|8d|10d|12d|13d)$/[_0x418438(0xc01,'y)UI')](_0x58135e))return _0x58135e;if(/^g4lo[57]$/[_0x418438(0x3b4,'hCJL')](_0x58135e))return _0x58135e;if(_0x58135e===_0x418438(0x2fa,'e[5n'))return _0x58135e;if(/^(g6g4g3|6g4g3)$/[_0x418438(0x9dc,'#Ux*')](_0x58135e))return _0x418438(0x42f,'M*BU');if(/^(g8g7g6g5g4|13d)$/[_0x418438(0x205,'nR@W')](_0x58135e))return _0x58135e===_0x418438(0x38a,'LyuC')?_0x418438(0xec1,'f#xl'):_0x418438(0x7fd,'%AH&');if(/^(g7g6g5g4|12d)$/[_0x418438(0xaf3,'ySL*')](_0x58135e))return _0x58135e===_0x418438(0x67a,'zNw(')?_0x418438(0x402,'K7h7'):_0x418438(0x6cc,'#&$8');if(_0x58135e===_0x418438(0x702,'iEe2'))return _0x418438(0xfae,'#Ux*');if(/^(g7g6|g6g5|g5g4|g3g2|g2g1|g1db)$/[_0x418438(0xbdf,'cNV6')](_0x58135e))return _0x58135e;if(/^(g6g4|6g4)$/[_0x418438(0xea3,'K7h7')](_0x58135e))return _0x418438(0x567,'ySL*');if(/^(g4g3|4g3)$/[_0x418438(0xbec,'i%tL')](_0x58135e))return _0x418438(0x1205,'nR@W');if(_0x58135e===_0x418438(0x5e7,'2Lzj')||_0x58135e===_0x418438(0x1183,'K7h7'))return _0x418438(0x1d8,'ySL*');if(/^(3c)$/[_0x418438(0x6ff,'mn5c')](_0x58135e))return'3c';if(/^(2c)$/[_0x418438(0xa6f,'PX3c')](_0x58135e))return'2c';if(/^(c2|2cang|2cangrieng)$/[_0x418438(0xb96,'Mgu1')](_0x58135e))return'c2';if(/^(c3|3cang|3cangrieng)$/[_0x418438(0x1250,'u@TD')](_0x58135e))return'c3';const _0x4e6862=_0x58135e[_0x418438(0x1f5,'2Lzj')](/^g([1-8])$/);if(_0x4e6862)return'g'+_0x4e6862[0x1];return'bl';}function getManualTypeKey(_0x4b21c7){return _0x4b21c7==='bl'?'2c':_0x4b21c7;}const HIDDEN_BET_TYPES=['3d','8d',_0x225e24(0x6a9,'iEe2'),_0x225e24(0x107a,'7!Gb'),_0x225e24(0x9c3,'2Lzj'),_0x225e24(0x9f4,')U6s'),_0x225e24(0x6f0,'u@TD'),_0x225e24(0x535,'K7h7'),_0x225e24(0x327,'gL1S'),_0x225e24(0x6a3,'#&$8'),_0x225e24(0x26c,'I*r6'),_0x225e24(0xebf,'Mgu1')];function getManualBetTypeOptions(_0x209e5c){const _0x30310d=_0x225e24,_0x59ec8e=[[_0x30310d(0xb8c,'u@TD'),['2c','3c']],[_0x30310d(0x7ea,'f#xl'),['c2','c3']],[_0x30310d(0x576,'y)UI'),['g1','g2','g3','g4','g5','g6','g7','g8']],[_0x30310d(0x630,'cNV6'),['4c','5c',_0x30310d(0xa53,'MHv!')]],[_0x30310d(0xd2f,'WL8L'),['3d','8d',_0x30310d(0x72b,'%AH&'),_0x30310d(0x2fe,'MfL&'),_0x30310d(0x697,'y)UI'),_0x30310d(0xa7b,'lm&&'),_0x30310d(0xb5e,'E5)l'),_0x30310d(0x1258,'I*r6'),_0x30310d(0xb53,'Mgu1'),_0x30310d(0x1081,'BNmM'),_0x30310d(0x2aa,'#&$8'),_0x30310d(0x381,')UVA'),_0x30310d(0x244,']Sv0')]],[_0x30310d(0xc51,'e[5n'),['da','dx','dv',_0x30310d(0xdb9,'I*r6')]],[_0x30310d(0x1105,'y)UI'),[_0x30310d(0x112f,'K7h7'),_0x30310d(0x10b1,'#&$8'),_0x30310d(0x8b7,'K7h7'),_0x30310d(0xda9,'&SjD'),_0x30310d(0xe6f,'mn5c'),_0x30310d(0x84b,'u@TD'),_0x30310d(0x32b,'gL1S'),_0x30310d(0xa9d,'MHv!'),_0x30310d(0xc80,'WL8L'),_0x30310d(0x43e,'pj(#'),_0x30310d(0xda3,'wBCK'),_0x30310d(0x6ee,'y)UI'),_0x30310d(0x11f5,'gL1S')]],[_0x30310d(0x772,'i%tL'),[_0x30310d(0xe4b,'OTP&'),_0x30310d(0xff6,'&SjD'),'dd','xc',_0x30310d(0xbda,'kMoM'),_0x30310d(0xbcc,'&SjD'),_0x30310d(0x100b,'cNV6')]],[_0x30310d(0xff5,'7JZb'),[_0x30310d(0xa21,'5Ad)'),_0x30310d(0xf64,'f#xl'),_0x30310d(0xd91,'e6gp'),_0x30310d(0xceb,'lm&&'),_0x30310d(0x789,'PX3c')]]];return _0x59ec8e[_0x30310d(0x526,'7!Gb')](([_0x2cfe51,_0x2b3760])=>{const _0x548e33=_0x30310d,_0x3d9f9f=_0x2b3760[_0x548e33(0xb4d,'nR@W')](_0x4dcdc5=>BET_TYPES[_0x4dcdc5]&&(!HIDDEN_BET_TYPES[_0x548e33(0xd85,'y)UI')](_0x4dcdc5)||_0x4dcdc5===_0x209e5c))[_0x548e33(0xe6d,'f#xl')](_0x600118=>_0x548e33(0x73e,'fyWu')+_0x600118+'\x22\x20'+(_0x209e5c===_0x600118?_0x548e33(0xbcf,'cNV6'):'')+'>'+BET_TYPES[_0x600118][_0x548e33(0x9da,'pj(#')]+_0x548e33(0x553,'mn5c'))[_0x548e33(0xa1f,'pj(#')]('');return _0x3d9f9f?_0x548e33(0x903,'Fj&C')+_0x2cfe51+'\x22>'+_0x3d9f9f+_0x548e33(0xf89,'f#xl'):'';})[_0x30310d(0xb48,'K7h7')]('');}function extractNums(_0xb2ac7a){const _0x11eb01=_0x225e24;if(!_0xb2ac7a)return[];const _0x524a3e=String(_0xb2ac7a)[_0x11eb01(0x113c,'pj(#')](/\b\d+(?:[.,/]\d+)?\s*(?:k|n|ng|tr|m|c)\b/gi,'\x20')[_0x11eb01(0x91f,'ySL*')](/([=:]|\bx\s*)\s*\d+(?:[.,/]\d+)?\b/gi,_0x11eb01(0xe96,'2Lzj'));return _0x524a3e[_0x11eb01(0x218,'7Xia')](/\b\d{2,4}\b/g)||[];}function digitPermutations(_0x43a22c){const _0x2fa2b7=_0x225e24,_0x411fb4=String(_0x43a22c)[_0x2fa2b7(0x85e,')UVA')]('');if(_0x411fb4[_0x2fa2b7(0xcf8,'i%tL')]<0x2)return[_0x43a22c];const _0x225434=new Set();return function _0x34b0a(_0x39dcfb,_0x5435d7){const _0x230139=_0x2fa2b7;if(!_0x39dcfb[_0x230139(0xc68,'y)UI')]){_0x225434[_0x230139(0x111a,'M*BU')](_0x5435d7[_0x230139(0xa9a,'BNmM')](''));return;}for(let _0x390d5b=0x0;_0x390d5b<_0x39dcfb[_0x230139(0x259,'kMoM')];_0x390d5b++){_0x34b0a(_0x39dcfb[_0x230139(0x92b,'nR@W')](0x0,_0x390d5b)[_0x230139(0x5d7,'BNmM')](_0x39dcfb[_0x230139(0xaa9,'cNV6')](_0x390d5b+0x1)),_0x5435d7[_0x230139(0x742,']Sv0')](_0x39dcfb[_0x390d5b]));}}(_0x411fb4,[]),[..._0x225434];}function parseDottedBetLine(_0x3390af,_0x39cef5){const _0x3de17e=_0x225e24,_0x5c6722=String(_0x3390af||'')[_0x3de17e(0xe08,'E5)l')](/[Đđ]/g,'d')[_0x3de17e(0xc85,'i%tL')]()[_0x3de17e(0x98f,'#&$8')](_0x3de17e(0xc55,'i%tL'))[_0x3de17e(0xa5f,'Fj&C')](/[̀-ͯ]/g,'')[_0x3de17e(0xd72,'e[5n')](/,/g,'.'),_0x2c9643=_0x5c6722[_0x3de17e(0xa36,')U6s')](/[.\s+]+/)[_0x3de17e(0xa19,'mn5c')](_0x3c7b23=>_0x3c7b23[_0x3de17e(0x538,'zNw(')]())[_0x3de17e(0x1e6,'y)UI')](Boolean);if(_0x2c9643[_0x3de17e(0x65a,'e6gp')]<0x4)return null;const _0x209e55=/^(g[1-8]|4c|5c|10c|10locuoi|10cuoi|db|de)$/i,_0x47ad45=_0x44e973=>_0x209e55[_0x3de17e(0x221,')U6s')](_0x44e973)||_0x44e973==='d'||_0x44e973==='c',_0x29752c=_0x5e329c=>_0x5e329c===_0x3de17e(0x805,'fyWu'),_0x27ae67=_0xba5a8c=>/^\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)$/i[_0x3de17e(0x6d8,'M*BU')](_0xba5a8c),_0x32b136=_0x56efc5=>/^\d{2,4}$/[_0x3de17e(0xdae,'#&$8')](_0x56efc5),_0x5a6091=_0x2c9643[_0x3de17e(0xca4,'7!Gb')](_0x33b698=>_0x209e55[_0x3de17e(0xdcb,'7JZb')](_0x33b698)),_0x21c072=_0x2c9643[_0x3de17e(0xed4,'m1lh')](_0x470479=>_0x47ad45(_0x470479)||_0x29752c(_0x470479))[_0x3de17e(0x11a1,'OTP&')];if(!_0x5a6091||_0x21c072<0x2)return null;const _0x1b6f17=_0x59abd3=>{const _0x2e11c6=_0x3de17e;if(_0x59abd3==='d')return _0x2e11c6(0xb72,'M*BU');if(_0x59abd3==='c')return _0x2e11c6(0xecc,'MHv!');return mapBetType(_0x59abd3);},_0xe87ba8=[];let _0x7fc27d=[],_0x7e902f=[],_0x4e29f7=[],_0x2cf388=![],_0x1f4d23=0x0;return _0x2c9643[_0x3de17e(0x11a2,'zNw(')](_0x29b574=>{const _0x58d5a6=_0x3de17e;if(_0x29752c(_0x29b574)){_0x2cf388=!![];return;}if(_0x47ad45(_0x29b574)){_0x4e29f7[_0x58d5a6(0x262,'mn5c')](_0x1b6f17(_0x29b574));return;}if(_0x27ae67(_0x29b574)){const _0x189a6a=parseAmount(_0x29b574),_0x153599=_0x7fc27d[_0x58d5a6(0x809,'ySL*')]?_0x7fc27d:_0x7e902f;if(_0x189a6a>0x0&&_0x153599[_0x58d5a6(0xd47,'K7h7')]&&_0x4e29f7[_0x58d5a6(0x103f,'gL1S')]){const _0x38b34e=_0x2cf388?[...new Set(_0x153599[_0x58d5a6(0x4e5,'e[5n')](_0x267310=>digitPermutations(_0x267310)))]:_0x153599;_0x4e29f7[_0x58d5a6(0xce1,'BNmM')](_0x483f61=>{const _0x9463bc=_0x58d5a6,_0x482a15=_0x9463bc(0x1145,'K7h7')+_0x1f4d23;_0x38b34e[_0x9463bc(0x1186,'LyuC')](_0x29ae52=>{const _0x2b48b3=_0x9463bc,_0x569d6e=createItem(_0x29ae52,_0x189a6a,_0x39cef5,_0x483f61,_0x483f61[_0x2b48b3(0xc29,'Fj&C')]());_0x569d6e[_0x2b48b3(0x82f,')U6s')]=_0x482a15,_0xe87ba8[_0x2b48b3(0x1085,'e6gp')](_0x569d6e);}),_0x1f4d23++;}),_0x7e902f=_0x153599;}_0x7fc27d=[],_0x4e29f7=[],_0x2cf388=![];return;}if(_0x32b136(_0x29b574)){_0x7fc27d[_0x58d5a6(0xafb,'#&$8')](_0x29b574);return;}}),_0xe87ba8[_0x3de17e(0x10f4,'E5)l')]?_0xe87ba8:null;}function parseDottedBetLineOld(_0x4a65f7,_0x8a7d3a){const _0x24e709=_0x225e24,_0x255c54=String(_0x4a65f7||'')[_0x24e709(0xce2,'5Ess')](/[Đđ]/g,'d')[_0x24e709(0x1d1,'Mgu1')]()[_0x24e709(0x10d0,'#Ux*')](_0x24e709(0x46c,')U6s'))[_0x24e709(0xa87,'#&$8')](/[\u0300-\u036f]/g,''),_0x40d3cf=_0x255c54[_0x24e709(0x3a1,'M*BU')](/\s*\.\s*/)[_0x24e709(0xa19,'mn5c')](_0x8dbf04=>_0x8dbf04[_0x24e709(0x123e,'LyuC')]())[_0x24e709(0xb81,'Oc5r')](Boolean);if(_0x40d3cf[_0x24e709(0xd41,']Sv0')]<0x4||_0x40d3cf[_0x24e709(0x97b,'Fj&C')](_0x1d8938=>/^(?:g[1-8]|4c|5c|10c|10lo\s*cuoi|db|de)\b/[_0x24e709(0x8d6,'5Ess')](_0x1d8938))[_0x24e709(0xb03,'PX3c')]<0x2)return null;const _0x12a0bc=[];let _0x44e6e2='',_0x341be3=[],_0xab07fb=0x0,_0x29bb32=[],_0x1fe471=0x0;const _0x3cfe64=()=>{const _0x27f3a6=_0x24e709;if(!_0x44e6e2||_0xab07fb<=0x0)return;const _0x2dfd97=_0x341be3[_0x27f3a6(0x111c,'u@TD')]?_0x341be3:_0x29bb32;if(!_0x2dfd97[_0x27f3a6(0x259,'kMoM')])return;_0x2dfd97[_0x27f3a6(0xb1d,'pj(#')](_0x4fcf6b=>{const _0x5bc278=_0x27f3a6,_0x5019e0=createItem(_0x4fcf6b,_0xab07fb,_0x8a7d3a,_0x44e6e2,_0x44e6e2[_0x5bc278(0x11c2,'zNw(')]());_0x5019e0[_0x5bc278(0xec2,'K7h7')]=_0x5bc278(0xf88,')U6s')+_0x1fe471,_0x12a0bc[_0x5bc278(0xc58,'WL8L')](_0x5019e0);}),_0x29bb32=[..._0x2dfd97],_0x1fe471++;};return _0x40d3cf[_0x24e709(0x9aa,'mn5c')](_0x2cef90=>{const _0x3a6be5=_0x24e709,_0x267ef4=_0x2cef90[_0x3a6be5(0xff3,'I*r6')](/\s+/g,'');if(/^(db|de)$/[_0x3a6be5(0x585,'LyuC')](_0x267ef4)){_0x3cfe64(),_0x44e6e2='db',_0x341be3=[],_0xab07fb=0x0;return;}const _0x48ae3e=_0x2cef90[_0x3a6be5(0x4a5,'VWnK')](/^(g[1-8]|4c|5c|10c|10lo\s*cuoi|db|de)\b/i);if(_0x48ae3e){_0x3cfe64(),_0x44e6e2=/^(db|de)\b/i[_0x3a6be5(0x3cc,'I*r6')](_0x2cef90)?'db':mapBetType(_0x48ae3e[0x1]),_0x341be3=[],_0xab07fb=0x0,_0x341be3[_0x3a6be5(0xc58,'WL8L')](...extractNums(_0x2cef90[_0x3a6be5(0xba5,'E5)l')](_0x48ae3e[0x0][_0x3a6be5(0x66b,'5Ess')])));return;}const _0x25a5c9=_0x2cef90[_0x3a6be5(0x294,'e[5n')](/^(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m))$/i);if(_0x25a5c9){_0xab07fb=parseAmount(_0x25a5c9[0x1]);return;}if(_0x44e6e2&&_0xab07fb<=0x0)_0x341be3[_0x3a6be5(0x3bb,'MHv!')](...extractNums(_0x2cef90));else{if(_0x44e6e2&&_0xab07fb>0x0){const _0xfd1fca=extractNums(_0x2cef90);_0xfd1fca[_0x3a6be5(0xd26,'7!Gb')]&&(_0x3cfe64(),_0x341be3=_0xfd1fca,_0xab07fb=0x0);}}}),_0x3cfe64(),_0x12a0bc[_0x24e709(0x703,'iEe2')]?_0x12a0bc:null;}function parseCompactGroupedBetLine(_0x4c0b88,_0x34d2a1){const _0x5b32e8=_0x225e24,_0x1dc2c3=String(_0x4c0b88||'')[_0x5b32e8(0x10c1,'M*BU')]()[_0x5b32e8(0xf3a,'nR@W')](_0x5b32e8(0x862,'PX3c'))[_0x5b32e8(0x667,']Sv0')](/[\u0300-\u036f]/g,'')[_0x5b32e8(0x7d0,'y)UI')](/đ/g,'d'),_0x2cf7ad=_0x1dc2c3[_0x5b32e8(0x105c,'i%tL')](/\bok\s*[=:]\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)/i);if(!_0x2cf7ad||!/g6g3/[_0x5b32e8(0x9d9,'wBCK')](_0x1dc2c3))return null;const _0xbb2058=_0x1dc2c3[_0x5b32e8(0xa99,'VWnK')](0x0,_0x2cf7ad[_0x5b32e8(0xc89,'7JZb')])[_0x5b32e8(0x76a,'MHv!')](/\s+/g,''),_0x204bcf=_0xbb2058[_0x5b32e8(0xb0b,'PX3c')](/^(\d{2,4})\.(\d{2,4})g6g3\.(\d{2,4})db(\d+(?:[.,]\d+)?(?:k|n|m)?)$/i);if(!_0x204bcf)return null;const _0x18f918=parseAmount(_0x2cf7ad[0x1]),_0x4177f7=parseAmount(_0x204bcf[0x4]),_0x1c0d6e=_0x18f918-_0x4177f7;if(_0x18f918<=0x0||_0x4177f7<=0x0||_0x1c0d6e<=0x0)return null;const _0x14c159=[_0x204bcf[0x1],_0x204bcf[0x2]],_0x570b02=getPrizeCount(_0x5b32e8(0x9e0,'Fj&C'),_0x34d2a1),_0x2680a5=_0x1c0d6e/(_0x14c159[_0x5b32e8(0xc98,'zNw(')]*_0x570b02),_0x43c1fd=_0x14c159[_0x5b32e8(0x1138,'e[5n')](_0x4be845=>createItem(_0x4be845,_0x2680a5,_0x34d2a1,_0x5b32e8(0x9bf,'i%tL'),_0x5b32e8(0x213,'LyuC'))),_0x1191e3=createItem(_0x204bcf[0x3],_0x4177f7,_0x34d2a1,'db','DB'),_0x3e684f=_0x5b32e8(0x557,']Sv0')+Date[_0x5b32e8(0x802,'e[5n')]()+'-'+Math[_0x5b32e8(0x1039,'MHv!')]()[_0x5b32e8(0xb80,'M1DA')](0x24)[_0x5b32e8(0x7a7,'i%tL')](0x2,0x6);return _0x43c1fd[_0x5b32e8(0xaef,'%AH&')](_0x435351=>{const _0x2644d9=_0x5b32e8;_0x435351[_0x2644d9(0xe61,'#Ux*')]=_0x3e684f;}),_0x1191e3[_0x5b32e8(0x87a,'7Xia')]=_0x5b32e8(0xf35,'lm&&')+Date[_0x5b32e8(0x900,'5Ess')]()+'-'+Math[_0x5b32e8(0xdd8,'M1DA')]()[_0x5b32e8(0x52a,'7Xia')](0x24)[_0x5b32e8(0xa99,'VWnK')](0x2,0x6),[..._0x43c1fd,_0x1191e3];}function detectRegionFromText(_0x49c759,_0x5cfb5e){const _0x54b729=_0x225e24,_0x2d6ef0=String(_0x49c759)[_0x54b729(0x105e,'BNmM')]()[_0x54b729(0x231,'MfL&')](_0x54b729(0xe8a,'iEe2'))[_0x54b729(0x87d,'WL8L')](/[\u0300-\u036f]/g,'');if(/\b(mb|mien bac|bac|bao bac)\b/[_0x54b729(0xb96,'Mgu1')](_0x2d6ef0))return'MB';if(/\b(mn|mien nam|nam)\b/[_0x54b729(0xb96,'Mgu1')](_0x2d6ef0))return'MN';if(/\b(mt|mien trung|trung)\b/[_0x54b729(0x7a3,'pj(#')](_0x2d6ef0))return'MT';return _0x5cfb5e||'MT';}const ALL_DICT={...typeof PAIR_SETS_NORM!==_0x225e24(0xe87,'zNw(')?PAIR_SETS_NORM:{},...typeof ZODIAC_MAP!==_0x225e24(0x119f,'iEe2')?ZODIAC_MAP:{}},DICT_KEYS=Object[_0x225e24(0x848,'zNw(')](ALL_DICT),DICT_REGEX=DICT_KEYS[_0x225e24(0xfe5,'5Ad)')]>0x0?new RegExp(_0x225e24(0x104e,')UVA')+DICT_KEYS[_0x225e24(0x1228,'7JZb')]('|')+_0x225e24(0x11e2,'%AH&'),'gi'):null;function parseSmartLottoText(_0x5ec66f,_0x343284){const _0x53a533=_0x225e24,_0x599410=[];if(!_0x5ec66f)return _0x599410;const _0x5c41d9=/\b(bao\s*bac|bao\s*lo|baolo|blo|bl|lo|da|dx|dvong|davong|lienhoan|dv|cheo|xien|xuyen|xc|xiuchu|dac\s*biet|dacbiet|dac\s*bit|db|de|debiet|dc|dd|daucuoi|dauduoi|c2|c3|g8g7g6g5g4|g7g6g5g4|g3g2g1db|g7g6|g6g5|g5g4|g3g2|g2g1|g1db|g6g4g3|g6g4|g4g3|g6g3|g4lo5|g4lo7|g6lo1|10lo|10c|5c|4c|3c|2c|3d|8d|10d|12d|13d|g[1-8]|dau|duoi)\b/gi,_0x5e979c=/(?:[=:]|\bx\s*)(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)(?=\s|$|[.+])|\b(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m))\b|\b(\d+(?:[.,/]\d+)?)(?=\s*(?:[.+]|$))/gi,_0x266ddf=(_0x5b1cd1,_0x864552,_0x32b5c0,_0x1b5865='',_0x3ebe8c='')=>{const _0x31a944=_0x446c;if(!_0x864552||!_0x5b1cd1[_0x31a944(0x361,'%AH&')])return;if(_0x32b5c0==='dv'){const _0x1da8af=[...new Set(_0x5b1cd1)];if(_0x1da8af[_0x31a944(0x28f,'lX[b')]<0x3)return;const _0x2e8b97=_0x1da8af[_0x31a944(0xee8,'BNmM')]((_0x32c97a,_0x1de103)=>_0x1da8af[_0x31a944(0x6a7,'#Ux*')](_0x1de103+0x1)[_0x31a944(0x97a,'lm&&')](_0x490101=>[_0x32c97a,_0x490101]));_0x2e8b97[_0x31a944(0x3b0,'u@TD')](_0x3fc740=>{const _0x50f1ee=_0x31a944,_0x4d210e=createItem(_0x3fc740[_0x50f1ee(0x1f8,'Mgu1')]('-'),_0x864552,_0x343284,_0x32b5c0,_0x1b5865);_0x4d210e[_0x50f1ee(0x673,'pj(#')]=_0x3ebe8c,_0x4d210e[_0x50f1ee(0x684,'LyuC')]=_0x3fc740,_0x599410[_0x50f1ee(0xaaf,'hCJL')](_0x4d210e);});return;}if(['da','dx',_0x31a944(0xd60,'E5)l'),_0x31a944(0x406,'5Ess')][_0x31a944(0x1107,'&SjD')](_0x32b5c0)){const _0xcf5aac=[...new Set(_0x5b1cd1)];if(_0xcf5aac[_0x31a944(0xe18,'lm&&')]<0x2)return;const _0x5af1f7=['dx',_0x31a944(0x4ee,'lX[b'),_0x31a944(0xdf7,'f#xl')][_0x31a944(0xa3a,'lX[b')](_0x32b5c0)?'dx':'da',_0x4c5af1=_0x5af1f7==='da'?_0xcf5aac[_0x31a944(0x21c,'WL8L')](0x0,0x2):_0xcf5aac,_0x478ef7=createItem(_0x4c5af1[_0x31a944(0x934,'zNw(')]('-'),_0x864552,_0x343284,_0x5af1f7,_0x1b5865);_0x478ef7[_0x31a944(0xd42,'cNV6')]=_0x3ebe8c,_0x478ef7[_0x31a944(0x1029,')U6s')]=_0x4c5af1,_0x599410[_0x31a944(0x6a6,'#Ux*')](_0x478ef7);return;}_0x5b1cd1[_0x31a944(0x1073,'Mgu1')](_0x1cfee9=>{const _0x2c77ae=_0x31a944,_0x370744=createItem(_0x1cfee9,_0x864552,_0x343284,_0x32b5c0,_0x1b5865);_0x370744[_0x2c77ae(0xf69,'VWnK')]=_0x3ebe8c,_0x599410[_0x2c77ae(0x875,'2Lzj')](_0x370744);});},_0x309332=_0x3545d4=>String(_0x3545d4||'')[_0x53a533(0xbb1,'LyuC')](/\d{2,3}/g)||[],_0x24b354=_0xbe0fce=>{const _0x42df18=_0x53a533;return String(_0xbe0fce)[_0x42df18(0x431,'i%tL')](/\bdac\s*biet\b/gi,'db')[_0x42df18(0xbd8,'OTP&')](/\bdac\s*bit\b/gi,'db')[_0x42df18(0xbd8,'OTP&')](/\bdebiet\b/gi,'db')[_0x42df18(0xa87,'#&$8')](/\bdacbiet\b/gi,'db')[_0x42df18(0x1069,'lX[b')](/\bxiuchu\b/gi,'xc')[_0x42df18(0xc97,'PX3c')](/\bdaucuoi\b/gi,'dd')[_0x42df18(0x350,'5Ad)')](/\bdauduoi\b/gi,'dd')[_0x42df18(0xa5f,'Fj&C')](/\bbaolo\b/gi,'bl')[_0x42df18(0xc64,'K7h7')](/\bbao\s*lo\b/gi,'bl')[_0x42df18(0x8d0,'zNw(')](/\blienhoan\b/gi,'dv')[_0x42df18(0xa5f,'Fj&C')](/\bdavong\b/gi,'dv')[_0x42df18(0xf73,'wBCK')](/\bdvong\b/gi,'dv');},_0x29661a=(_0x3b5ac9,_0x78b6e6)=>{const _0x34c575=_0x53a533;let _0x3c3227=![],_0x8f9cc4=0x0;const _0x33e89e=/(?:^|\s)([\d]{2,3}(?:[,.+\-]\s*\d{2,3})*)\s*(?:lo|blo|bl)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)\s*\+\s*(?:db|de)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)/gi;let _0x5c7721;while((_0x5c7721=_0x33e89e[_0x34c575(0x521,'e[5n')](_0x3b5ac9))!==null){const _0x8bec9e=_0x309332(_0x5c7721[0x1]);if(!_0x8bec9e[_0x34c575(0x703,'iEe2')])continue;const _0x43d885=_0x34c575(0x889,'u@TD')+_0x78b6e6+'-'+_0x8f9cc4++,_0x2b4d34=_0x8bec9e[_0x34c575(0x3bf,'5Ess')](_0x4879f5=>_0x4879f5[_0x34c575(0xe18,'lm&&')]===0x3)?'3c':'2c';_0x266ddf(_0x8bec9e,parseAmount(_0x5c7721[0x2]),_0x2b4d34,'LO',_0x43d885+_0x34c575(0xdc7,'&SjD')),_0x266ddf(_0x8bec9e,parseAmount(_0x5c7721[0x3]),'db','DB',_0x43d885+_0x34c575(0x10c5,'2Lzj')),_0x3c3227=!![];}const _0x6dc945=/(?:^|\s)([\d]{2,3}(?:[,.+\-]\s*\d{2,3})*)\s*(?:db|de)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)/gi;while((_0x5c7721=_0x6dc945[_0x34c575(0x3d7,'lX[b')](_0x3b5ac9))!==null){const _0x204d5a=_0x309332(_0x5c7721[0x1]);if(!_0x204d5a[_0x34c575(0x724,'I*r6')])continue;const _0x37cc00=_0x34c575(0x889,'u@TD')+_0x78b6e6+'-'+_0x8f9cc4++;_0x266ddf(_0x204d5a,parseAmount(_0x5c7721[0x2]),'db','DB',_0x37cc00+_0x34c575(0x10c5,'2Lzj')),_0x3c3227=!![];}return _0x3c3227;};return String(_0x5ec66f)[_0x53a533(0xe12,'7Xia')](/\r/g,'')[_0x53a533(0x76f,'%AH&')](/[\n;]+/)[_0x53a533(0xaeb,'iEe2')]((_0x2b9bc0,_0x325fbd)=>{const _0x514c39=_0x53a533;let _0x4500fa=_0x2b9bc0[_0x514c39(0x10c1,'M*BU')]()[_0x514c39(0x1091,'u@TD')](/^\[.*?\]\s*\w+:\s*/i,'\x20')[_0x514c39(0x2cc,'kMoM')]();if(!_0x4500fa)return;_0x4500fa=_0x4500fa[_0x514c39(0xd82,'7JZb')](_0x514c39(0xc19,'gL1S'))[_0x514c39(0x87d,'WL8L')](/[\u0300-\u036f]/g,'')[_0x514c39(0xa87,'#&$8')](/đ/g,'d'),_0x4500fa=_0x24b354(_0x4500fa),_0x4500fa=_0x4500fa[_0x514c39(0xcef,'mn5c')](/d\s*b\b/gi,'db'),_0x4500fa=_0x4500fa[_0x514c39(0x87d,'WL8L')](/\b(db|de|lo|blo|bl)\s*(?=\d)/gi,_0x514c39(0xe62,'E5)l'));if(_0x29661a(_0x4500fa,_0x325fbd))return;const _0x46f8f2=parseCompactGroupedBetLine(_0x4500fa,_0x343284);if(_0x46f8f2){_0x599410[_0x514c39(0x124f,'M1DA')](..._0x46f8f2);return;}const _0x300b93=parseDottedBetLine(_0x4500fa,_0x343284);if(_0x300b93){_0x599410[_0x514c39(0x11f7,'7JZb')](..._0x300b93);return;}_0x4500fa=_0x4500fa[_0x514c39(0x87d,'WL8L')](/(\d{2,4})(da|cheo|xien|xuyen)(\d{2,4})/gi,_0x514c39(0x935,'VWnK'))[_0x514c39(0x91f,'ySL*')](/(\d{2,4})(db|de)(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)/gi,_0x514c39(0xeec,'#&$8'))[_0x514c39(0xedc,'VWnK')](/g(?!6g3\b)([1-8])g([1-8])/gi,_0x514c39(0x52e,'VWnK'));const _0x2749fa=/\b(\d{1,3})\s*(?:den|toi|\.\.|…)\s*(\d{1,3})\b/gi;_0x4500fa=_0x4500fa[_0x514c39(0xe68,'&SjD')](_0x2749fa,(_0x14b6df,_0x511a00,_0x334693,_0x51d8d1,_0x290bc8)=>{const _0x4aaf4a=_0x514c39,_0x336ad7=Number(_0x511a00),_0x3030db=Number(_0x334693),_0x59d6fd=_0x290bc8[_0x4aaf4a(0xbd1,']Sv0')](_0x51d8d1+_0x14b6df[_0x4aaf4a(0xa5b,'Oc5r')],_0x51d8d1+_0x14b6df[_0x4aaf4a(0x633,'mn5c')]+0x23),_0x386a8a=_0x59d6fd[_0x4aaf4a(0xe01,'fyWu')](/(?:[=:]|\bx\s*)\s*(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)|\b(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m))\b/i),_0x435300=parseAmount(_0x386a8a?.[0x1]||_0x386a8a?.[0x2]||_0x386a8a?.[0x3]),_0x582ad0=_0x59d6fd[_0x4aaf4a(0xcd9,'nR@W')](/\b(c2|c3|g8g7g6g5g4|g7g6g5g4|g3g2g1db|g7g6|g6g5|g5g4|g3g2|g2g1|g1db|g6g4g3|g6g4|g4g3|g6g3|g4lo5|g4lo7|g6lo1|g[1-8]|db|de|dc|dd|10lo|10c|5c|4c|3c|2c|3d|8d|10d|12d|13d)\b/i);if(_0x435300>0x0&&_0x3030db>=_0x336ad7&&_0x3030db-_0x336ad7<=0x63){const _0x23a6a3=Math[_0x4aaf4a(0x5ba,'hCJL')](0x2,_0x511a00[_0x4aaf4a(0xc94,'Mgu1')],_0x334693[_0x4aaf4a(0xe1b,'f#xl')]);_0x266ddf(Array[_0x4aaf4a(0xa77,'PX3c')]({'length':_0x3030db-_0x336ad7+0x1},(_0x3413d3,_0x277b35)=>String(_0x336ad7+_0x277b35)[_0x4aaf4a(0x763,'I*r6')](_0x23a6a3,'0')),_0x435300,mapBetType(_0x582ad0?.[0x1]||'bl'),_0x4aaf4a(0xc76,']Sv0'));}return'\x20';});const _0x2eb2cd=[..._0x4500fa[_0x514c39(0xc8c,'5Ess')](_0x5c41d9)];if(!_0x2eb2cd[_0x514c39(0xb8d,'MfL&')]){const _0x2d9fe3=[..._0x4500fa[_0x514c39(0x893,'u@TD')](_0x5e979c)][_0x514c39(0xfcb,']Sv0')](),_0x5acd1e=parseAmount(_0x2d9fe3?.[0x1]||_0x2d9fe3?.[0x2]||_0x2d9fe3?.[0x3]),_0x3ead7b=extractNums(_0x4500fa);_0x5acd1e>0x0&&_0x3ead7b[_0x514c39(0xdd2,'hCJL')]&&_0x3ead7b[_0x514c39(0xb39,'5Ad)')](_0xf2cae0=>{const _0x2f2ff5=_0x514c39,_0x1a31b0=_0xf2cae0[_0x2f2ff5(0x28f,'lX[b')];_0x266ddf([_0xf2cae0],_0x5acd1e,_0x1a31b0>=0x4?'4c':_0x1a31b0===0x3?'3c':'bl',_0x2f2ff5(0xf9d,'ySL*'));});return;}const _0x54e0dc=[];let _0x2e9371=[];for(let _0x3e9827=0x0;_0x3e9827<_0x2eb2cd[_0x514c39(0x259,'kMoM')];_0x3e9827++){const _0x2a3a36=_0x2eb2cd[_0x3e9827],_0x2a3d32=_0x3e9827+0x1<_0x2eb2cd[_0x514c39(0x66b,'5Ess')]?_0x2eb2cd[_0x3e9827+0x1][_0x514c39(0x116b,'LyuC')]:_0x4500fa[_0x514c39(0xe1b,'f#xl')],_0x19b16d=_0x3e9827?_0x2eb2cd[_0x3e9827-0x1][_0x514c39(0xea2,'lX[b')]+_0x2eb2cd[_0x3e9827-0x1][0x0][_0x514c39(0x2c4,'VWnK')]:0x0,_0x1c3dd0=_0x4500fa[_0x514c39(0xd59,'kMoM')](_0x19b16d,_0x2a3a36[_0x514c39(0xd2c,'e6gp')]),_0x1e98dc=_0x4500fa[_0x514c39(0x21c,'WL8L')](_0x2a3a36[_0x514c39(0x94b,'iEe2')]+_0x2a3a36[0x0][_0x514c39(0xaf1,'cNV6')],_0x2a3d32),_0x360aea=mapBetType(_0x2a3a36[0x0]),_0x34b7e5=extractNums(_0x1e98dc[_0x514c39(0x7c9,'7!Gb')](/[=:]/)[0x0]),_0x3d48a4=[..._0x1c3dd0[_0x514c39(0x4a9,'BNmM')](/(?:[=:]\s*)?\d+(?:[.,/]\d+)?(?:k|n|tr|m|ng)\b/gi)][_0x514c39(0x3d5,'e6gp')](),_0x597c43=_0x3d48a4?_0x1c3dd0[_0x514c39(0x6a7,'#Ux*')](_0x3d48a4[_0x514c39(0xbcd,'M1DA')]+_0x3d48a4[0x0][_0x514c39(0xd41,']Sv0')]):_0x1c3dd0,_0x2061dc=extractNums(_0x597c43),_0xea153b=[..._0x1e98dc[_0x514c39(0xba6,']Sv0')](/\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)\b/gi)],_0x13f558=['da','dx','dv',_0x514c39(0x1e1,'zNw('),_0x514c39(0x358,'i%tL')][_0x514c39(0xccf,'kMoM')](_0x360aea);if(_0x34b7e5[_0x514c39(0xb03,'PX3c')]&&_0xea153b[_0x514c39(0xb3e,'fyWu')]){let _0x4fb23c=0x0;_0xea153b[_0x514c39(0x61c,'fyWu')]((_0xadbf66,_0x58fb34)=>{const _0x58be5f=_0x514c39;let _0x16f62=extractNums(_0x1e98dc[_0x58be5f(0x87e,'&SjD')](_0x4fb23c,_0xadbf66[_0x58be5f(0x65b,'I*r6')]));_0x13f558&&_0x58fb34===0x0&&_0x2061dc[_0x58be5f(0x318,'wBCK')]&&(_0x16f62=[..._0x2061dc,..._0x16f62]);const _0x5eaa5b=parseAmount(_0xadbf66[0x0]);_0x16f62[_0x58be5f(0x65a,'e6gp')]&&_0x5eaa5b>0x0&&(_0x54e0dc[_0x58be5f(0x1121,'5Ad)')]({'type':_0x360aea,'numbers':[...new Set(_0x16f62)],'amount':_0x5eaa5b}),_0x2e9371=[...new Set(_0x16f62)]),_0x4fb23c=_0xadbf66[_0x58be5f(0x6fb,'m1lh')]+_0xadbf66[0x0][_0x58be5f(0x10f4,'E5)l')];});}else{const _0x1ff329=/^(4c|5c|10c|db)$/[_0x514c39(0x2e1,'VWnK')](_0x360aea)||_0x13f558,_0x4add37=_0x34b7e5[_0x514c39(0x111c,'u@TD')]===0x1&&!_0x2061dc[_0x514c39(0x633,'mn5c')];let _0x32c106;if(_0x1ff329&&_0x2e9371[_0x514c39(0x65a,'e6gp')]&&_0x4add37)_0x32c106=_0x2e9371;else{if(_0x34b7e5[_0x514c39(0xe1b,'f#xl')])_0x32c106=_0x13f558&&_0x2061dc[_0x514c39(0x10f4,'E5)l')]?[..._0x2061dc,..._0x34b7e5]:_0x34b7e5;else{if(_0x2061dc[_0x514c39(0xd26,'7!Gb')])_0x32c106=_0x2061dc;else _0x1ff329?_0x32c106=_0x2e9371:_0x32c106=[];}}const _0x5680ec=[..._0x1e98dc[_0x514c39(0xac2,'MfL&')](_0x5e979c)],_0x227537=_0x5680ec[_0x514c39(0xf1c,'Oc5r')](_0x516418=>_0x516418[0x1]||_0x516418[0x2])||_0x5680ec['at'](-0x1),_0x292979=parseAmount(_0x227537?.[0x1]||_0x227537?.[0x2]||_0x227537?.[0x3]);_0x32c106[_0x514c39(0x361,'%AH&')]&&_0x292979>0x0&&(_0x54e0dc[_0x514c39(0x10a8,'7Xia')]({'type':_0x360aea,'numbers':[...new Set(_0x32c106)],'amount':_0x292979}),_0x2e9371=[...new Set(_0x32c106)]);}}if(_0x54e0dc[_0x514c39(0xb3e,'fyWu')]){_0x54e0dc[_0x514c39(0xd14,'#Ux*')]((_0x11fb52,_0x4d0140)=>_0x266ddf(_0x11fb52[_0x514c39(0x6e8,'Mgu1')],_0x11fb52[_0x514c39(0x10a9,'e[5n')],_0x11fb52[_0x514c39(0xdd3,'7Xia')],_0x11fb52[_0x514c39(0xa38,'mn5c')][_0x514c39(0x11e5,'i%tL')](),_0x514c39(0x8ee,'u@TD')+_0x4d0140));return;}let _0x4a419b=[];_0x2eb2cd[_0x514c39(0x11cb,'nR@W')]((_0x4ba7d1,_0x8acf22)=>{const _0x3c6e14=_0x514c39,_0x2c59e6=_0x8acf22?_0x2eb2cd[_0x8acf22-0x1][_0x3c6e14(0x94b,'iEe2')]+_0x2eb2cd[_0x8acf22-0x1][0x0][_0x3c6e14(0x62b,'nR@W')]:0x0,_0x101d90=_0x4500fa[_0x3c6e14(0xd9e,'f#xl')](_0x2c59e6,_0x4ba7d1[_0x3c6e14(0x47d,'e[5n')]),_0x2ea303=_0x4500fa[_0x3c6e14(0xbd1,']Sv0')](_0x4ba7d1[_0x3c6e14(0xc34,'gL1S')]+_0x4ba7d1[0x0][_0x3c6e14(0x9f0,'&SjD')],_0x8acf22+0x1<_0x2eb2cd[_0x3c6e14(0x66b,'5Ess')]?_0x2eb2cd[_0x8acf22+0x1][_0x3c6e14(0x1e5,'mn5c')]:_0x4500fa[_0x3c6e14(0x10f4,'E5)l')]),_0x475683=mapBetType(_0x4ba7d1[0x0]),_0x3c368c=[..._0x2ea303[_0x3c6e14(0xff4,'7Xia')](_0x5e979c)],_0x213bd5=_0x3c368c[_0x3c6e14(0xdd4,'&SjD')](_0x4b6b3f=>_0x4b6b3f[0x1]||_0x4b6b3f[0x2])||_0x3c368c['at'](-0x1),_0x4e8a71=parseAmount(_0x213bd5?.[0x1]||_0x213bd5?.[0x2]||_0x213bd5?.[0x3]),_0x269243=_0x8acf22&&/\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\s*[.+]?\s*$/i[_0x3c6e14(0xab4,'7!Gb')](_0x101d90)?'':_0x101d90;let _0x1c221a=extractNums(_0x269243);const _0x25fe4a=extractNums(_0x2ea303[_0x3c6e14(0x1163,'#Ux*')](/[=:]|\bx\s*/i)[0x0][_0x3c6e14(0x7d0,'y)UI')](/\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\s*[.+]?\s*$/i,''));if(!_0x1c221a[_0x3c6e14(0xc68,'y)UI')]&&_0x25fe4a[_0x3c6e14(0xb3e,'fyWu')])_0x1c221a=_0x25fe4a;if(!_0x1c221a[_0x3c6e14(0xcd8,')UVA')])_0x1c221a=[..._0x4a419b];else _0x4a419b=[..._0x1c221a];['da','dx','dv',_0x3c6e14(0xeb8,'iEe2'),_0x3c6e14(0x8ac,'Oc5r')][_0x3c6e14(0xcbe,'ySL*')](_0x475683)&&(_0x1c221a=[..._0x1c221a,...extractNums(_0x2ea303[_0x3c6e14(0xfd0,'ySL*')](/[=:]|\bx\s*/i)[0x0])],_0x4a419b=[..._0x1c221a]);const _0x13f433=/[=:]/[_0x3c6e14(0x79f,'7Xia')](_0x2ea303);_0x266ddf(_0x1c221a,_0x13f433?_0x4e8a71/Math[_0x3c6e14(0x250,'7JZb')](_0x1c221a[_0x3c6e14(0x111c,'u@TD')],0x1):_0x4e8a71,_0x475683,_0x4ba7d1[0x0][_0x3c6e14(0x1134,'ySL*')]());});}),_0x599410[_0x53a533(0xfe3,'BNmM')](_0x1e758f=>Number(_0x1e758f[_0x53a533(0x270,'2Lzj')])>0x0);}function parseSmartLottoText(_0x4e64cf,_0xbed147){const _0x2e95e4=_0x225e24,_0x17724f=[];if(!_0x4e64cf)return _0x17724f;const _0x6a9d6e=/\b(bao\s*bac|bao\s*lo|blo|bl|lo|da|dx|dvong|davong|lienhoan|dv|cheo|xien|xuyen|xc|dac\s*biet|dacbiet|dac\s*bit|db|de|dc|dd|c2|c3|g8g7g6g5g4|g7g6g5g4|g3g2g1db|g7g6|g6g5|g5g4|g3g2|g2g1|g1db|g6g4g3|g6g4|g4g3|g6g3|g4lo5|g4lo7|g6lo1|10lo|10c|5c|4c|3c|2c|3d|8d|10d|12d|13d|g[1-8]|dau|duoi)\b/gi,_0x51b31d=/(?:[=:]|\bx\s*)(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)(?=\s|$|[.+])|\b(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m))\b|\b(\d+(?:[.,/]\d+)?)(?=\s*(?:[.+]|$))/gi,_0x58dd21=(_0x1ecf7d,_0x5a3834,_0x469f8f,_0x1b4267='',_0xda6a54='')=>{const _0x5747ef=_0x446c;if(!_0x5a3834||!_0x1ecf7d[_0x5747ef(0x103f,'gL1S')])return;if(_0x469f8f==='dv'){const _0x18788b=[...new Set(_0x1ecf7d)];if(_0x18788b[_0x5747ef(0x10f4,'E5)l')]<0x3)return;const _0x150ba6=_0x18788b[_0x5747ef(0x45f,'kMoM')]((_0x424213,_0xc6188c)=>_0x18788b[_0x5747ef(0x21c,'WL8L')](_0xc6188c+0x1)[_0x5747ef(0x9db,'Fj&C')](_0x1dfefd=>[_0x424213,_0x1dfefd]));_0x150ba6[_0x5747ef(0xe79,')U6s')](_0x3935b=>{const _0x15cf05=_0x5747ef,_0x1b4c79=createItem(_0x3935b[_0x15cf05(0xb48,'K7h7')]('-'),_0x5a3834,_0xbed147,_0x469f8f,_0x1b4267);_0x1b4c79[_0x15cf05(0x1233,'f#xl')]=_0xda6a54,_0x1b4c79[_0x15cf05(0x7e0,'&SjD')]=_0x3935b,_0x17724f[_0x15cf05(0xaaf,'hCJL')](_0x1b4c79);});return;}if(['da','dx',_0x5747ef(0xd44,'fyWu'),_0x5747ef(0xc7d,'e[5n')][_0x5747ef(0xe48,'LyuC')](_0x469f8f)){const _0x542dc3=[...new Set(_0x1ecf7d)];if(_0x542dc3[_0x5747ef(0x368,'Fj&C')]<0x2)return;const _0x1c32c7=['dx',_0x5747ef(0xc48,'#&$8'),_0x5747ef(0x1115,'BNmM')][_0x5747ef(0x1159,'K7h7')](_0x469f8f)?'dx':'da',_0x5458e1=_0x1c32c7==='da'?_0x542dc3[_0x5747ef(0x6a7,'#Ux*')](0x0,0x2):_0x542dc3,_0x3a665a=createItem(_0x5458e1[_0x5747ef(0xa1f,'pj(#')]('-'),_0x5a3834,_0xbed147,_0x1c32c7,_0x1b4267);_0x3a665a[_0x5747ef(0x673,'pj(#')]=_0xda6a54,_0x3a665a[_0x5747ef(0x11da,'E5)l')]=_0x5458e1,_0x17724f[_0x5747ef(0x307,'wBCK')](_0x3a665a);return;}_0x1ecf7d[_0x5747ef(0x338,'7JZb')](_0x233ca2=>{const _0x4df5cb=_0x5747ef,_0x3afc8c=createItem(_0x233ca2,_0x5a3834,_0xbed147,_0x469f8f,_0x1b4267);_0x3afc8c[_0x4df5cb(0xbd2,'lm&&')]=_0xda6a54,_0x17724f[_0x4df5cb(0xf23,'ySL*')](_0x3afc8c);});},_0x187bea=_0x5ad50b=>String(_0x5ad50b||'')[_0x2e95e4(0x1201,'E5)l')](/\d{2,3}/g)||[],_0xa4d202=(_0x5b5a2c,_0x588d61)=>{const _0x375397=_0x2e95e4;let _0x3287e1=![],_0x3b9c1a=0x0;const _0x262cb4=/(?:^|\s)([\d]{2,3}(?:[,.+\-]\s*\d{2,3})*)\s*(?:lo|blo|bl)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)\s*\+\s*(?:db|de)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)/gi;let _0x1504b9;while((_0x1504b9=_0x262cb4[_0x375397(0x1146,'y)UI')](_0x5b5a2c))!==null){const _0x5a8e89=_0x187bea(_0x1504b9[0x1]);if(!_0x5a8e89[_0x375397(0x5df,'#Ux*')])continue;const _0x85c8c0=_0x375397(0x1eb,'MfL&')+_0x588d61+'-'+_0x3b9c1a++,_0x4bbd1c=_0x5a8e89[_0x375397(0x540,'OTP&')](_0x42b8f2=>_0x42b8f2[_0x375397(0x62b,'nR@W')]===0x3)?'3c':'2c';_0x58dd21(_0x5a8e89,parseAmount(_0x1504b9[0x2]),_0x4bbd1c,'LO',_0x85c8c0+_0x375397(0x1d3,'Fj&C')),_0x58dd21(_0x5a8e89,parseAmount(_0x1504b9[0x3]),'db','DB',_0x85c8c0+_0x375397(0x75b,'Oc5r')),_0x3287e1=!![];}const _0x11c7a4=/(?:^|\s)([\d]{2,3}(?:[,.+\-]\s*\d{2,3})*)\s*(?:db|de)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)/gi;while((_0x1504b9=_0x11c7a4[_0x375397(0xe9a,'f#xl')](_0x5b5a2c))!==null){const _0x275022=_0x187bea(_0x1504b9[0x1]);if(!_0x275022[_0x375397(0x10ed,')U6s')])continue;const _0xaf99f=_0x375397(0xcf6,'e[5n')+_0x588d61+'-'+_0x3b9c1a++;_0x58dd21(_0x275022,parseAmount(_0x1504b9[0x2]),'db','DB',_0xaf99f+_0x375397(0x75c,'M1DA')),_0x3287e1=!![];}return _0x3287e1;};return String(_0x4e64cf)[_0x2e95e4(0xff3,'I*r6')](/\r/g,'')[_0x2e95e4(0x10ff,'m1lh')](/[\n;]+/)[_0x2e95e4(0xaef,'%AH&')]((_0x203cfa,_0x31639b)=>{const _0x313fb0=_0x2e95e4;let _0x51e229=_0x203cfa[_0x313fb0(0x888,'MfL&')]()[_0x313fb0(0xe08,'E5)l')](/^\[.*?\]\s*\w+:\s*/i,'\x20')[_0x313fb0(0x3fa,'MHv!')]();if(!_0x51e229)return;_0x51e229=_0x51e229[_0x313fb0(0xcd4,'&SjD')](_0x313fb0(0x913,'lm&&'))[_0x313fb0(0xe68,'&SjD')](/[\u0300-\u036f]/g,'')[_0x313fb0(0x997,'#Ux*')](/đ/g,'d'),_0x51e229=_0x51e229[_0x313fb0(0xff3,'I*r6')](/d\s*b\b/gi,'db'),_0x51e229=_0x51e229[_0x313fb0(0xa87,'#&$8')](/\b(db|de|lo|blo|bl)\s*(?=\d)/gi,_0x313fb0(0x600,')U6s'));if(_0xa4d202(_0x51e229,_0x31639b))return;const _0xab481c=parseCompactGroupedBetLine(_0x51e229,_0xbed147);if(_0xab481c){_0x17724f[_0x313fb0(0x11f7,'7JZb')](..._0xab481c);return;}const _0x50cc6c=parseDottedBetLine(_0x51e229,_0xbed147);if(_0x50cc6c){_0x17724f[_0x313fb0(0xc58,'WL8L')](..._0x50cc6c);return;}_0x51e229=_0x51e229[_0x313fb0(0xbd8,'OTP&')](/(\d{2,4})(da|cheo|xien|xuyen)(\d{2,4})/gi,_0x313fb0(0x73f,'lm&&'))[_0x313fb0(0x431,'i%tL')](/(\d{2,4})(db|de)(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)/gi,_0x313fb0(0x804,'e[5n'))[_0x313fb0(0x7d0,'y)UI')](/g(?!6g3\b)([1-8])g([1-8])/gi,_0x313fb0(0xad7,'PX3c'));const _0xe65c32=/\b(\d{1,3})\s*(?:den|toi|\.\.|…)\s*(\d{1,3})\b/gi;_0x51e229=_0x51e229[_0x313fb0(0x91f,'ySL*')](_0xe65c32,(_0x887ea6,_0x3e4db5,_0x54677f,_0x381671,_0x15744b)=>{const _0x102aef=_0x313fb0,_0x3c8fe7=Number(_0x3e4db5),_0x59ce88=Number(_0x54677f),_0x412ff8=_0x15744b[_0x102aef(0x21c,'WL8L')](_0x381671+_0x887ea6[_0x102aef(0x5df,'#Ux*')],_0x381671+_0x887ea6[_0x102aef(0x724,'I*r6')]+0x23),_0x190856=_0x412ff8[_0x102aef(0xe01,'fyWu')](/(?:[=:]|\bx\s*)\s*(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)|\b(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m))\b/i),_0x539521=parseAmount(_0x190856?.[0x1]||_0x190856?.[0x2]||_0x190856?.[0x3]),_0x4a8205=_0x412ff8[_0x102aef(0xe0f,'wBCK')](/\b(c2|c3|g8g7g6g5g4|g7g6g5g4|g3g2g1db|g7g6|g6g5|g5g4|g3g2|g2g1|g1db|g6g4g3|g6g4|g4g3|g6g3|g4lo5|g4lo7|g6lo1|g[1-8]|db|de|dc|dd|10lo|10c|5c|4c|3c|2c|3d|8d|10d|12d|13d)\b/i);if(_0x539521>0x0&&_0x59ce88>=_0x3c8fe7&&_0x59ce88-_0x3c8fe7<=0x63){const _0x4be5c8=Math[_0x102aef(0x7b0,'M1DA')](0x2,_0x3e4db5[_0x102aef(0xdd2,'hCJL')],_0x54677f[_0x102aef(0x318,'wBCK')]);_0x58dd21(Array[_0x102aef(0x237,'wBCK')]({'length':_0x59ce88-_0x3c8fe7+0x1},(_0x48e0dc,_0x51246e)=>String(_0x3c8fe7+_0x51246e)[_0x102aef(0x451,'mn5c')](_0x4be5c8,'0')),_0x539521,mapBetType(_0x4a8205?.[0x1]||'bl'),_0x102aef(0xf0f,'nR@W'));}return'\x20';});const _0x12a5ad=[..._0x51e229[_0x313fb0(0x3f2,'%AH&')](_0x6a9d6e)];if(!_0x12a5ad[_0x313fb0(0x65c,'#&$8')]){const _0xaac5b4=[..._0x51e229[_0x313fb0(0xbfc,'M*BU')](_0x51b31d)][_0x313fb0(0x7b5,'m1lh')](),_0x242d8a=parseAmount(_0xaac5b4?.[0x1]||_0xaac5b4?.[0x2]||_0xaac5b4?.[0x3]),_0x499ace=extractNums(_0x51e229);_0x242d8a>0x0&&_0x499ace[_0x313fb0(0xe1b,'f#xl')]&&_0x499ace[_0x313fb0(0x102c,'m1lh')](_0x1fddc7=>{const _0x22df02=_0x313fb0,_0x4dc4a4=_0x1fddc7[_0x22df02(0x724,'I*r6')];_0x58dd21([_0x1fddc7],_0x242d8a,_0x4dc4a4>=0x4?'4c':_0x4dc4a4===0x3?'3c':'bl',_0x22df02(0x24b,'iEe2'));});return;}const _0x22673f=[];let _0xed6eaa=[];for(let _0x3b670a=0x0;_0x3b670a<_0x12a5ad[_0x313fb0(0x10ed,')U6s')];_0x3b670a++){const _0x2ea4ed=_0x12a5ad[_0x3b670a],_0x797f4e=_0x3b670a+0x1<_0x12a5ad[_0x313fb0(0x792,'7Xia')]?_0x12a5ad[_0x3b670a+0x1][_0x313fb0(0x642,'#Ux*')]:_0x51e229[_0x313fb0(0xcf8,'i%tL')],_0x51a01f=_0x3b670a?_0x12a5ad[_0x3b670a-0x1][_0x313fb0(0x993,'y)UI')]+_0x12a5ad[_0x3b670a-0x1][0x0][_0x313fb0(0x11a1,'OTP&')]:0x0,_0x165326=_0x51e229[_0x313fb0(0xc1a,'hCJL')](_0x51a01f,_0x2ea4ed[_0x313fb0(0x116b,'LyuC')]),_0x54dfd9=_0x51e229[_0x313fb0(0x617,'Mgu1')](_0x2ea4ed[_0x313fb0(0x216,'i%tL')]+_0x2ea4ed[0x0][_0x313fb0(0xc94,'Mgu1')],_0x797f4e),_0x4930bc=mapBetType(_0x2ea4ed[0x0]),_0x4d0040=extractNums(_0x54dfd9[_0x313fb0(0xff1,'y)UI')](/[=:]/)[0x0]),_0x58574a=[..._0x165326[_0x313fb0(0x4e3,'kMoM')](/(?:[=:]\s*)?\d+(?:[.,/]\d+)?(?:k|n|tr|m|ng)\b/gi)][_0x313fb0(0x8dc,'f#xl')](),_0x3b3724=_0x58574a?_0x165326[_0x313fb0(0x1139,'7Xia')](_0x58574a[_0x313fb0(0xad3,'Fj&C')]+_0x58574a[0x0][_0x313fb0(0x809,'ySL*')]):_0x165326,_0xd1c423=extractNums(_0x3b3724),_0xb5b3e3=[..._0x54dfd9[_0x313fb0(0x11a8,'7JZb')](/\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)\b/gi)],_0x5ad199=['da','dx','dv',_0x313fb0(0x2e4,'ySL*'),_0x313fb0(0x53c,'#Ux*')][_0x313fb0(0x75e,'wBCK')](_0x4930bc);if(_0x4d0040[_0x313fb0(0x361,'%AH&')]&&_0xb5b3e3[_0x313fb0(0xdd2,'hCJL')]){let _0x3c824d=0x0;_0xb5b3e3[_0x313fb0(0x3f3,'Oc5r')]((_0x3c2c33,_0x30510c)=>{const _0x4dfa77=_0x313fb0;let _0x4938ad=extractNums(_0x54dfd9[_0x4dfa77(0x92b,'nR@W')](_0x3c824d,_0x3c2c33[_0x4dfa77(0xd2c,'e6gp')]));_0x5ad199&&_0x30510c===0x0&&_0xd1c423[_0x4dfa77(0x703,'iEe2')]&&(_0x4938ad=[..._0xd1c423,..._0x4938ad]);const _0x3f0f17=parseAmount(_0x3c2c33[0x0]);_0x4938ad[_0x4dfa77(0xb03,'PX3c')]&&_0x3f0f17>0x0&&(_0x22673f[_0x4dfa77(0x728,'u@TD')]({'type':_0x4930bc,'numbers':[...new Set(_0x4938ad)],'amount':_0x3f0f17}),_0xed6eaa=[...new Set(_0x4938ad)]),_0x3c824d=_0x3c2c33[_0x4dfa77(0x822,'E5)l')]+_0x3c2c33[0x0][_0x4dfa77(0xaf1,'cNV6')];});}else{const _0x1bdd56=/^(4c|5c|10c|db)$/[_0x313fb0(0xc5f,'MfL&')](_0x4930bc)||_0x5ad199,_0x5c0b9d=_0x4d0040[_0x313fb0(0x724,'I*r6')]===0x1&&!_0xd1c423[_0x313fb0(0x222,'m1lh')];let _0xb5e64d;if(_0x1bdd56&&_0xed6eaa[_0x313fb0(0xa00,'2Lzj')]&&_0x5c0b9d)_0xb5e64d=_0xed6eaa;else{if(_0x4d0040[_0x313fb0(0xaf1,'cNV6')])_0xb5e64d=_0x5ad199&&_0xd1c423[_0x313fb0(0xcd8,')UVA')]?[..._0xd1c423,..._0x4d0040]:_0x4d0040;else{if(_0xd1c423[_0x313fb0(0x449,'M1DA')])_0xb5e64d=_0xd1c423;else _0x1bdd56?_0xb5e64d=_0xed6eaa:_0xb5e64d=[];}}const _0x446ef9=[..._0x54dfd9[_0x313fb0(0xcfa,'MHv!')](_0x51b31d)],_0x1bb7a2=_0x446ef9[_0x313fb0(0xfe6,'#Ux*')](_0x20b881=>_0x20b881[0x1]||_0x20b881[0x2])||_0x446ef9['at'](-0x1),_0x10f7e9=parseAmount(_0x1bb7a2?.[0x1]||_0x1bb7a2?.[0x2]||_0x1bb7a2?.[0x3]);_0xb5e64d[_0x313fb0(0x10f4,'E5)l')]&&_0x10f7e9>0x0&&(_0x22673f[_0x313fb0(0x6ed,'E5)l')]({'type':_0x4930bc,'numbers':[...new Set(_0xb5e64d)],'amount':_0x10f7e9}),_0xed6eaa=[...new Set(_0xb5e64d)]);}}if(_0x22673f[_0x313fb0(0x792,'7Xia')]){_0x22673f[_0x313fb0(0xee1,'M*BU')]((_0x22cb43,_0xd7a0e2)=>_0x58dd21(_0x22cb43[_0x313fb0(0xf8b,'M1DA')],_0x22cb43[_0x313fb0(0xcab,'wBCK')],_0x22cb43[_0x313fb0(0xc22,'wBCK')],_0x22cb43[_0x313fb0(0x497,'M1DA')][_0x313fb0(0xb79,'pj(#')](),_0x313fb0(0x4f6,')UVA')+_0xd7a0e2));return;}let _0x417c51=[];_0x12a5ad[_0x313fb0(0x102c,'m1lh')]((_0x38f21f,_0x4ac914)=>{const _0x5ced56=_0x313fb0,_0x1ae53d=_0x4ac914?_0x12a5ad[_0x4ac914-0x1][_0x5ced56(0xc5a,'5Ad)')]+_0x12a5ad[_0x4ac914-0x1][0x0][_0x5ced56(0xcf8,'i%tL')]:0x0,_0x1597bd=_0x51e229[_0x5ced56(0xa18,'M1DA')](_0x1ae53d,_0x38f21f[_0x5ced56(0xc5a,'5Ad)')]),_0x35dd63=_0x51e229[_0x5ced56(0x1209,')UVA')](_0x38f21f[_0x5ced56(0x1113,'M*BU')]+_0x38f21f[0x0][_0x5ced56(0x222,'m1lh')],_0x4ac914+0x1<_0x12a5ad[_0x5ced56(0xe1b,'f#xl')]?_0x12a5ad[_0x4ac914+0x1][_0x5ced56(0x6fb,'m1lh')]:_0x51e229[_0x5ced56(0x368,'Fj&C')]),_0x2ba252=mapBetType(_0x38f21f[0x0]),_0x4235a9=[..._0x35dd63[_0x5ced56(0xac2,'MfL&')](_0x51b31d)],_0x2fed4c=_0x4235a9[_0x5ced56(0xf98,'MfL&')](_0xdce5cd=>_0xdce5cd[0x1]||_0xdce5cd[0x2])||_0x4235a9['at'](-0x1),_0x27a2b3=parseAmount(_0x2fed4c?.[0x1]||_0x2fed4c?.[0x2]||_0x2fed4c?.[0x3]),_0x1740da=_0x4ac914&&/\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\s*[.+]?\s*$/i[_0x5ced56(0x79f,'7Xia')](_0x1597bd)?'':_0x1597bd;let _0x67c498=extractNums(_0x1740da);const _0x56ef2a=extractNums(_0x35dd63[_0x5ced56(0x85e,')UVA')](/[=:]|\bx\s*/i)[0x0][_0x5ced56(0xf8a,'f#xl')](/\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\s*[.+]?\s*$/i,''));if(!_0x67c498[_0x5ced56(0x103f,'gL1S')]&&_0x56ef2a[_0x5ced56(0x62b,'nR@W')])_0x67c498=_0x56ef2a;if(!_0x67c498[_0x5ced56(0x809,'ySL*')])_0x67c498=[..._0x417c51];else _0x417c51=[..._0x67c498];['da','dx','dv',_0x5ced56(0xd60,'E5)l'),_0x5ced56(0xf4e,'7JZb')][_0x5ced56(0x1125,'lm&&')](_0x2ba252)&&(_0x67c498=[..._0x67c498,...extractNums(_0x35dd63[_0x5ced56(0x1167,'iEe2')](/[=:]|\bx\s*/i)[0x0])],_0x417c51=[..._0x67c498]);const _0xbf3e26=/[=:]/[_0x5ced56(0xb96,'Mgu1')](_0x35dd63);_0x58dd21(_0x67c498,_0xbf3e26?_0x27a2b3/Math[_0x5ced56(0xa48,'7Xia')](_0x67c498[_0x5ced56(0x368,'Fj&C')],0x1):_0x27a2b3,_0x2ba252,_0x38f21f[0x0][_0x5ced56(0xe58,'2Lzj')]());});}),_0x17724f[_0x2e95e4(0x95d,'MfL&')](_0x3421ce=>Number(_0x3421ce[_0x2e95e4(0x89c,'VWnK')])>0x0);}function createItem(_0xdfb3e,_0x3a8261,_0x57503d,_0x194b30,_0x522a72='',_0x1cfe9a=''){const _0x3a30f5=_0x225e24,_0x17b338=String(_0xdfb3e||''),_0x444d69=_0x17b338[_0x3a30f5(0x46e,'5Ess')]('-')[0x0],_0x1791ee=_0x444d69[_0x3a30f5(0x11a1,'OTP&')]>=0x4?0x4:_0x444d69[_0x3a30f5(0xb8d,'MfL&')]>=0x3?0x3:0x2,_0x344870=_0x17b338[_0x3a30f5(0x1206,'i%tL')]('-')?_0x17b338:_0x17b338[_0x3a30f5(0x1061,'ySL*')](_0x1791ee,'0'),_0x3b5a5d=new Date(),_0x3414bd=Number(_0x3a8261)||0x0,_0x172940=_0x57503d||'MT',_0x34eafd=typeof resolveStations===_0x3a30f5(0x1082,'VWnK')?resolveStations(_0x172940):typeof selectedStations!==_0x3a30f5(0x1065,'f#xl')?[...selectedStations]:[];return{'id':_0x3a30f5(0x11ef,'lX[b')+Date[_0x3a30f5(0x3ee,'M*BU')]()+'_'+Math[_0x3a30f5(0xf26,'e6gp')]()[_0x3a30f5(0xbfb,'%AH&')](0x24)[_0x3a30f5(0xd9e,'f#xl')](0x2,0x7),'num':_0x344870,'digits':_0x1791ee,'originalAmount':_0x3414bd,'amount':_0x3414bd*0x3e8,'region':_0x172940,'betType':_0x194b30||'bl','note':_0x522a72,'prizeTag':_0x1cfe9a,'matched':![],'matchCount':0x0,'winAmount':0x0,'stations':_0x34eafd,'prizeInfo':'','createdAt':_0x3b5a5d[_0x3a30f5(0xb23,'mn5c')](_0x3a30f5(0x1142,'7Xia'),{'hour':_0x3a30f5(0x3a4,'m1lh'),'minute':_0x3a30f5(0x852,'M1DA')})+'\x20'+_0x3b5a5d[_0x3a30f5(0x50c,'#Ux*')](_0x3a30f5(0x6eb,'nR@W')),'createdAtTimestamp':_0x3b5a5d[_0x3a30f5(0xce6,'BNmM')](),'dateStr':_0x3b5a5d[_0x3a30f5(0x783,'VWnK')](_0x3a30f5(0x254,'f#xl'))};}function getAutoStations(_0x3f5fba){const _0x1c5b13=_0x225e24;if(typeof getTodayStations===_0x1c5b13(0xe38,'nR@W')){const _0xb056ef=getTodayStations(_0x3f5fba||'MT');return _0xb056ef[_0x1c5b13(0x361,'%AH&')]?[..._0xb056ef]:[];}return[];}function getMainStation(_0x21009d){const _0x190f64=_0x225e24;if(typeof getTodayStations===_0x190f64(0xbf9,'5Ad)')){const _0x1dc161=getTodayStations(_0x21009d||'MT');return _0x1dc161[_0x190f64(0xe18,'lm&&')]?[_0x1dc161[0x0]]:[];}return[];}const RATE_STORAGE_KEY=_0x225e24(0xed0,'OTP&');let CUSTOM_RATES={'c2':0x5b,'c3':0x30c,'c4':0x2260,'da':0x30c};function loadCustomRates(){const _0x5e55fd=_0x225e24;try{const _0x2594a9=localStorage[_0x5e55fd(0x74d,')U6s')](RATE_STORAGE_KEY);if(_0x2594a9){const _0x27babb=JSON[_0x5e55fd(0x44d,'e[5n')](_0x2594a9);_0x27babb&&typeof _0x27babb===_0x5e55fd(0x356,'u@TD')&&(CUSTOM_RATES={...CUSTOM_RATES,..._0x27babb});}}catch(_0xb59e6e){console[_0x5e55fd(0x30b,'5Ess')](_0x5e55fd(0x807,'7Xia'),_0xb59e6e);}}function saveCustomRates(){const _0x21e52f=_0x225e24;try{localStorage[_0x21e52f(0xf1e,'f#xl')](RATE_STORAGE_KEY,JSON[_0x21e52f(0x56c,'#&$8')](CUSTOM_RATES));}catch(_0x3c3da1){console[_0x21e52f(0xa83,'2Lzj')](_0x21e52f(0xf12,'f#xl'),_0x3c3da1);}}function updateCustomRate(_0x448309,_0x2f094d){const _0x358936=_0x225e24,_0x5f2751=parseFloat(_0x2f094d);if(_0x5f2751>0x0){CUSTOM_RATES[_0x448309]=_0x5f2751;if(typeof saveCustomRates===_0x358936(0xfbf,'M*BU'))saveCustomRates();typeof groups!==_0x358936(0xf5e,'5Ess')&&Array[_0x358936(0xd5a,'wBCK')](groups)&&groups[_0x358936(0xce1,'BNmM')](_0x5a6d1b=>{const _0x2d3c1f=_0x358936,_0x34ae87=appData[_0x5a6d1b]?.[_0x2d3c1f(0x6c4,'wBCK')]||[];_0x34ae87[_0x2d3c1f(0x6c2,'K7h7')](_0xee62cd=>{const _0x332201=_0x2d3c1f;if(_0xee62cd[_0x332201(0x103e,'&SjD')]||_0xee62cd[_0x332201(0xec0,'K7h7')]&&_0xee62cd[_0x332201(0x80c,'u@TD')]>0x0){const _0x4425cc=calculateItemFinancials(_0xee62cd,_0xee62cd[_0x332201(0x107b,'zNw(')]||'MT');_0xee62cd[_0x332201(0xabd,')U6s')]=_0x4425cc[_0x332201(0xa07,'nR@W')];}});if(typeof recalculateTotals===_0x2d3c1f(0x305,'ySL*'))recalculateTotals(_0x5a6d1b);});typeof showToast===_0x358936(0x70c,')U6s')&&showToast(_0x358936(0xe59,'i%tL')+_0x448309[_0x358936(0xf21,'7JZb')]()+_0x358936(0x3e8,'5Ess')+_0x5f2751,_0x358936(0x2ea,'mn5c'));if(typeof renderMatrixTable===_0x358936(0x670,'Oc5r'))renderMatrixTable();if(typeof updateGrandSummary===_0x358936(0xe06,'PX3c'))updateGrandSummary();}}function applyCustomRatesToUI(){const _0x57be25=_0x225e24,_0x2df988=document[_0x57be25(0xc86,'#&$8')](_0x57be25(0x8b9,']Sv0'))||document[_0x57be25(0x10bf,'7!Gb')](_0x57be25(0x584,'f#xl')),_0x3d3a75=document[_0x57be25(0x5f1,'E5)l')](_0x57be25(0x120b,'fyWu'))||document[_0x57be25(0x76b,'e[5n')](_0x57be25(0xea4,'i%tL')),_0x33e889=document[_0x57be25(0x551,'gL1S')](_0x57be25(0xfe9,'fyWu'))||document[_0x57be25(0x20c,'u@TD')](_0x57be25(0x7a1,'K7h7'));if(_0x2df988)_0x2df988[_0x57be25(0x1092,'Mgu1')]=CUSTOM_RATES['c2'];if(_0x3d3a75)_0x3d3a75[_0x57be25(0x5a7,'u@TD')]=CUSTOM_RATES['c3'];if(_0x33e889)_0x33e889[_0x57be25(0x37c,'wBCK')]=CUSTOM_RATES['da'];}function calculateWinAmount(_0x916b92,_0x47c01e){const _0x2093ad=_0x225e24;if(!_0x916b92)return 0x0;const _0x341661=_0x47c01e==='MB'||_0x47c01e===_0x2093ad(0x663,']Sv0');let _0x5e6fea=CUSTOM_RATES?.['c2']||0x5b;const _0x508525=(_0x916b92[_0x2093ad(0xe5d,'#Ux*')]||'bl')[_0x2093ad(0xa06,'I*r6')](),_0x5f32a1=_0x916b92[_0x2093ad(0x1231,'i%tL')]||(_0x916b92[_0x2093ad(0xf2b,')UVA')]?String(_0x916b92[_0x2093ad(0x3c3,'e[5n')])[_0x2093ad(0x368,'Fj&C')]:0x2);if(_0x5f32a1===0x3||_0x508525==='3c'||_0x508525==='xc')_0x5e6fea=CUSTOM_RATES?.['c3']||0x30c;else{if(_0x5f32a1===0x4||_0x508525==='4c')_0x5e6fea=CUSTOM_RATES?.['c4']||0x2260;else{if(['da',_0x2093ad(0x68b,'m1lh'),'dx',_0x2093ad(0xd17,'iEe2'),_0x2093ad(0x122b,'mn5c')][_0x2093ad(0xa3a,'lX[b')](_0x508525))_0x5e6fea=CUSTOM_RATES?.['da']||0x30c;else['db',_0x2093ad(0xb72,'M*BU'),_0x2093ad(0xa11,'i%tL'),'dc'][_0x2093ad(0xa84,'m1lh')](_0x508525)&&(_0x5e6fea=_0x5f32a1===0x3?CUSTOM_RATES?.['c3']||0x30c:CUSTOM_RATES?.['c2']||0x5b);}}let _0x2bf330=0x1;if(['da',_0x2093ad(0xeb4,'kMoM'),'dx',_0x2093ad(0x6be,'M1DA'),_0x2093ad(0xc06,'7Xia')][_0x2093ad(0xa72,'5Ess')](_0x508525))_0x2bf330=_0x341661?0x36:0x24;else{if(_0x508525==='db'||_0x508525===_0x2093ad(0x29a,'u@TD'))_0x2bf330=0x1;else{if(_0x508525===_0x2093ad(0x1177,'nR@W'))_0x2bf330=_0x341661?0x4:0x1;else{if(_0x508525==='dc')_0x2bf330=_0x341661?0x5:0x2;else{if(_0x508525==='g1')_0x2bf330=0x1;else{if(_0x508525==='g7')_0x2bf330=_0x341661?0x4:0x1;else{if(_0x5f32a1===0x4)_0x2bf330=_0x341661?0x14:0x10;else{if(_0x5f32a1===0x3)_0x2bf330=_0x341661?0x17:0x11;else _0x2bf330=_0x341661?0x1b:0x12;}}}}}}}const _0x2656c9=_0x916b92[_0x2093ad(0x721,'m1lh')]||0x0;return Math[_0x2093ad(0xab2,'cNV6')](_0x2656c9/_0x2bf330*_0x5e6fea);}function showInputComparison(_0x59adef){const _0x55b3f0=_0x225e24;pendingInputItems=_0x59adef,inputSessionCount++;const _0x229c44=new Date(),_0x1d9c5a=_0x229c44[_0x55b3f0(0x120c,'BNmM')](_0x55b3f0(0x720,'Oc5r'))+_0x55b3f0(0x110d,'Oc5r')+_0x229c44[_0x55b3f0(0x1171,'5Ad)')](_0x55b3f0(0xd54,')U6s')),_0x344093=typeof selectedStations!==_0x55b3f0(0x825,']Sv0')&&selectedStations[_0x55b3f0(0x1241,'7JZb')]?selectedStations[_0x55b3f0(0x9d8,'MHv!')](_0x3bd186=>typeof STATION_ABBR!==_0x55b3f0(0x11d9,'7JZb')&&STATION_ABBR[_0x3bd186]?STATION_ABBR[_0x3bd186]:_0x3bd186)[_0x55b3f0(0xa4f,'lX[b')](',\x20'):_0x55b3f0(0xcbc,'mn5c');let _0x165f9d=_0x55b3f0(0xda5,'m1lh')+inputSessionCount+_0x55b3f0(0x5fb,'ySL*')+_0x1d9c5a+_0x55b3f0(0xcf9,'&SjD')+_0x344093+_0x55b3f0(0x5a5,'Oc5r');_0x59adef[_0x55b3f0(0xaeb,'iEe2')]((_0x536a04,_0x1e37c5)=>{const _0x51f165=_0x55b3f0,_0x5c64b3=_0x1e37c5%0x2===0x0?_0x51f165(0xe56,'zNw('):_0x51f165(0xef9,'lX[b'),_0x5b25f4=_0x536a04[_0x51f165(0x613,'I*r6')]||_0x536a04[_0x51f165(0x1079,'kMoM')]/0x3e8||0x0;_0x165f9d+=_0x51f165(0x9d3,')UVA')+_0x5c64b3+_0x51f165(0x320,'kMoM')+_0x1e37c5+_0x51f165(0x2ce,'hCJL')+(_0x1e37c5+0x1)+_0x51f165(0xc79,'VWnK')+_0x536a04[_0x51f165(0x3c3,'e[5n')]+_0x51f165(0x81e,'Oc5r')+(_0x536a04[_0x51f165(0x4e8,'lX[b')]||'')[_0x51f165(0xc56,'PX3c')]()+_0x51f165(0xc96,'MHv!')+_0x5b25f4+_0x51f165(0x28a,'7JZb')+_0x1e37c5+_0x51f165(0xc39,'%AH&')+_0x1e37c5+_0x51f165(0xfff,'7Xia')+(_0x536a04[_0x51f165(0x228,'5Ad)')]||'')+_0x51f165(0x11e1,'M*BU')+_0x1e37c5+_0x51f165(0x6e5,'WL8L');}),_0x165f9d+=_0x55b3f0(0xcc1,'OTP&'),typeof showModal===_0x55b3f0(0x422,'e[5n')&&showModal({'title':_0x55b3f0(0xd0f,'zNw('),'body':_0x165f9d,'isPrompt':![]});}function removePendingItem(_0x5048c0){const _0x42c393=_0x225e24;pendingInputItems[_0x42c393(0x5e3,'Mgu1')](_0x5048c0,0x1),showInputComparison(pendingInputItems);}function processRefund(){const _0x2c3e0b=_0x225e24,_0x45c0e1=document[_0x2c3e0b(0x2bc,'mn5c')](_0x2c3e0b(0x10b0,'fyWu'))?.[_0x2c3e0b(0x5a7,'u@TD')][_0x2c3e0b(0xc7c,'lX[b')]();if(!_0x45c0e1){if(typeof showToast===_0x2c3e0b(0x670,'Oc5r'))showToast(_0x2c3e0b(0x9fa,'M*BU'),_0x2c3e0b(0x91b,'5Ess'));return;}const _0x285016=_0x45c0e1[_0x2c3e0b(0x752,'%AH&')](/^(\d{2,3})\s*(?:trả|tra)?\s*([\d.,]+[kntr]?)$/i),_0x1c2f6d=_0x45c0e1[_0x2c3e0b(0x294,'e[5n')](/^hàng\s*(\d+)\s*(?:trả|tra)?\s*([\d.,]+[kntr]?)$/i);if(_0x285016)applyRefundByNumber(_0x285016[0x1],parseAmount(_0x285016[0x2]));else{if(_0x1c2f6d)applyRefundByRow(parseInt(_0x1c2f6d[0x1],0xa)-0x1,parseAmount(_0x1c2f6d[0x2]));else{if(typeof showToast===_0x2c3e0b(0x1082,'VWnK'))showToast(_0x2c3e0b(0x388,'Oc5r'),_0x2c3e0b(0xb08,'f#xl'));}}}function applyRefundByNumber(_0x543d9d,_0x5d27fc){const _0x47c8ba=_0x225e24,_0x472428=pendingInputItems[_0x47c8ba(0x3c2,'lm&&')](_0x3c21f3=>_0x3c21f3[_0x47c8ba(0x317,'Oc5r')]===_0x543d9d);if(!_0x472428){if(typeof showToast===_0x47c8ba(0xc4a,'&SjD'))showToast(_0x47c8ba(0x60b,'2Lzj')+_0x543d9d,_0x47c8ba(0x725,'i%tL'));return;}if(_0x5d27fc<=0x0){if(typeof showToast===_0x47c8ba(0x312,'#&$8'))showToast(_0x47c8ba(0xbd3,'PX3c'),_0x47c8ba(0x1049,'fyWu'));return;}const _0x2d2b1f=_0x472428[_0x47c8ba(0x11b4,'%AH&')]||_0x472428[_0x47c8ba(0x6e0,')UVA')]/0x3e8;_0x5d27fc>=_0x2d2b1f?(_0x472428[_0x47c8ba(0xcc3,'PX3c')]=0x0,_0x472428[_0x47c8ba(0xcac,'y)UI')]=0x0,_0x472428[_0x47c8ba(0x710,'E5)l')]=_0x47c8ba(0x705,'ySL*')+_0x2d2b1f+'k)'):(_0x472428[_0x47c8ba(0x1090,'5Ad)')]=Math[_0x47c8ba(0xcaf,'2Lzj')]((_0x2d2b1f-_0x5d27fc)*0x64)/0x64,_0x472428[_0x47c8ba(0xd08,'lm&&')]=_0x472428[_0x47c8ba(0x89c,'VWnK')]*0x3e8,_0x472428[_0x47c8ba(0x106e,'e[5n')]=_0x47c8ba(0x5c3,'e[5n')+_0x2d2b1f+_0x47c8ba(0x30f,'7Xia')+_0x472428[_0x47c8ba(0xae4,'cNV6')]+'k');showInputComparison(pendingInputItems);if(typeof showToast===_0x47c8ba(0x67d,'gL1S'))showToast(_0x47c8ba(0xcd0,'MfL&')+_0x5d27fc+_0x47c8ba(0x124d,']Sv0')+_0x543d9d,_0x47c8ba(0x6af,'MfL&'));}function applyRefundByRow(_0x45e03e,_0xce29c8){const _0x30cc37=_0x225e24;if(_0x45e03e<0x0||_0x45e03e>=pendingInputItems[_0x30cc37(0xdd2,'hCJL')]){if(typeof showToast===_0x30cc37(0x96c,')UVA'))showToast(_0x30cc37(0xbbd,'lX[b'),_0x30cc37(0x80e,'ySL*'));return;}applyRefundByNumber(pendingInputItems[_0x45e03e][_0x30cc37(0x267,'e6gp')],_0xce29c8);}function confirmPendingInput(){const _0x5232d9=_0x225e24;if(!pendingInputItems||pendingInputItems[_0x5232d9(0xdd2,'hCJL')]===0x0)return;const _0x4c2916=typeof activeGroup!==_0x5232d9(0x277,'fyWu')?activeGroup:null;if(!_0x4c2916||!appData?.[_0x4c2916])return;const _0x48caf4=appData[_0x4c2916];if(!Array[_0x5232d9(0xc69,'5Ess')](_0x48caf4[_0x5232d9(0xce8,'hCJL')]))_0x48caf4[_0x5232d9(0xf34,'lX[b')]=[];if(!Array[_0x5232d9(0x9af,'e[5n')](_0x48caf4[_0x5232d9(0x1184,'VWnK')]))_0x48caf4[_0x5232d9(0x97f,'%AH&')]=[];const _0x28d729=new Date(),_0x4f386b=_0x28d729[_0x5232d9(0x27f,'u@TD')](_0x5232d9(0x4d8,'e6gp'),{'hour':_0x5232d9(0x38e,'mn5c'),'minute':_0x5232d9(0x4ae,'5Ess')})+_0x5232d9(0x5fa,'#&$8')+_0x28d729[_0x5232d9(0x357,'LyuC')](_0x5232d9(0xc0c,'#&$8')),_0x2d682f=JSON[_0x5232d9(0xc8e,'nR@W')](JSON[_0x5232d9(0x4ac,']Sv0')](pendingInputItems[_0x5232d9(0x458,'#Ux*')](_0x42c131=>(_0x42c131[_0x5232d9(0xf1b,'e6gp')]||0x0)>0x0)));if(_0x2d682f[_0x5232d9(0x633,'mn5c')]===0x0){if(typeof showToast===_0x5232d9(0x70c,')U6s'))showToast(_0x5232d9(0x7c4,'e6gp'),_0x5232d9(0xb41,'VWnK'));return;}const _0x2829de={'id':Date[_0x5232d9(0x757,'2Lzj')](),'time':_0x4f386b,'region':_0x2d682f[0x0]?.[_0x5232d9(0x8f0,'gL1S')]||'MT','items':_0x2d682f,'stations':typeof selectedStations!==_0x5232d9(0x1156,'#&$8')?[...selectedStations]:[]};_0x48caf4[_0x5232d9(0x2d4,'e[5n')][_0x5232d9(0x6a6,'#Ux*')](_0x2829de),_0x48caf4[_0x5232d9(0x33e,'MHv!')][_0x5232d9(0x728,'u@TD')](..._0x2d682f);if(typeof recalculateTotals===_0x5232d9(0xa95,'lX[b'))recalculateTotals(_0x4c2916);if(typeof renderMatrixTable===_0x5232d9(0xc4a,'&SjD'))renderMatrixTable();if(typeof updateGrandSummary===_0x5232d9(0x70c,')U6s'))updateGrandSummary();if(typeof saveAppDataToDB===_0x5232d9(0x882,'E5)l'))saveAppDataToDB();const _0x18295f=document[_0x5232d9(0x1158,'nR@W')](_0x5232d9(0xf48,'nR@W'));if(_0x18295f)_0x18295f[_0x5232d9(0x462,'7JZb')][_0x5232d9(0x1180,'VWnK')]=_0x5232d9(0xd40,'7Xia');const _0x1908f0=document[_0x5232d9(0xb17,'m1lh')](_0x5232d9(0x1096,'Mgu1'));if(_0x1908f0)_0x1908f0[_0x5232d9(0x3fd,'5Ess')]='';pendingInputItems=[];if(typeof showToast===_0x5232d9(0xe06,'PX3c'))showToast(_0x5232d9(0xc67,'gL1S')+_0x2d682f[_0x5232d9(0xaf1,'cNV6')]+_0x5232d9(0x22e,')U6s'),_0x5232d9(0xd3a,'I*r6'));}function cancelPendingInput(){const _0x9907d1=_0x225e24;pendingInputItems=[];const _0xea0938=document[_0x9907d1(0x11a6,'u@TD')](_0x9907d1(0x989,'&SjD'));if(_0xea0938)_0xea0938[_0x9907d1(0xa40,'E5)l')][_0x9907d1(0x2ef,'f#xl')]=_0x9907d1(0xd0e,'7JZb');if(typeof showToast===_0x9907d1(0x391,'7Xia'))showToast(_0x9907d1(0xb64,'Oc5r'),_0x9907d1(0xa57,'m1lh'));}function processSmartInput(){const _0x565a03=_0x225e24,_0x3abf32=document[_0x565a03(0x2bc,'mn5c')](_0x565a03(0x1096,'Mgu1'))?.[_0x565a03(0xc37,'7!Gb')]?.[_0x565a03(0x10e6,'7JZb')]()||'';if(!_0x3abf32){if(typeof showToast===_0x565a03(0x1152,'fyWu'))showToast(_0x565a03(0x11c6,'y)UI'),_0x565a03(0xb18,'gL1S'));return;}const _0x1ce6e8=typeof detectRegionFromText===_0x565a03(0x1152,'fyWu')?detectRegionFromText(_0x3abf32,document[_0x565a03(0x40a,'WL8L')](_0x565a03(0x36d,'7Xia'))?.[_0x565a03(0x5a7,'u@TD')]||'MT'):document[_0x565a03(0x120d,'y)UI')](_0x565a03(0xf06,'MfL&'))?.[_0x565a03(0xe1d,'y)UI')]||'MT',_0x124dce=document[_0x565a03(0x5fe,'i%tL')](_0x565a03(0xed3,')UVA')+_0x1ce6e8+'\x22]');if(_0x124dce)_0x124dce[_0x565a03(0x1d5,'K7h7')]=!![];let _0x5d2578=[];try{_0x5d2578=parseSmartLottoText(_0x3abf32,_0x1ce6e8)||[];}catch(_0x4126e4){console[_0x565a03(0xdad,'M1DA')](_0x565a03(0x1208,'kMoM'),_0x4126e4);if(typeof showToast===_0x565a03(0x670,'Oc5r'))showToast(_0x565a03(0x10e3,'2Lzj'),_0x565a03(0xd2a,'&SjD'));return;}if(_0x5d2578[_0x565a03(0xb03,'PX3c')]===0x0){typeof customAlert===_0x565a03(0x70d,'MHv!')&&customAlert(_0x565a03(0xd7f,'E5)l'),_0x565a03(0x321,'nR@W'));return;}const _0xe18b1e=typeof resolveStations===_0x565a03(0xe38,'nR@W')?resolveStations(_0x1ce6e8):typeof selectedStations!==_0x565a03(0x1fc,'kMoM')&&selectedStations[_0x565a03(0x9f0,'&SjD')]>0x0?[...selectedStations]:typeof getMainStation===_0x565a03(0xe38,'nR@W')?getMainStation(_0x1ce6e8):[];_0x5d2578[_0x565a03(0xf30,'MHv!')](_0x468512=>{const _0x1f7804=_0x565a03;(!_0x468512[_0x1f7804(0xc9a,'#Ux*')]||_0x468512[_0x1f7804(0xafe,'#&$8')][_0x1f7804(0xe18,'lm&&')]===0x0)&&(_0x468512[_0x1f7804(0xa71,'iEe2')]=[..._0xe18b1e]);if(!_0x468512[_0x1f7804(0xa26,'MfL&')])_0x468512[_0x1f7804(0x884,'i%tL')]=_0x1ce6e8;});if(skipComparisonModal){commitSmartItems(_0x5d2578);return;}showSmartPreview(_0x5d2578);}function showSmartPreviewLegacy(_0x531590){const _0x8c0d8f=_0x225e24,_0x45b49a=document[_0x8c0d8f(0x626,'Mgu1')](_0x8c0d8f(0xffa,'hCJL'))?.[_0x8c0d8f(0xe5c,'LyuC')]||'MT',_0xe91a68=typeof resolveStations===_0x8c0d8f(0x479,'kMoM')?resolveStations(_0x45b49a):typeof selectedStations!==_0x8c0d8f(0xf08,'2Lzj')&&selectedStations[_0x8c0d8f(0x449,'M1DA')]>0x0?[...selectedStations]:typeof getMainStation===_0x8c0d8f(0xbf9,'5Ad)')?getMainStation(_0x45b49a):[];let _0x103620=0x0;_0x531590[_0x8c0d8f(0xc63,'e6gp')](_0x2ee6dc=>{const _0x353410=_0x8c0d8f;typeof calculateItemFinancials===_0x353410(0xca5,'cNV6')&&(_0x103620+=calculateItemFinancials(_0x2ee6dc,_0x2ee6dc[_0x353410(0x3d3,'WL8L')]||_0x45b49a)[_0x353410(0x94e,'LyuC')]);});const _0x58e838=_0xe91a68[_0x8c0d8f(0xb03,'PX3c')]?_0xe91a68[_0x8c0d8f(0x1138,'e[5n')](_0x36e025=>typeof STATION_ABBR!==_0x8c0d8f(0x9fe,'lm&&')&&STATION_ABBR[_0x36e025]?STATION_ABBR[_0x36e025]:_0x36e025)[_0x8c0d8f(0xd8d,'kMoM')](',\x20'):_0x8c0d8f(0xd3e,'#&$8');let _0x44ea62='';_0x531590[_0x8c0d8f(0x1186,'LyuC')]((_0x381710,_0x2e09ee)=>{const _0x1e9970=_0x8c0d8f,_0x5b8805=typeof calculateItemFinancials===_0x1e9970(0x1111,']Sv0')?calculateItemFinancials(_0x381710,_0x381710[_0x1e9970(0x2a3,'u@TD')]||_0x45b49a):{'soLo':0x12,'totalItemCost':_0x381710[_0x1e9970(0x69c,'M*BU')]||0x0},_0x22da14=typeof BET_TYPES!==_0x1e9970(0x277,'fyWu')&&BET_TYPES[_0x381710[_0x1e9970(0xd31,'e6gp')]]?.[_0x1e9970(0xfd2,'#Ux*')]||_0x381710[_0x1e9970(0xa66,'kMoM')]||'',_0x49e7c4=(_0x381710[_0x1e9970(0xf61,'mn5c')]||[])[_0x1e9970(0x782,'Oc5r')](_0x1edae8=>typeof STATION_ABBR!==_0x1e9970(0x119f,'iEe2')&&STATION_ABBR[_0x1edae8]?STATION_ABBR[_0x1edae8]:_0x1edae8)[_0x1e9970(0x9a5,'#Ux*')]('+')||'—';_0x44ea62+=_0x1e9970(0xbc1,')UVA')+(_0x2e09ee%0x2===0x0?_0x1e9970(0x374,'iEe2'):_0x1e9970(0x10a2,'&SjD'))+_0x1e9970(0xbc8,'7Xia')+(_0x2e09ee+0x1)+_0x1e9970(0x11ce,'VWnK')+_0x49e7c4+_0x1e9970(0x9a1,'K7h7')+_0x381710[_0x1e9970(0x214,'7Xia')]+_0x1e9970(0x774,'%AH&')+_0x22da14+_0x1e9970(0x11ce,'VWnK')+(_0x381710[_0x1e9970(0x11e9,'#Ux*')]||0x0)+_0x1e9970(0x499,'7Xia')+_0x5b8805[_0x1e9970(0x591,'%AH&')]+_0x1e9970(0xa6e,'fyWu')+_0x5b8805[_0x1e9970(0x669,'Oc5r')][_0x1e9970(0x1137,'cNV6')]()+_0x1e9970(0xddb,'MHv!');});const _0x119ab8=_0x8c0d8f(0xfdb,'ySL*')+_0x45b49a+_0x8c0d8f(0xe7e,'VWnK')+_0x58e838+_0x8c0d8f(0x64f,')U6s')+_0xe91a68[_0x8c0d8f(0x9bd,'MHv!')]+_0x8c0d8f(0xb0c,'2Lzj')+_0x531590[_0x8c0d8f(0x633,'mn5c')]+_0x8c0d8f(0x699,'mn5c')+_0x44ea62+_0x8c0d8f(0x377,'PX3c')+_0x103620[_0x8c0d8f(0x4f8,'zNw(')]()+_0x8c0d8f(0x1031,'pj(#');window[_0x8c0d8f(0xfa9,'pj(#')]=_0x531590,typeof showModal===_0x8c0d8f(0xd93,'i%tL')&&showModal({'title':_0x8c0d8f(0xc45,'VWnK'),'body':_0x119ab8,'confirmText':_0x8c0d8f(0xb9e,'#Ux*'),'cancelText':_0x8c0d8f(0xcc7,'ySL*'),'showCancel':!![],'confirmClass':_0x8c0d8f(0x546,'Oc5r'),'onConfirm':()=>{const _0x2e9fe8=_0x8c0d8f;commitSmartItems(window[_0x2e9fe8(0xe41,'Mgu1')]||[]),window[_0x2e9fe8(0x1230,'ySL*')]=null,resetModalSize();},'onCancel':()=>{const _0x56acb7=_0x8c0d8f;window[_0x56acb7(0xd1a,'E5)l')]=null,resetModalSize();}}),setTimeout(()=>{const _0x466ada=_0x8c0d8f,_0x17e675=document[_0x466ada(0x1158,'nR@W')](_0x466ada(0xbae,'MfL&')),_0x4c98b0=_0x17e675?.[_0x466ada(0x120d,'y)UI')](_0x466ada(0x1215,'#&$8'));_0x4c98b0&&(_0x4c98b0['id']=_0x466ada(0x8b3,'fyWu'),_0x4c98b0[_0x466ada(0x755,'mn5c')][_0x466ada(0xb04,'nR@W')]=_0x466ada(0x11e8,'7JZb'),_0x4c98b0[_0x466ada(0x84d,'gL1S')][_0x466ada(0xfc6,')U6s')]=_0x466ada(0x1162,'u@TD'));},0x1e);}function resetModalSize(){const _0x109cd0=_0x225e24,_0x25375d=document[_0x109cd0(0xce9,'iEe2')](_0x109cd0(0xfac,'I*r6'));_0x25375d&&(_0x25375d[_0x109cd0(0x110b,'OTP&')]('id'),_0x25375d[_0x109cd0(0xf70,'Mgu1')][_0x109cd0(0x33b,'wBCK')]='',_0x25375d[_0x109cd0(0x2af,'7Xia')][_0x109cd0(0x3e6,'nR@W')]='');}function updatePendingSmartField(_0x42084e,_0x1fa95c,_0x1e32ec,_0x5d1a02=!![]){const _0x3691ef=_0x225e24,_0x3a3dad=window[_0x3691ef(0xdbb,'fyWu')]?.[_0x42084e];if(!_0x3a3dad)return;if(_0x1fa95c===_0x3691ef(0x881,'OTP&'))_0x3a3dad[_0x3691ef(0x11e9,'#Ux*')]=Math[_0x3691ef(0x4e9,')U6s')](0x0,Number(_0x1e32ec)||0x0),_0x3a3dad[_0x3691ef(0x1112,'u@TD')]=_0x3a3dad[_0x3691ef(0x7a2,'zNw(')]*0x3e8;else{if(_0x1fa95c===_0x3691ef(0x504,']Sv0')){_0x3a3dad[_0x3691ef(0x317,'Oc5r')]=String(_0x1e32ec)[_0x3691ef(0xa93,'7JZb')](/\s+/g,'');const _0x582052=_0x3a3dad[_0x3691ef(0x11fc,'u@TD')][_0x3691ef(0x9f2,'e6gp')]('-')[0x0]||'';_0x3a3dad[_0x3691ef(0x95a,'7!Gb')]=_0x582052[_0x3691ef(0xcf8,'i%tL')]>=0x4?0x4:_0x582052[_0x3691ef(0x2a4,'WL8L')]>=0x3?0x3:0x2,_0x3a3dad[_0x3691ef(0x1025,'f#xl')]=_0x3a3dad[_0x3691ef(0x214,'7Xia')][_0x3691ef(0xa3a,'lX[b')]('-')?_0x3a3dad[_0x3691ef(0x10f2,'2Lzj')][_0x3691ef(0x4aa,'lX[b')]('-')[_0x3691ef(0x8c5,'i%tL')](Boolean):undefined;}else{if(_0x1fa95c===_0x3691ef(0xb68,'K7h7'))_0x3a3dad[_0x3691ef(0xe57,'&SjD')]=mapBetType(_0x1e32ec);}}if(_0x5d1a02)renderSmartPreviewContent();}function updatePendingSmartStation(_0x5e045b,_0x341ecb){const _0x2a00d6=_0x225e24,_0x2b47cc=window[_0x2a00d6(0xd06,'m1lh')]?.[_0x5e045b];if(!_0x2b47cc)return;_0x2b47cc[_0x2a00d6(0xa71,'iEe2')]=[..._0x341ecb[_0x2a00d6(0x39d,'%AH&')]][_0x2a00d6(0x782,'Oc5r')](_0x2be47a=>_0x2be47a[_0x2a00d6(0xb59,'7JZb')]),renderSmartPreviewContent();}function removePendingSmartItem(_0x4fa3f8){const _0x330f5e=_0x225e24;if(!window[_0x330f5e(0xcb3,'7JZb')])return;window[_0x330f5e(0x89e,'#&$8')][_0x330f5e(0xeca,'Oc5r')](_0x4fa3f8,0x1),renderSmartPreviewContent();}function renderSmartPreviewContent(){const _0x32d0c9=_0x225e24,_0x289403=window[_0x32d0c9(0xfa6,'M*BU')]||[],_0x252bd4=document[_0x32d0c9(0x11eb,'Mgu1')](_0x32d0c9(0x8a6,'I*r6'));if(!_0x252bd4)return;const _0x50fa2e=_0x54539e=>String(_0x54539e??'')[_0x32d0c9(0x431,'i%tL')](/[&<>"']/g,_0x55b864=>({'&':_0x32d0c9(0xf95,'y)UI'),'<':_0x32d0c9(0xba8,'kMoM'),'>':_0x32d0c9(0x202,'M1DA'),'\x22':_0x32d0c9(0xd8e,'7JZb'),'\x27':_0x32d0c9(0xe5a,'ySL*')}[_0x55b864])),_0x3d3640=_0x400d91=>getManualBetTypeOptions(getManualTypeKey(_0x400d91[_0x32d0c9(0xf3d,'5Ad)')]));let _0x187289=0x0;const _0x5076fd=new Map();_0x289403[_0x32d0c9(0xf82,'gL1S')]((_0x47f1b5,_0x290def)=>{const _0x41d4f9=_0x32d0c9,_0x549b71=_0x47f1b5[_0x41d4f9(0x33c,'M1DA')]||_0x41d4f9(0xf44,'OTP&')+_0x290def;if(!_0x5076fd[_0x41d4f9(0xeda,'mn5c')](_0x549b71))_0x5076fd[_0x41d4f9(0xc7b,'MHv!')](_0x549b71,[]);_0x5076fd[_0x41d4f9(0x31c,'wBCK')](_0x549b71)[_0x41d4f9(0x2df,'nR@W')]({'item':_0x47f1b5,'index':_0x290def});});let _0x469a5=0x0;const _0x565bda=[..._0x5076fd[_0x32d0c9(0xc07,'MfL&')]()][_0x32d0c9(0x412,'e6gp')](_0x2b837a=>{const _0xf89cba=_0x32d0c9;_0x469a5+=0x1;const _0x30de1a=_0xf89cba(0xe90,'mn5c')+String(_0x469a5)[_0xf89cba(0x81c,'OTP&')](0x2,'0'),_0x25fe06=[...new Set(_0x2b837a[_0xf89cba(0x118c,']Sv0')](_0x206aca=>_0x206aca[_0xf89cba(0x5cd,'u@TD')][_0xf89cba(0x1174,'I*r6')]))][_0xf89cba(0xf11,'2Lzj')](',\x20'),_0x56d72b=_0x2b837a[_0xf89cba(0x43a,'zNw(')](({item:_0xeffda3,index:_0x2110b1})=>{const _0x1b1b9c=_0xf89cba,_0x95a44c=_0xeffda3[_0x1b1b9c(0xc36,'Fj&C')]||document[_0x1b1b9c(0x11b2,'2Lzj')](_0x1b1b9c(0x66e,'M*BU'))?.[_0x1b1b9c(0x67b,'gL1S')]||'MT',_0x89f9fc=[...new Set([...getTodayStations(_0x95a44c),..._0xeffda3[_0x1b1b9c(0x756,'PX3c')]||[],...selectedStations])],_0x2dc18c=_0xeffda3[_0x1b1b9c(0x2d0,'y)UI')]?.[_0x1b1b9c(0x65a,'e6gp')]?_0xeffda3[_0x1b1b9c(0x84e,'7!Gb')]:selectedStations,_0x463457=calculateItemFinancials(_0xeffda3,_0x95a44c);_0x187289+=_0x463457[_0x1b1b9c(0xbdb,'zNw(')];const _0x506eef=_0x89f9fc[_0x1b1b9c(0x118c,']Sv0')](_0x3f3c5b=>_0x1b1b9c(0x11e4,'zNw(')+_0x50fa2e(_0x3f3c5b)+'\x22\x20'+(_0x2dc18c[_0x1b1b9c(0xb66,'fyWu')](_0x3f3c5b)?_0x1b1b9c(0x209,'I*r6'):'')+'>'+_0x50fa2e(STATION_ABBR[_0x3f3c5b]||_0x3f3c5b)+_0x1b1b9c(0x4f4,'5Ess'))[_0x1b1b9c(0x227,'PX3c')](''),_0xfab5ae=_0x2dc18c[_0x1b1b9c(0x1070,'BNmM')]?_0x2dc18c[_0x1b1b9c(0xbb6,'2Lzj')](_0x20fff6=>STATION_ABBR[_0x20fff6]||_0x20fff6)[_0x1b1b9c(0x10f1,'VWnK')]('+'):_0x1b1b9c(0x5f7,'K7h7');return _0x1b1b9c(0x1257,'WL8L')+(_0x2110b1%0x2?_0x1b1b9c(0xa0b,'Fj&C'):'')+_0x1b1b9c(0x607,'2Lzj')+(_0x2110b1+0x1)+_0x1b1b9c(0xcdc,'#Ux*')+_0x50fa2e(_0xeffda3[_0x1b1b9c(0x76d,'gL1S')])+_0x1b1b9c(0xf09,'5Ess')+_0x2110b1+_0x1b1b9c(0x407,'LyuC')+_0x2110b1+_0x1b1b9c(0xd4a,')U6s')+_0x2110b1+_0x1b1b9c(0xd0c,'cNV6')+_0x3d3640(_0xeffda3)+_0x1b1b9c(0x408,'Fj&C')+(Number(_0xeffda3[_0x1b1b9c(0x775,'WL8L')])||0x0)+_0x1b1b9c(0x76e,'7!Gb')+_0x2110b1+_0x1b1b9c(0xa39,'m1lh')+_0x2110b1+_0x1b1b9c(0xe5f,'%AH&')+_0x50fa2e(_0xfab5ae)+_0x1b1b9c(0x2bf,'M1DA')+_0x2110b1+_0x1b1b9c(0x2eb,'OTP&')+_0x506eef+_0x1b1b9c(0x1dd,']Sv0')+_0x463457[_0x1b1b9c(0x44e,'gL1S')]+_0x1b1b9c(0x605,'pj(#')+_0x463457[_0x1b1b9c(0x739,'ySL*')][_0x1b1b9c(0x982,'&SjD')]()+_0x1b1b9c(0x727,']Sv0')+_0x2110b1+_0x1b1b9c(0xec6,'u@TD');})[_0xf89cba(0xc35,'WL8L')](''),_0x402a10=_0x2b837a[_0xf89cba(0xc25,'e[5n')]((_0x85cc71,_0x12bf0d)=>_0x85cc71+calculateItemFinancials(_0x12bf0d[_0xf89cba(0x1083,'hCJL')],_0x12bf0d[_0xf89cba(0x3d2,'fyWu')][_0xf89cba(0x52b,'nR@W')]||'MT')[_0xf89cba(0xdc0,'OTP&')],0x0);return _0xf89cba(0xa2f,'MHv!')+_0x30de1a+_0xf89cba(0x236,'lm&&')+_0x50fa2e(_0x25fe06)+_0xf89cba(0x116d,'7JZb')+_0x2b837a[_0xf89cba(0xd47,'K7h7')]+_0xf89cba(0x39b,'WL8L')+_0x402a10[_0xf89cba(0x93b,'#&$8')]()+_0xf89cba(0x3ba,'M*BU')+_0x56d72b;})[_0x32d0c9(0x68d,'mn5c')]('');_0x252bd4[_0x32d0c9(0x107f,'Mgu1')]=_0x32d0c9(0x483,'lX[b')+_0x5076fd[_0x32d0c9(0x9f9,'7Xia')]+_0x32d0c9(0xb4f,'WL8L')+_0x289403[_0x32d0c9(0xcf8,'i%tL')]+_0x32d0c9(0x112d,'BNmM')+(_0x565bda||_0x32d0c9(0xfab,'K7h7'))+_0x32d0c9(0x101e,'%AH&')+_0x187289[_0x32d0c9(0xf67,'lX[b')]()+_0x32d0c9(0x3f9,'hCJL');}function showSmartPreview(_0x5c1466){const _0x323f35=_0x225e24;window[_0x323f35(0x10c3,'lX[b')]=_0x5c1466,showModal({'title':_0x323f35(0x1056,'iEe2'),'body':'','confirmText':_0x323f35(0x753,'VWnK'),'cancelText':_0x323f35(0xe7d,'7Xia'),'showCancel':!![],'confirmClass':_0x323f35(0xf54,'M1DA'),'onConfirm':()=>{const _0x4f2ef0=_0x323f35,_0x4e841e=window[_0x4f2ef0(0x89e,'#&$8')]||[];window[_0x4f2ef0(0x1045,'u@TD')]=null;if(_0x4e841e[_0x4f2ef0(0x368,'Fj&C')])commitSmartItems(_0x4e841e);resetModalSize();},'onCancel':()=>{const _0xd9b134=_0x323f35;window[_0xd9b134(0x51f,'7!Gb')]=null,resetModalSize();}}),renderSmartPreviewContent(),setTimeout(()=>{const _0xd23e9f=_0x323f35,_0x468205=document[_0xd23e9f(0x7e6,'wBCK')](_0xd23e9f(0x114e,'hCJL'));_0x468205&&(_0x468205['id']=_0xd23e9f(0x5dc,'i%tL'),_0x468205[_0xd23e9f(0xd4e,'I*r6')][_0xd23e9f(0xf4c,'mn5c')]=_0xd23e9f(0x3c7,'7JZb'),_0x468205[_0xd23e9f(0xc72,'#&$8')][_0xd23e9f(0xf94,'5Ad)')]=_0xd23e9f(0xe6a,'I*r6'));},0x0);}function commitSmartItems(_0x5e91f0){const _0x9c1b95=_0x225e24;if(!_0x5e91f0||_0x5e91f0[_0x9c1b95(0x1070,'BNmM')]===0x0)return;const _0x35bad7=typeof activeGroup!==_0x9c1b95(0x10dd,'5Ad)')?activeGroup:null;if(!_0x35bad7||!appData?.[_0x35bad7])return;const _0xba060=appData[_0x35bad7],_0x228284=new Date(),_0x1a6427=_0x228284[_0x9c1b95(0x8fc,'lX[b')](_0x9c1b95(0x2de,'K7h7'),{'hour':_0x9c1b95(0x852,'M1DA'),'minute':_0x9c1b95(0x916,'E5)l'),'second':_0x9c1b95(0x4ae,'5Ess')})+_0x9c1b95(0xe00,'7Xia')+_0x228284[_0x9c1b95(0x65e,'ySL*')](_0x9c1b95(0xd89,'u@TD'));_0x5e91f0[_0x9c1b95(0xce1,'BNmM')](_0x2bb7a3=>{const _0x1ddd67=_0x9c1b95;if(!_0x2bb7a3['id'])_0x2bb7a3['id']=_0x1ddd67(0xfc8,'#Ux*')+Date[_0x1ddd67(0x757,'2Lzj')]()+'_'+Math[_0x1ddd67(0x9b4,'MfL&')]()[_0x1ddd67(0x928,'mn5c')](0x24)[_0x1ddd67(0xbd1,']Sv0')](0x2,0x7);if(!_0x2bb7a3[_0x1ddd67(0x10a3,'hCJL')])_0x2bb7a3[_0x1ddd67(0xe74,'5Ess')]=_0x1a6427;if(!_0x2bb7a3[_0x1ddd67(0x83c,'Fj&C')])_0x2bb7a3[_0x1ddd67(0x958,'nR@W')]=Date[_0x1ddd67(0x541,'E5)l')]();_0x2bb7a3[_0x1ddd67(0x1245,'ySL*')]=![],_0x2bb7a3[_0x1ddd67(0xacd,'7JZb')]=0x0,_0x2bb7a3[_0x1ddd67(0x57d,'7JZb')]=0x0;});if(!Array[_0x9c1b95(0x641,'kMoM')](_0xba060[_0x9c1b95(0x34c,'lm&&')]))_0xba060[_0x9c1b95(0xfc0,'pj(#')]=[];_0xba060[_0x9c1b95(0x7d4,'M1DA')][_0x9c1b95(0x72c,'MfL&')]({'id':Date[_0x9c1b95(0x248,'#Ux*')](),'time':_0x1a6427,'region':_0x5e91f0[0x0]?.[_0x9c1b95(0xa41,'M*BU')]||'MT','items':_0x5e91f0});if(!Array[_0x9c1b95(0xd25,'5Ad)')](_0xba060[_0x9c1b95(0xf20,'Mgu1')]))_0xba060[_0x9c1b95(0xc2d,'M*BU')]=[];_0xba060[_0x9c1b95(0x33e,'MHv!')][_0x9c1b95(0xb5d,'e[5n')](..._0x5e91f0);const _0x1ee4d4=document[_0x9c1b95(0xb65,'i%tL')](_0x9c1b95(0x70e,'E5)l'));if(_0x1ee4d4)_0x1ee4d4[_0x9c1b95(0xcb7,'VWnK')]='';if(typeof recalculateTotals===_0x9c1b95(0xb90,'wBCK'))recalculateTotals(_0x35bad7);if(typeof renderMatrixTable===_0x9c1b95(0x118d,'Fj&C'))renderMatrixTable();if(typeof updateGrandSummary===_0x9c1b95(0xc0b,'y)UI'))updateGrandSummary();if(typeof saveAppDataToDB===_0x9c1b95(0xbf9,'5Ad)'))saveAppDataToDB();if(typeof calcCapitalShare===_0x9c1b95(0x797,'7JZb'))calcCapitalShare();if(typeof showToast===_0x9c1b95(0xd6b,'hCJL'))showToast(_0x9c1b95(0x2a9,'i%tL')+_0x5e91f0[_0x9c1b95(0xc94,'Mgu1')]+_0x9c1b95(0xd0d,'m1lh')+_0x35bad7,_0x9c1b95(0x56e,'MHv!'));}function confirmPendingInputDirect(_0x196b09){pendingInputItems=_0x196b09,confirmPendingInput();}function toggleSkipComparison(){const _0xc71c3d=_0x225e24;skipComparisonModal=!skipComparisonModal,typeof showToast===_0xc71c3d(0x1082,'VWnK')&&showToast(skipComparisonModal?_0xc71c3d(0xa6d,'VWnK'):_0xc71c3d(0xa91,'#Ux*'),_0xc71c3d(0xf96,'7Xia'));}function showInputHelp(){const _0x458f92=_0x225e24,_0x168af2=(_0x2a133a,_0x4fdb8e,_0xd33f9,_0x231acc)=>_0x458f92(0x50d,'MHv!')+_0x2a133a+_0x458f92(0xdca,'y)UI')+_0xd33f9+_0x458f92(0x531,')UVA')+_0x4fdb8e+_0x458f92(0xc18,'LyuC')+_0x231acc+_0x458f92(0x101f,'M1DA'),_0x6d069c=(_0xe3cd89,_0x282643)=>_0x458f92(0x743,'#&$8')+_0xe3cd89+_0x458f92(0x5ff,'#&$8')+_0x282643+_0x458f92(0x1f4,'K7h7'),_0x5ba08a=(_0x41a474,_0x39a9ee,_0xaf0bea,_0x28efb6)=>_0x458f92(0x778,'MfL&')+_0x41a474+_0x458f92(0x115f,'7JZb')+(_0x39a9ee?_0x458f92(0x10cd,'f#xl')+_0x39a9ee+_0x458f92(0x512,'2Lzj'):'')+_0x458f92(0x530,'cNV6')+_0xaf0bea+_0x458f92(0x4ef,'%AH&')+_0x28efb6+_0x458f92(0x1f4,'K7h7'),_0xd3a90c=_0x458f92(0xdbd,'5Ess')+_0x168af2('⌨️',_0x458f92(0x9bb,')UVA'),_0x458f92(0x9a2,'WL8L'),_0x458f92(0x96b,'e[5n')+_0x6d069c(_0x458f92(0x3de,'f#xl'),_0x458f92(0x773,'Oc5r'))+_0x458f92(0xda2,'OTP&')+_0x6d069c(_0x458f92(0xc1b,'nR@W'),_0x458f92(0x3c0,'VWnK'))+_0x458f92(0xd3b,'e[5n')+_0x6d069c(_0x458f92(0xd90,'wBCK'),_0x458f92(0x736,'pj(#'))+_0x458f92(0x308,'LyuC')+_0x6d069c(_0x458f92(0x961,'&SjD'),_0x458f92(0x9ee,'5Ess'))+_0x458f92(0xdb1,'u@TD')+_0x6d069c(_0x458f92(0x1101,'PX3c'),_0x458f92(0xcd6,'MHv!'))+_0x458f92(0xa3d,'#&$8')+_0x6d069c(_0x458f92(0xbb2,'5Ess'),_0x458f92(0x102b,'5Ess'))+_0x458f92(0x764,'5Ess')+_0x6d069c(_0x458f92(0xaa7,'Mgu1'),_0x458f92(0xc8f,'Fj&C'))+_0x458f92(0x3fe,'f#xl'))+_0x458f92(0xfb0,'I*r6')+_0x168af2('✍️',_0x458f92(0x398,'lm&&'),_0x458f92(0x118f,'e[5n'),_0x458f92(0xb86,'hCJL')+_0x5ba08a(_0x458f92(0x1048,'K7h7'),_0x458f92(0x290,'I*r6'),_0x458f92(0x404,'u@TD'),_0x458f92(0x4a0,'zNw('))+_0x458f92(0x1020,'m1lh')+_0x5ba08a(_0x458f92(0x648,'y)UI'),_0x458f92(0xd5c,'lX[b'),_0x458f92(0xf1f,')UVA'),_0x458f92(0xf37,'PX3c'))+_0x458f92(0x3ed,'MfL&')+_0x5ba08a(_0x458f92(0x7e2,'7!Gb'),_0x458f92(0x811,'pj(#'),_0x458f92(0x1124,'%AH&'),_0x458f92(0x49c,'kMoM'))+_0x458f92(0xfdc,'lX[b')+_0x5ba08a(_0x458f92(0x47e,'mn5c'),_0x458f92(0x20b,'WL8L'),'',_0x458f92(0xd9b,'BNmM'))+_0x458f92(0xbad,'M1DA')+_0x5ba08a(_0x458f92(0xec9,'OTP&'),'','',_0x458f92(0xa60,'f#xl'))+_0x458f92(0x1190,'7!Gb')+_0x5ba08a(_0x458f92(0x60d,'7Xia'),_0x458f92(0x419,'PX3c'),_0x458f92(0x7c5,'y)UI'),_0x458f92(0xd86,'I*r6'))+_0x458f92(0x5ae,'M*BU')+_0x5ba08a(_0x458f92(0xa15,'VWnK'),_0x458f92(0x706,'M*BU'),_0x458f92(0x7f2,'pj(#'),_0x458f92(0x1071,'i%tL'))+_0x458f92(0x5ae,'M*BU')+_0x5ba08a(_0x458f92(0x939,'MHv!'),'','',_0x458f92(0x10cf,'M1DA'))+_0x458f92(0x411,'VWnK')+_0x5ba08a(_0x458f92(0x8f3,'mn5c'),'','',_0x458f92(0xedd,'hCJL'))+_0x458f92(0xda2,'OTP&')+_0x5ba08a(_0x458f92(0x1232,'WL8L'),_0x458f92(0x6df,'lX[b'),_0x458f92(0xa59,'Oc5r'),_0x458f92(0x609,'7!Gb'))+_0x458f92(0xe8d,'&SjD')+_0x5ba08a(_0x458f92(0x1191,'gL1S'),_0x458f92(0x9cb,'ySL*'),_0x458f92(0xd65,'2Lzj'),_0x458f92(0xc47,'5Ad)'))+_0x458f92(0x207,'MHv!')+_0x5ba08a(_0x458f92(0x3b3,')U6s'),_0x458f92(0x74a,'%AH&'),_0x458f92(0xea8,'E5)l'),_0x458f92(0x5bf,'m1lh'))+_0x458f92(0xdff,'iEe2')+_0x5ba08a(_0x458f92(0x8a9,'iEe2'),_0x458f92(0xe1c,'iEe2'),'',_0x458f92(0x6e2,'BNmM'))+_0x458f92(0x8ad,'i%tL')+_0x5ba08a(_0x458f92(0x525,'Oc5r'),_0x458f92(0x373,'y)UI'),_0x458f92(0xe83,'#Ux*'),_0x458f92(0x6b9,'lX[b'))+_0x458f92(0xb36,'f#xl')+_0x5ba08a(_0x458f92(0x35f,'5Ess'),_0x458f92(0xb9a,'kMoM'),_0x458f92(0x93e,'MHv!'),_0x458f92(0xae5,'7JZb'))+_0x458f92(0x89a,'y)UI'))+_0x458f92(0x3e2,'7JZb')+_0x168af2('⚡',_0x458f92(0xa7c,'5Ad)'),_0x458f92(0x4ca,'i%tL'),_0x458f92(0xeae,'e6gp'))+_0x458f92(0x5f4,')UVA')+_0x168af2('📊',_0x458f92(0x876,'#Ux*'),_0x458f92(0x21f,'lm&&'),_0x458f92(0x9cf,'M1DA'))+_0x458f92(0xd73,'lm&&');typeof showModal===_0x458f92(0xc0b,'y)UI')&&showModal({'title':_0x458f92(0x433,'kMoM'),'body':_0xd3a90c,'confirmText':_0x458f92(0xc3e,'lm&&'),'showCancel':![],'wide':!![]});}function deleteBetItem(_0x2e3c5b){const _0x5c25d4=_0x225e24,_0x28c491=typeof activeGroup!==_0x5c25d4(0xd11,'e[5n')?activeGroup:null;if(!_0x28c491||!appData?.[_0x28c491])return;const _0x290ffd=appData[_0x28c491];if(!Array[_0x5c25d4(0xcf7,'%AH&')](_0x290ffd[_0x5c25d4(0x10fe,'Fj&C')])||!_0x290ffd[_0x5c25d4(0x97f,'%AH&')][_0x2e3c5b])return;_0x290ffd[_0x5c25d4(0x10ec,'u@TD')][_0x5c25d4(0x5f2,'E5)l')](_0x2e3c5b,0x1);if(typeof recalculateTotals===_0x5c25d4(0xca5,'cNV6'))recalculateTotals(_0x28c491);if(typeof renderMatrixTable===_0x5c25d4(0xd93,'i%tL'))renderMatrixTable();if(typeof saveAppDataToDB===_0x5c25d4(0x36a,'iEe2'))saveAppDataToDB();if(typeof showToast===_0x5c25d4(0x1111,']Sv0'))showToast(_0x5c25d4(0x8e0,'K7h7'),_0x5c25d4(0xbdd,'cNV6'));}function renderMatrixTable(){const _0x4ca99f=_0x225e24,_0x172c16=document[_0x4ca99f(0x836,'y)UI')](_0x4ca99f(0x691,'PX3c'));if(!_0x172c16)return;const _0x4d053d=appData[activeGroup];if(!_0x4d053d||!_0x4d053d[_0x4ca99f(0x1131,'m1lh')]||_0x4d053d[_0x4ca99f(0x5a0,'iEe2')][_0x4ca99f(0x1102,'M*BU')]===0x0){_0x172c16[_0x4ca99f(0xdf0,'5Ess')]=_0x4ca99f(0xc42,')U6s');if(typeof updateGrandSummary===_0x4ca99f(0x479,'kMoM'))updateGrandSummary();if(typeof calcCapitalShare===_0x4ca99f(0x1082,'VWnK'))calcCapitalShare();return;}let _0x45e922=0x0,_0x15eb7c=0x0,_0x106c32=[];const _0x3a8100=_0x4d053d[_0x4ca99f(0xfc1,'PX3c')][_0x4ca99f(0xd47,'K7h7')];for(let _0x9fc53b=_0x3a8100-0x1;_0x9fc53b>=0x0;_0x9fc53b--){const _0x2b49c3=_0x4d053d[_0x4ca99f(0xcf2,'MHv!')][_0x9fc53b],_0x414e53=new Map((_0x4d053d[_0x4ca99f(0xc2d,'M*BU')]||[])[_0x4ca99f(0x77f,'#Ux*')](_0x38cf30=>[_0x38cf30['id'],_0x38cf30])),_0x4a4899=(_0x2b49c3[_0x4ca99f(0x843,'kMoM')]||[])[_0x4ca99f(0xf3b,'&SjD')](_0x49cdfe=>_0x414e53[_0x4ca99f(0x2d9,'K7h7')](_0x49cdfe['id'])||_0x49cdfe);if(_0x4a4899[_0x4ca99f(0x2a4,'WL8L')]===0x0)continue;let _0x1b9a5b=0x0,_0x138dc3=0x0;const _0x15d94d=_0x4a4899[_0x4ca99f(0x38b,'7Xia')]((_0x55c12b,_0x4bff77)=>{const _0x521c26=_0x4ca99f,_0x1a7ec1=BET_TYPES[_0x55c12b[_0x521c26(0xb4e,'mn5c')]]?.[_0x521c26(0xb2a,'Mgu1')]||0x12,_0x36d65c=_0x55c12b[_0x521c26(0x4bb,'lX[b')]&&_0x55c12b[_0x521c26(0xeef,'LyuC')][_0x521c26(0x66b,'5Ess')]>0x0?_0x55c12b[_0x521c26(0xa37,'BNmM')][_0x521c26(0xc98,'zNw(')]:0x1,_0x316a77=(_0x55c12b[_0x521c26(0x8ec,'gL1S')]||0x0)*0x3e8*_0x1a7ec1*_0x36d65c,_0xe8ce38=_0x55c12b[_0x521c26(0xab6,'&SjD')]||0x0,_0x2f781a=_0xe8ce38-_0x316a77;_0x1b9a5b+=_0x316a77,_0x138dc3+=_0xe8ce38;const _0x4dd804=_0x55c12b[_0x521c26(0x578,'u@TD')],_0xc94145=_0x4dd804?_0x521c26(0xb67,')U6s'):_0x521c26(0xf76,')U6s'),_0x5f1193=BET_TYPES[_0x55c12b[_0x521c26(0x4bd,'OTP&')]]?_0x55c12b[_0x521c26(0x2b6,'VWnK')]:mapBetType(_0x55c12b[_0x521c26(0x74f,'7Xia')]),_0xfbb61a=Object[_0x521c26(0x10b2,'f#xl')](BET_TYPES)[_0x521c26(0x362,')U6s')](([_0x13630a,_0x54a343])=>_0x521c26(0x912,')U6s')+_0x13630a+'\x22\x20'+(_0x5f1193===_0x13630a?_0x521c26(0x39a,'%AH&'):'')+'>'+_0x54a343[_0x521c26(0x1100,'zNw(')]+_0x521c26(0x39c,'lm&&'))[_0x521c26(0x33d,')U6s')](''),_0x2ca357=_0xe8ce38>0x0?_0x521c26(0x9ed,'iEe2')+(_0x2f781a>=0x0?_0x521c26(0x51b,'iEe2'):_0x521c26(0x306,'7Xia'))+_0x521c26(0x524,'y)UI')+(_0x2f781a>=0x0?'+':'')+_0x2f781a[_0x521c26(0xe31,'E5)l')]()+_0x521c26(0x5b0,'i%tL'):_0x521c26(0x70f,'m1lh')+_0x316a77[_0x521c26(0xe71,'WL8L')]()+_0x521c26(0x537,']Sv0');return _0x521c26(0x729,'MHv!')+(_0x4bff77+0x1)+_0x521c26(0xfd8,'f#xl')+_0x9fc53b+_0x521c26(0x8a4,'e6gp')+_0x4bff77+_0x521c26(0x556,'&SjD')+(_0x55c12b[_0x521c26(0x62c,'7Xia')]||'MT')+_0x521c26(0x7a0,'VWnK')+_0xc94145+'\x22>'+_0x55c12b[_0x521c26(0x333,'MHv!')]+_0x521c26(0x9dd,'MfL&')+(_0x55c12b[_0x521c26(0xf87,'OTP&')]===0x2?'✓':'')+_0x521c26(0xbed,'Fj&C')+(_0x55c12b[_0x521c26(0x8e5,'5Ad)')]===0x3?'✓':'')+_0x521c26(0x10ad,'VWnK')+(['da','dx',_0x521c26(0x870,'hCJL'),_0x521c26(0x713,'&SjD')][_0x521c26(0x75e,'wBCK')](_0x55c12b[_0x521c26(0x2b6,'VWnK')])?'✓':'')+_0x521c26(0x11c1,'&SjD')+_0x9fc53b+',\x20'+_0x4bff77+_0x521c26(0x5d2,'7!Gb')+_0xfbb61a+_0x521c26(0x1017,'ySL*')+_0x55c12b[_0x521c26(0xb3b,'i%tL')]+_0x521c26(0xf71,'M*BU')+_0x316a77[_0x521c26(0x340,'Oc5r')]()+_0x521c26(0x1118,'WL8L')+(_0xe8ce38>0x0?_0x521c26(0xc81,'MHv!'):_0x521c26(0x3ea,'7Xia'))+_0x521c26(0x1243,'y)UI')+(_0xe8ce38>0x0?_0x521c26(0x573,'Fj&C'):_0x521c26(0xa58,'E5)l'))+_0x521c26(0x5b9,'7!Gb')+(_0xe8ce38>0x0?_0xe8ce38[_0x521c26(0xef0,'pj(#')]()+'\x20₫':'—')+_0x521c26(0x113f,'lm&&')+_0x2ca357+_0x521c26(0xe37,'iEe2')+_0x9fc53b+',\x20'+_0x4bff77+_0x521c26(0x400,'iEe2');})[_0x4ca99f(0xa9a,'BNmM')]('');_0x45e922+=_0x1b9a5b,_0x15eb7c+=_0x138dc3;const _0x508c28=_0x138dc3-_0x1b9a5b,_0x344369=_0x4a4899[0x0][_0x4ca99f(0x38c,'&SjD')]?.[_0x4ca99f(0x5a1,'#&$8')](_0x1af88f=>typeof STATION_ABBR!==_0x4ca99f(0xd11,'e[5n')&&STATION_ABBR[_0x1af88f]?STATION_ABBR[_0x1af88f]:_0x1af88f)[_0x4ca99f(0xe98,'Fj&C')](',\x20')||_0x4ca99f(0x10b7,'LyuC'),_0xf78fcb=_0x4ca99f(0x501,'MHv!')+(_0x9fc53b+0x1)+_0x4ca99f(0xc12,'i%tL')+_0x2b49c3[_0x4ca99f(0x258,'i%tL')]+_0x4ca99f(0x61b,'WL8L')+_0x344369+_0x4ca99f(0xaa4,'m1lh')+(_0x4a4899[0x0][_0x4ca99f(0x4fe,')U6s')]?.[_0x4ca99f(0xaf1,'cNV6')]||0x1)+_0x4ca99f(0xc9e,'WL8L')+_0x1b9a5b[_0x4ca99f(0xd01,'7JZb')]()+_0x4ca99f(0xc8b,'Mgu1')+(_0x508c28>=0x0?_0x4ca99f(0xe05,'pj(#'):_0x4ca99f(0xc9b,'M1DA'))+_0x4ca99f(0xf50,'M1DA')+(_0x508c28>=0x0?'+':'')+_0x508c28[_0x4ca99f(0x1137,'cNV6')]()+_0x4ca99f(0xfad,'mn5c')+_0x9fc53b+_0x4ca99f(0x9b3,'MHv!');_0x106c32[_0x4ca99f(0x728,'u@TD')](_0xf78fcb+_0x15d94d);}const _0x4dab59=_0x15eb7c-_0x45e922,_0xb5fdc6=_0x4ca99f(0xfd1,'7!Gb')+_0x45e922[_0x4ca99f(0x1095,'PX3c')]()+_0x4ca99f(0x3c4,'Oc5r')+(_0x15eb7c>0x0?_0x15eb7c[_0x4ca99f(0x11d5,'VWnK')]()+'\x20₫':'—')+_0x4ca99f(0xf5c,'PX3c')+(_0x4dab59>=0x0?_0x4ca99f(0xba2,'E5)l'):_0x4ca99f(0x56b,'PX3c'))+_0x4ca99f(0x394,'VWnK')+(_0x4dab59>=0x0?'+':'')+_0x4dab59[_0x4ca99f(0xff8,'OTP&')]()+_0x4ca99f(0xafa,'i%tL');_0x106c32[_0x4ca99f(0xa28,'Mgu1')](_0xb5fdc6),_0x172c16[_0x4ca99f(0x79e,'MHv!')]=_0x106c32[_0x4ca99f(0xae7,'7Xia')]('');if(typeof updateGrandSummary===_0x4ca99f(0x821,'pj(#'))updateGrandSummary();if(typeof calcCapitalShare===_0x4ca99f(0x312,'#&$8'))calcCapitalShare();}function renderDetailPagination(_0x23707f,_0x5985c1){const _0x51eb62=_0x225e24,_0x12c2e0=document[_0x51eb62(0xa7d,'7JZb')](_0x51eb62(0x1de,'WL8L'));if(!_0x12c2e0)return;if(_0x23707f<=0x1){_0x12c2e0[_0x51eb62(0x232,'I*r6')]=_0x51eb62(0xdce,'nR@W')+_0x5985c1+_0x51eb62(0x116c,')UVA');return;}_0x12c2e0[_0x51eb62(0x1c3,')U6s')]=_0x51eb62(0xa73,'M*BU')+(detailPage<=0x1?_0x51eb62(0x208,'BNmM'):'')+_0x51eb62(0x88a,'fyWu')+detailPage+_0x51eb62(0x11db,')UVA')+_0x23707f+_0x51eb62(0xaf0,'M*BU')+_0x5985c1+_0x51eb62(0x820,'7!Gb')+(detailPage>=_0x23707f?_0x51eb62(0x1043,'5Ess'):'')+_0x51eb62(0x215,'VWnK');}function changeDetailPage(_0x54bef0){detailPage+=_0x54bef0,renderMatrixTable();}function getTableItem(_0x5c0000,_0x15f32a){const _0x5d3899=_0x225e24;return appData[activeGroup]?.[_0x5d3899(0x628,'MfL&')]?.[_0x5c0000]?.[_0x5d3899(0x90b,'fyWu')]?.[_0x15f32a];}function escapeHtml(_0x36ec95){const _0x589177=_0x225e24;return String(_0x36ec95??'')[_0x589177(0xda1,')UVA')](/[&<>'"]/g,_0x56a3c1=>({'&':_0x589177(0x395,'BNmM'),'<':_0x589177(0xe3e,'M*BU'),'>':_0x589177(0x8a1,'f#xl'),'\x27':_0x589177(0xe2a,'Oc5r'),'\x22':_0x589177(0xebe,'iEe2')}[_0x56a3c1]));}function filterDetailTable(_0x3b2cdf){const _0x4a5395=_0x225e24;detailSearchTerm=String(_0x3b2cdf||'')[_0x4a5395(0x10fd,'nR@W')]()[_0x4a5395(0x11f4,'hCJL')](_0x4a5395(0xb14,'gL1S')),currentMatrixPage=0x1,renderMatrixTable(0x1);}function clearDetailSearch(){const _0x164126=_0x225e24,_0x3eb5ce=document[_0x164126(0x5c1,'M*BU')](_0x164126(0x542,'I*r6'));if(_0x3eb5ce)_0x3eb5ce[_0x164126(0x1092,'Mgu1')]='';filterDetailTable('');}function filterDetailByMatch(_0x3f3253){const _0x8a7369=_0x225e24;detailMatchFilter=_0x3f3253===_0x8a7369(0x564,'OTP&')||_0x3f3253===_0x8a7369(0x1e3,'7JZb')?_0x3f3253:_0x8a7369(0x60e,'MfL&'),currentMatrixPage=0x1,renderMatrixTable(0x1);}function hasActiveDetailFilter(){const _0x18e2f7=_0x225e24;return Boolean(detailSearchTerm)||detailMatchFilter!==_0x18e2f7(0x30d,'e[5n');}function detailItemMatches(_0x44a4a1,_0x46b209){const _0x3c00bd=_0x225e24;if(detailMatchFilter===_0x3c00bd(0x1182,'Oc5r')&&!_0x44a4a1[_0x3c00bd(0xd13,'E5)l')])return![];if(detailMatchFilter===_0x3c00bd(0x1e3,'7JZb')&&_0x44a4a1[_0x3c00bd(0x226,'lm&&')])return![];if(!detailSearchTerm)return!![];if(/^\d{2,3}$/[_0x3c00bd(0x511,'OTP&')](detailSearchTerm))return String(_0x44a4a1[_0x3c00bd(0x3ae,'M*BU')]||'')===detailSearchTerm;const _0x80d9d0=Array[_0x3c00bd(0xe92,'WL8L')](_0x44a4a1[_0x3c00bd(0xdea,'kMoM')])?_0x44a4a1[_0x3c00bd(0x111f,'zNw(')][_0x3c00bd(0xbea,'e[5n')]('\x20'):'',_0x532cac=[_0x44a4a1[_0x3c00bd(0x9ac,'fyWu')],_0x44a4a1[_0x3c00bd(0x2a3,'u@TD')],_0x80d9d0,_0x44a4a1[_0x3c00bd(0xfed,'hCJL')],_0x44a4a1[_0x3c00bd(0xc03,'iEe2')],_0x46b209?.[_0x3c00bd(0xa98,'ySL*')],_0x46b209?.[_0x3c00bd(0x6d0,'5Ess')],BET_TYPES[_0x44a4a1[_0x3c00bd(0xd3c,'E5)l')]]?.[_0x3c00bd(0xbf1,'ySL*')]][_0x3c00bd(0x3e4,'PX3c')](Boolean)[_0x3c00bd(0x68d,'mn5c')]('\x20')[_0x3c00bd(0x830,'nR@W')](_0x3c00bd(0xa5d,'MfL&'));return _0x532cac[_0x3c00bd(0xa84,'m1lh')](detailSearchTerm);}function updateDetailItemField(_0x4448f0,_0x1fb189,_0x236be9,_0x5b47e6){const _0x29ae27=_0x225e24,_0xf77bc6=getTableItem(_0x4448f0,_0x1fb189);if(!_0xf77bc6)return;if(_0x236be9===_0x29ae27(0xd1b,'lX[b')){const _0x3563a4=Math[_0x29ae27(0xcee,'zNw(')](0x0,parseFloat(_0x5b47e6)||0x0);_0xf77bc6[_0x29ae27(0x936,')UVA')]=_0x3563a4,_0xf77bc6[_0x29ae27(0xac7,'K7h7')]=_0x3563a4*0x3e8;}else _0x236be9===_0x29ae27(0xab5,'%AH&')&&(_0xf77bc6[_0x29ae27(0xca2,'PX3c')]=String(_0x5b47e6||'')[_0x29ae27(0x79a,'2Lzj')]());_0xf77bc6[_0x29ae27(0x79c,'mn5c')]=!![];const _0x410ef9=appData[activeGroup]?.[_0x29ae27(0x1247,'7Xia')]?.[_0x29ae27(0xcd1,'K7h7')](_0xaa293b=>_0xaa293b['id']===_0xf77bc6['id']);if(_0x410ef9)Object[_0x29ae27(0xbc7,'MHv!')](_0x410ef9,_0xf77bc6);recalculateTotals(activeGroup),saveAppDataToDB(),renderMatrixTable(currentMatrixPage),showToast(_0x236be9===_0x29ae27(0x54b,'M1DA')?_0x29ae27(0x9eb,'iEe2'):_0x29ae27(0xfe8,')UVA'),_0x29ae27(0xe63,'7JZb'));}function updateDetailItemNumber(_0x1e3a7b,_0x21dca4,_0x2e24bd,_0x3b3c4d=![]){const _0x22b602=_0x225e24,_0x47aa05=getTableItem(_0x1e3a7b,_0x21dca4);if(!_0x47aa05)return;const _0x24a528=String(_0x2e24bd||'')[_0x22b602(0x667,']Sv0')](/\D/g,'')[_0x22b602(0x657,')U6s')](0x0,0x3);if(!_0x24a528)return;_0x47aa05[_0x22b602(0xb10,'lm&&')]=_0x24a528[_0x22b602(0x7af,'wBCK')](_0x24a528[_0x22b602(0x66b,'5Ess')]>=0x3?0x3:0x2,'0'),_0x47aa05[_0x22b602(0x765,'Oc5r')]=_0x47aa05[_0x22b602(0x28e,'iEe2')][_0x22b602(0xfe5,'5Ad)')],_0x47aa05[_0x22b602(0x931,'Mgu1')]=!![];const _0x52bbcf=appData[activeGroup]?.[_0x22b602(0x1254,'I*r6')]?.[_0x22b602(0x2dd,'zNw(')](_0x36368a=>_0x36368a['id']===_0x47aa05['id']);if(_0x52bbcf)Object[_0x22b602(0x1253,'LyuC')](_0x52bbcf,_0x47aa05);_0x3b3c4d?(recalculateTotals(activeGroup),saveAppDataToDB(),renderMatrixTable(currentMatrixPage),showToast(_0x22b602(0x38d,'#Ux*'),_0x22b602(0xefa,'fyWu'))):saveAppDataToDBDebounced();}function updateDetailItemFieldLive(_0x44e7a7,_0x488805,_0x1cd15a,_0x3fa8f8){const _0x160799=_0x225e24,_0x5c9ca1=getTableItem(_0x44e7a7,_0x488805);if(!_0x5c9ca1)return;if(_0x1cd15a===_0x160799(0x6d7,'f#xl')){const _0x5ba293=Math[_0x160799(0x490,'ySL*')](0x0,parseFloat(_0x3fa8f8)||0x0);_0x5c9ca1[_0x160799(0x532,'M*BU')]=_0x5ba293,_0x5c9ca1[_0x160799(0x2b4,'VWnK')]=_0x5ba293*0x3e8;}else _0x1cd15a===_0x160799(0x269,'e6gp')&&(_0x5c9ca1[_0x160799(0x1220,'MHv!')]=String(_0x3fa8f8||''));_0x5c9ca1[_0x160799(0xe16,'kMoM')]=!![];const _0x32994b=appData[activeGroup]?.[_0x160799(0xc2d,'M*BU')]?.[_0x160799(0x36b,'e[5n')](_0x59fc56=>_0x59fc56['id']===_0x5c9ca1['id']);if(_0x32994b)Object[_0x160799(0x87c,'OTP&')](_0x32994b,_0x5c9ca1);saveAppDataToDBDebounced();}function updateLiveClock(){const _0x53dc0e=_0x225e24,_0x196afd=document[_0x53dc0e(0x732,'hCJL')](_0x53dc0e(0x8ae,'PX3c'));if(!_0x196afd)return;const _0x3a082f=new Date();_0x196afd[_0x53dc0e(0x30e,'hCJL')]=_0x3a082f[_0x53dc0e(0xb16,'E5)l')](_0x53dc0e(0x618,'E5)l'),{'hour':_0x53dc0e(0xb7a,'K7h7'),'minute':_0x53dc0e(0x496,'Oc5r'),'second':_0x53dc0e(0xe0c,'BNmM')})+'\x20\x20'+_0x3a082f[_0x53dc0e(0x29c,'e[5n')](_0x53dc0e(0xc17,'y)UI'));}setInterval(updateLiveClock,0x3e8),document[_0x225e24(0x5ec,'kMoM')](_0x225e24(0x100d,'hCJL'),updateLiveClock);function updateBetField(_0x4e1dc5,_0x4f2fac,_0x37af94,_0x4b50bd){const _0x40a947=_0x225e24,_0x51e1f3=getTableItem(_0x4e1dc5,_0x4f2fac);if(!_0x51e1f3)return;if(_0x37af94===_0x40a947(0x78a,'WL8L'))_0x51e1f3[_0x40a947(0x4b1,'mn5c')]=Math[_0x40a947(0xee7,'nR@W')](0x0,parseFloat(_0x4b50bd)||0x0);if(_0x37af94===_0x40a947(0x48f,'M*BU'))_0x51e1f3[_0x40a947(0x1046,'VWnK')]=_0x4b50bd[_0x40a947(0x32f,'PX3c')](/[,;]+/)[_0x40a947(0xe7b,'gL1S')](_0x6ca7cf=>_0x6ca7cf[_0x40a947(0x9be,'pj(#')]())[_0x40a947(0x968,']Sv0')](Boolean);_0x51e1f3[_0x40a947(0xde9,'#&$8')]=_0x51e1f3[_0x40a947(0xde9,'#&$8')]||_0x51e1f3[_0x40a947(0x54c,'5Ad)')],syncBetList(),recalculateTotals(activeGroup),saveAppDataToDB(),updateDetailTotals(),updateGrandSummary();}function handleTableNumberPaste(_0x50190a,_0x5a090b,_0x3d191b){const _0x58c27f=_0x225e24,_0x30c643=getTableItem(_0x50190a,_0x5a090b);if(!_0x30c643)return;const _0x5cae06=_0x3d191b[_0x58c27f(0x90f,'mn5c')](/\d{1,4}/g)||[];if(!_0x5cae06[_0x58c27f(0xc68,'y)UI')])return;_0x30c643[_0x58c27f(0x44f,'7!Gb')]=_0x5cae06[0x0][_0x58c27f(0xe88,'&SjD')](_0x5cae06[0x0][_0x58c27f(0x65a,'e6gp')]>=0x3?_0x5cae06[0x0][_0x58c27f(0x633,'mn5c')]:0x2,'0'),_0x30c643[_0x58c27f(0x543,'Fj&C')]=_0x30c643[_0x58c27f(0x10ae,'E5)l')][_0x58c27f(0xd47,'K7h7')]>=0x3?0x3:0x2,_0x5cae06[_0x58c27f(0xd27,'e[5n')](0x1)[_0x58c27f(0x8ca,'Fj&C')](_0x4e8364=>{const _0x12d7da=_0x58c27f,_0x1bc905=JSON[_0x12d7da(0x61e,'wBCK')](JSON[_0x12d7da(0x494,'MHv!')](_0x30c643));_0x1bc905[_0x12d7da(0xf42,'MfL&')]=_0x4e8364[_0x12d7da(0xa90,'7Xia')](_0x4e8364[_0x12d7da(0xc98,'zNw(')]>=0x3?_0x4e8364[_0x12d7da(0xd41,']Sv0')]:0x2,'0'),_0x1bc905[_0x12d7da(0x8e1,'BNmM')]=_0x1bc905[_0x12d7da(0x371,'lX[b')][_0x12d7da(0x5df,'#Ux*')]>=0x3?0x3:0x2,_0x1bc905[_0x12d7da(0xd4f,'kMoM')]=![],_0x1bc905[_0x12d7da(0x72e,'lX[b')]=0x0,appData[activeGroup][_0x12d7da(0x109d,'E5)l')][_0x50190a][_0x12d7da(0x671,'e6gp')][_0x12d7da(0xdd6,'Oc5r')](_0x1bc905);}),syncBetList(),renderMatrixTable(),saveAppDataToDB();}function setBetDigits(_0x38190f,_0x542447,_0x407df8,_0x58864e){const _0x5d2ceb=_0x225e24,_0x3ea6c7=getTableItem(_0x38190f,_0x542447);if(!_0x3ea6c7||!_0x58864e)return;_0x3ea6c7[_0x5d2ceb(0x41a,'Mgu1')]=_0x407df8,_0x3ea6c7[_0x5d2ceb(0x7cd,'M1DA')]=_0x3ea6c7[_0x5d2ceb(0xf0e,'%AH&')][_0x5d2ceb(0x763,'I*r6')](_0x407df8,'0')[_0x5d2ceb(0xa8c,'zNw(')](-_0x407df8),syncBetList(),renderMatrixTable(),saveAppDataToDB();}function setBetType(_0x272076,_0x173054,_0x27659b){const _0x4e40e7=_0x225e24,_0x28fa82=getTableItem(_0x272076,_0x173054);if(!_0x28fa82)return;_0x28fa82[_0x4e40e7(0x292,'wBCK')]=_0x27659b,syncBetList(),saveAppDataToDB();}function syncBetList(){const _0x4eb749=_0x225e24,_0x2f2f92=appData[activeGroup];_0x2f2f92[_0x4eb749(0x1247,'7Xia')]=_0x2f2f92[_0x4eb749(0x715,'7!Gb')][_0x4eb749(0x104d,'f#xl')](_0x4ca736=>_0x4ca736[_0x4eb749(0x981,'mn5c')][_0x4eb749(0x1246,'MHv!')](_0x3b917c=>_0x3b917c[_0x4eb749(0x439,'#&$8')]>0x0));}function addManualBetRow(){const _0x5a86fd=_0x225e24,_0x333c29=document[_0x5a86fd(0xba7,'5Ad)')](_0x5a86fd(0x3fc,'Fj&C'));if(!_0x333c29)return showToast(_0x5a86fd(0xd10,'m1lh'),_0x5a86fd(0x979,'7!Gb'));renderManualStations(),document[_0x5a86fd(0x125b,'BNmM')](_0x5a86fd(0x420,'MHv!'))[_0x5a86fd(0x67b,'gL1S')]='',document[_0x5a86fd(0x11d4,'pj(#')](_0x5a86fd(0xa12,'hCJL'))[_0x5a86fd(0xe4c,'i%tL')]='5',document[_0x5a86fd(0x732,'hCJL')](_0x5a86fd(0x11a5,'fyWu'))[_0x5a86fd(0x235,'lm&&')]='k',document[_0x5a86fd(0xb7c,'7Xia')](_0x5a86fd(0xc2f,'m1lh'))[_0x5a86fd(0x5a7,'u@TD')]='bl',document[_0x5a86fd(0x295,'MfL&')](_0x5a86fd(0x336,'lX[b'))[_0x5a86fd(0x86f,'gL1S')]='',document[_0x5a86fd(0xff2,'5Ess')](_0x5a86fd(0x823,'kMoM'))[_0x5a86fd(0xd03,'lm&&')]='',_0x333c29[_0x5a86fd(0x683,'LyuC')][_0x5a86fd(0x1026,'K7h7')]=_0x5a86fd(0x1063,'mn5c'),setTimeout(()=>document[_0x5a86fd(0xa25,')U6s')](_0x5a86fd(0xb91,'e[5n'))[_0x5a86fd(0xee2,'E5)l')](),0x64);}function closeManualModal(){const _0x5131ee=_0x225e24;document[_0x5131ee(0xce3,'&SjD')](_0x5131ee(0x927,'wBCK'))[_0x5131ee(0xe76,'BNmM')][_0x5131ee(0xf17,']Sv0')]=_0x5131ee(0xe2d,'fyWu');}function renderManualStations(){const _0x1ef59d=_0x225e24,_0x33a308=document[_0x1ef59d(0xba7,'5Ad)')](_0x1ef59d(0x949,'i%tL'));if(!_0x33a308)return;const _0x543792=document[_0x1ef59d(0xf2e,'hCJL')](_0x1ef59d(0xd3d,'u@TD'))?.[_0x1ef59d(0x366,'%AH&')]||'MT',_0x166494=getTodayStations(_0x543792);let _0x5bf732=selectedStations[_0x1ef59d(0xd26,'7!Gb')]>0x0?[...selectedStations]:_0x166494;if(_0x5bf732[_0x1ef59d(0xa5b,'Oc5r')]===0x0){_0x33a308[_0x1ef59d(0xb01,'#Ux*')]=_0x1ef59d(0xf46,'M1DA');return;}_0x33a308[_0x1ef59d(0x79e,'MHv!')]=_0x5bf732[_0x1ef59d(0xf3b,'&SjD')](_0x25e457=>{const _0x3ab8cf=_0x1ef59d,_0x347426=STATION_ABBR[_0x25e457]||_0x25e457[_0x3ab8cf(0x476,'MHv!')](0x0,0x3),_0x3c48f6=selectedStations[_0x3ab8cf(0x8d9,'7!Gb')](_0x25e457)||_0x166494[_0x3ab8cf(0xcb5,'E5)l')](_0x25e457)?_0x3ab8cf(0xace,'e6gp'):'';return _0x3ab8cf(0x477,'5Ess')+_0x25e457+'\x22\x20'+_0x3c48f6+_0x3ab8cf(0x73d,'%AH&')+_0x347426+_0x3ab8cf(0x341,'f#xl');})[_0x1ef59d(0xa9a,'BNmM')]('');}function confirmManualInput(){const _0x420911=_0x225e24,_0x499921=document[_0x420911(0xe3b,'lX[b')](_0x420911(0x1051,'7JZb')),_0x4cd48e=document[_0x420911(0x836,'y)UI')](_0x420911(0x62f,'hCJL')),_0x2e22fd=document[_0x420911(0x8de,')UVA')](_0x420911(0x34b,'5Ad)')),_0x60b1d=document[_0x420911(0xf2a,'Fj&C')](_0x420911(0xb2f,'#Ux*'));if(!_0x499921||!_0x4cd48e||!_0x2e22fd)return showToast(_0x420911(0x624,'e[5n'),_0x420911(0xf18,'cNV6'));const _0x2f8107=_0x499921[_0x420911(0xb59,'7JZb')][_0x420911(0x1bd,'Mgu1')](),_0xa5d75=parseFloat(_0x2e22fd[_0x420911(0xcb7,'VWnK')])||0x0,_0x1d602d=_0x60b1d?_0x60b1d[_0x420911(0xf2c,'e6gp')]:'k';if(!_0x2f8107||_0xa5d75<=0x0)return showToast(_0x420911(0xe0d,'E5)l'),_0x420911(0xaad,'WL8L'));const _0x738e02=_0x2f8107[_0x420911(0x611,'Mgu1')](/\d{2,4}/g)||[];if(_0x738e02[_0x420911(0x259,'kMoM')]===0x0)return showToast(_0x420911(0xebb,'Oc5r'),_0x420911(0x91b,'5Ess'));let _0x2656a6=[];if(_0x4cd48e[_0x420911(0xc74,'&SjD')])_0x2656a6=Array[_0x420911(0xa01,'y)UI')](_0x4cd48e[_0x420911(0xdd5,'e[5n')])[_0x420911(0xdd9,'BNmM')](_0x339b19=>_0x339b19[_0x420911(0x323,'kMoM')]);else _0x4cd48e[_0x420911(0x5a7,'u@TD')]&&(_0x2656a6=[_0x4cd48e[_0x420911(0xf2c,'e6gp')]]);if(_0x2656a6[_0x420911(0x10f4,'E5)l')]===0x0)return showToast(_0x420911(0x276,'MHv!'),_0x420911(0x979,'7!Gb'));const _0xe145bc=Array[_0x420911(0x1218,'7JZb')](document[_0x420911(0x838,'%AH&')](_0x420911(0x851,'&SjD')))[_0x420911(0xa79,'WL8L')](_0x2d4208=>_0x2d4208[_0x420911(0xb34,'e[5n')]);if(_0xe145bc[_0x420911(0x1102,'M*BU')]===0x0)return showToast(_0x420911(0xab3,'I*r6'),_0x420911(0x972,')UVA'));const _0x49e870=document[_0x420911(0x973,')UVA')](_0x420911(0x41f,'wBCK'))?.[_0x420911(0xc2b,')U6s')]||'MT',_0x41d90c=_0x1d602d==='k'||_0x1d602d==='n'?0x3e8:0x1,_0x2e1548=_0xa5d75,_0x5b4915=appData[activeGroup];if(!_0x5b4915[_0x420911(0xd64,'e[5n')])_0x5b4915[_0x420911(0x8a5,'OTP&')]=[];if(!_0x5b4915[_0x420911(0x7df,'5Ad)')])_0x5b4915[_0x420911(0x109d,'E5)l')]=[];const _0x40bc71=[],_0x4ab178=Date[_0x420911(0x403,'wBCK')](),_0x320c44=new Date(),_0x2a1d1e=_0x320c44[_0x420911(0xb1c,'hCJL')](_0x420911(0x4d8,'e6gp'),{'hour':_0x420911(0x723,'ySL*'),'minute':_0x420911(0x916,'E5)l'),'second':_0x420911(0x11a7,'I*r6')})+_0x420911(0x1e4,'PX3c')+_0x320c44[_0x420911(0x1171,'5Ad)')](_0x420911(0x78e,'7JZb'));_0x738e02[_0x420911(0xf82,'gL1S')](_0x14cb43=>{const _0x38daad=_0x420911,_0x2f2ff8=_0x14cb43[_0x38daad(0x62b,'nR@W')]>=0x3?0x3:0x2,_0x1177c9=_0x14cb43[_0x38daad(0xbf5,'5Ad)')](_0x2f2ff8===0x2?0x2:0x3,'0');_0x2656a6[_0x38daad(0xee1,'M*BU')](_0x2eb931=>{const _0x52816f=_0x38daad,_0x5694e3={'num':_0x1177c9,'digits':_0x2eb931==='3c'||_0x2eb931==='4c'?0x3:_0x2f2ff8,'originalAmount':_0x2e1548,'amount':_0x2e1548*0x3e8,'region':_0x49e870,'betType':_0x2eb931,'note':'','prizeTag':'','matched':![],'matchCount':0x0,'winAmount':0x0,'stations':[..._0xe145bc],'prizeInfo':'','createdAt':_0x2a1d1e,'createdAtTimestamp':_0x4ab178,'id':_0x52816f(0x8ce,'5Ad)')+_0x4ab178+'_'+Math[_0x52816f(0x1086,'y)UI')]()[_0x52816f(0x7d5,'gL1S')](0x24)[_0x52816f(0x92b,'nR@W')](0x2,0x7)};_0x40bc71[_0x52816f(0xb5d,'e[5n')](_0x5694e3),_0x5b4915[_0x52816f(0x10a7,'7!Gb')][_0x52816f(0x10a8,'7Xia')](_0x5694e3);});}),_0x5b4915[_0x420911(0x2c6,'Mgu1')][_0x420911(0xf92,'i%tL')]({'id':_0x4ab178,'time':_0x2a1d1e,'region':_0x49e870,'items':_0x40bc71});if(typeof recalculateTotals===_0x420911(0x96c,')UVA'))recalculateTotals(activeGroup);if(typeof renderMatrixTable===_0x420911(0xc1f,'5Ess'))renderMatrixTable();if(typeof updateDetailTotals===_0x420911(0x882,'E5)l'))updateDetailTotals();if(typeof updateGrandSummary===_0x420911(0xd46,'m1lh'))updateGrandSummary();if(typeof saveAppDataToDB===_0x420911(0x70c,')U6s'))saveAppDataToDB();if(typeof closeManualModal===_0x420911(0xfbf,'M*BU'))closeManualModal();showToast(_0x420911(0x1148,'5Ess')+_0x40bc71[_0x420911(0x259,'kMoM')]+_0x420911(0xd09,'K7h7')+_0x738e02[_0x420911(0xe18,'lm&&')]+_0x420911(0x6dd,'pj(#')+_0x2656a6[_0x420911(0xaf1,'cNV6')]+_0x420911(0x1c6,'MHv!'),_0x420911(0x7f9,'M1DA'));}function updateDetailTotals(){const _0x2a3c36=_0x225e24,_0x4eb361=appData[activeGroup],_0x4677fb=_0xe568a0=>document[_0x2a3c36(0x711,'Oc5r')](_0xe568a0);if(!_0x4eb361){if(_0x4677fb(_0x2a3c36(0x7e1,'BNmM')))_0x4677fb(_0x2a3c36(0x2c8,')UVA'))[_0x2a3c36(0xe75,'lX[b')]='0';if(_0x4677fb(_0x2a3c36(0x6c7,'lm&&')))_0x4677fb(_0x2a3c36(0xf04,'#Ux*'))[_0x2a3c36(0xe9f,'7!Gb')]='0';if(_0x4677fb(_0x2a3c36(0x85b,'%AH&')))_0x4677fb(_0x2a3c36(0xb2d,'Fj&C'))[_0x2a3c36(0x2a1,'e[5n')]=_0x2a3c36(0xcce,'MfL&');if(_0x4677fb(_0x2a3c36(0x30a,'M*BU')))_0x4677fb(_0x2a3c36(0xb1f,'kMoM'))[_0x2a3c36(0x246,'E5)l')]=_0x2a3c36(0x4f9,'Oc5r');if(_0x4677fb(_0x2a3c36(0x621,'&SjD')))_0x4677fb(_0x2a3c36(0x6b6,'Oc5r'))[_0x2a3c36(0xe64,'7JZb')]=_0x2a3c36(0x6f9,'mn5c');if(_0x4677fb(_0x2a3c36(0x104a,'Oc5r')))_0x4677fb(_0x2a3c36(0xca1,')UVA'))[_0x2a3c36(0xf0a,'WL8L')]=_0x2a3c36(0x445,'Mgu1');return;}recalculateTotals(activeGroup);const _0x4ce2de=(_0x4eb361[_0x2a3c36(0x758,'LyuC')]||[])[_0x2a3c36(0x792,'7Xia')],_0x2f9730=(_0x4eb361[_0x2a3c36(0xefc,'7JZb')]||[])[_0x2a3c36(0xb8d,'MfL&')],_0x5b665d=_0x4eb361[_0x2a3c36(0x10a0,'#&$8')][_0x2a3c36(0xd75,'Oc5r')]||0x0,_0x3484f6=_0x4eb361[_0x2a3c36(0x592,'Oc5r')][_0x2a3c36(0x3c9,'M*BU')]||0x0,_0x4b01a2=_0x5b665d-_0x3484f6;if(_0x4677fb(_0x2a3c36(0x328,'nR@W')))_0x4677fb(_0x2a3c36(0x386,'Oc5r'))[_0x2a3c36(0xda0,'VWnK')]=_0x4ce2de[_0x2a3c36(0x88e,'kMoM')]();if(_0x4677fb(_0x2a3c36(0x4db,'pj(#')))_0x4677fb(_0x2a3c36(0x4ff,'K7h7'))[_0x2a3c36(0x123d,'LyuC')]=_0x2f9730[_0x2a3c36(0x45b,'2Lzj')]();if(_0x4677fb(_0x2a3c36(0xbfa,'K7h7')))_0x4677fb(_0x2a3c36(0xf45,'MHv!'))[_0x2a3c36(0xcfb,'2Lzj')]=_0x5b665d[_0x2a3c36(0x45b,'2Lzj')]()+'\x20₫';if(_0x4677fb(_0x2a3c36(0x124b,'hCJL')))_0x4677fb(_0x2a3c36(0x9a9,'zNw('))[_0x2a3c36(0x11fd,'f#xl')]=_0x3484f6>0x0?_0x3484f6[_0x2a3c36(0xe20,'I*r6')]()+'\x20₫':'—';_0x4677fb(_0x2a3c36(0x43d,'i%tL'))&&(_0x4677fb(_0x2a3c36(0x82b,'7Xia'))[_0x2a3c36(0x370,'%AH&')]=(_0x4b01a2>=0x0?'+':'')+_0x4b01a2[_0x2a3c36(0xe71,'WL8L')]()+'\x20₫',_0x4677fb(_0x2a3c36(0xec5,'y)UI'))[_0x2a3c36(0xd84,'5Ess')][_0x2a3c36(0x7c2,'7JZb')]=_0x4b01a2>=0x0?_0x2a3c36(0xa42,'fyWu'):_0x2a3c36(0x9b1,'K7h7'));const _0x5414c0=parseFloat(_0x4677fb(_0x2a3c36(0xa9e,'#&$8'))?.[_0x2a3c36(0xf93,'zNw(')]||0x0),_0x45de34=Math[_0x2a3c36(0x910,'PX3c')](_0x4b01a2*_0x5414c0/0x64);if(_0x4677fb(_0x2a3c36(0xaff,'Fj&C'))){const _0x22432b=_0x45de34>0x0?'+':'';_0x4677fb(_0x2a3c36(0xd5f,'WL8L'))[_0x2a3c36(0x363,'&SjD')]=_0x22432b+_0x45de34[_0x2a3c36(0x7f6,'LyuC')]()+'\x20₫';}}function deleteSession(_0x5dfb17){const _0x4c7eaf=_0x225e24,_0xf6d8d0=appData[activeGroup];if(!_0xf6d8d0||!_0xf6d8d0[_0x4c7eaf(0xcf2,'MHv!')][_0x5dfb17])return;if(!confirm(_0x4c7eaf(0x2ae,'e6gp')+(_0x5dfb17+0x1)+'?'))return;const _0x5c4559=_0xf6d8d0[_0x4c7eaf(0x10c9,'OTP&')][_0x4c7eaf(0x1242,'PX3c')](_0x5dfb17,0x1)[0x0];_0x5c4559[_0x4c7eaf(0x2b5,'K7h7')][_0x4c7eaf(0x857,'ySL*')](_0x4331c9=>{const _0x1346b7=_0x4c7eaf,_0x2c139b=_0xf6d8d0[_0x1346b7(0x597,'iEe2')][_0x1346b7(0xa63,'MfL&')](_0xb52ce3=>_0xb52ce3[_0x1346b7(0xba1,'cNV6')]===_0x4331c9[_0x1346b7(0x11fc,'u@TD')]&&_0xb52ce3[_0x1346b7(0xfd5,'#Ux*')]===_0x4331c9[_0x1346b7(0x7b6,'Mgu1')]&&_0xb52ce3[_0x1346b7(0x10b9,'m1lh')]===_0x4331c9[_0x1346b7(0xd9a,'BNmM')]);if(_0x2c139b>-0x1)_0xf6d8d0[_0x1346b7(0x803,'LyuC')][_0x1346b7(0x5e3,'Mgu1')](_0x2c139b,0x1);}),recalculateTotals(activeGroup),renderMatrixTable(),updateGrandSummary(),saveAppDataToDB(),showToast(_0x4c7eaf(0xb76,'I*r6'),_0x4c7eaf(0xc2a,'e6gp'));}function deleteItemFromSession(_0x49740a,_0x3e8dd3){const _0x677c68=_0x225e24,_0x10170b=appData[activeGroup];if(!_0x10170b||!_0x10170b[_0x677c68(0x2a7,'5Ess')][_0x49740a])return;const _0x5a3e30=_0x10170b[_0x677c68(0x355,'zNw(')][_0x49740a][_0x677c68(0xf6a,'LyuC')][_0x3e8dd3];_0x10170b[_0x677c68(0x275,'y)UI')][_0x49740a][_0x677c68(0x3bd,'iEe2')][_0x677c68(0xfe7,'#&$8')](_0x3e8dd3,0x1);const _0x1a2317=_0x10170b[_0x677c68(0x8c6,'MfL&')][_0x677c68(0xaba,'OTP&')](_0xb126f7=>_0xb126f7[_0x677c68(0x544,'ySL*')]===_0x5a3e30[_0x677c68(0x214,'7Xia')]&&_0xb126f7[_0x677c68(0xcb6,'ySL*')]===_0x5a3e30[_0x677c68(0xaa2,')U6s')]&&_0xb126f7[_0x677c68(0x484,']Sv0')]===_0x5a3e30[_0x677c68(0x8f0,'gL1S')]);if(_0x1a2317>-0x1)_0x10170b[_0x677c68(0xf8d,'gL1S')][_0x677c68(0x9c9,'5Ad)')](_0x1a2317,0x1);_0x10170b[_0x677c68(0x115e,'f#xl')][_0x49740a][_0x677c68(0x549,'5Ess')][_0x677c68(0x5df,'#Ux*')]===0x0&&_0x10170b[_0x677c68(0x715,'7!Gb')][_0x677c68(0x114c,'&SjD')](_0x49740a,0x1),recalculateTotals(activeGroup),renderMatrixTable(),updateGrandSummary(),saveAppDataToDB(),showToast(_0x677c68(0x49f,'#&$8'),_0x677c68(0x6af,'MfL&'));}function recalculateTotals(_0x594b5e){const _0x5923ef=_0x225e24,_0x99b6ec=_0x594b5e||activeGroup,_0x247df1=appData[_0x99b6ec];if(!_0x247df1)return;let _0x20e6b6=0x0,_0x20aeb8=0x0;const _0x39c229=_0x247df1[_0x5923ef(0xb7e,'nR@W')]||[];for(let _0x41ada7=0x0;_0x41ada7<_0x39c229[_0x5923ef(0xcd8,')UVA')];_0x41ada7++){const _0x1e4b65=_0x39c229[_0x41ada7],_0x3ee8d3=calculateItemFinancials(_0x1e4b65,_0x1e4b65[_0x5923ef(0x1135,'#&$8')]||'MT');_0x20e6b6+=_0x3ee8d3[_0x5923ef(0xf10,'mn5c')],_0x1e4b65[_0x5923ef(0x1ea,'I*r6')]&&(_0x20aeb8+=Number(_0x1e4b65[_0x5923ef(0x2c0,'5Ad)')])||_0x3ee8d3[_0x5923ef(0x71f,'M*BU')]||0x0);}if(!_0x247df1[_0x5923ef(0x6a2,'y)UI')])_0x247df1[_0x5923ef(0x604,'OTP&')]={};_0x247df1[_0x5923ef(0x769,'lX[b')][_0x5923ef(0x10c6,'7!Gb')]=_0x20e6b6,_0x247df1[_0x5923ef(0xbc5,'MHv!')][_0x5923ef(0x414,'m1lh')]=_0x20aeb8,_0x247df1[_0x5923ef(0x98b,'iEe2')][_0x5923ef(0xbe5,'m1lh')]=_0x20aeb8-_0x20e6b6,_0x247df1[_0x5923ef(0x2a6,'7JZb')][_0x5923ef(0x493,'7!Gb')]=_0x20e6b6,_0x247df1[_0x5923ef(0x224,'f#xl')][_0x5923ef(0x68f,']Sv0')]=0x0;}function updateGrandSummary(){const _0x5d41e2=_0x225e24,_0x40175b=document[_0x5d41e2(0x9f6,'lm&&')](_0x5d41e2(0x6a4,'gL1S'));if(!_0x40175b)return;let _0x1f0634='';for(let _0x825043=0x0;_0x825043<groups[_0x5d41e2(0xa5b,'Oc5r')];_0x825043++){const _0x285759=groups[_0x825043],_0x48efef=appData[_0x285759];if(!_0x48efef){_0x1f0634+=_0x5d41e2(0xe1f,'7JZb')+_0x285759+_0x5d41e2(0x785,'WL8L')+_0x285759+_0x5d41e2(0xd6e,'7Xia');continue;}if(typeof recalculateTotals===_0x5d41e2(0xa95,'lX[b'))recalculateTotals(_0x285759);const _0x582357=_0x48efef[_0x5d41e2(0x1be,'gL1S')]||{},_0x2b8f2b=Number(_0x582357[_0x5d41e2(0x1f0,'wBCK')])||0x0,_0x5d8ad7=Number(_0x582357[_0x5d41e2(0x94c,'Mgu1')])||0x0,_0x773b56=Number(_0x582357[_0x5d41e2(0xf9e,'K7h7')])||_0x2b8f2b+_0x5d8ad7,_0x32ea8d=Number(_0x582357[_0x5d41e2(0x943,'i%tL')])||0x0,_0x188b81=_0x773b56-_0x32ea8d,_0x85f50a=(_0x48efef[_0x5d41e2(0x751,'M1DA')]||[])[_0x5d41e2(0xd41,']Sv0')]>0x0,_0x20a077=_0x32ea8d>0x0,_0x42d6a1=_0x188b81>0x0?_0x5d41e2(0x3fb,'cNV6')+_0x188b81[_0x5d41e2(0x93b,'#&$8')]()+_0x5d41e2(0xb00,'hCJL'):_0x188b81<0x0?_0x5d41e2(0x24e,'MHv!')+Math[_0x5d41e2(0x309,'Fj&C')](_0x188b81)[_0x5d41e2(0xce7,'u@TD')]()+_0x5d41e2(0x4af,'Fj&C'):_0x5d41e2(0x2a5,'M*BU'),_0x4e917e=_0x20a077?_0x5d41e2(0x639,'e[5n'):_0x85f50a?_0x5d41e2(0xa0c,'5Ess'):_0x5d41e2(0xde1,'y)UI');let _0xe57cab=_0x5d41e2(0xd45,'K7h7');if(_0x285759===activeGroup)_0xe57cab+=_0x5d41e2(0xf2f,'M1DA');else _0x20a077&&(_0xe57cab+=_0x5d41e2(0x429,'7JZb'));_0x1f0634+=_0x5d41e2(0x883,'nR@W')+_0xe57cab+_0x5d41e2(0xf6c,'zNw(')+_0x285759+_0x5d41e2(0x6ac,'7JZb')+_0x285759+_0x5d41e2(0x326,']Sv0')+(_0x285759===activeGroup?'\x20←':'')+_0x5d41e2(0x1176,'e[5n')+_0x2b8f2b[_0x5d41e2(0x951,'nR@W')]()+_0x5d41e2(0xaf5,'gL1S')+(_0x5d8ad7>0x0?_0x5d8ad7[_0x5d41e2(0x2a8,'e6gp')]():'—')+_0x5d41e2(0xffb,'kMoM')+_0x32ea8d[_0x5d41e2(0x1154,'MfL&')]()+_0x5d41e2(0x3c8,'5Ess')+_0x42d6a1+_0x5d41e2(0xd20,'y)UI')+_0x4e917e+_0x5d41e2(0xfbb,'7Xia');}_0x40175b[_0x5d41e2(0x867,'e[5n')]=_0x1f0634;}function parseKQXS(_0x113268){const _0x4d4bf7=_0x225e24,_0x1e1dd5=extractKQXSMeta(_0x113268),_0x344d88=_0x1e1dd5[_0x4d4bf7(0x1021,'Oc5r')][_0x4d4bf7(0xaf1,'cNV6')]?_0x1e1dd5[_0x4d4bf7(0x1021,'Oc5r')]:[null],_0x2d0070=[],_0x5edf17={'ĐB':[0x5,0x6],'G1':[0x5],'G2':[0x5],'G3':[0x5],'G4':[0x4,0x5],'G5':[0x4],'G6':[0x3,0x4],'G7':[0x2,0x3],'G8':[0x2]};let _0x2c21f1=String(_0x113268)[_0x4d4bf7(0x1069,'lX[b')](/Mã ĐB:[\s\S]*$/gi,'')[_0x4d4bf7(0xd72,'e[5n')](/[＊*]/g,'\x20')[_0x4d4bf7(0x3b9,'LyuC')](/(?<=^|[ \t\n])G\s*\.?\s*([1-8])(?=[ \t\n]|$)/gi,_0x4d4bf7(0xe89,'mn5c'))[_0x4d4bf7(0x942,'M*BU')](/(?<=^|[ \t\n])(?:Đ\s*\.?\s*B|DB)(?=[ \t\n]|$)/gi,'ĐB')[_0x4d4bf7(0x1235,'hCJL')](/(ĐẦU\s*ĐUÔI|ĐẦU|ĐUÔI)/gi,_0x4d4bf7(0x425,'PX3c'))[_0x4d4bf7(0x952,'7!Gb')](/(?<=^|[ \t\n])(ĐB|G[1-8])([0-9]+)/g,_0x4d4bf7(0x3b2,'e6gp'))[_0x4d4bf7(0x92e,')U6s')](/([0-9]+)(ĐB|G[1-8])(?=[ \t\n]|$)/g,_0x4d4bf7(0xa1b,'M*BU'));const _0x23a9c6=/(?<=^|[ \t\n])(ĐB|G[1-8])(?=[ \t\n]|$)/g,_0x30adad=[];let _0x44d951;while(_0x44d951=_0x23a9c6[_0x4d4bf7(0x904,'cNV6')](_0x2c21f1)){_0x30adad[_0x4d4bf7(0x471,'zNw(')]({'prize':_0x44d951[0x1],'start':_0x44d951[_0x4d4bf7(0xdf5,'hCJL')],'end':_0x44d951[_0x4d4bf7(0x1bc,'u@TD')]+_0x44d951[0x0][_0x4d4bf7(0x1102,'M*BU')]});}for(let _0x36409c=0x0;_0x36409c<_0x30adad[_0x4d4bf7(0x1241,'7JZb')];_0x36409c++){const _0x418ed0=_0x30adad[_0x36409c][_0x4d4bf7(0x75d,'lX[b')],_0x481a30=_0x30adad[_0x36409c][_0x4d4bf7(0x344,'gL1S')],_0x3de1=_0x36409c+0x1<_0x30adad[_0x4d4bf7(0xc94,'Mgu1')]?_0x30adad[_0x36409c+0x1][_0x4d4bf7(0x1ed,')UVA')]:_0x2c21f1[_0x4d4bf7(0xdd2,'hCJL')],_0x5f5643=_0x2c21f1[_0x4d4bf7(0x1139,'7Xia')](_0x481a30,_0x3de1),_0x195c8f=_0x5edf17[_0x418ed0]||[];let _0x4a2b7d=_0x5f5643[_0x4d4bf7(0x104f,'&SjD')]('\x09');if(_0x4a2b7d[_0x4d4bf7(0xcd8,')UVA')]&&_0x4a2b7d[0x0][_0x4d4bf7(0x1062,'VWnK')]()==='')_0x4a2b7d[_0x4d4bf7(0x1117,'OTP&')]();if(_0x344d88[_0x4d4bf7(0x124c,'LyuC')]>0x1&&_0x4a2b7d[_0x4d4bf7(0x368,'Fj&C')]===0x1){const _0x5f4da1=(_0x5f5643[_0x4d4bf7(0x123f,'pj(#')](/\d+/g)||[])[_0x4d4bf7(0x107e,'lX[b')](_0xb37417=>_0x195c8f[_0x4d4bf7(0xa84,'m1lh')](_0xb37417[_0x4d4bf7(0x9bd,'MHv!')]));_0x5f4da1[_0x4d4bf7(0x61c,'fyWu')]((_0x4eece9,_0x186214)=>{const _0x369f07=_0x4d4bf7;_0x2d0070[_0x369f07(0x11f7,'7JZb')]({'number':_0x4eece9,'prize':_0x418ed0,'station':_0x344d88[_0x186214%_0x344d88[_0x369f07(0xb03,'PX3c')]]||null,'dateStr':_0x1e1dd5[_0x369f07(0xc44,'7Xia')]||null});});continue;}_0x4a2b7d[_0x4d4bf7(0x6d4,'wBCK')]((_0x582815,_0x31f0c8)=>{const _0x277442=_0x4d4bf7,_0x2375e2=_0x31f0c8<_0x344d88[_0x277442(0xd41,']Sv0')]?_0x344d88[_0x31f0c8]:null,_0x37bcbc=(_0x582815[_0x277442(0xcd9,'nR@W')](/\d+/g)||[])[_0x277442(0x316,'&SjD')](_0x2d599e=>_0x195c8f[_0x277442(0xfeb,'iEe2')](_0x2d599e[_0x277442(0x351,'e[5n')]));_0x37bcbc[_0x277442(0xe79,')U6s')](_0x3500c2=>{const _0x209ca1=_0x277442;_0x2d0070[_0x209ca1(0xa28,'Mgu1')]({'number':_0x3500c2,'prize':_0x418ed0,'station':_0x2375e2||null,'dateStr':_0x1e1dd5[_0x209ca1(0xf9b,')U6s')]||null});});});}return window[_0x4d4bf7(0x6a8,'Oc5r')]=_0x1e1dd5,_0x2d0070;}function resolveKQXSDateStr(_0x372ef1){const _0x17baca=_0x225e24;let _0xdc601d=_0x372ef1[_0x17baca(0x510,'hCJL')](/ngày\s*(\d{1,2})[\/\-](\d{1,2})(?:[\/\-](\d{2,4}))?/i)||_0x372ef1[_0x17baca(0x94d,'&SjD')](/(\d{1,2})[\/\-](\d{1,2})[\/\-](\d{2,4})/)||_0x372ef1[_0x17baca(0xe01,'fyWu')](/(\d{1,2})[\/\-](\d{1,2})(?!\s*[\/\-]?\d)/);if(!_0xdc601d)return null;const _0x318971=parseInt(_0xdc601d[0x1],0xa),_0x444ad7=parseInt(_0xdc601d[0x2],0xa);if(!_0x318971||!_0x444ad7||_0x318971>0x1f||_0x444ad7>0xc)return null;const _0x35a870=new Date();let _0x40c634=_0xdc601d[0x3]?parseInt(_0xdc601d[0x3],0xa):_0x35a870[_0x17baca(0x217,')U6s')]();if(_0xdc601d[0x3]&&_0xdc601d[0x3][_0x17baca(0x2c4,'VWnK')]===0x2)_0x40c634+=0x7d0;if(!_0xdc601d[0x3]){const _0x2d91bf=new Date(_0x40c634,_0x444ad7-0x1,_0x318971);if((_0x2d91bf-_0x35a870)/0x5265c00>0xc8)_0x40c634-=0x1;}return String(_0x318971)[_0x17baca(0xb09,'cNV6')](0x2,'0')+'/'+String(_0x444ad7)[_0x17baca(0xd68,'#&$8')](0x2,'0')+'/'+_0x40c634;}function extractKQXSMeta(_0x36f6ee){const _0x1251b1=_0x225e24,_0x29f382=String(_0x36f6ee||''),_0x36a7b7=typeof getResultRegion===_0x1251b1(0x70c,')U6s')?getResultRegion(_0x29f382):null,_0x3d67c3=resolveKQXSDateStr(_0x29f382),_0x50cfbb=[[_0x1251b1(0x1cb,'5Ess'),_0x1251b1(0xa85,'lX[b')],[_0x1251b1(0x115b,'2Lzj'),_0x1251b1(0x709,'f#xl')],[_0x1251b1(0x3e7,'Fj&C'),_0x1251b1(0x7ef,'Mgu1')],[_0x1251b1(0xbe3,'E5)l'),_0x1251b1(0xe6c,']Sv0')],[_0x1251b1(0xf40,'MfL&'),_0x1251b1(0x1256,'nR@W')],[_0x1251b1(0x30c,'iEe2'),_0x1251b1(0x28d,'&SjD')],[_0x1251b1(0x71e,'iEe2'),_0x1251b1(0xe26,'5Ad)')],[_0x1251b1(0xee3,'MfL&'),_0x1251b1(0x9b7,'f#xl')],[_0x1251b1(0xfee,'zNw('),_0x1251b1(0xaed,'f#xl')],[_0x1251b1(0xbf0,'cNV6'),_0x1251b1(0x34a,'ySL*')],[_0x1251b1(0x7a8,'7Xia'),_0x1251b1(0x9ef,']Sv0')],[_0x1251b1(0x7b3,']Sv0'),_0x1251b1(0xb24,'gL1S')],[_0x1251b1(0xf16,'I*r6'),_0x1251b1(0x11e0,'pj(#')],[_0x1251b1(0xeb0,'M1DA'),_0x1251b1(0xfcf,'7!Gb')],[_0x1251b1(0x787,'e6gp'),_0x1251b1(0xf25,'MHv!')],[_0x1251b1(0xb95,'PX3c'),_0x1251b1(0x1f9,'y)UI')],[_0x1251b1(0x61d,'K7h7'),_0x1251b1(0x840,'#&$8')],[_0x1251b1(0x947,'MfL&'),_0x1251b1(0xcb9,'lX[b')],[_0x1251b1(0x298,'I*r6'),_0x1251b1(0x4d4,'%AH&')],[_0x1251b1(0xb70,'BNmM'),_0x1251b1(0x10db,'7!Gb')],[_0x1251b1(0x48e,'mn5c'),_0x1251b1(0x8bc,'wBCK')],[_0x1251b1(0x354,')UVA'),_0x1251b1(0x7d7,')UVA')],[_0x1251b1(0xc26,'Fj&C'),_0x1251b1(0xc6a,'WL8L')],[_0x1251b1(0x11cf,'#&$8'),_0x1251b1(0x892,'pj(#')],[_0x1251b1(0xdcd,'&SjD'),_0x1251b1(0x379,'7Xia')],[_0x1251b1(0x1089,'e[5n'),_0x1251b1(0xece,'e6gp')],[_0x1251b1(0x35c,'5Ad)'),_0x1251b1(0x78b,'u@TD')],[_0x1251b1(0x1099,'y)UI'),_0x1251b1(0x871,'M*BU')],[_0x1251b1(0x750,'e6gp'),_0x1251b1(0x8ed,'7JZb')],[_0x1251b1(0x817,'Oc5r'),_0x1251b1(0xe9b,'pj(#')],[_0x1251b1(0x505,'y)UI'),_0x1251b1(0x829,'e6gp')],[_0x1251b1(0xa54,'lX[b'),_0x1251b1(0xbf7,'7!Gb')],[_0x1251b1(0x8c1,'hCJL'),_0x1251b1(0xe95,'PX3c')],[_0x1251b1(0x4eb,'kMoM'),_0x1251b1(0x41c,'Mgu1')],[_0x1251b1(0xb58,'lm&&'),_0x1251b1(0x5c6,'gL1S')],[_0x1251b1(0x9d6,'cNV6'),_0x1251b1(0xe72,'cNV6')],[_0x1251b1(0x365,'OTP&'),_0x1251b1(0x901,'e6gp')],[_0x1251b1(0x4f3,'BNmM'),_0x1251b1(0xe19,'7Xia')],[_0x1251b1(0xae8,'wBCK'),_0x1251b1(0x10e8,'PX3c')],[_0x1251b1(0x42d,'#Ux*'),_0x1251b1(0x11c4,'&SjD')],[_0x1251b1(0x4da,'K7h7'),_0x1251b1(0x1076,'#&$8')],[_0x1251b1(0x1078,'iEe2'),_0x1251b1(0xf28,'fyWu')],[_0x1251b1(0xe35,'#Ux*'),_0x1251b1(0x688,'kMoM')],[_0x1251b1(0x96f,'7JZb'),_0x1251b1(0x2d7,'zNw(')],[_0x1251b1(0x886,'OTP&'),_0x1251b1(0x460,'5Ess')],[_0x1251b1(0x3ab,'5Ad)'),_0x1251b1(0x3aa,'kMoM')],[_0x1251b1(0xd96,'E5)l'),_0x1251b1(0x1ee,'zNw(')],[_0x1251b1(0xddc,'e6gp'),_0x1251b1(0x55c,'5Ess')],[_0x1251b1(0xe1a,'cNV6'),_0x1251b1(0xb11,'#Ux*')],[_0x1251b1(0xade,'7Xia'),_0x1251b1(0x1014,'u@TD')]],_0x20c6bd=_0x29f382[_0x1251b1(0x536,'f#xl')]()[_0x1251b1(0x8a8,'Oc5r')](_0x1251b1(0x999,'OTP&'))[_0x1251b1(0xa5f,'Fj&C')](/[\u0300-\u036f]/g,''),_0x358470=[];_0x50cfbb[_0x1251b1(0x9aa,'mn5c')](([_0x55e804,_0x675586])=>{const _0x4ad14f=_0x1251b1,_0x463f53=_0x55e804[_0x4ad14f(0x86a,'u@TD')](_0x4ad14f(0xd71,'f#xl'))[_0x4ad14f(0x942,'M*BU')](/[\u0300-\u036f]/g,''),_0x22d40a=_0x20c6bd[_0x4ad14f(0x8d3,'f#xl')](_0x463f53);_0x22d40a>=0x0&&!_0x358470[_0x4ad14f(0x37d,'MfL&')](_0x5a4113=>_0x5a4113[_0x4ad14f(0xd12,'WL8L')]===_0x675586)&&_0x358470[_0x4ad14f(0xafb,'#&$8')]({'idx':_0x22d40a,'full':_0x675586});}),_0x358470[_0x1251b1(0x78d,')UVA')]((_0x2137e8,_0x27bed7)=>_0x2137e8[_0x1251b1(0x3a7,'7!Gb')]-_0x27bed7[_0x1251b1(0x9c7,'MHv!')]);const _0x47179d=_0x358470[_0x1251b1(0x255,'wBCK')](_0x32dbdc=>_0x32dbdc[_0x1251b1(0xa29,'PX3c')]);return{'region':_0x36a7b7,'dateStr':_0x3d67c3,'stations':_0x47179d};}function renderWinningLog(){const _0x1ffb05=_0x225e24,_0x53f994=document[_0x1ffb05(0xb7c,'7Xia')](_0x1ffb05(0xaec,'nR@W'));if(!_0x53f994)return;let _0x31f20a=0x0,_0x4b581f=0x0,_0x2d23e8=0x0,_0x431cdf=0x0;const _0x112060=[];groups[_0x1ffb05(0x5a6,'hCJL')](_0x9a2c97=>{const _0x163ef1=_0x1ffb05,_0x578ca7=appData[_0x9a2c97];if(!_0x578ca7||!_0x578ca7[_0x163ef1(0x5dd,'cNV6')])return;const _0x145c95=_0x578ca7[_0x163ef1(0x10fe,'Fj&C')][_0x163ef1(0x458,'#Ux*')](_0x36a7af=>_0x36a7af[_0x163ef1(0x5eb,'LyuC')]&&(_0x36a7af[_0x163ef1(0xb7f,'M1DA')]||0x0)>0x0);if(_0x145c95[_0x163ef1(0x10f4,'E5)l')]===0x0)return;_0x431cdf++,_0x4b581f+=_0x145c95[_0x163ef1(0xe1b,'f#xl')];let _0x25accc=0x0,_0x3bbb50=0x0,_0x27b7fe='';_0x145c95[_0x163ef1(0x338,'7JZb')](_0x15f27a=>{const _0x14be1f=_0x163ef1,_0x25873b=_0x15f27a[_0x14be1f(0x359,'Oc5r')]||0x1;_0x3bbb50+=_0x25873b,_0x2d23e8+=_0x25873b,_0x25accc+=_0x15f27a[_0x14be1f(0x71f,'M*BU')]||0x0,_0x31f20a+=_0x15f27a[_0x14be1f(0x80c,'u@TD')]||0x0;const _0x5c6de0=(_0x15f27a[_0x14be1f(0x712,']Sv0')]||[])[_0x14be1f(0x337,'hCJL')](_0x3f41dc=>typeof STATION_ABBR!==_0x14be1f(0xf5e,'5Ess')&&STATION_ABBR[_0x3f41dc]?STATION_ABBR[_0x3f41dc]:_0x3f41dc)[_0x14be1f(0x5a4,'gL1S')]('+')||'—',_0x452512=_0x15f27a[_0x14be1f(0x869,'u@TD')]||'—',_0x48feb1=_0x15f27a[_0x14be1f(0xa92,'7!Gb')]||'bl',_0x158da3=typeof BET_TYPES!==_0x14be1f(0xf5e,'5Ess')?BET_TYPES[_0x48feb1]:null,_0x598c7c=_0x158da3?_0x158da3[_0x14be1f(0x70b,'fyWu')]:_0x48feb1[_0x14be1f(0xcec,'K7h7')]();_0x27b7fe+=_0x14be1f(0x1114,'7Xia')+_0x15f27a[_0x14be1f(0x267,'e6gp')]+_0x14be1f(0x599,'7!Gb')+_0x598c7c+_0x14be1f(0x27d,')U6s')+_0x48feb1+_0x14be1f(0x1c0,'BNmM')+_0x5c6de0+_0x14be1f(0xb31,'i%tL')+_0x25873b+_0x14be1f(0xb85,'#&$8')+_0x452512+_0x14be1f(0x5f6,'pj(#')+Number(_0x15f27a[_0x14be1f(0xd50,'lm&&')])[_0x14be1f(0xe7f,'gL1S')]()+_0x14be1f(0xab8,'nR@W');});const _0x2382d6=_0x9a2c97===activeGroup;_0x112060[_0x163ef1(0xbd4,')U6s')]({'g':_0x9a2c97,'isActive':_0x2382d6,'html':_0x163ef1(0x987,'2Lzj')+(_0x2382d6?_0x163ef1(0x9a8,'mn5c'):_0x163ef1(0x36c,'wBCK'))+_0x163ef1(0x44c,'lX[b')+(_0x2382d6?_0x163ef1(0xbb9,'K7h7'):'')+_0x163ef1(0x1229,'7!Gb')+(_0x2382d6?_0x163ef1(0xb9b,'OTP&'):'')+_0x163ef1(0x795,'e6gp')+_0x9a2c97+(_0x2382d6?_0x163ef1(0x894,'MHv!'):'')+_0x163ef1(0x11c0,'LyuC')+_0x145c95[_0x163ef1(0xb3e,'fyWu')]+_0x163ef1(0xd07,'zNw(')+_0x3bbb50+_0x163ef1(0xba3,'e[5n')+_0x27b7fe+_0x163ef1(0xb32,'7!Gb')+_0x9a2c97+_0x163ef1(0x937,'pj(#')+_0x25accc[_0x163ef1(0xd01,'7JZb')]()+_0x163ef1(0xd1f,'M1DA')});});if(_0x4b581f===0x0){_0x53f994[_0x1ffb05(0x1c3,')U6s')]=_0x1ffb05(0xe67,'Oc5r');return;}_0x112060[_0x1ffb05(0x3af,'iEe2')]((_0x2813d6,_0x26fb86)=>(_0x26fb86[_0x1ffb05(0x722,'5Ess')]?0x1:0x0)-(_0x2813d6[_0x1ffb05(0x109f,'#Ux*')]?0x1:0x0));const _0x494e56=_0x112060[_0x1ffb05(0x61a,'M1DA')](_0x2dfbee=>_0x2dfbee[_0x1ffb05(0x11d3,'kMoM')])[_0x1ffb05(0x33d,')U6s')]('');_0x53f994[_0x1ffb05(0x299,'nR@W')]=_0x1ffb05(0x89d,'nR@W')+_0x431cdf+_0x1ffb05(0x416,'i%tL')+_0x4b581f+_0x1ffb05(0xc70,'e[5n')+_0x2d23e8+_0x1ffb05(0x527,']Sv0')+_0x31f20a[_0x1ffb05(0xdec,'M*BU')]()+_0x1ffb05(0xc7f,'M1DA')+_0x494e56;}function getResultRegion(_0x54902b){const _0x49d4da=_0x225e24,_0x4c9bac=_0x54902b[_0x49d4da(0xe51,'u@TD')]();if(_0x4c9bac[_0x49d4da(0x7ac,'gL1S')](_0x49d4da(0xcfd,'M*BU'))||_0x4c9bac[_0x49d4da(0xba0,'hCJL')](_0x49d4da(0x52c,'5Ad)'))||_0x4c9bac[_0x49d4da(0x1060,'BNmM')](_0x49d4da(0x7ee,'5Ad)')))return'MB';if(_0x4c9bac[_0x49d4da(0x1159,'K7h7')](_0x49d4da(0x6a1,'K7h7'))||_0x4c9bac[_0x49d4da(0xa84,'m1lh')](_0x49d4da(0x2a2,'M*BU'))||_0x4c9bac[_0x49d4da(0xba0,'hCJL')](_0x49d4da(0x636,'Oc5r')))return'MT';if(_0x4c9bac[_0x49d4da(0xcd7,'2Lzj')](_0x49d4da(0x6fc,'2Lzj'))||_0x4c9bac[_0x49d4da(0x1110,')UVA')](_0x49d4da(0xd74,'M*BU'))||_0x4c9bac[_0x49d4da(0xa72,'5Ess')](_0x49d4da(0x9cc,'#&$8')))return'MN';if(_0x4c9bac[_0x49d4da(0x9ae,'M1DA')](_0x49d4da(0x83e,'ySL*'))||_0x4c9bac[_0x49d4da(0xe48,'LyuC')](_0x49d4da(0xd67,']Sv0'))||_0x4c9bac[_0x49d4da(0x1159,'K7h7')](_0x49d4da(0x3cd,'LyuC'))||_0x4c9bac[_0x49d4da(0x1047,'#Ux*')](_0x49d4da(0xddc,'e6gp'))||_0x4c9bac[_0x49d4da(0xd85,'y)UI')](_0x49d4da(0x7ab,'M1DA'))||_0x4c9bac[_0x49d4da(0x45c,'f#xl')](_0x49d4da(0x3be,'MfL&')))return'MB';if(_0x4c9bac[_0x49d4da(0xd39,'#&$8')](_0x49d4da(0x118b,'mn5c'))||_0x4c9bac[_0x49d4da(0x1206,'i%tL')](_0x49d4da(0xc00,'7Xia'))||_0x4c9bac[_0x49d4da(0x748,'MHv!')](_0x49d4da(0x11f0,'5Ad)'))||_0x4c9bac[_0x49d4da(0x2f5,'e6gp')](_0x49d4da(0xf1a,'OTP&'))||_0x4c9bac[_0x49d4da(0xde8,'7JZb')](_0x49d4da(0x1097,'5Ess'))||_0x4c9bac[_0x49d4da(0xcb5,'E5)l')](_0x49d4da(0x3a8,'lX[b'))||_0x4c9bac[_0x49d4da(0xe48,'LyuC')](_0x49d4da(0x468,'kMoM'))||_0x4c9bac[_0x49d4da(0x2f5,'e6gp')](_0x49d4da(0x3ad,'y)UI'))||_0x4c9bac[_0x49d4da(0x1107,'&SjD')](_0x49d4da(0x304,']Sv0'))||_0x4c9bac[_0x49d4da(0x8d9,'7!Gb')](_0x49d4da(0xc7e,'Fj&C'))||_0x4c9bac[_0x49d4da(0xb66,'fyWu')](_0x49d4da(0xc75,'iEe2'))||_0x4c9bac[_0x49d4da(0x11af,'Mgu1')](_0x49d4da(0xe0a,'MfL&'))||_0x4c9bac[_0x49d4da(0x1161,'OTP&')](_0x49d4da(0x5ed,'LyuC'))||_0x4c9bac[_0x49d4da(0x111d,'mn5c')](_0x49d4da(0x1023,'5Ess')))return'MT';if(_0x4c9bac[_0x49d4da(0xe3a,'e[5n')](_0x49d4da(0x11f2,')U6s'))||_0x4c9bac[_0x49d4da(0xf72,'pj(#')](_0x49d4da(0xa3b,'%AH&'))||_0x4c9bac[_0x49d4da(0xb0d,'WL8L')](_0x49d4da(0x4ce,'WL8L'))||_0x4c9bac[_0x49d4da(0xcb5,'E5)l')](_0x49d4da(0xa65,'WL8L'))||_0x4c9bac[_0x49d4da(0xf72,'pj(#')](_0x49d4da(0x43f,'M1DA'))||_0x4c9bac[_0x49d4da(0xd39,'#&$8')](_0x49d4da(0xad0,'&SjD'))||_0x4c9bac[_0x49d4da(0x21e,'5Ad)')](_0x49d4da(0x39f,'2Lzj'))||_0x4c9bac[_0x49d4da(0xf43,'VWnK')](_0x49d4da(0xd22,'y)UI'))||_0x4c9bac[_0x49d4da(0xa3a,'lX[b')](_0x49d4da(0xfb4,'E5)l'))||_0x4c9bac[_0x49d4da(0x748,'MHv!')](_0x49d4da(0x23b,'7JZb'))||_0x4c9bac[_0x49d4da(0xcbe,'ySL*')](_0x49d4da(0x103a,'i%tL'))||_0x4c9bac[_0x49d4da(0xa72,'5Ess')](_0x49d4da(0xacf,'fyWu'))||_0x4c9bac[_0x49d4da(0x256,'7Xia')](_0x49d4da(0x298,'I*r6'))||_0x4c9bac[_0x49d4da(0x1125,'lm&&')](_0x49d4da(0x11ae,'K7h7'))||_0x4c9bac[_0x49d4da(0x8d9,'7!Gb')](_0x49d4da(0x2c9,'iEe2'))||_0x4c9bac[_0x49d4da(0xd85,'y)UI')](_0x49d4da(0xd3f,'E5)l'))||_0x4c9bac[_0x49d4da(0x1047,'#Ux*')](_0x49d4da(0x34d,'#Ux*'))||_0x4c9bac[_0x49d4da(0xde8,'7JZb')](_0x49d4da(0x1e8,'u@TD'))||_0x4c9bac[_0x49d4da(0x1206,'i%tL')](_0x49d4da(0x4d9,'lX[b'))||_0x4c9bac[_0x49d4da(0x256,'7Xia')](_0x49d4da(0x759,'m1lh'))||_0x4c9bac[_0x49d4da(0xb0d,'WL8L')](_0x49d4da(0x59b,'Oc5r'))||_0x4c9bac[_0x49d4da(0x1047,'#Ux*')](_0x49d4da(0x435,'ySL*'))||_0x4c9bac[_0x49d4da(0xde8,'7JZb')](_0x49d4da(0x11a3,'hCJL')))return'MN';return null;}function getStationFromResult(_0x2652f3){const _0x66b3c4=_0x225e24,_0x506db9=_0x2652f3[_0x66b3c4(0x103d,'7Xia')](),_0x2fe0d4=[[_0x66b3c4(0x456,'7Xia'),_0x66b3c4(0xcdf,'&SjD')],[_0x66b3c4(0xfea,'WL8L'),_0x66b3c4(0x902,'M1DA')],[_0x66b3c4(0x602,'y)UI'),_0x66b3c4(0xad5,'I*r6')],[_0x66b3c4(0x1179,'MHv!'),_0x66b3c4(0x6f5,'fyWu')],[_0x66b3c4(0x282,'5Ess'),_0x66b3c4(0xf3f,'cNV6')],[_0x66b3c4(0x1032,'fyWu'),_0x66b3c4(0x7ae,'mn5c')],[_0x66b3c4(0x92d,'2Lzj'),_0x66b3c4(0xa34,'e[5n')],[_0x66b3c4(0xb7b,'#&$8'),_0x66b3c4(0xe2e,'wBCK')],[_0x66b3c4(0xc5d,'e6gp'),_0x66b3c4(0xdc4,'fyWu')],[_0x66b3c4(0x7b2,'#Ux*'),_0x66b3c4(0xfbd,'OTP&')],[_0x66b3c4(0xfe0,'wBCK'),_0x66b3c4(0x453,']Sv0')],[_0x66b3c4(0xe25,'7JZb'),_0x66b3c4(0x453,']Sv0')],[_0x66b3c4(0x3dc,'MHv!'),_0x66b3c4(0x7ff,'ySL*')],[_0x66b3c4(0xddd,'M*BU'),_0x66b3c4(0xbf7,'7!Gb')],[_0x66b3c4(0xed9,'M*BU'),_0x66b3c4(0xd18,'M1DA')],[_0x66b3c4(0x52d,'lX[b'),_0x66b3c4(0x322,'5Ess')],[_0x66b3c4(0x1064,'wBCK'),_0x66b3c4(0x1123,'LyuC')],[_0x66b3c4(0x6c6,'fyWu'),_0x66b3c4(0x324,'lm&&')],[_0x66b3c4(0xdd1,'Oc5r'),_0x66b3c4(0x86d,'5Ess')],[_0x66b3c4(0x4f2,'2Lzj'),_0x66b3c4(0x53f,'y)UI')],[_0x66b3c4(0x969,'%AH&'),_0x66b3c4(0x4ed,'wBCK')],[_0x66b3c4(0x4da,'K7h7'),_0x66b3c4(0xf83,'Oc5r')],[_0x66b3c4(0x964,'f#xl'),_0x66b3c4(0x10bc,'M*BU')],[_0x66b3c4(0xf56,'hCJL'),_0x66b3c4(0x23a,'lX[b')],[_0x66b3c4(0x75a,'Fj&C'),_0x66b3c4(0x54d,'E5)l')],[_0x66b3c4(0x10f3,'fyWu'),_0x66b3c4(0x9ff,'lm&&')],[_0x66b3c4(0x974,'lm&&'),_0x66b3c4(0x349,'mn5c')],[_0x66b3c4(0x37a,'MHv!'),_0x66b3c4(0x767,'7Xia')],[_0x66b3c4(0x212,'lm&&'),_0x66b3c4(0xb38,'I*r6')],[_0x66b3c4(0xb47,'OTP&'),_0x66b3c4(0xe43,'M1DA')],[_0x66b3c4(0x2dc,'i%tL'),_0x66b3c4(0x9b9,'VWnK')],[_0x66b3c4(0x685,'cNV6'),_0x66b3c4(0x6b4,'OTP&')],[_0x66b3c4(0xa1e,'kMoM'),_0x66b3c4(0x6b4,'OTP&')],[_0x66b3c4(0xf68,'e[5n'),_0x66b3c4(0xd70,'7JZb')],[_0x66b3c4(0xcea,'5Ad)'),_0x66b3c4(0x427,'Oc5r')],[_0x66b3c4(0xdfc,'M*BU'),_0x66b3c4(0xaa0,'wBCK')],[_0x66b3c4(0x1e7,'Fj&C'),_0x66b3c4(0xef8,'mn5c')],[_0x66b3c4(0x523,'K7h7'),_0x66b3c4(0x8c8,'#&$8')],[_0x66b3c4(0x4f0,'wBCK'),_0x66b3c4(0xf4f,'y)UI')],[_0x66b3c4(0xe8c,'Mgu1'),_0x66b3c4(0x119e,')UVA')],[_0x66b3c4(0x1149,')U6s'),_0x66b3c4(0x3e0,'MHv!')],[_0x66b3c4(0xe66,'M1DA'),_0x66b3c4(0x1202,'7Xia')],[_0x66b3c4(0x5b5,'7!Gb'),_0x66b3c4(0x2e0,'fyWu')],[_0x66b3c4(0x3e7,'Fj&C'),_0x66b3c4(0x4fc,'7JZb')],[_0x66b3c4(0xdc9,'gL1S'),_0x66b3c4(0xde0,'K7h7')],[_0x66b3c4(0x6e1,'VWnK'),_0x66b3c4(0x99e,'M*BU')],[_0x66b3c4(0xdf8,'2Lzj'),_0x66b3c4(0x956,'7JZb')],[_0x66b3c4(0x73a,')U6s'),_0x66b3c4(0x659,'nR@W')],[_0x66b3c4(0x478,'cNV6'),_0x66b3c4(0x6d2,'#&$8')],[_0x66b3c4(0x5c9,'cNV6'),_0x66b3c4(0x447,'BNmM')],[_0x66b3c4(0x1c8,'E5)l'),_0x66b3c4(0xdef,'lm&&')],[_0x66b3c4(0xbdc,'K7h7'),_0x66b3c4(0x8c9,'hCJL')],[_0x66b3c4(0x11bd,'7!Gb'),_0x66b3c4(0x7aa,'Mgu1')],[_0x66b3c4(0xc40,'7JZb'),_0x66b3c4(0x73b,'7JZb')],[_0x66b3c4(0xfa8,'f#xl'),_0x66b3c4(0x768,'lX[b')],[_0x66b3c4(0x3d8,'gL1S'),_0x66b3c4(0x3df,'M*BU')],[_0x66b3c4(0x11b6,'MHv!'),_0x66b3c4(0x7d6,']Sv0')],[_0x66b3c4(0xeb0,'M1DA'),_0x66b3c4(0x466,'u@TD')],[_0x66b3c4(0xd16,'y)UI'),_0x66b3c4(0xe03,'e[5n')],[_0x66b3c4(0x4cf,'I*r6'),_0x66b3c4(0x8cc,'K7h7')],[_0x66b3c4(0xb29,'7JZb'),_0x66b3c4(0xf85,'y)UI')],[_0x66b3c4(0x1132,'kMoM'),_0x66b3c4(0x384,'nR@W')],[_0x66b3c4(0xecd,')UVA'),_0x66b3c4(0xb49,'E5)l')],[_0x66b3c4(0x42c,'5Ess'),_0x66b3c4(0x3b1,'LyuC')],[_0x66b3c4(0x3b7,'Oc5r'),_0x66b3c4(0x2fd,'cNV6')],[_0x66b3c4(0x5bd,'MfL&'),_0x66b3c4(0xd32,'VWnK')],[_0x66b3c4(0x99d,'BNmM'),_0x66b3c4(0x8f8,'iEe2')],[_0x66b3c4(0xd21,'&SjD'),_0x66b3c4(0x1077,'VWnK')],[_0x66b3c4(0xc77,'cNV6'),_0x66b3c4(0x41e,'MfL&')],[_0x66b3c4(0xf14,')UVA'),_0x66b3c4(0x1075,'y)UI')],[_0x66b3c4(0x5d4,'lm&&'),_0x66b3c4(0x90d,'gL1S')],[_0x66b3c4(0x81d,'Oc5r'),_0x66b3c4(0x249,'nR@W')],[_0x66b3c4(0xf53,'I*r6'),_0x66b3c4(0x10e0,'ySL*')],[_0x66b3c4(0x915,'hCJL'),_0x66b3c4(0x957,'5Ess')],[_0x66b3c4(0xb89,'i%tL'),_0x66b3c4(0x11a0,'ySL*')],[_0x66b3c4(0x6fd,'VWnK'),_0x66b3c4(0x33a,'y)UI')],[_0x66b3c4(0x387,'PX3c'),_0x66b3c4(0x1213,'#Ux*')],[_0x66b3c4(0xb42,'&SjD'),_0x66b3c4(0xbf4,'K7h7')],[_0x66b3c4(0xe9d,'M1DA'),_0x66b3c4(0x1057,'mn5c')],[_0x66b3c4(0xbc3,'hCJL'),_0x66b3c4(0x992,'MHv!')],[_0x66b3c4(0x55d,'u@TD'),_0x66b3c4(0x423,'mn5c')],[_0x66b3c4(0x672,'K7h7'),_0x66b3c4(0x994,'5Ess')],[_0x66b3c4(0xc02,'pj(#'),_0x66b3c4(0xb2e,'K7h7')],[_0x66b3c4(0xfc2,')U6s'),_0x66b3c4(0xa2c,'2Lzj')],[_0x66b3c4(0x6c3,'zNw('),_0x66b3c4(0x1ff,'VWnK')]];for(const [_0x470c7c,_0x2b603a]of _0x2fe0d4){if(_0x506db9[_0x66b3c4(0x111d,'mn5c')](_0x470c7c))return _0x2b603a;}return null;}function getWinAmount(_0xe809aa,_0x1f55c7){const _0xafa393=_0x225e24,_0x5274ed=_0xe809aa[_0xafa393(0x243,'iEe2')]==='MB'?'MB':_0xafa393(0x9d5,'M1DA'),_0x3ce377=_0xe809aa[_0xafa393(0x247,'pj(#')]===0x3,_0x487530=_0xe809aa[_0xafa393(0x25d,'7JZb')]==='bl',_0x593580=['da',_0xafa393(0x2e4,'ySL*')][_0xafa393(0x10eb,']Sv0')](_0xe809aa[_0xafa393(0xe5d,'#Ux*')]);let _0x3c3229=_0x3ce377||_0x593580?0x30c:0x5b,_0x2ecf01=0x1;if(_0x487530)_0x2ecf01=_0x3ce377?_0x5274ed==='MB'?0x17:0x11:_0x5274ed==='MB'?0x1b:0x12;if(_0x593580)_0x2ecf01=_0x5274ed==='MB'?0x36:0x24;return(Number(_0xe809aa[_0xafa393(0x37b,'hCJL')])||0x0)/_0x2ecf01*_0x3c3229*(_0x487530?_0x1f55c7:0x1);}function getBetTypeTiers(_0x4f160d,_0x143890){const _0x3bec37=_0x225e24,_0xa8ee33=(_0x4f160d||'')[_0x3bec37(0x7cc,'E5)l')]()[_0x3bec37(0x948,'7Xia')](),_0x532535=_0x143890==='MB'||_0x143890===_0x3bec37(0x67e,'E5)l'),_0x2db7cf={'dau':_0x532535?['g7']:['g8'],'xc_dau':_0x532535?['g6']:['g7'],'dd':_0x532535?['g7','db']:['g8','db'],'dc':_0x532535?['g7','db']:['g8','db'],'xc':_0x532535?['g6','db']:['g7','db']};if(_0x2db7cf[_0xa8ee33])return _0x2db7cf[_0xa8ee33];const _0x1532b0={'duoi':['db'],'cuoi':['db'],'xc_duoi':['db'],'12d':['g7','g6','g5','g4'],'13d':['g8','g7','g6','g5','g4'],'5c':['g3','g2','g1','db']};if(_0x1532b0[_0xa8ee33])return _0x1532b0[_0xa8ee33];if(_0xa8ee33==='db')return['db'];if(/^g[1-8]$/[_0x3bec37(0x791,'e6gp')](_0xa8ee33))return[_0xa8ee33];const _0x47b6af=_0xa8ee33[_0x3bec37(0xe01,'fyWu')](/g[1-8]|db/g);if(_0x47b6af&&_0x47b6af[_0x3bec37(0x65c,'#&$8')]>0x1)return _0x47b6af;return null;}function prizeMatchesBet(_0x9d3e46,_0x3cb2bc,_0x489d64){const _0x4bd9d2=_0x225e24,_0x979740=String(_0x9d3e46||'')[_0x4bd9d2(0xb40,'7Xia')]()[_0x4bd9d2(0xe08,'E5)l')](/đ/g,'d')[_0x4bd9d2(0x118e,'BNmM')](_0x4bd9d2(0xcc5,'BNmM'))[_0x4bd9d2(0xc97,'PX3c')](/[̀-ͯ]/g,'')[_0x4bd9d2(0x952,'7!Gb')](/s+/g,''),_0x52df21=getBetTypeTiers(_0x3cb2bc,_0x489d64);if(!_0x52df21)return!![];return _0x52df21[_0x4bd9d2(0xd2d,'wBCK')](_0x559b39=>_0x559b39==='db'?_0x979740==='db'||_0x979740[_0x4bd9d2(0x1206,'i%tL')]('db')||_0x979740[_0x4bd9d2(0xd85,'y)UI')](_0x4bd9d2(0xb0a,'iEe2'))||_0x979740[_0x4bd9d2(0xcd7,'2Lzj')](_0x4bd9d2(0xa6a,'e[5n')):_0x979740===_0x559b39);}function normalizeDateStr(_0x14d85a){const _0x29aa63=_0x225e24;if(!_0x14d85a)return'';const _0x40ea04=String(_0x14d85a)[_0x29aa63(0x9ca,'gL1S')](/(\d{1,2})[\/\-](\d{1,2})[\/\-](\d{2,4})/);if(!_0x40ea04)return String(_0x14d85a)[_0x29aa63(0x53b,'K7h7')]();const _0x29193f=_0x40ea04[0x3][_0x29aa63(0x809,'ySL*')]===0x2?'20'+_0x40ea04[0x3]:_0x40ea04[0x3];return String(_0x40ea04[0x1])[_0x29aa63(0xe8e,'i%tL')](0x2,'0')+'/'+String(_0x40ea04[0x2])[_0x29aa63(0xc4c,'f#xl')](0x2,'0')+'/'+_0x29193f;}function buildPrizeSuffixIndex(_0x4f3b39){const _0x502155=_0x225e24,_0x3570f1=new Map();for(const _0x2c6b0f of _0x4f3b39){if(!_0x2c6b0f[_0x502155(0xadd,'K7h7')])continue;const _0x17eea0=String(_0x2c6b0f[_0x502155(0x71b,'OTP&')]),_0x1a2145=Math[_0x502155(0x229,'Fj&C')](0x5,_0x17eea0[_0x502155(0xb03,'PX3c')]);for(let _0x2927c6=0x2;_0x2927c6<=_0x1a2145;_0x2927c6++){const _0x3bb34f=_0x17eea0[_0x502155(0x273,'fyWu')](-_0x2927c6);let _0x5d0f95=_0x3570f1[_0x502155(0x28b,'BNmM')](_0x2927c6);!_0x5d0f95&&(_0x5d0f95=new Map(),_0x3570f1[_0x502155(0xfb2,')UVA')](_0x2927c6,_0x5d0f95));let _0x4bbb1b=_0x5d0f95[_0x502155(0x25c,'nR@W')](_0x3bb34f);!_0x4bbb1b&&(_0x4bbb1b=[],_0x5d0f95[_0x502155(0xc24,'LyuC')](_0x3bb34f,_0x4bbb1b)),_0x4bbb1b[_0x502155(0x896,')UVA')](_0x2c6b0f);}}return _0x3570f1;}const EMPTY_PRIZE_MATCHES=[];function getCandidatePrizes(_0xfa055c,_0x4e4505){const _0x2ba105=_0x225e24,_0x41aea5=_0xfa055c[_0x2ba105(0x94f,'m1lh')](String(_0x4e4505||'')[_0x2ba105(0x792,'7Xia')]);if(!_0x41aea5)return EMPTY_PRIZE_MATCHES;return _0x41aea5[_0x2ba105(0x283,'iEe2')](_0x4e4505)||EMPTY_PRIZE_MATCHES;}async function checkAllResults(){const _0x498975=_0x225e24,_0x52c0ac=document[_0x498975(0x8b0,'f#xl')](_0x498975(0xd5b,'gL1S'));if(_0x52c0ac&&_0x52c0ac[_0x498975(0x34e,'u@TD')])return;const _0x2725f0=document[_0x498975(0x8d1,'E5)l')](_0x498975(0xaea,']Sv0'))[_0x498975(0x5e6,')UVA')][_0x498975(0x7b1,'M1DA')]();if(!_0x2725f0)return showToast(_0x498975(0x467,'MfL&'),_0x498975(0xbbc,']Sv0'));const _0x1354ac=parseKQXS(_0x2725f0);if(_0x1354ac[_0x498975(0x65c,'#&$8')]===0x0)return customAlert(_0x498975(0x960,'MfL&'),_0x498975(0x122a,'PX3c'));const _0x3cddf1=typeof getResultRegion===_0x498975(0x1082,'VWnK')?getResultRegion(_0x2725f0):null,_0x779f49=window[_0x498975(0xa27,'e6gp')]||(typeof extractKQXSMeta===_0x498975(0x1082,'VWnK')?extractKQXSMeta(_0x2725f0):{}),_0x8915ea=normalizeDateStr(_0x779f49[_0x498975(0xe2c,'zNw(')]||''),_0x249076=normalizeDateStr(new Date()[_0x498975(0xb6d,'iEe2')](_0x498975(0xd54,')U6s')));if(!_0x8915ea)showToast(_0x498975(0x1022,'5Ess'),_0x498975(0x80f,'pj(#'));else _0x8915ea!==_0x249076&&showToast(_0x498975(0x100e,'f#xl')+_0x8915ea+_0x498975(0x79b,']Sv0')+_0x249076+_0x498975(0x679,'iEe2'),_0x498975(0xe77,'E5)l'));const _0x38ca23=document[_0x498975(0x8de,')UVA')](_0x498975(0xb15,'y)UI'));if(_0x38ca23){if(!_0x8915ea)_0x38ca23[_0x498975(0x652,'e6gp')][_0x498975(0xa24,'nR@W')]=_0x498975(0xd7c,'wBCK'),_0x38ca23[_0x498975(0x849,'i%tL')]=_0x498975(0x11fa,'f#xl');else _0x8915ea===_0x249076?(_0x38ca23[_0x498975(0x683,'LyuC')][_0x498975(0x1da,'i%tL')]=_0x498975(0x7f1,'5Ess'),_0x38ca23[_0x498975(0x30e,'hCJL')]=_0x498975(0xae3,'iEe2')+_0x8915ea+_0x498975(0x7fc,'BNmM')):(_0x38ca23[_0x498975(0x762,'zNw(')][_0x498975(0x8da,'7!Gb')]=_0x498975(0xdee,')UVA'),_0x38ca23[_0x498975(0x24f,'7!Gb')]=_0x498975(0x444,'Oc5r')+_0x8915ea+_0x498975(0xfde,'e6gp')+_0x249076+')');}if(_0x3cddf1){const _0x470f8e=document[_0x498975(0x10bf,'7!Gb')](_0x498975(0xb30,'Oc5r')+_0x3cddf1+'\x22]');if(_0x470f8e)_0x470f8e[_0x498975(0x6fa,'Oc5r')]=!![];}const _0x58b614=document[_0x498975(0x465,']Sv0')](_0x498975(0x53e,'f#xl')),_0x45447c=document[_0x498975(0x996,'I*r6')](_0x498975(0x10df,'MHv!'));if(_0x58b614)_0x58b614[_0x498975(0x251,'PX3c')][_0x498975(0xd78,'5Ad)')]=_0x498975(0x580,'VWnK');_0x45447c&&(_0x45447c[_0x498975(0xe17,'7Xia')]=_0x1354ac[_0x498975(0x3f1,'Mgu1')](_0x445b68=>{const _0x5221a2=_0x498975,_0x31d431=_0x445b68[_0x5221a2(0x79d,'I*r6')]?typeof STATION_ABBR!==_0x5221a2(0xcc8,'MfL&')&&STATION_ABBR[_0x445b68[_0x5221a2(0x3d1,'VWnK')]]||_0x445b68[_0x5221a2(0x4a8,'f#xl')]:'';return''+_0x445b68[_0x5221a2(0x1050,'gL1S')]+(_0x31d431?'('+_0x31d431+')':'')+':'+_0x445b68[_0x5221a2(0xa08,'LyuC')];})[_0x498975(0x3a6,'#&$8')](_0x498975(0x7d3,'BNmM')));const _0x3c629f=buildPrizeSuffixIndex(_0x1354ac),_0x1e132c=0xfa0;_0x52c0ac&&(_0x52c0ac[_0x498975(0xd19,'pj(#')]=!![],_0x52c0ac[_0x498975(0xf70,'Mgu1')][_0x498975(0xc43,'i%tL')]=_0x498975(0xaf9,'lX[b'),_0x52c0ac[_0x498975(0x492,'2Lzj')][_0x498975(0x2b3,'7Xia')]=_0x498975(0x708,'pj(#'));showToast(_0x498975(0x11de,'f#xl'),_0x498975(0x646,'lm&&'));try{for(const _0x58b8c3 of groups){const _0x3c937c=appData[_0x58b8c3];if(!_0x3c937c||!_0x3c937c[_0x498975(0x103c,'2Lzj')])continue;const _0x1cf6ef=[];_0x3c937c[_0x498975(0xc1c,'nR@W')][_0x498975(0xb43,'MHv!')]=0x0;const _0x42b67c=_0x3c937c[_0x498975(0x6c0,'#&$8')];for(let _0x3bb1bf=0x0;_0x3bb1bf<_0x42b67c[_0x498975(0xc68,'y)UI')];_0x3bb1bf+=_0x1e132c){const _0x1e961f=Math[_0x498975(0x122e,'lm&&')](_0x3bb1bf+_0x1e132c,_0x42b67c[_0x498975(0xa5b,'Oc5r')]);for(let _0x471456=_0x3bb1bf;_0x471456<_0x1e961f;_0x471456++){const _0x3fe1a4=_0x42b67c[_0x471456],_0x33ff0c=(_0x3fe1a4[_0x498975(0x113d,'fyWu')]||'')[_0x498975(0x455,'MHv!')](),_0x193fb0=_0x3fe1a4[_0x498975(0xcc2,'kMoM')]||_0x3cddf1||'MT';if(Array[_0x498975(0x8df,'mn5c')](_0x3fe1a4[_0x498975(0x506,'5Ad)')])&&_0x3fe1a4[_0x498975(0x831,'lX[b')][_0x498975(0xc68,'y)UI')]>=0x2){let _0x1886de=!![];const _0x2a0552=[];for(const _0x37008a of _0x3fe1a4[_0x498975(0x8b8,'mn5c')]){const _0x30fa22=getCandidatePrizes(_0x3c629f,_0x37008a);let _0x255a53=null;for(const _0x115d45 of _0x30fa22){if(_0x115d45[_0x498975(0xc0a,'lX[b')]&&_0x3fe1a4[_0x498975(0x6cf,'WL8L')]&&_0x3fe1a4[_0x498975(0x712,']Sv0')][_0x498975(0x9f0,'&SjD')]>0x0&&!_0x3fe1a4[_0x498975(0xeac,'2Lzj')][_0x498975(0xf43,'VWnK')](_0x115d45[_0x498975(0x3d1,'VWnK')]))continue;_0x255a53=_0x115d45;break;}if(!_0x255a53){_0x1886de=![];break;}const _0x39fca0=_0x255a53[_0x498975(0x5e9,'hCJL')]?typeof STATION_ABBR!==_0x498975(0x941,'Fj&C')&&STATION_ABBR[_0x255a53[_0x498975(0x10fb,'ySL*')]]||_0x255a53[_0x498975(0xef7,'7Xia')]:'';_0x2a0552[_0x498975(0x2f4,'BNmM')](_0x37008a+':'+_0x255a53[_0x498975(0xdb6,']Sv0')]+(_0x39fca0?'('+_0x39fca0+')':''));}if(_0x1886de){_0x3fe1a4[_0x498975(0x107d,']Sv0')]=!![],_0x3fe1a4[_0x498975(0x7fa,'hCJL')]=0x1,_0x3fe1a4[_0x498975(0xaa1,'PX3c')]=_0x2a0552[_0x498975(0xce5,']Sv0')](',\x20');const _0x32fae4=calculateItemFinancials(_0x3fe1a4,_0x193fb0);_0x3fe1a4[_0x498975(0xacd,'7JZb')]=_0x32fae4[_0x498975(0xcb0,'pj(#')],_0x3c937c[_0x498975(0xa09,'2Lzj')][_0x498975(0xbce,'hCJL')]+=_0x3fe1a4[_0x498975(0xec0,'K7h7')],_0x1cf6ef[_0x498975(0xf23,'ySL*')]((_0x3fe1a4[_0x498975(0x62c,'7Xia')]||'')+'\x20'+_0x3fe1a4[_0x498975(0xb4a,'#Ux*')]+'\x20'+_0x3fe1a4[_0x498975(0x623,'gL1S')]+'\x20'+_0x3fe1a4[_0x498975(0x110e,'Oc5r')]+_0x498975(0x8eb,'Oc5r')+_0x3fe1a4[_0x498975(0xd99,'WL8L')][_0x498975(0x340,'Oc5r')]()+_0x498975(0x10fa,'zNw(')+_0x3fe1a4[_0x498975(0xbca,'7JZb')]+')');}else _0x3fe1a4[_0x498975(0xcc6,'lX[b')]=![],_0x3fe1a4[_0x498975(0xd34,'e[5n')]=0x0,_0x3fe1a4[_0x498975(0x1bf,']Sv0')]='',_0x3fe1a4[_0x498975(0x9c1,'MHv!')]=0x0;continue;}const _0x23adfa=typeof getBetTypeTiers===_0x498975(0xe38,'nR@W')&&getBetTypeTiers(_0x33ff0c,_0x193fb0)!==null,_0x1fd59c=getCandidatePrizes(_0x3c629f,_0x3fe1a4[_0x498975(0xc0d,'VWnK')]);let _0x295edc=[];for(const _0x5ced1e of _0x1fd59c){if(_0x5ced1e[_0x498975(0x4a8,'f#xl')]&&_0x3fe1a4[_0x498975(0x570,'5Ess')]&&_0x3fe1a4[_0x498975(0x1175,'7Xia')][_0x498975(0x259,'kMoM')]>0x0){if(!_0x3fe1a4[_0x498975(0xc9a,'#Ux*')][_0x498975(0xb98,'Fj&C')](_0x5ced1e[_0x498975(0xc7a,'7!Gb')]))continue;}if(_0x23adfa){if(typeof prizeMatchesBet===_0x498975(0xe06,'PX3c')&&!prizeMatchesBet(_0x5ced1e[_0x498975(0xeb9,'%AH&')],_0x33ff0c,_0x193fb0))continue;}const _0x2b2b28=_0x5ced1e[_0x498975(0x4f5,'mn5c')]?typeof STATION_ABBR!==_0x498975(0x279,'m1lh')&&STATION_ABBR[_0x5ced1e[_0x498975(0x938,'gL1S')]]||_0x5ced1e[_0x498975(0x1207,'5Ess')]:'';_0x295edc[_0x498975(0x43c,'LyuC')](_0x2b2b28?_0x5ced1e[_0x498975(0x20a,'VWnK')]+'('+_0x2b2b28+')':_0x5ced1e[_0x498975(0xff9,'Fj&C')]||'?');}if(_0x295edc[_0x498975(0x62b,'nR@W')]>0x0){_0x3fe1a4[_0x498975(0x854,'m1lh')]=!![],_0x3fe1a4[_0x498975(0x4fa,'lm&&')]=_0x295edc[_0x498975(0x10f4,'E5)l')],_0x3fe1a4[_0x498975(0x1168,'Fj&C')]=_0x295edc[_0x498975(0x1228,'7JZb')](',\x20');const _0x3c32ff=calculateItemFinancials(_0x3fe1a4,_0x3fe1a4[_0x498975(0x4bf,'MHv!')]||_0x3cddf1||'MT');_0x3fe1a4[_0x498975(0x48b,'PX3c')]=_0x3c32ff[_0x498975(0x780,'Oc5r')],_0x3c937c[_0x498975(0x32d,'M1DA')][_0x498975(0xb12,'Fj&C')]+=_0x3fe1a4[_0x498975(0x11ed,'I*r6')],_0x1cf6ef[_0x498975(0xd36,'lm&&')]((_0x3fe1a4[_0x498975(0xa4e,'E5)l')]||'')+'\x20'+_0x3fe1a4[_0x498975(0x5e4,'Mgu1')]+'\x20'+_0x3fe1a4[_0x498975(0x3eb,')U6s')]+'\x20'+_0x3fe1a4[_0x498975(0x9d2,'lm&&')]+_0x498975(0xd69,'OTP&')+_0x3fe1a4[_0x498975(0x747,'OTP&')][_0x498975(0x11d5,'VWnK')]()+_0x498975(0xb1e,'Fj&C')+_0x3fe1a4[_0x498975(0x3da,'fyWu')]+_0x498975(0xe6b,'cNV6')+_0x3fe1a4[_0x498975(0xc50,'fyWu')]+')');}else _0x3fe1a4[_0x498975(0x4ba,'Mgu1')]=![],_0x3fe1a4[_0x498975(0xe24,'Fj&C')]=0x0,_0x3fe1a4[_0x498975(0x863,'WL8L')]='',_0x3fe1a4[_0x498975(0x389,'cNV6')]=0x0;}_0x1e961f<_0x42b67c[_0x498975(0x5df,'#Ux*')]&&await new Promise(_0x5ac071=>setTimeout(_0x5ac071,0x0));}_0x3c937c[_0x498975(0x200,'#&$8')]=_0x1cf6ef,typeof recalculateTotals===_0x498975(0xa8d,'BNmM')?recalculateTotals(_0x58b8c3):_0x3c937c[_0x498975(0x72a,'&SjD')][_0x498975(0xe47,'nR@W')]=_0x3c937c[_0x498975(0xa09,'2Lzj')][_0x498975(0xdc2,'y)UI')]-(_0x3c937c[_0x498975(0xfe4,'wBCK')][_0x498975(0x41b,'%AH&')]||0x0);}}finally{_0x52c0ac&&(_0x52c0ac[_0x498975(0xae0,'m1lh')]=![],_0x52c0ac[_0x498975(0x654,'m1lh')][_0x498975(0xb26,'PX3c')]='',_0x52c0ac[_0x498975(0x899,')UVA')][_0x498975(0x1ce,'K7h7')]='');}if(typeof renderMatrixTable===_0x498975(0x121a,'Mgu1'))renderMatrixTable();if(typeof renderWinningLog===_0x498975(0x2f6,'K7h7'))renderWinningLog();if(typeof updateGrandSummary===_0x498975(0x91d,'OTP&'))updateGrandSummary();if(typeof saveAppDataToDB===_0x498975(0xc4a,'&SjD'))saveAppDataToDB();if(typeof calcCapitalShare===_0x498975(0x312,'#&$8'))calcCapitalShare();const _0x79c91=(_0x779f49[_0x498975(0x647,'wBCK')]||[])[_0x498975(0x1185,'I*r6')](_0x37b3fc=>typeof STATION_ABBR!==_0x498975(0xbaa,'Mgu1')&&STATION_ABBR[_0x37b3fc]?STATION_ABBR[_0x37b3fc]:_0x37b3fc)[_0x498975(0x8c3,'MfL&')](',\x20')||'—';showToast(_0x498975(0xd1e,'M*BU')+_0x1354ac[_0x498975(0x5df,'#Ux*')]+_0x498975(0xef2,'7JZb')+(_0x8915ea||_0x498975(0x26e,'e[5n'))+_0x498975(0x3a3,'Fj&C')+_0x79c91,_0x498975(0x397,'LyuC'));}function clearInputText(){const _0x4eacb6=_0x225e24,_0x41e461=document[_0x4eacb6(0xe3b,'lX[b')](_0x4eacb6(0xe50,'7Xia')),_0x337506=document[_0x4eacb6(0xba7,'5Ad)')](_0x4eacb6(0x620,'#&$8')),_0x4c9aeb=document[_0x4eacb6(0x9de,'cNV6')](_0x4eacb6(0x233,'cNV6'));if(_0x41e461)_0x41e461[_0x4eacb6(0x6f7,'WL8L')]='';if(_0x337506)_0x337506[_0x4eacb6(0xec7,'M1DA')]='';if(_0x4c9aeb)_0x4c9aeb[_0x4eacb6(0x8ba,'&SjD')]='';showToast(_0x4eacb6(0x6b8,'7Xia'),_0x4eacb6(0xf32,'MfL&'));}function generateOutputReport(_0x4d651e){const _0x25fb6f=_0x225e24,_0x22d18a=appData[activeGroup];if(!_0x22d18a||!_0x22d18a[_0x25fb6f(0xfa5,'%AH&')]||_0x22d18a[_0x25fb6f(0x7be,'7JZb')][_0x25fb6f(0x9f0,'&SjD')]===0x0)return showToast(_0x25fb6f(0xd04,'5Ad)'),_0x25fb6f(0x2bd,')U6s'));let _0x56b57f=_0x25fb6f(0x71a,')UVA')+activeGroup[_0x25fb6f(0xf36,'OTP&')]()+'\x0a';_0x56b57f+=_0x25fb6f(0x1252,'I*r6')+_0x4d651e+'\x0a',_0x56b57f+=_0x25fb6f(0x210,'zNw(');let _0x21f77b=0x0,_0x25848f=0x0,_0x55378d='';_0x22d18a[_0x25fb6f(0xe9e,'e6gp')][_0x25fb6f(0xb39,'5Ad)')]((_0x134e94,_0x41fc6e)=>{const _0x723594=_0x25fb6f,_0x5b084c=_0x134e94[_0x723594(0xa37,'BNmM')]?.[_0x723594(0xe6d,'f#xl')](_0x4f329b=>typeof STATION_ABBR!==_0x723594(0xffd,'LyuC')&&STATION_ABBR[_0x4f329b]||_0x4f329b)[_0x723594(0x33f,'7!Gb')](',\x20')||_0x723594(0xac3,'Mgu1');_0x56b57f+=_0x723594(0xf0b,'&SjD')+(_0x41fc6e+0x1)+'\x20('+(_0x134e94[_0x723594(0x1002,'5Ess')]||_0x723594(0x950,'MHv!'))+_0x723594(0x89b,'#&$8')+_0x5b084c+_0x723594(0xbe6,'iEe2');let _0x520299='';(_0x134e94[_0x723594(0x799,'%AH&')]||[])[_0x723594(0x1186,'LyuC')](_0x4ae977=>{const _0xed3baa=_0x723594,_0x273455=typeof BET_TYPES!==_0xed3baa(0xb1b,'gL1S')&&BET_TYPES[_0x4ae977[_0xed3baa(0x25d,'7JZb')]]?.[_0xed3baa(0x6b3,'VWnK')]||(_0x4ae977[_0xed3baa(0xe97,'hCJL')][_0xed3baa(0xb3e,'fyWu')]===0x3?0x11:0x12),_0x150a63=_0x4ae977[_0xed3baa(0x8fe,'Fj&C')]&&_0x4ae977[_0xed3baa(0x432,'pj(#')][_0xed3baa(0xe1b,'f#xl')]>0x0?_0x4ae977[_0xed3baa(0x111f,'zNw(')][_0xed3baa(0x703,'iEe2')]:0x1,_0xa5862e=_0x4ae977[_0xed3baa(0x47a,'f#xl')]||(_0x4ae977[_0xed3baa(0x7b6,'Mgu1')]>=0x3e8?_0x4ae977[_0xed3baa(0x314,'gL1S')]/0x3e8:_0x4ae977[_0xed3baa(0x64a,'7JZb')])||0x1,_0x5019bd=_0xa5862e*0x3e8*_0x273455*_0x150a63,_0x32475a=_0x4ae977[_0xed3baa(0x2c0,'5Ad)')]||0x0;_0x21f77b+=_0x5019bd,_0x25848f+=_0x32475a,_0x4ae977[_0xed3baa(0x2d8,'nR@W')]&&(_0x56b57f+=_0xed3baa(0x627,'e[5n')+_0x4ae977[_0xed3baa(0x8d7,')U6s')]+'\x20('+(_0x4ae977[_0xed3baa(0x1007,'hCJL')]||'BL')[_0xed3baa(0xeed,'5Ess')]()+_0xed3baa(0xc5b,')UVA')+_0x32475a[_0xed3baa(0x545,'BNmM')]()+_0xed3baa(0x4cc,'u@TD')+(_0x4ae977[_0xed3baa(0x121e,'ySL*')]||_0xed3baa(0x1033,'&SjD'))+']\x0a',_0x520299+=_0xed3baa(0x1008,'Fj&C')+_0x4ae977[_0xed3baa(0x9ac,'fyWu')]+_0xed3baa(0xc3b,'M*BU')+(_0x4ae977[_0xed3baa(0x2bb,'WL8L')]||'BL')[_0xed3baa(0x1134,'ySL*')]()+_0xed3baa(0xa30,'WL8L')+(_0x4ae977[_0xed3baa(0x863,'WL8L')]||_0xed3baa(0x54f,'M*BU'))+_0xed3baa(0x26a,'iEe2')+_0x32475a[_0xed3baa(0x11d5,'VWnK')]()+_0xed3baa(0xecf,'y)UI'));}),!_0x134e94[_0x723594(0xe4d,'OTP&')][_0x723594(0x58a,'M1DA')](_0x2c136b=>_0x2c136b[_0x723594(0x10e4,'7Xia')])&&(_0x56b57f+=_0x723594(0x10c0,'7Xia'),_0x520299=_0x723594(0xfa7,'&SjD')),_0x56b57f+='\x0a',_0x55378d+=_0x723594(0xbe0,'Mgu1')+(_0x41fc6e+0x1)+'\x20('+(_0x134e94[_0x723594(0x2f8,'E5)l')]||_0x723594(0x81f,'zNw('))+_0x723594(0x4dc,'OTP&')+_0x5b084c+_0x723594(0x598,'e[5n')+_0x520299+_0x723594(0xe13,'M1DA');});const _0x488e35=_0x25848f-_0x21f77b;_0x56b57f+=_0x25fb6f(0xe70,'WL8L'),_0x56b57f+=_0x25fb6f(0x1160,'lX[b')+_0x21f77b[_0x25fb6f(0x951,'nR@W')]()+'₫\x0a',_0x56b57f+=_0x25fb6f(0x4ad,'M*BU')+_0x25848f[_0x25fb6f(0x1172,']Sv0')]()+'₫\x0a',_0x56b57f+=_0x25fb6f(0x122c,'nR@W')+(_0x488e35>=0x0?'+':'')+_0x488e35[_0x25fb6f(0xc71,'7Xia')]()+'₫\x0a';const _0x24a9cc=_0x25fb6f(0xadc,'VWnK')+_0x21f77b[_0x25fb6f(0xdec,'M*BU')]()+_0x25fb6f(0xaf2,'M1DA')+_0x25848f[_0x25fb6f(0xc08,'MHv!')]()+_0x25fb6f(0xbde,'5Ess')+(_0x488e35>=0x0?_0x25fb6f(0x5ef,'M*BU'):_0x25fb6f(0x5f5,'fyWu'))+_0x25fb6f(0x635,'pj(#')+(_0x488e35>=0x0?'+':'')+_0x488e35[_0x25fb6f(0x1095,'PX3c')]()+_0x25fb6f(0x4fd,'y)UI')+_0x55378d+_0x25fb6f(0x7dd,'lX[b');showModal({'title':_0x25fb6f(0x1236,'hCJL')+activeGroup,'body':_0x24a9cc,'confirmText':_0x25fb6f(0xe60,'Mgu1'),'confirmClass':_0x25fb6f(0xba4,'pj(#'),'onConfirm':()=>{const _0x534ab3=_0x25fb6f;navigator[_0x534ab3(0xc0f,'M*BU')][_0x534ab3(0xe4f,'pj(#')](_0x56b57f),showToast(_0x534ab3(0xc15,'#Ux*'),_0x534ab3(0x48d,'Fj&C'));}});}function isPrizeMatchBetType(_0x3f6c24,_0x3360c2){const _0x545c6b=_0x225e24,_0x1cf16d=_0x3f6c24[_0x545c6b(0xe44,'u@TD')]();if(['bl',_0x545c6b(0x440,'7!Gb'),_0x545c6b(0x606,'kMoM'),_0x545c6b(0x421,'MfL&'),_0x545c6b(0x11c5,'i%tL'),_0x545c6b(0xc1d,'OTP&'),'3c','dx'][_0x545c6b(0x8fd,'u@TD')](_0x3360c2))return!![];if(_0x3360c2==='g8')return _0x1cf16d[_0x545c6b(0xb0d,'WL8L')]('8')||_0x1cf16d[_0x545c6b(0xba0,'hCJL')]('g8');if(_0x3360c2==='g1')return _0x1cf16d[_0x545c6b(0x1060,'BNmM')]('1')||_0x1cf16d[_0x545c6b(0xba0,'hCJL')]('g1');if(_0x3360c2==='db')return _0x1cf16d[_0x545c6b(0x1161,'OTP&')]('db')||_0x1cf16d[_0x545c6b(0x75e,'wBCK')](_0x545c6b(0x5be,'2Lzj'));if(_0x3360c2==='dd')return _0x1cf16d[_0x545c6b(0xb0d,'WL8L')]('8')||_0x1cf16d[_0x545c6b(0x75e,'wBCK')]('db')||_0x1cf16d[_0x545c6b(0x96d,'%AH&')](_0x545c6b(0xb94,'#&$8'));return!![];}function setMiss(_0x47b30a){const _0x19ea90=_0x225e24;_0x47b30a[_0x19ea90(0x1245,'ySL*')]=![],_0x47b30a[_0x19ea90(0xf39,'Mgu1')]='',_0x47b30a[_0x19ea90(0x42b,'7Xia')]=0x0;}let selectedBetIds=new Set();function updateBulkDeleteButton(){const _0x550689=_0x225e24,_0x5bbe50=document[_0x550689(0x9f6,'lm&&')](_0x550689(0x8fa,'WL8L'));if(!_0x5bbe50)return;selectedBetIds[_0x550689(0xac4,'e[5n')]>0x0?(_0x5bbe50[_0x550689(0x10dc,'K7h7')][_0x550689(0xb61,'LyuC')]=_0x550689(0x491,'M1DA'),_0x5bbe50[_0x550689(0x363,'&SjD')]=_0x550689(0x10e5,'5Ess')+selectedBetIds[_0x550689(0x265,'nR@W')]+_0x550689(0x10a5,'OTP&')):_0x5bbe50[_0x550689(0x413,'pj(#')][_0x550689(0xa3f,'MfL&')]=_0x550689(0xf7c,'PX3c');}function toggleSelectBet(_0x5ad5a8,_0xfa87c6){const _0x4a576c=_0x225e24;_0xfa87c6[_0x4a576c(0xcc4,'wBCK')]?selectedBetIds[_0x4a576c(0x693,'7JZb')](_0x5ad5a8):selectedBetIds[_0x4a576c(0x9a0,'E5)l')](_0x5ad5a8),updateBulkDeleteButton();}function bulkDeleteSelected(){const _0x1df9de=_0x225e24;if(selectedBetIds[_0x1df9de(0x67c,'Mgu1')]===0x0)return;showModal({'title':_0x1df9de(0xf80,'M1DA'),'body':_0x1df9de(0x88c,'e6gp')+selectedBetIds[_0x1df9de(0xad6,'hCJL')]+_0x1df9de(0x6f1,'7!Gb'),'isPrompt':![],'onConfirm':()=>{const _0xafef1a=_0x1df9de,_0x3c530b=appData[activeGroup];if(!_0x3c530b)return;_0x3c530b[_0xafef1a(0x33e,'MHv!')]=_0x3c530b[_0xafef1a(0x680,'E5)l')][_0xafef1a(0x107e,'lX[b')](_0xb738d4=>!selectedBetIds[_0xafef1a(0x51a,'OTP&')](_0xb738d4['id'])),selectedBetIds[_0xafef1a(0x587,'gL1S')](),recalculateTotals(activeGroup),renderMatrixTable(),saveAppDataToDB(),showToast(_0xafef1a(0xc4b,'cNV6'),_0xafef1a(0x94a,'K7h7'));}});}function deleteAllBets(){const _0x5e4b36=_0x225e24;showModal({'title':_0x5e4b36(0x85f,'gL1S'),'body':_0x5e4b36(0xe1e,'nR@W')+activeGroup+_0x5e4b36(0x98c,'Oc5r'),'isPrompt':![],'onConfirm':()=>{const _0x1905e1=_0x5e4b36;if(!appData[activeGroup])return;appData[activeGroup][_0x1905e1(0xefc,'7JZb')]=[],appData[activeGroup][_0x1905e1(0xf34,'lX[b')]=[];if(typeof selectedBetIds!==_0x1905e1(0x10dd,'5Ad)'))selectedBetIds[_0x1905e1(0x57c,'hCJL')]();recalculateTotals(activeGroup),renderMatrixTable(),saveAppDataToDB(),showToast(_0x1905e1(0x766,'e[5n')+activeGroup,_0x1905e1(0x4ec,'y)UI'));}});}function loadSampleMB(){const _0x5b29ff=_0x225e24;document[_0x5b29ff(0xb65,'i%tL')](_0x5b29ff(0xa9b,'cNV6'))[_0x5b29ff(0x7ce,'&SjD')]=_0x5b29ff(0x7ec,'2Lzj'),showToast(_0x5b29ff(0x4d5,'pj(#'),_0x5b29ff(0x498,'BNmM'));}function loadSampleMT(){const _0x46173c=_0x225e24;document[_0x46173c(0x2bc,'mn5c')](_0x46173c(0x240,'e[5n'))[_0x46173c(0xf9f,'E5)l')]=_0x46173c(0x583,'PX3c'),showToast(_0x46173c(0x11aa,'Mgu1'),_0x46173c(0x646,'lm&&'));}function loadSampleBetData(){const _0x37d7ba=_0x225e24;document[_0x37d7ba(0xa25,')U6s')](_0x37d7ba(0xf81,'m1lh'))[_0x37d7ba(0x7b9,'BNmM')]=_0x37d7ba(0xcd3,'E5)l'),showToast(_0x37d7ba(0x116e,'pj(#'),_0x37d7ba(0x1223,'M1DA'));}function renderGroupButtons(){const _0x2243f1=_0x225e24,_0x3bd26a=document[_0x2243f1(0x7d9,'fyWu')](_0x2243f1(0x27c,'#Ux*'));if(!_0x3bd26a)return;_0x3bd26a[_0x2243f1(0x653,'M*BU')]='',_0x3bd26a[_0x2243f1(0x2af,'7Xia')][_0x2243f1(0x6ad,'m1lh')]=_0x2243f1(0x114a,'5Ess'),_0x3bd26a[_0x2243f1(0x762,'zNw(')][_0x2243f1(0x1224,'VWnK')]=_0x2243f1(0xb28,'u@TD'),_0x3bd26a[_0x2243f1(0x652,'e6gp')][_0x2243f1(0x2f3,'MHv!')]=_0x2243f1(0x10d5,')UVA'),_0x3bd26a[_0x2243f1(0x77b,'7!Gb')][_0x2243f1(0xea1,'Oc5r')]=_0x2243f1(0x53a,'Mgu1'),_0x3bd26a[_0x2243f1(0xa50,'M*BU')][_0x2243f1(0xa9f,'iEe2')]=_0x2243f1(0x55b,'E5)l');const _0x42f92f=document[_0x2243f1(0x266,'K7h7')](_0x2243f1(0x1018,'Fj&C'));_0x42f92f[_0x2243f1(0x11c7,'e[5n')][_0x2243f1(0x2b0,'Fj&C')]=_0x2243f1(0xb71,'M1DA'),_0x42f92f[_0x2243f1(0x2af,'7Xia')][_0x2243f1(0x263,'y)UI')]=_0x2243f1(0x9a4,'gL1S'),_0x42f92f[_0x2243f1(0x755,'mn5c')][_0x2243f1(0x10b8,'M*BU')]=_0x2243f1(0xf7d,'i%tL'),_0x42f92f[_0x2243f1(0xa50,'M*BU')][_0x2243f1(0x5c8,'nR@W')]=_0x2243f1(0xcc0,'iEe2'),_0x42f92f[_0x2243f1(0x9df,'Fj&C')][_0x2243f1(0x2fb,')U6s')]='1',_0x42f92f[_0x2243f1(0x755,'mn5c')][_0x2243f1(0x11df,'e6gp')]=_0x2243f1(0x858,'K7h7'),_0x42f92f[_0x2243f1(0x462,'7JZb')][_0x2243f1(0x31f,'y)UI')]=_0x2243f1(0xb6e,'iEe2'),_0x42f92f[_0x2243f1(0xafd,'hCJL')][_0x2243f1(0x5ee,'cNV6')]=_0x2243f1(0x675,')UVA'),groups[_0x2243f1(0xce1,'BNmM')](_0x2a5435=>{const _0xc64bb8=_0x2243f1,_0x571ff6=document[_0xc64bb8(0x1103,'2Lzj')](_0xc64bb8(0x929,'MfL&'));_0x571ff6[_0xc64bb8(0x1238,'m1lh')]=_0xc64bb8(0xf7e,'f#xl')+(_0x2a5435===activeGroup?_0xc64bb8(0x7a4,'7JZb'):''),_0x571ff6[_0xc64bb8(0x413,'pj(#')][_0xc64bb8(0x8d5,'7Xia')]=_0xc64bb8(0x1058,'m1lh');const _0x6c22c7=appData[_0x2a5435]||{},_0x487971=_0x6c22c7[_0xc64bb8(0x7d4,'M1DA')]?_0x6c22c7[_0xc64bb8(0x7d4,'M1DA')][_0xc64bb8(0x62b,'nR@W')]:0x0;_0x571ff6[_0xc64bb8(0x392,'5Ad)')]=_0x487971>0x0?_0xc64bb8(0xe04,'MHv!')+_0x2a5435+_0xc64bb8(0xeb1,'7!Gb')+_0x487971+_0xc64bb8(0xd35,'5Ad)'):_0xc64bb8(0xf58,'nR@W')+_0x2a5435,_0x571ff6[_0xc64bb8(0x98d,'BNmM')]=()=>switchGroup(_0x2a5435),_0x571ff6[_0xc64bb8(0xf19,'E5)l')]=_0x5d229b=>{const _0x37a019=_0xc64bb8;_0x5d229b[_0x37a019(0x57a,'e6gp')](),renameGroup(_0x2a5435);},_0x571ff6[_0xc64bb8(0x730,'i%tL')]=_0x59607e=>{const _0x4441f1=_0xc64bb8;_0x59607e[_0x4441f1(0xb0f,'K7h7')](),deleteGroup(_0x2a5435);},_0x571ff6[_0xc64bb8(0x839,')U6s')]=_0xc64bb8(0xb0e,')U6s'),_0x42f92f[_0xc64bb8(0x108d,'mn5c')](_0x571ff6);}),_0x3bd26a[_0x2243f1(0x1003,'MfL&')](_0x42f92f);const _0x38c142=document[_0x2243f1(0x325,'e6gp')](_0x2243f1(0xcd2,'iEe2'));_0x38c142[_0x2243f1(0x4f1,'lX[b')]=_0x2243f1(0x953,'lm&&'),_0x38c142[_0x2243f1(0xed6,')U6s')]=_0x2243f1(0xb78,'lX[b'),_0x38c142[_0x2243f1(0xa50,'M*BU')][_0x2243f1(0x579,'%AH&')]='0',_0x38c142[_0x2243f1(0x77b,'7!Gb')][_0x2243f1(0x7c7,'fyWu')]=_0x2243f1(0x2f9,']Sv0'),_0x38c142[_0x2243f1(0x2c5,'wBCK')]=addNewGroup,_0x3bd26a[_0x2243f1(0x2d3,')UVA')](_0x38c142);}function switchGroup(_0x1ceefe){const _0xf449d3=_0x225e24;activeGroup=_0x1ceefe,renderGroupButtons(),document[_0xf449d3(0x54e,'OTP&')](_0xf449d3(0xe81,'gL1S'))[_0xf449d3(0x1fb,'i%tL')]=_0xf449d3(0xd28,'mn5c')+activeGroup,document[_0xf449d3(0x700,'e6gp')](_0xf449d3(0xd77,'y)UI'))[_0xf449d3(0xe9f,'7!Gb')]=_0xf449d3(0x1196,'M*BU')+activeGroup,renderMatrixTable(),saveAppDataToDB();if(typeof calcCapitalShare===_0xf449d3(0x67d,'gL1S'))calcCapitalShare();if(typeof renderWinningLog===_0xf449d3(0xc4a,'&SjD'))renderWinningLog();}function selectGroupAndScroll(_0x2a7c60){const _0x170f8a=_0x225e24;if(typeof switchGroup===_0x170f8a(0x312,'#&$8'))switchGroup(_0x2a7c60);else{activeGroup=_0x2a7c60;if(typeof renderGroupButtons===_0x170f8a(0xfe1,'mn5c'))renderGroupButtons();if(typeof renderMatrixTable===_0x170f8a(0xd46,'m1lh'))renderMatrixTable();}typeof calcCapitalShare===_0x170f8a(0x619,'zNw(')&&calcCapitalShare(),setTimeout(()=>{const _0x3d739e=_0x170f8a,_0xeb0b09=document[_0x3d739e(0xca3,'OTP&')](_0x3d739e(0x10d2,'Oc5r'))||document[_0x3d739e(0xefb,'iEe2')](_0x3d739e(0x22f,'lm&&'))?.[_0x3d739e(0xd05,'BNmM')](_0x3d739e(0xe3f,'I*r6'));_0xeb0b09&&(_0xeb0b09[_0x3d739e(0x1030,'7JZb')]({'behavior':_0x3d739e(0x11ad,')U6s'),'block':_0x3d739e(0x932,'#&$8')}),_0xeb0b09[_0x3d739e(0xfb6,']Sv0')][_0x3d739e(0xdc5,'m1lh')]=_0x3d739e(0x2ec,'7JZb'),_0xeb0b09[_0x3d739e(0xfb6,']Sv0')][_0x3d739e(0xbe8,'f#xl')]=_0x3d739e(0xb27,'M*BU'),setTimeout(()=>{const _0x445b42=_0x3d739e;_0xeb0b09[_0x445b42(0x9df,'Fj&C')][_0x445b42(0x399,'mn5c')]='';},0x4b0));},0x96),typeof showToast===_0x170f8a(0xe06,'PX3c')&&showToast(_0x170f8a(0x1169,'7Xia')+_0x2a7c60,_0x170f8a(0x4d6,'5Ad)'));}function exportDataJSON(){const _0x23a688=_0x225e24,_0x101b07=_0x23a688(0x380,']Sv0')+encodeURIComponent(JSON[_0x23a688(0x473,'%AH&')]({'groups':groups,'appData':appData},null,0x2)),_0x4dc6c8=document[_0x23a688(0xc16,'gL1S')]('a');_0x4dc6c8[_0x23a688(0xdb5,'mn5c')](_0x23a688(0x97d,'ySL*'),_0x101b07),_0x4dc6c8[_0x23a688(0xc9d,'I*r6')](_0x23a688(0x29d,'7Xia'),_0x23a688(0x8f6,'2Lzj')+new Date()[_0x23a688(0x11d1,'7JZb')]()[_0x23a688(0x2e2,'OTP&')](0x0,0xa)+_0x23a688(0xff0,'7JZb')),document[_0x23a688(0x615,'LyuC')][_0x23a688(0x1119,'MHv!')](_0x4dc6c8),_0x4dc6c8[_0x23a688(0x1221,'hCJL')](),_0x4dc6c8[_0x23a688(0x5b6,'cNV6')](),showToast(_0x23a688(0xe27,'kMoM'),_0x23a688(0x777,'kMoM'));}function importDataJSON(_0x468cd1){const _0x5c317b=_0x225e24,_0x53ad23=new FileReader();_0x53ad23[_0x5c317b(0x6aa,'Oc5r')]=function(_0x17bc69){const _0x2d8e8a=_0x5c317b;try{const _0x20f447=JSON[_0x2d8e8a(0xccb,'fyWu')](_0x17bc69[_0x2d8e8a(0x108f,'Oc5r')][_0x2d8e8a(0xd49,'cNV6')]);if(_0x20f447[_0x2d8e8a(0x109b,'#Ux*')]&&_0x20f447[_0x2d8e8a(0xdc3,'#&$8')]){groups=_0x20f447[_0x2d8e8a(0x7e5,'WL8L')],appData=_0x20f447[_0x2d8e8a(0x984,'K7h7')];if(groups[_0x2d8e8a(0x1ef,'pj(#')]===0x0)groups=['A'];activeGroup=groups[0x0],renderGroupButtons(),renderMatrixTable(),updateGrandSummary(),saveAppDataToDB(),showToast(_0x2d8e8a(0x5a3,'e6gp'),_0x2d8e8a(0xae1,'wBCK'));}else customAlert(_0x2d8e8a(0xf63,'zNw('),_0x2d8e8a(0xb50,'lm&&'));}catch(_0x13e665){customAlert(_0x2d8e8a(0x230,'Fj&C'),_0x2d8e8a(0x26f,'PX3c'));}};if(_0x468cd1[_0x5c317b(0x29e,'MfL&')][_0x5c317b(0xe11,'m1lh')][0x0])_0x53ad23[_0x5c317b(0x519,'I*r6')](_0x468cd1[_0x5c317b(0xf27,'BNmM')][_0x5c317b(0xc41,'Fj&C')][0x0]);}function initOcean(){const _0x3501db=_0x225e24,_0x2bad8b=document[_0x3501db(0x11a6,'u@TD')](_0x3501db(0x41d,'VWnK'));if(!_0x2bad8b)return;_0x2bad8b[_0x3501db(0x6ec,'VWnK')]='';const _0x3e126b=document[_0x3501db(0x106d,'pj(#')](_0x3501db(0xa89,'m1lh'));_0x3e126b[_0x3501db(0x46a,'&SjD')]=_0x3501db(0x737,'VWnK'),_0x2bad8b[_0x3501db(0x761,'Mgu1')](_0x3e126b);for(let _0x3ae6f7=0x0;_0x3ae6f7<0x19;_0x3ae6f7++){let _0x52e44c=document[_0x3501db(0x8cd,'lX[b')](_0x3501db(0x5d5,'lX[b'));_0x52e44c[_0x3501db(0xfec,'y)UI')]=_0x3501db(0xf05,'zNw('),_0x52e44c[_0x3501db(0x413,'pj(#')][_0x3501db(0x1255,'Mgu1')]=Math[_0x3501db(0x85a,'u@TD')]()*0x12+0x4+'px',_0x52e44c[_0x3501db(0x589,'wBCK')][_0x3501db(0xd8f,'VWnK')]=_0x52e44c[_0x3501db(0x462,'7JZb')][_0x3501db(0x714,'M1DA')],_0x52e44c[_0x3501db(0x589,'wBCK')][_0x3501db(0x696,'PX3c')]=Math[_0x3501db(0x11ec,')UVA')]()*0x64+'%',_0x52e44c[_0x3501db(0x899,')UVA')][_0x3501db(0x6a5,'lm&&')]=Math[_0x3501db(0x9b4,'MfL&')]()*0x7+0x4+'s',_0x52e44c[_0x3501db(0xa86,'OTP&')][_0x3501db(0xf74,'lm&&')]=Math[_0x3501db(0x962,'wBCK')]()*0x5+'s',_0x2bad8b[_0x3501db(0x11ff,'E5)l')](_0x52e44c);}const _0x1e887f=['🐠','🐟','🐡','🦈','🦑','🐙','🦐','🦞','💲'];for(let _0x2642ea=0x0;_0x2642ea<0x12;_0x2642ea++){let _0x15aea3=document[_0x3501db(0x7a9,'cNV6')](_0x3501db(0x93d,'5Ess'));_0x15aea3[_0x3501db(0xcaa,'Oc5r')]=_0x3501db(0x905,'VWnK'),_0x15aea3[_0x3501db(0x5ca,'m1lh')]=_0x1e887f[Math[_0x3501db(0xf47,'WL8L')](Math[_0x3501db(0x58e,'7JZb')]()*_0x1e887f[_0x3501db(0x351,'e[5n')])],_0x15aea3[_0x3501db(0xa50,'M*BU')][_0x3501db(0xe29,'LyuC')]=Math[_0x3501db(0x85a,'u@TD')]()*0x41+0x8+'%',_0x15aea3[_0x3501db(0xa40,'E5)l')][_0x3501db(0xc2e,'pj(#')]=Math[_0x3501db(0x959,'LyuC')]()*0xe+0x12+'px',_0x15aea3[_0x3501db(0xeaa,'%AH&')][_0x3501db(0x668,'Fj&C')]=Math[_0x3501db(0x10bb,'lm&&')]()*0xc+0x9+'s',_0x15aea3[_0x3501db(0x492,'2Lzj')][_0x3501db(0x1066,'u@TD')]=Math[_0x3501db(0xf3e,'iEe2')]()*0x8+'s';if(Math[_0x3501db(0x115a,'pj(#')]()>0.5)_0x15aea3[_0x3501db(0xf7a,'5Ad)')][_0x3501db(0x3c1,'&SjD')]=_0x3501db(0x35e,'lm&&');_0x2bad8b[_0x3501db(0x91c,'LyuC')](_0x15aea3);}for(let _0x1cbb3d=0x0;_0x1cbb3d<0xe;_0x1cbb3d++){let _0xa7a4be=document[_0x3501db(0x3f8,'OTP&')](_0x3501db(0x655,'BNmM'));_0xa7a4be[_0x3501db(0x86b,'pj(#')]=_0x3501db(0x1000,'7!Gb'),_0xa7a4be[_0x3501db(0x27a,'lX[b')][_0x3501db(0xeeb,'mn5c')]=_0x1cbb3d*7.2+0x2+'%',_0xa7a4be[_0x3501db(0x755,'mn5c')][_0x3501db(0x911,'WL8L')]=Math[_0x3501db(0x890,'#Ux*')]()*0x5a+0x46+'px',_0xa7a4be[_0x3501db(0xc72,'#&$8')][_0x3501db(0x5bc,'e6gp')]=Math[_0x3501db(0x3b8,'PX3c')]()*0x4+0x3+'s',_0x2bad8b[_0x3501db(0x241,'nR@W')](_0xa7a4be);}const _0x247288=['⭐','🌟','🐚','💎','🦀'];for(let _0x33d916=0x0;_0x33d916<0xc;_0x33d916++){let _0x4f2196=document[_0x3501db(0x69e,']Sv0')](_0x3501db(0x59e,'MfL&'));_0x4f2196[_0x3501db(0xc83,'e[5n')]=_0x3501db(0xfbe,'WL8L'),_0x4f2196[_0x3501db(0xfa4,'Oc5r')]=_0x247288[Math[_0x3501db(0xd88,'e[5n')](Math[_0x3501db(0x954,'M*BU')]()*_0x247288[_0x3501db(0xcd8,')UVA')])],_0x4f2196[_0x3501db(0x462,'7JZb')][_0x3501db(0xe09,'i%tL')]=Math[_0x3501db(0x10bb,'lm&&')]()*0x5e+0x3+'%',_0x4f2196[_0x3501db(0x3a9,'kMoM')][_0x3501db(0x786,'7!Gb')]=Math[_0x3501db(0x99c,'&SjD')]()*0x1c+0x4+'px',_0x4f2196[_0x3501db(0x6ce,'lm&&')][_0x3501db(0x95c,'7Xia')]=Math[_0x3501db(0xd66,'gL1S')]()*0xc+0x10+'px',_0x4f2196[_0x3501db(0x899,')UVA')][_0x3501db(0xa43,'fyWu')]=Math[_0x3501db(0x1234,')U6s')]()*0x4+'s',_0x2bad8b[_0x3501db(0x383,'Oc5r')](_0x4f2196);}}const canvas=document[_0x225e24(0x996,'I*r6')](_0x225e24(0x4d1,']Sv0')),ctx=canvas?canvas[_0x225e24(0x6f3,'PX3c')]('2d'):null;let points=[],isDrawing=![],currentPattern=[],savedPattern=null;function revealLockScreen(){const _0x9809e4=_0x225e24;if(isUnlocked)return;const _0x533d32=document[_0x9809e4(0x996,'I*r6')](_0x9809e4(0xe3c,'zNw('));if(!_0x533d32)return;_0x533d32[_0x9809e4(0xfb6,']Sv0')][_0x9809e4(0x1c1,'fyWu')]=_0x9809e4(0x114a,'5Ess'),_0x533d32[_0x9809e4(0x2af,'7Xia')][_0x9809e4(0x35a,'#&$8')]=_0x9809e4(0x868,'&SjD'),_0x533d32[_0x9809e4(0x6ce,'lm&&')][_0x9809e4(0x117c,'iEe2')]=_0x9809e4(0xb54,'K7h7'),initPatternCanvas(),showToast(_0x9809e4(0xa5a,'#Ux*'),_0x9809e4(0xa57,'m1lh'));}function getPatternKey(_0x35e140){const _0x99c8b3=_0x225e24;return STORAGE_KEY_PATTERN+'_'+(_0x35e140||_0x99c8b3(0x895,'%AH&'))[_0x99c8b3(0x7b1,'M1DA')]()[_0x99c8b3(0x2d5,'hCJL')]();}function saveUserPattern(_0x48c88c,_0x5a4b4e){const _0x57d11f=_0x225e24,_0x11edb2=getPatternKey(_0x48c88c),_0xc064c=encryptPattern(_0x5a4b4e);localStorage[_0x57d11f(0x32a,'wBCK')](_0x11edb2,_0xc064c);}function loadUserPattern(_0x2ff1d7){const _0x540900=_0x225e24,_0x1f3593=getPatternKey(_0x2ff1d7),_0x1d3175=localStorage[_0x540900(0xa14,'#&$8')](_0x1f3593);if(!_0x1d3175)return null;return decryptPattern(_0x1d3175);}function removeUserPattern(_0x1abff1){const _0xb22ea3=_0x225e24,_0x16752e=getPatternKey(_0x1abff1);localStorage[_0xb22ea3(0x98e,'i%tL')](_0x16752e);}function initPatternCanvas(){const _0x234648=_0x225e24;if(!canvas)return;points=[];const _0x554504=0x3,_0x309c99=0x4b,_0x2ccf99=0x37;for(let _0x19837d=0x0;_0x19837d<_0x554504;_0x19837d++){for(let _0x37eeb7=0x0;_0x37eeb7<_0x554504;_0x37eeb7++){points[_0x234648(0x11f7,'7JZb')]({'x':_0x2ccf99+_0x37eeb7*_0x309c99,'y':_0x2ccf99+_0x19837d*_0x309c99,'id':_0x19837d*_0x554504+_0x37eeb7});}}const _0x435143=document[_0x234648(0x1158,'nR@W')](_0x234648(0x2cb,'hCJL')),_0x65134b=_0x435143?_0x435143[_0x234648(0xc9c,'2Lzj')][_0x234648(0x1027,')UVA')]():currentUser;savedPattern=loadUserPattern(_0x65134b),savedPattern?document[_0x234648(0x711,'Oc5r')](_0x234648(0x123c,'u@TD'))[_0x234648(0xda0,'VWnK')]=_0x234648(0x1e0,'e[5n')+_0x65134b+'\x22':document[_0x234648(0x1197,'VWnK')](_0x234648(0x1178,'wBCK'))[_0x234648(0xe9f,'7!Gb')]=_0x234648(0x45e,'Fj&C')+_0x65134b+'\x22',currentPattern=[],drawPattern();}function exportGroupExcel(){const _0x25580e=_0x225e24,_0x492a4c=appData[activeGroup];if(!_0x492a4c||!(_0x492a4c[_0x25580e(0x5dd,'cNV6')]||[])[_0x25580e(0x103f,'gL1S')])return showToast(_0x25580e(0x281,'Oc5r'),_0x25580e(0x979,'7!Gb'));recalculateTotals(activeGroup);const _0x5cab4c=new Date(),_0x5f50d2=_0x5cab4c[_0x25580e(0x1ec,'M1DA')](_0x25580e(0x3b6,'pj(#')),_0x38282b=_0x5cab4c[_0x25580e(0x78f,'e[5n')](_0x25580e(0x6f2,'WL8L'),{'hour':_0x25580e(0x50f,'LyuC'),'minute':_0x25580e(0x4d2,'y)UI')}),_0x4f0c06=typeof hasActiveDetailFilter===_0x25580e(0x2f6,'K7h7')&&hasActiveDetailFilter();let _0x554e6b=0x0,_0x2c5749=0x0,_0xed10c=0x0,_0x2b2bc0=0x0,_0x5de09c='';const _0x38a64e=_0x492a4c[_0x25580e(0x758,'LyuC')]||[];_0x38a64e[_0x25580e(0x11d8,'MfL&')]((_0x3d0ed2,_0x4dd2d0)=>{const _0x258bc2=_0x25580e,_0x1224b7=_0x4f0c06?(_0x3d0ed2[_0x258bc2(0xe30,']Sv0')]||[])[_0x258bc2(0xba9,'M1DA')](_0x116e16=>detailItemMatches(_0x116e16,_0x3d0ed2)):_0x3d0ed2[_0x258bc2(0x6ea,'m1lh')]||[];if(_0x1224b7[_0x258bc2(0x724,'I*r6')]===0x0)return;_0x554e6b+=_0x1224b7[_0x258bc2(0x124c,'LyuC')],_0x2c5749++;let _0x39ac63=0x0,_0x346a27=0x0;_0x1224b7[_0x258bc2(0xaeb,'iEe2')](_0x286ff9=>{const _0x3f97f1=_0x258bc2,_0x3ccc79=calculateItemFinancials(_0x286ff9,_0x286ff9[_0x3f97f1(0xcb8,'%AH&')]||'MT');_0x39ac63+=_0x3ccc79[_0x3f97f1(0x865,'y)UI')],_0x346a27+=_0x286ff9[_0x3f97f1(0x1053,'pj(#')]?_0x286ff9[_0x3f97f1(0x7e9,'gL1S')]||0x0:0x0;}),_0xed10c+=_0x39ac63,_0x2b2bc0+=_0x346a27;const _0x40b5e5=_0x39ac63-_0x346a27,_0x6229d4=(_0x1224b7[0x0]?.[_0x258bc2(0xf61,'mn5c')]||[])[_0x258bc2(0x58f,'OTP&')](_0x4aba9e=>STATION_ABBR[_0x4aba9e]||_0x4aba9e)[_0x258bc2(0x220,'ySL*')](',\x20')||'—';_0x5de09c+=_0x258bc2(0x788,'I*r6')+(_0x4dd2d0+0x1)+_0x258bc2(0x1237,'MHv!')+(_0x3d0ed2[_0x258bc2(0x4b2,'7!Gb')]||'')+_0x258bc2(0x998,']Sv0')+_0x6229d4+_0x258bc2(0x108a,'hCJL')+_0x39ac63[_0x258bc2(0x1016,'ySL*')]()+_0x258bc2(0x793,'cNV6')+_0x346a27[_0x258bc2(0xce7,'u@TD')]()+_0x258bc2(0x2e8,'VWnK')+(_0x40b5e5>=0x0?_0x258bc2(0x51b,'iEe2'):_0x258bc2(0xef4,'LyuC'))+_0x258bc2(0x4e7,'hCJL')+(_0x40b5e5>=0x0?'+':'')+_0x40b5e5[_0x258bc2(0x59a,'wBCK')]()+_0x258bc2(0xca8,'MHv!'),_0x1224b7[_0x258bc2(0xce1,'BNmM')]((_0x10aa21,_0xee6143)=>{const _0x1dcb9b=_0x258bc2,_0x299682=calculateItemFinancials(_0x10aa21,_0x10aa21[_0x1dcb9b(0x550,'K7h7')]||'MT'),_0x5eb75a=_0x10aa21[_0x1dcb9b(0x1245,'ySL*')]?_0x10aa21[_0x1dcb9b(0x80c,'u@TD')]||0x0:0x0,_0x277f9e=_0x299682[_0x1dcb9b(0x4a1,']Sv0')]-_0x5eb75a,_0x1285c3=BET_TYPES[_0x10aa21[_0x1dcb9b(0x3eb,')U6s')]]?.[_0x1dcb9b(0xb35,'Fj&C')]||_0x10aa21[_0x1dcb9b(0x2bb,'WL8L')]||'',_0x459eea=(_0x10aa21[_0x1dcb9b(0x11b7,'f#xl')]||[])[_0x1dcb9b(0x914,'E5)l')](_0x1cb70d=>STATION_ABBR[_0x1cb70d]||_0x1cb70d)[_0x1dcb9b(0xa9a,'BNmM')]('+')||'—',_0x7a6359=_0x10aa21[_0x1dcb9b(0xd4f,'kMoM')]?_0x1dcb9b(0x971,'pj(#'):_0xee6143%0x2===0x0?_0x1dcb9b(0xc20,'%AH&'):_0x1dcb9b(0x562,'MHv!'),_0x35148e=_0x10aa21[_0x1dcb9b(0x1067,'VWnK')]?_0x1dcb9b(0xa1a,']Sv0'):_0x1dcb9b(0xce0,'&SjD');_0x5de09c+=_0x1dcb9b(0xadb,'#&$8')+_0x7a6359+_0x1dcb9b(0xd79,'PX3c')+(_0xee6143+0x1)+_0x1dcb9b(0x552,'ySL*')+_0x459eea+_0x1dcb9b(0x96a,'Mgu1')+(_0x10aa21[_0x1dcb9b(0x682,'lX[b')]||'')+_0x1dcb9b(0x108e,'5Ad)')+_0x35148e+'\x22>'+_0x10aa21[_0x1dcb9b(0xba1,'cNV6')]+_0x1dcb9b(0x72d,'5Ess')+_0x1285c3+_0x1dcb9b(0x3f7,'M*BU')+(_0x10aa21[_0x1dcb9b(0x34f,'K7h7')]||0x0)+_0x1dcb9b(0xeb3,'cNV6')+_0x299682[_0x1dcb9b(0xfca,'#Ux*')]+_0x1dcb9b(0x9ab,'lX[b')+_0x299682[_0x1dcb9b(0x1d0,'WL8L')][_0x1dcb9b(0x59a,'wBCK')]()+_0x1dcb9b(0xb3a,'Mgu1')+(_0x5eb75a>0x0?_0x1dcb9b(0x424,'u@TD'):_0x1dcb9b(0x5ac,'MHv!'))+_0x1dcb9b(0xd63,'fyWu')+(_0x5eb75a>0x0?_0x5eb75a[_0x1dcb9b(0x5d8,'i%tL')]()+'₫':'—')+_0x1dcb9b(0xd87,'fyWu')+(_0x277f9e>=0x0?_0x1dcb9b(0xedf,'%AH&'):_0x1dcb9b(0x51d,'nR@W'))+_0x1dcb9b(0xf0c,'2Lzj')+((_0x277f9e>=0x0?'+':'')+_0x277f9e[_0x1dcb9b(0x4f8,'zNw(')]())+_0x1dcb9b(0x6e7,'iEe2')+(_0x10aa21[_0x1dcb9b(0xb6c,'2Lzj')]||'')+_0x1dcb9b(0xfbb,'7Xia');});});if(_0x4f0c06&&_0x554e6b===0x0)return showToast(_0x25580e(0x745,'iEe2'),_0x25580e(0x574,'m1lh'));const _0x172449=_0x4f0c06?_0xed10c:_0x492a4c[_0x25580e(0x32d,'M1DA')][_0x25580e(0x582,'ySL*')]||0x0,_0x336fd7=_0x4f0c06?_0x2b2bc0:_0x492a4c[_0x25580e(0x224,'f#xl')][_0x25580e(0x3c9,'M*BU')]||0x0,_0x34e8c4=_0x172449-_0x336fd7,_0xf0e0ea=!_0x4f0c06?null:detailMatchFilter===_0x25580e(0xabe,'cNV6')?_0x25580e(0xc54,')UVA'):detailMatchFilter===_0x25580e(0xdbc,'M*BU')?_0x25580e(0xcdd,'I*r6'):null,_0x39ef4f=detailSearchTerm?_0x25580e(0x4c2,'5Ad)')+detailSearchTerm+'\x22':null,_0x277c4a=[_0xf0e0ea,_0x39ef4f][_0x25580e(0xb57,'zNw(')](Boolean),_0x495d58=parseFloat(document[_0x25580e(0x6c5,'#Ux*')](_0x25580e(0x806,'Oc5r'))?.[_0x25580e(0x7cb,'Fj&C')]||0x0),_0x3f3ced=Math[_0x25580e(0x9e8,'Oc5r')](_0x34e8c4*_0x495d58/0x64),_0x5cba20=_0x25580e(0x10ba,'Fj&C')+activeGroup+_0x25580e(0x10f7,'5Ess')+_0x5f50d2+_0x25580e(0xcfc,'M*BU')+activeGroup+(_0xf0e0ea?_0x25580e(0x120a,'7Xia')+_0xf0e0ea:'')+_0x25580e(0x463,'cNV6')+_0x38282b+'\x20'+_0x5f50d2+_0x25580e(0x464,'#Ux*')+(_0x4f0c06?_0x554e6b:(_0x492a4c[_0x25580e(0x680,'E5)l')]||[])[_0x25580e(0x9f0,'&SjD')])+_0x25580e(0x1219,'hCJL')+(_0x4f0c06?_0x2c5749:_0x38a64e[_0x25580e(0xd41,']Sv0')])+_0x25580e(0xf6e,'Mgu1')+(_0x277c4a[_0x25580e(0xd41,']Sv0')]?_0x25580e(0x369,'pj(#')+_0x277c4a[_0x25580e(0x33d,')U6s')](_0x25580e(0x925,'K7h7'))+_0x25580e(0x976,'lm&&'):'')+_0x25580e(0xe84,'e[5n')+_0x5de09c+_0x25580e(0xee4,'nR@W')+_0x172449[_0x25580e(0x1154,'MfL&')]()+_0x25580e(0xd48,'7!Gb')+_0x336fd7[_0x25580e(0xe71,'WL8L')]()+_0x25580e(0x1d9,'PX3c')+(_0x34e8c4>=0x0?_0x25580e(0x845,'&SjD'):_0x25580e(0x1c7,'e[5n'))+_0x25580e(0xa62,'f#xl')+(_0x34e8c4>=0x0?'+':'')+_0x34e8c4[_0x25580e(0xbd6,'Fj&C')]()+_0x25580e(0x1cd,'#&$8')+(_0x495d58>0x0?_0x25580e(0x11b0,'7Xia')+_0x495d58+_0x25580e(0x844,'lm&&')+(_0x3f3ced>=0x0?'+':'')+_0x3f3ced[_0x25580e(0x11d5,'VWnK')]()+_0x25580e(0x6fe,'mn5c'):'')+_0x25580e(0x58b,'5Ess'),_0x39bddf=new Blob([_0x5cba20],{'type':_0x25580e(0x842,'y)UI')}),_0x11a1b5=URL[_0x25580e(0xc14,']Sv0')](_0x39bddf),_0x4728db=document[_0x25580e(0x7a9,'cNV6')]('a');_0x4728db[_0x25580e(0x25f,'nR@W')]=_0x11a1b5,_0x4728db[_0x25580e(0x9d7,'M*BU')]=_0x25580e(0x4b9,'hCJL')+activeGroup+'_'+_0x5cab4c[_0x25580e(0x84a,')UVA')]()[_0x25580e(0x92b,'nR@W')](0x0,0xa)+_0x25580e(0x991,'#&$8'),_0x4728db[_0x25580e(0x116a,'u@TD')](),URL[_0x25580e(0x1143,'lm&&')](_0x11a1b5),showToast(_0x25580e(0xaa6,'mn5c')+activeGroup+_0x25580e(0x3cb,'Mgu1'),_0x25580e(0xe40,'M*BU'));}document[_0x225e24(0x11e6,'E5)l')](_0x225e24(0x71c,'5Ess'),function(_0x1d1f5b){const _0x5d674d=_0x225e24;if(_0x1d1f5b[_0x5d674d(0x1068,'cNV6')]['id']!==_0x5d674d(0x1006,')U6s'))return;const _0x327003=_0x1d1f5b[_0x5d674d(0xd24,'M*BU')][_0x5d674d(0xe1d,'y)UI')][_0x5d674d(0x948,'7Xia')](),_0x317ebb=document[_0x5d674d(0xf2a,'Fj&C')](_0x5d674d(0x2d1,'Fj&C')),_0x289b95=document[_0x5d674d(0x66c,'2Lzj')](_0x5d674d(0xeea,'zNw(')),_0x3f060d=document[_0x5d674d(0x8e6,'e[5n')](_0x5d674d(0xdd7,'WL8L'));if(!_0x327003){if(_0x317ebb)_0x317ebb[_0x5d674d(0x24f,'7!Gb')]='';if(_0x289b95)_0x289b95[_0x5d674d(0x107f,'Mgu1')]='';return;}const _0x48c654=_0x327003[_0x5d674d(0xf31,'lm&&')](/\d{2,4}/g)||[];if(_0x48c654[_0x5d674d(0x633,'mn5c')]===0x0){if(_0x317ebb)_0x317ebb[_0x5d674d(0x2cf,'e6gp')]=_0x5d674d(0x1147,'#Ux*');return;}const _0x3f879d=_0x48c654[0x0][_0x5d674d(0xcd8,')UVA')];if(_0x3f879d===0x2&&_0x3f060d&&_0x3f060d[_0x5d674d(0x482,'pj(#')]==='bl'){}else{if(_0x3f879d===0x3&&_0x3f060d){}}_0x317ebb&&(_0x317ebb[_0x5d674d(0x2cd,'M1DA')]=_0x5d674d(0x68a,'BNmM')+_0x48c654[_0x5d674d(0x318,'wBCK')]+_0x5d674d(0xd95,'#Ux*')+_0x48c654[_0x5d674d(0xdfd,'iEe2')](_0x5b84a6=>_0x5b84a6[_0x5d674d(0xc4e,'m1lh')](_0x5b84a6[_0x5d674d(0x10f4,'E5)l')]===0x2?0x2:0x3,'0'))[_0x5d674d(0x8c3,'MfL&')](',\x20'));const _0x413cad=parseFloat(document[_0x5d674d(0x8b0,'f#xl')](_0x5d674d(0xdf4,')U6s'))?.[_0x5d674d(0xc3c,'m1lh')])||0x0,_0x524c39=document[_0x5d674d(0x11d4,'pj(#')](_0x5d674d(0xa47,'cNV6'))?.[_0x5d674d(0x101c,'cNV6')]||'k',_0x361c72=_0x524c39==='k'||_0x524c39==='n'?0x3e8:0x1,_0x2e6dc1=_0x413cad*_0x361c72;_0x289b95&&(_0x289b95[_0x5d674d(0x513,'hCJL')]=_0x5d674d(0x841,'lm&&')+_0x48c654[_0x5d674d(0x368,'Fj&C')]+_0x5d674d(0x539,'e[5n')+_0x2e6dc1[_0x5d674d(0x59a,'wBCK')]()+_0x5d674d(0x426,']Sv0')+(_0x48c654[_0x5d674d(0x2a4,'WL8L')]*_0x2e6dc1)[_0x5d674d(0xf9c,'#Ux*')]()+_0x5d674d(0x3e1,'gL1S'));});function _0x446c(_0x547c8e,_0x2066bc){_0x547c8e=_0x547c8e-0x1bc;const _0x5048b9=_0x4d4d();let _0x116d1d=_0x5048b9[_0x547c8e];if(_0x446c['mJXhBG']===undefined){var _0x33c108=function(_0x4d4d67){const _0x446cd7='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';let _0x11be5d='',_0x34112f='',_0x422350=_0x11be5d+_0x33c108,_0x30d633=(''+function(){return 0x0;})['indexOf']('\x0a')!==-0x1;for(let _0x5a7666=0x0,_0x519627,_0x3c2af5,_0x401725=0x0;_0x3c2af5=_0x4d4d67['charAt'](_0x401725++);~_0x3c2af5&&(_0x519627=_0x5a7666%0x4?_0x519627*0x40+_0x3c2af5:_0x3c2af5,_0x5a7666++%0x4)?_0x11be5d+=_0x30d633||_0x422350['charCodeAt'](_0x401725+0xa)-0xa!==0x0?String['fromCharCode'](0xff&_0x519627>>(-0x2*_0x5a7666&0x6)):_0x5a7666:0x0){_0x3c2af5=_0x446cd7['indexOf'](_0x3c2af5);}for(let _0x2ff721=0x0,_0x533a8d=_0x11be5d['length'];_0x2ff721<_0x533a8d;_0x2ff721++){_0x34112f+='%'+('00'+_0x11be5d['charCodeAt'](_0x2ff721)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x34112f);};const _0x55b635=function(_0x26d2d5,_0x3956d1){let _0x4801f1=[],_0x108898=0x0,_0x2e97de,_0x3875c2='';_0x26d2d5=_0x33c108(_0x26d2d5);let _0x1907bc;for(_0x1907bc=0x0;_0x1907bc<0x100;_0x1907bc++){_0x4801f1[_0x1907bc]=_0x1907bc;}for(_0x1907bc=0x0;_0x1907bc<0x100;_0x1907bc++){_0x108898=(_0x108898+_0x4801f1[_0x1907bc]+_0x3956d1['charCodeAt'](_0x1907bc%_0x3956d1['length']))%0x100,_0x2e97de=_0x4801f1[_0x1907bc],_0x4801f1[_0x1907bc]=_0x4801f1[_0x108898],_0x4801f1[_0x108898]=_0x2e97de;}_0x1907bc=0x0,_0x108898=0x0;for(let _0x1d013f=0x0;_0x1d013f<_0x26d2d5['length'];_0x1d013f++){_0x1907bc=(_0x1907bc+0x1)%0x100,_0x108898=(_0x108898+_0x4801f1[_0x1907bc])%0x100,_0x2e97de=_0x4801f1[_0x1907bc],_0x4801f1[_0x1907bc]=_0x4801f1[_0x108898],_0x4801f1[_0x108898]=_0x2e97de,_0x3875c2+=String['fromCharCode'](_0x26d2d5['charCodeAt'](_0x1d013f)^_0x4801f1[(_0x4801f1[_0x1907bc]+_0x4801f1[_0x108898])%0x100]);}return _0x3875c2;};_0x446c['lnsGyO']=_0x55b635,_0x446c['bwxJZH']={},_0x446c['mJXhBG']=!![];}const _0x33175b=_0x5048b9[0x0],_0x41a6a2=_0x547c8e+_0x33175b,_0x4e24b8=_0x446c['bwxJZH'][_0x41a6a2];if(!_0x4e24b8){if(_0x446c['mSyYaF']===undefined){const _0x5cc109=function(_0x345feb){this['SgydsB']=_0x345feb,this['BTQiJv']=[0x1,0x0,0x0],this['QbtGRf']=function(){return'newState';},this['ifdTUq']='\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*',this['wDlKER']='[\x27|\x22].+[\x27|\x22];?\x20*}';};_0x5cc109['prototype']['wSMHfQ']=function(){const _0x1b8181=new RegExp(this['ifdTUq']+this['wDlKER']),_0x52595f=_0x1b8181['test'](this['QbtGRf']['toString']())?--this['BTQiJv'][0x1]:--this['BTQiJv'][0x0];return this['OuWwZM'](_0x52595f);},_0x5cc109['prototype']['OuWwZM']=function(_0x28c7e2){if(!Boolean(~_0x28c7e2))return _0x28c7e2;return this['rIizuH'](this['SgydsB']);},_0x5cc109['prototype']['rIizuH']=function(_0x8dda32){for(let _0x3b3d1a=0x0,_0x32fc98=this['BTQiJv']['length'];_0x3b3d1a<_0x32fc98;_0x3b3d1a++){this['BTQiJv']['push'](Math['round'](Math['random']())),_0x32fc98=this['BTQiJv']['length'];}return _0x8dda32(this['BTQiJv'][0x0]);},(''+function(){return 0x0;})['indexOf']('\x0a')===-0x1&&new _0x5cc109(_0x446c)['wSMHfQ'](),_0x446c['mSyYaF']=!![];}_0x116d1d=_0x446c['lnsGyO'](_0x116d1d,_0x2066bc),_0x446c['bwxJZH'][_0x41a6a2]=_0x116d1d;}else _0x116d1d=_0x4e24b8;return _0x116d1d;}function drawPattern(){const _0x4782d0=_0x225e24;if(!ctx)return;ctx[_0x4782d0(0x6d1,'Fj&C')](0x0,0x0,canvas[_0x4782d0(0x861,'7JZb')],canvas[_0x4782d0(0x70a,'kMoM')]),points[_0x4782d0(0x1186,'LyuC')](_0x11402d=>{const _0x353c25=_0x4782d0;ctx[_0x353c25(0xefd,'MHv!')](),ctx[_0x353c25(0x814,'K7h7')](_0x11402d['x'],_0x11402d['y'],0xc,0x0,Math['PI']*0x2),ctx[_0x353c25(0x7bc,'cNV6')]=currentPattern[_0x353c25(0x8fd,'u@TD')](_0x11402d['id'])?_0x353c25(0x280,'f#xl'):_0x353c25(0x10bd,'MfL&'),ctx[_0x353c25(0x507,'Mgu1')]=currentPattern[_0x353c25(0x1110,')UVA')](_0x11402d['id'])?_0x353c25(0x10ea,'cNV6'):_0x353c25(0x9ad,'u@TD'),ctx[_0x353c25(0xdf3,'e6gp')]=0xa,ctx[_0x353c25(0xac5,'LyuC')](),ctx[_0x353c25(0x10a6,'hCJL')]=0x2,ctx[_0x353c25(0xca7,'m1lh')]=_0x353c25(0x10aa,'pj(#'),ctx[_0x353c25(0x45a,'7!Gb')]();});if(currentPattern[_0x4782d0(0xfe5,'5Ad)')]>0x1){ctx[_0x4782d0(0x21a,'BNmM')]();for(let _0x552287=0x0;_0x552287<currentPattern[_0x4782d0(0x809,'ySL*')];_0x552287++){let _0x1a7c31=points[_0x4782d0(0x7ca,'I*r6')](_0x4630e9=>_0x4630e9['id']===currentPattern[_0x552287]);if(_0x552287===0x0)ctx[_0x4782d0(0xb5f,'M1DA')](_0x1a7c31['x'],_0x1a7c31['y']);else ctx[_0x4782d0(0x5af,'e6gp')](_0x1a7c31['x'],_0x1a7c31['y']);}ctx[_0x4782d0(0x472,'wBCK')]=_0x4782d0(0x489,'m1lh'),ctx[_0x4782d0(0x656,'nR@W')]=_0x4782d0(0x4ca,'i%tL'),ctx[_0x4782d0(0x701,'VWnK')]=0xf,ctx[_0x4782d0(0x577,'&SjD')]=0x4,ctx[_0x4782d0(0x2d2,'u@TD')]();}}canvas&&(canvas[_0x225e24(0x891,'gL1S')](_0x225e24(0x6f4,'LyuC'),_0x58f068=>{!isUnlocked&&(isDrawing=!![],currentPattern=[],checkPoint(_0x58f068));}),canvas[_0x225e24(0x234,'%AH&')](_0x225e24(0x7c1,'i%tL'),_0x29a9b5=>{if(!isUnlocked&&isDrawing)checkPoint(_0x29a9b5);}),canvas[_0x225e24(0x1151,'5Ess')](_0x225e24(0x64c,'#Ux*'),()=>{isDrawing=![];}));function checkPoint(_0x18d2ed){const _0x282054=_0x225e24,_0x1eef26=canvas[_0x282054(0x49e,'PX3c')](),_0x23b29b=_0x18d2ed[_0x282054(0x3cf,']Sv0')]-_0x1eef26[_0x282054(0x2db,'OTP&')],_0x5a72c6=_0x18d2ed[_0x282054(0xe54,'f#xl')]-_0x1eef26[_0x282054(0x1108,'E5)l')];points[_0x282054(0xdbf,')UVA')](_0xaf062c=>{const _0x57a9e2=_0x282054;Math[_0x57a9e2(0x1cf,'cNV6')](_0xaf062c['x']-_0x23b29b,_0xaf062c['y']-_0x5a72c6)<0x14&&(!currentPattern[_0x57a9e2(0xb9c,'Oc5r')](_0xaf062c['id'])&&(currentPattern[_0x57a9e2(0x471,'zNw(')](_0xaf062c['id']),drawPattern()));});}function handleUnlockAttempt(){const _0x2523f7=_0x225e24,_0x13897c=document[_0x2523f7(0x11eb,'Mgu1')](_0x2523f7(0xca0,'&SjD'))[_0x2523f7(0xf41,'#&$8')][_0x2523f7(0x1027,')UVA')]();if(!_0x13897c)return showToast(_0x2523f7(0x3b5,'M*BU'),_0x2523f7(0x972,')UVA'));currentUser=_0x13897c,localStorage[_0x2523f7(0xbf2,'cNV6')](STORAGE_KEY_USER,currentUser);if(currentPattern[_0x2523f7(0x222,'m1lh')]<0x3)return showToast(_0x2523f7(0x522,'nR@W'),_0x2523f7(0xbbc,']Sv0'));const _0x1dbb8b=loadUserPattern(currentUser);if(!_0x1dbb8b){const _0x16f09e=currentUser,_0x32bef0=[...currentPattern];currentPattern=[],drawPattern(),customPrompt(_0x2523f7(0x382,'7Xia'),_0x2523f7(0xf77,'pj(#')+_0x16f09e+_0x2523f7(0x92c,'7!Gb'),'',_0x47d506=>{const _0x23abe9=_0x2523f7;if(!_0x47d506)return showToast(_0x23abe9(0x662,'m1lh'),_0x23abe9(0x9fc,'5Ad)'));if(!verifyAdminCode(_0x47d506))return showToast(_0x23abe9(0x334,'Oc5r'),_0x23abe9(0xcb4,'Mgu1'));saveUserPattern(_0x16f09e,_0x32bef0),savedPattern=[..._0x32bef0],currentPattern=[..._0x32bef0],showToast(_0x23abe9(0xa81,'nR@W')+_0x16f09e+'\x22',_0x23abe9(0x46b,'i%tL')),executeUnlock();});return;}JSON[_0x2523f7(0x608,'Fj&C')](currentPattern)===JSON[_0x2523f7(0xea0,'I*r6')](_0x1dbb8b)?(showToast(_0x2523f7(0x7e3,'i%tL')+currentUser+'!',_0x2523f7(0xbdd,'cNV6')),executeUnlock()):(showToast(_0x2523f7(0x23f,'e[5n'),_0x2523f7(0xaf7,'MfL&')),currentPattern=[],drawPattern());}function executeUnlock(){const _0x44f33d=_0x225e24;isUnlocked=!![];const _0x4d23cb=document[_0x44f33d(0x732,'hCJL')](_0x44f33d(0xfa0,'gL1S'));currentUser=(_0x4d23cb?_0x4d23cb[_0x44f33d(0x6f7,'WL8L')][_0x44f33d(0x238,'E5)l')]():'')||_0x44f33d(0x93f,'7JZb'),localStorage[_0x44f33d(0x5e0,']Sv0')](STORAGE_KEY_USER,currentUser),document[_0x44f33d(0x295,'MfL&')](_0x44f33d(0x43b,')U6s'))[_0x44f33d(0xcfb,'2Lzj')]=currentUser,document[_0x44f33d(0xba7,'5Ad)')](_0x44f33d(0x454,'mn5c'))[_0x44f33d(0x654,'m1lh')][_0x44f33d(0x818,'hCJL')]=_0x44f33d(0x784,'zNw('),document[_0x44f33d(0x102e,'PX3c')](_0x44f33d(0xfc5,'MHv!'))[_0x44f33d(0xa86,'OTP&')][_0x44f33d(0xa3f,'MfL&')]=_0x44f33d(0x1e9,'5Ad)'),pauseOcean(),renderGroupButtons(),renderMatrixTable(),updateGrandSummary();}function lockApp(){const _0x10d0b2=_0x225e24;isUnlocked=![],document[_0x10d0b2(0xf2a,'Fj&C')](_0x10d0b2(0xe9c,'lX[b'))[_0x10d0b2(0xe76,'BNmM')][_0x10d0b2(0xa3f,'MfL&')]=_0x10d0b2(0xd0e,'7JZb'),document[_0x10d0b2(0x6c5,'#Ux*')](_0x10d0b2(0x558,'gL1S'))[_0x10d0b2(0x899,')UVA')][_0x10d0b2(0x11f6,'ySL*')]=_0x10d0b2(0x5c0,'5Ess'),resumeOcean(),currentPattern=[];}function pauseOcean(){const _0x20f4b5=_0x225e24,_0xff645c=document[_0x20f4b5(0x933,'#&$8')](_0x20f4b5(0xe53,'lX[b'));if(_0xff645c)_0xff645c[_0x20f4b5(0x1122,'#Ux*')][_0x20f4b5(0x1026,'K7h7')]=_0x20f4b5(0xfd3,'nR@W');}function resumeOcean(){const _0x6c86c=_0x225e24,_0x291e5d=document[_0x6c86c(0xa7d,'7JZb')](_0x6c86c(0x66f,'m1lh'));if(_0x291e5d)_0x291e5d[_0x6c86c(0x9df,'Fj&C')][_0x6c86c(0x6ef,'#Ux*')]=_0x6c86c(0x261,'I*r6');}function triggerSecureResetPattern(){const _0x314258=_0x225e24;if(isUnlocked)return;customPrompt(_0x314258(0x55e,'e6gp'),_0x314258(0xab1,'WL8L'),'',_0x71257c=>{const _0x4b160a=_0x314258;if(!_0x71257c)return;if(!verifyAdminCode(_0x71257c))return showToast(_0x4b160a(0x82d,'7!Gb'),_0x4b160a(0xaac,'wBCK'));const _0x5e316b=_0x4b160a(0x86e,']Sv0');showModal({'title':_0x4b160a(0x9bc,'y)UI'),'body':_0x5e316b,'isPrompt':![]}),setTimeout(()=>{const _0x31c884=_0x4b160a,_0xdb024d=document[_0x31c884(0x54e,'OTP&')](_0x31c884(0x10fc,']Sv0'));if(_0xdb024d)_0xdb024d[_0x31c884(0xe76,'BNmM')][_0x31c884(0x2e7,'u@TD')]=_0x31c884(0xf03,'%AH&');},0x1e);});}function removeAccents(_0x448e7f){const _0x3ddf65=_0x225e24;if(!_0x448e7f)return'';return _0x448e7f[_0x3ddf65(0xce2,'5Ess')](/đ/g,'d')[_0x3ddf65(0x7eb,'kMoM')](/Đ/g,'D')[_0x3ddf65(0x801,'hCJL')](_0x3ddf65(0x60c,'Fj&C'))[_0x3ddf65(0xe68,'&SjD')](/[\u0300-\u036f]/g,'')[_0x3ddf65(0xff3,'I*r6')](/đ/g,'d')[_0x3ddf65(0xa4b,'%AH&')](/Đ/g,'D');}let manualRows=[];function expandNumbers(_0x4bcbea){const _0x77d9f5=_0x225e24;if(!_0x4bcbea)return[];let _0x580903=removeAccents(_0x4bcbea[_0x77d9f5(0x89f,'iEe2')]()[_0x77d9f5(0x4e2,'i%tL')]()),_0x506880=[];const _0x399fc9=_0x580903[_0x77d9f5(0xe49,'MfL&')](/^(\d{2,3})\s*(?:->|den)\s*(\d{2,3})$/);if(_0x399fc9){let _0x2b88e6=parseInt(_0x399fc9[0x1],0xa),_0x1e9c4d=parseInt(_0x399fc9[0x2],0xa),_0x1ddbb7=_0x399fc9[0x1][_0x77d9f5(0xa00,'2Lzj')];if(_0x2b88e6<=_0x1e9c4d)for(let _0x43314d=_0x2b88e6;_0x43314d<=_0x1e9c4d;_0x43314d++){_0x506880[_0x77d9f5(0x106a,'fyWu')](_0x43314d[_0x77d9f5(0x658,'LyuC')]()[_0x77d9f5(0xed7,'MfL&')](_0x1ddbb7,'0'));}return _0x506880;}if(/^\d{2,3}(?:-\d{2,3})+$/[_0x77d9f5(0x4e6,'kMoM')](_0x580903))return _0x580903[_0x77d9f5(0x4ea,'e[5n')]('-');if(_0x580903===_0x77d9f5(0x983,'hCJL')||_0x580903===_0x77d9f5(0x448,'BNmM')||_0x580903===_0x77d9f5(0x2c1,'iEe2'))return ALL_ZODIAC_NUMS;_0x580903=_0x580903[_0x77d9f5(0x942,'M*BU')](/\bdau\s*(10|[0-9])\b/g,(_0x43d6a7,_0x2ab5f9)=>{const _0x149619=_0x77d9f5,_0x2e50c7=_0x2ab5f9==='10'?0x1:Number(_0x2ab5f9),_0x23a5a8=_0x2e50c7*0xa;return Array[_0x149619(0xa01,'y)UI')]({'length':0xa},(_0x5b6f03,_0x190605)=>String(_0x23a5a8+_0x190605)[_0x149619(0xdb3,'kMoM')](0x2,'0'))[_0x149619(0x57e,'M1DA')]('\x20');});for(const [_0x1a878e,_0x2e9ed3]of Object[_0x77d9f5(0xfe2,'#Ux*')](PAIR_SETS_NORM)){_0x580903[_0x77d9f5(0xf43,'VWnK')](_0x1a878e)&&(_0x580903=_0x580903[_0x77d9f5(0x7d0,'y)UI')](_0x1a878e,_0x2e9ed3[_0x77d9f5(0xce5,']Sv0')]('\x20')));}const _0x59eda3=_0x580903[_0x77d9f5(0x364,'wBCK')](/[,\s]+/);return _0x59eda3[_0x77d9f5(0x3b0,'u@TD')](_0x4d5514=>{const _0x226ff4=_0x77d9f5;if(!_0x4d5514)return;if(_0x4d5514===_0x226ff4(0x5c2,'y)UI')){for(let _0x389c83=0x0;_0x389c83<=0x62;_0x389c83+=0x2)_0x506880[_0x226ff4(0xafb,'#&$8')](_0x389c83[_0x226ff4(0x661,'u@TD')]()[_0x226ff4(0x690,'gL1S')](0x2,'0'));}else{if(_0x4d5514==='le'){for(let _0x3f1c1c=0x1;_0x3f1c1c<=0x63;_0x3f1c1c+=0x2)_0x506880[_0x226ff4(0xc58,'WL8L')](_0x3f1c1c[_0x226ff4(0xd80,'pj(#')]()[_0x226ff4(0x561,'lX[b')](0x2,'0'));}else{if(ZODIAC_MAP[_0x4d5514])_0x506880[_0x226ff4(0x3bb,'MHv!')](...ZODIAC_MAP[_0x4d5514]);else!isNaN(_0x4d5514)&&_0x506880[_0x226ff4(0x6a6,'#Ux*')](_0x4d5514);}}}),[...new Set(_0x506880)];}function openSmartManualModal(){const _0x345e4b=_0x225e24;manualRows=[{'num':'','type':'bl','price':0x5}],document[_0x345e4b(0xb02,'%AH&')](_0x345e4b(0xda4,')UVA'))[_0x345e4b(0xafd,'hCJL')][_0x345e4b(0x967,'7Xia')]=_0x345e4b(0x9ba,'y)UI'),renderSmartManualStations(),renderSmartRows(),setTimeout(()=>document[_0x345e4b(0x8b0,'f#xl')](_0x345e4b(0x864,'gL1S'))?.[_0x345e4b(0x35b,'pj(#')](),0x0);}function closeSmartManualModal(){const _0x35f85a=_0x225e24;document[_0x35f85a(0xe3b,'lX[b')](_0x35f85a(0x1141,'MfL&'))[_0x35f85a(0xcf4,'fyWu')][_0x35f85a(0x1026,'K7h7')]=_0x35f85a(0x4de,'e[5n');}function renderSmartManualStations(){const _0xe36b8b=_0x225e24,_0x220bb0=document[_0xe36b8b(0xeb6,'LyuC')](_0xe36b8b(0xec8,'I*r6'));if(!_0x220bb0)return;const _0xaca350=document[_0xe36b8b(0xdb7,'7JZb')](_0xe36b8b(0x96e,'fyWu'))?.[_0xe36b8b(0x482,'pj(#')]||'MT',_0x370bae=selectedStations[_0xe36b8b(0x62b,'nR@W')]?[...selectedStations]:typeof getTodayStations===_0xe36b8b(0x93c,'LyuC')?getTodayStations(_0xaca350):[_0xe36b8b(0x122f,'ySL*')];_0x220bb0[_0xe36b8b(0x24a,'mn5c')]=_0x370bae[_0xe36b8b(0x337,'hCJL')]((_0x461589,_0xe0752)=>_0xe36b8b(0x835,'pj(#')+_0x461589+'\x22\x20'+(selectedStations[_0xe36b8b(0x11a1,'OTP&')]?_0xe36b8b(0x3bc,'gL1S'):_0xe0752===0x0?_0xe36b8b(0x4b6,'zNw('):'')+_0xe36b8b(0x2b9,'#&$8')+_0x461589+_0xe36b8b(0x10af,'PX3c'))[_0xe36b8b(0x68d,'mn5c')]('');}function renderSmartRows(){const _0x1fc1d0=_0x225e24,_0x1cdfdf=document[_0x1fc1d0(0x6c5,'#Ux*')](_0x1fc1d0(0x329,'BNmM'));if(!_0x1cdfdf)return;_0x1cdfdf[_0x1fc1d0(0x124a,'PX3c')]=manualRows[_0x1fc1d0(0x58f,'OTP&')]((_0x14c755,_0x31d5d1)=>{const _0x5cda88=_0x1fc1d0,_0x4f0856=getManualTypeKey(_0x14c755[_0x5cda88(0x105a,'K7h7')]),_0x52e87e=getManualBetTypeOptions(_0x4f0856);return _0x5cda88(0x80a,'&SjD')+_0x31d5d1+_0x5cda88(0x644,'lm&&')+_0x14c755[_0x5cda88(0x28c,'#&$8')]+_0x5cda88(0x20f,'ySL*')+_0x31d5d1+_0x5cda88(0x1188,'7JZb')+_0x31d5d1+_0x5cda88(0x6d5,'PX3c')+_0x31d5d1+_0x5cda88(0x1d6,'i%tL')+_0x31d5d1+_0x5cda88(0x5e8,'OTP&')+_0x52e87e+_0x5cda88(0x853,'ySL*')+_0x14c755[_0x5cda88(0xc73,'gL1S')]+_0x5cda88(0x856,'zNw(')+_0x31d5d1+_0x5cda88(0x10d9,'hCJL')+_0x31d5d1+_0x5cda88(0xd0b,'Mgu1')+_0x31d5d1+_0x5cda88(0xc33,'kMoM');})[_0x1fc1d0(0x790,'iEe2')]('');const _0x20c6c6=document[_0x1fc1d0(0x102e,'PX3c')](_0x1fc1d0(0x11cd,'e[5n'));if(_0x20c6c6)_0x20c6c6[_0x1fc1d0(0xa32,'iEe2')]=![];calculateSmartTotals();}function onInputSmartRow(_0x2bcb14,_0x503cb5,_0x3219ad){const _0x580f39=_0x225e24;manualRows[_0x2bcb14][_0x503cb5]=_0x3219ad;if(_0x503cb5===_0x580f39(0x677,'OTP&')){const _0x5d4d76=_0x3219ad[_0x580f39(0x7b1,'M1DA')]()[_0x580f39(0x8f1,'2Lzj')](/[,\s]+/)[0x0]||'',_0x28ab80=_0x3219ad[_0x580f39(0x10a1,'I*r6')]()[_0x580f39(0xbb1,'LyuC')](/^\d{2,3}(?:-\d{2,3})+$/);if(/^(?:\d{2,3}\s*(?:đến|den|->)\s*\d{2,3})$/i[_0x580f39(0xdae,'#&$8')](_0x3219ad[_0x580f39(0xe45,')U6s')]()))manualRows[_0x2bcb14][_0x580f39(0x278,'#&$8')]=_0x580f39(0x104c,')UVA');else{if(_0x28ab80)manualRows[_0x2bcb14][_0x580f39(0x11d0,'hCJL')]=_0x28ab80[0x0][_0x580f39(0x5d3,'I*r6')]('-')[_0x580f39(0x5df,'#Ux*')]>0x2?'dx':'da';else{if(_0x5d4d76[_0x580f39(0x222,'m1lh')]===0x2&&['bl','2c','3c'][_0x580f39(0x1110,')UVA')](manualRows[_0x2bcb14][_0x580f39(0xa7e,'7JZb')])){manualRows[_0x2bcb14][_0x580f39(0xc6b,'Mgu1')]='2c';const _0x2e594e=document[_0x580f39(0xd23,'5Ad)')](_0x580f39(0x6cd,'kMoM'))[_0x2bcb14]?.[_0x580f39(0x838,'%AH&')](_0x580f39(0x1001,'VWnK'))[0x0];if(_0x2e594e)_0x2e594e[_0x580f39(0xf9f,'E5)l')]='2c';}else{if(_0x5d4d76[_0x580f39(0xfe5,'5Ad)')]===0x3&&['bl','2c','3c'][_0x580f39(0xa84,'m1lh')](manualRows[_0x2bcb14][_0x580f39(0x590,'5Ess')])){manualRows[_0x2bcb14][_0x580f39(0x7f7,'u@TD')]='3c';const _0x1eb7c0=document[_0x580f39(0x1041,'#Ux*')](_0x580f39(0x554,'u@TD'))[_0x2bcb14]?.[_0x580f39(0x11be,'e[5n')](_0x580f39(0x1034,'MfL&'))[0x0];if(_0x1eb7c0)_0x1eb7c0[_0x580f39(0xe1d,'y)UI')]='3c';}}}}const _0x564cae=document[_0x580f39(0x39e,'VWnK')](_0x580f39(0x5a9,'#Ux*'))[_0x2bcb14]?.[_0x580f39(0xaee,'E5)l')](_0x580f39(0x7d8,'7!Gb'))[0x0];if(_0x564cae&&_0x564cae[_0x580f39(0x7cf,']Sv0')]!==manualRows[_0x2bcb14][_0x580f39(0xb52,'zNw(')])_0x564cae[_0x580f39(0xcf5,'7Xia')]=manualRows[_0x2bcb14][_0x580f39(0xa38,'mn5c')];}calculateSmartTotals();}function handleSmartKeyDown(_0x3430e4,_0x5ca281){const _0x53ccb6=_0x225e24;_0x3430e4[_0x53ccb6(0x1df,'y)UI')]===_0x53ccb6(0xd53,'%AH&')&&(_0x3430e4[_0x53ccb6(0xd7e,'7JZb')](),_0x5ca281===manualRows[_0x53ccb6(0x1102,'M*BU')]-0x1&&(addSmartRow(),setTimeout(()=>{const _0x50f3d3=_0x53ccb6,_0x43814f=document[_0x50f3d3(0x1158,'nR@W')](_0x50f3d3(0x1259,'mn5c')+(_0x5ca281+0x1));if(_0x43814f)_0x43814f[_0x50f3d3(0x44b,'nR@W')]();},0x32)));}function calculateSmartTotals(){const _0x160a14=_0x225e24,_0x311051=document[_0x160a14(0xe73,'LyuC')](_0x160a14(0x5cc,'%AH&'))[_0x160a14(0xa5b,'Oc5r')]||0x1,_0x5d73e5=document[_0x160a14(0x918,'LyuC')](_0x160a14(0x1109,'mn5c'))?.[_0x160a14(0x7cb,'Fj&C')]||'MT',_0x1901d6=_0x5d73e5==='MB';let _0x28a94f=0x0;manualRows[_0x160a14(0xdbf,')UVA')]((_0x19cbe4,_0x16f8c5)=>{const _0x44d8e9=_0x160a14,_0x4a1f31=expandNumbers(_0x19cbe4[_0x44d8e9(0x3ae,'M*BU')]);let _0x4dad89,_0x2c8e9c;if(_0x19cbe4[_0x44d8e9(0x88b,'BNmM')]==='da'||_0x19cbe4[_0x44d8e9(0xd57,'E5)l')]==='dx'||_0x19cbe4[_0x44d8e9(0x10f9,'cNV6')]==='dv'){const _0x3734b6=[...new Set(_0x4a1f31)];if(_0x19cbe4[_0x44d8e9(0x5f3,'LyuC')]==='da')_0x4dad89=_0x3734b6[_0x44d8e9(0x10ed,')U6s')]>=0x2?0x1:0x0;else _0x19cbe4[_0x44d8e9(0x40d,'Fj&C')]==='dx'?_0x4dad89=_0x3734b6[_0x44d8e9(0x809,'ySL*')]>=0x2?0x1:0x0:_0x4dad89=_0x3734b6[_0x44d8e9(0xc98,'zNw(')]>=0x3?_0x3734b6[_0x44d8e9(0x10ed,')U6s')]*(_0x3734b6[_0x44d8e9(0x449,'M1DA')]-0x1)/0x2:0x0;_0x2c8e9c=_0x1901d6?0x36:0x24;}else _0x4dad89=_0x4a1f31[_0x44d8e9(0xe18,'lm&&')]||0x0,_0x2c8e9c=getPrizeCount(_0x19cbe4[_0x44d8e9(0x49b,')UVA')],_0x5d73e5);const _0x54ba48=(Number(_0x19cbe4[_0x44d8e9(0x5ce,'y)UI')])||0x0)*0x3e8*_0x2c8e9c*_0x311051*_0x4dad89;if(_0x19cbe4[_0x44d8e9(0xb4a,'#Ux*')][_0x44d8e9(0x11bb,'5Ess')]()!=='')_0x28a94f+=_0x54ba48;const _0x4043c6=document[_0x44d8e9(0xff2,'5Ess')](_0x44d8e9(0x2ba,'7JZb')+_0x16f8c5);if(_0x4043c6)_0x4043c6[_0x44d8e9(0xf00,'y)UI')]=(_0x19cbe4[_0x44d8e9(0x1174,'I*r6')][_0x44d8e9(0x10a1,'I*r6')]()!==''?_0x54ba48[_0x44d8e9(0xa56,'hCJL')]():0x0)+'\x20₫';});const _0x2fbb14=document[_0x160a14(0x10d8,'kMoM')](_0x160a14(0xa22,')UVA'));if(_0x2fbb14)_0x2fbb14[_0x160a14(0x363,'&SjD')]=_0x28a94f[_0x160a14(0xdec,'M*BU')]();}function toggleAllSmartRows(_0x586f99){const _0x3af8a2=_0x225e24;document[_0x3af8a2(0x1166,'fyWu')](_0x3af8a2(0x63b,'7!Gb'))[_0x3af8a2(0x11d8,'MfL&')](_0x9f13b4=>{const _0x16f4cb=_0x3af8a2;_0x9f13b4[_0x16f4cb(0x87f,'%AH&')]=_0x586f99;}),calculateSmartTotals();}function getSmartRowAllowedDigits(_0x29ff35){const _0x45072f=_0x225e24;if(['g8',_0x45072f(0x10d3,'u@TD'),'c2'][_0x45072f(0x8fd,'u@TD')](_0x29ff35))return[0x2];if(['g7',_0x45072f(0x740,'Oc5r'),_0x45072f(0x731,'%AH&')][_0x45072f(0xe07,'nR@W')](_0x29ff35))return[0x2,0x3];if(['3c','c3','g6','g5','g4','g3','g2','g1',_0x45072f(0x62e,'&SjD'),_0x45072f(0xfd4,'K7h7'),_0x45072f(0x975,'Fj&C'),_0x45072f(0xed8,'OTP&')][_0x45072f(0x748,'MHv!')](_0x29ff35))return[0x3];if(['4c','5c',_0x45072f(0x6e6,'lX[b'),_0x45072f(0x995,'LyuC')][_0x45072f(0xb98,'Fj&C')](_0x29ff35))return[0x2,0x3,0x4];if([_0x45072f(0xbb7,'lX[b'),_0x45072f(0xa0e,'7JZb')][_0x45072f(0xb0d,'WL8L')](_0x29ff35))return[0x3];if([_0x45072f(0x54a,'7JZb'),_0x45072f(0x7fd,'%AH&')][_0x45072f(0x1080,'cNV6')](_0x29ff35))return[0x2];return[0x2];}function allocateSmartManualTotal(){const _0x1be920=_0x225e24,_0x157bdd=Number(document[_0x1be920(0x5c1,'M*BU')](_0x1be920(0x980,'fyWu'))?.[_0x1be920(0xe4c,'i%tL')])||0x0;if(_0x157bdd<=0x0)return showToast(_0x1be920(0x837,'7Xia'),_0x1be920(0x9fc,'5Ad)'));const _0x1702d3=document[_0x1be920(0x8f9,'K7h7')](_0x1be920(0xcb1,'f#xl'))?.[_0x1be920(0x965,'ySL*')]||'MT',_0x559430=document[_0x1be920(0xaee,'E5)l')](_0x1be920(0x1157,'Oc5r'))[_0x1be920(0x124c,'LyuC')]||0x1,_0xa3f8ae=manualRows[_0x1be920(0x9a3,'7JZb')]((_0x17c7d4,_0x43634c)=>({'row':_0x17c7d4,'index':_0x43634c,'nums':expandNumbers(_0x17c7d4[_0x1be920(0x8d7,')U6s')])}))[_0x1be920(0xffe,'K7h7')](_0x4f38aa=>document[_0x1be920(0x112c,'M*BU')](_0x1be920(0x11e7,'Mgu1')+_0x4f38aa[_0x1be920(0x8f4,'5Ess')]+'\x22]')?.[_0x1be920(0xd02,'MHv!')]&&_0x4f38aa[_0x1be920(0x488,'lX[b')][_0x1be920(0xcf8,'i%tL')]),_0x388499=_0xa3f8ae[_0x1be920(0xc3d,'wBCK')]((_0x610a59,_0x4d5212)=>_0x610a59+_0x4d5212[_0x1be920(0x5d0,'PX3c')][_0x1be920(0x1070,'BNmM')],0x0);if(!_0x388499)return showToast(_0x1be920(0xb77,'PX3c'),_0x1be920(0xa5c,'7Xia'));_0xa3f8ae[_0x1be920(0x8d4,'e[5n')](({row:_0x1dda74})=>{const _0x77aa22=_0x1be920;_0x1dda74[_0x77aa22(0x547,'LyuC')]=_0x157bdd/_0x388499;}),renderSmartRows(),showToast(_0x1be920(0xae2,'Mgu1')+_0x157bdd+_0x1be920(0x11f3,'I*r6')+_0x388499+_0x1be920(0x872,'#&$8'),_0x1be920(0xab0,'lm&&'));}function addSmartRow(){const _0x55296a=_0x225e24,_0x471ef7=manualRows[manualRows[_0x55296a(0x259,'kMoM')]-0x1];manualRows[_0x55296a(0x85c,'gL1S')]({'num':'','type':_0x471ef7?_0x471ef7[_0x55296a(0x833,']Sv0')]:'bl','price':_0x471ef7?_0x471ef7[_0x55296a(0x834,'PX3c')]:0x5}),renderSmartRows(),setTimeout(()=>document[_0x55296a(0x5c1,'M*BU')](_0x55296a(0x8c4,'m1lh')+(manualRows[_0x55296a(0x9f0,'&SjD')]-0x1))?.[_0x55296a(0x11f9,'gL1S')](),0x0);}function removeSmartRow(_0x428617){const _0xbe1987=_0x225e24;manualRows[_0xbe1987(0x548,'u@TD')](_0x428617,0x1);if(manualRows[_0xbe1987(0x2a4,'WL8L')]===0x0)manualRows=[{'num':'','type':'bl','price':0x5}];renderSmartRows();}function confirmSmartManual(){const _0x14c34a=_0x225e24,_0x250571=Array[_0x14c34a(0x62d,'MHv!')](document[_0x14c34a(0x1251,']Sv0')](_0x14c34a(0xb5c,'K7h7')))[_0x14c34a(0x43a,'zNw(')](_0x384057=>_0x384057[_0x14c34a(0xc6f,'#Ux*')]);if(_0x250571[_0x14c34a(0x11a1,'OTP&')]===0x0){if(typeof showToast===_0x14c34a(0x91d,'OTP&'))showToast(_0x14c34a(0x99b,']Sv0'),_0x14c34a(0x979,'7!Gb'));return;}const _0x3e0f12=manualRows[_0x14c34a(0x968,']Sv0')](_0x55dff0=>_0x55dff0[_0x14c34a(0xae9,'LyuC')][_0x14c34a(0x10b6,'M*BU')]()!=='');if(_0x3e0f12[_0x14c34a(0x361,'%AH&')]===0x0){if(typeof showToast===_0x14c34a(0xd93,'i%tL'))showToast(_0x14c34a(0x8f2,'u@TD'),_0x14c34a(0x725,'i%tL'));return;}const _0x3a9026=_0x3e0f12[_0x14c34a(0xc82,'mn5c')](_0x2d1831=>{const _0x486288=_0x14c34a,_0x2069c2=expandNumbers(_0x2d1831[_0x486288(0x544,'ySL*')]),_0x489ae2=getSmartRowAllowedDigits(getManualTypeKey(_0x2d1831[_0x486288(0x3d4,'MfL&')]));if(_0x2069c2[_0x486288(0x1072,'f#xl')](_0x3c73f2=>!_0x489ae2[_0x486288(0x8fd,'u@TD')](_0x3c73f2[_0x486288(0xb03,'PX3c')])))return!![];if(_0x2d1831[_0x486288(0xb84,'%AH&')]==='da'&&_0x2069c2[_0x486288(0xb03,'PX3c')]!==0x2)return!![];if(_0x2d1831[_0x486288(0x105a,'K7h7')]==='dx'&&_0x2069c2[_0x486288(0xfe5,'5Ad)')]<0x3)return!![];return![];});if(_0x3a9026)return showToast(_0x14c34a(0x10e7,'OTP&'),_0x14c34a(0x1211,'Fj&C'));if(!appData[activeGroup])appData[activeGroup]={'betList':[],'inputHistory':[]};if(!appData[activeGroup][_0x14c34a(0x1200,'WL8L')])appData[activeGroup][_0x14c34a(0x7be,'7JZb')]=[];const _0x38eea5=new Date(),_0x792ed1=_0x38eea5[_0x14c34a(0x6dc,'7Xia')]()[_0x14c34a(0x52a,'7Xia')]()[_0x14c34a(0x451,'mn5c')](0x2,'0')+':'+_0x38eea5[_0x14c34a(0x203,'OTP&')]()[_0x14c34a(0xd80,'pj(#')]()[_0x14c34a(0x49a,']Sv0')](0x2,'0')+':'+_0x38eea5[_0x14c34a(0x4b4,'e6gp')]()[_0x14c34a(0xbbf,'MHv!')]()[_0x14c34a(0x763,'I*r6')](0x2,'0')+_0x14c34a(0xd76,'VWnK')+_0x38eea5[_0x14c34a(0xee9,'mn5c')](_0x14c34a(0x84c,'ySL*')),_0x235510=[];_0x3e0f12[_0x14c34a(0x57b,'i%tL')](_0x720ea9=>{const _0x150561=_0x14c34a,_0x2835b5=expandNumbers(_0x720ea9[_0x150561(0x1204,'WL8L')]),_0x4b3b9a=getManualTypeKey(_0x720ea9[_0x150561(0x3d4,'MfL&')]);if(_0x4b3b9a==='da'||_0x4b3b9a==='dx'){const _0x17655e=[...new Set(_0x2835b5)];if(_0x17655e[_0x150561(0x351,'e[5n')]<0x2)return;const _0x7da49a=_0x4b3b9a==='da'?_0x17655e[_0x150561(0xba5,'E5)l')](0x0,0x2):_0x17655e;_0x235510[_0x150561(0x85c,'gL1S')]({...createItem(_0x7da49a[_0x150561(0x1042,'f#xl')]('-'),Number(_0x720ea9[_0x150561(0xa16,'5Ess')])||0x0,document[_0x150561(0x918,'LyuC')](_0x150561(0x56a,'K7h7'))?.[_0x150561(0x67b,'gL1S')]||'MT',_0x4b3b9a,_0x4b3b9a[_0x150561(0xe51,'u@TD')]()),'stations':_0x250571,'pairNums':_0x7da49a});return;}if(_0x4b3b9a==='dv'){const _0x235a74=[...new Set(_0x2835b5)];if(_0x235a74[_0x150561(0xa00,'2Lzj')]<0x3)return;const _0x54face=document[_0x150561(0x1189,'BNmM')](_0x150561(0xf8f,'5Ess'))?.[_0x150561(0x7ce,'&SjD')]||'MT',_0x31fde2=_0x235a74[_0x150561(0x8d2,'gL1S')]((_0x164af1,_0x1f6a41)=>_0x235a74[_0x150561(0x1139,'7Xia')](_0x1f6a41+0x1)[_0x150561(0x77f,'#Ux*')](_0x2a6222=>[_0x164af1,_0x2a6222]));_0x31fde2[_0x150561(0x638,'7!Gb')](_0x5ec54a=>{const _0x24e531=_0x150561;_0x235510[_0x24e531(0xdd6,'Oc5r')]({...createItem(_0x5ec54a[_0x24e531(0xbea,'e[5n')]('-'),Number(_0x720ea9[_0x24e531(0x920,'&SjD')])||0x0,_0x54face,_0x4b3b9a,_0x4b3b9a[_0x24e531(0x955,'Mgu1')]()),'stations':_0x250571,'pairNums':_0x5ec54a});});return;}_0x2835b5[_0x150561(0x57b,'i%tL')](_0x5d2573=>{const _0x1a0239=_0x150561;_0x235510[_0x1a0239(0xfd9,'iEe2')]({'id':_0x1a0239(0xfc8,'#Ux*')+Date[_0x1a0239(0x800,'&SjD')]()+'_'+Math[_0x1a0239(0x796,'kMoM')]()[_0x1a0239(0xa13,'wBCK')](0x24)[_0x1a0239(0x9c0,'Oc5r')](0x2,0x5),'num':_0x5d2573,'betType':_0x4b3b9a,'originalAmount':Number(_0x720ea9[_0x1a0239(0xb8a,'%AH&')])||0x0,'amount':(Number(_0x720ea9[_0x1a0239(0x5ce,'y)UI')])||0x0)*0x3e8,'stations':_0x250571,'digits':_0x5d2573[_0x1a0239(0xfe5,'5Ad)')],'region':document[_0x1a0239(0xd30,'5Ess')](_0x1a0239(0x58d,'&SjD'))?.[_0x1a0239(0x7cf,']Sv0')]||'MT','createdAt':_0x792ed1,'createdAtTimestamp':Date[_0x1a0239(0xed1,'OTP&')](),'matched':![],'winAmount':0x0});});}),appData[activeGroup][_0x14c34a(0x1200,'WL8L')][_0x14c34a(0xd36,'lm&&')]({'time':_0x792ed1,'items':_0x235510});if(!appData[activeGroup][_0x14c34a(0x5dd,'cNV6')])appData[activeGroup][_0x14c34a(0x10fe,'Fj&C')]=[];appData[activeGroup][_0x14c34a(0x8a5,'OTP&')][_0x14c34a(0x5da,'5Ess')](..._0x235510),closeSmartManualModal(),renderMatrixTable();if(typeof saveAppDataToDB===_0x14c34a(0x479,'kMoM'))saveAppDataToDB();if(typeof showToast===_0x14c34a(0x6d6,'M1DA'))showToast(_0x14c34a(0xe65,'7!Gb'),_0x14c34a(0x1d7,'BNmM'));}function changeItemBetType(_0xf2a47d,_0x3a3193,_0x1ab861){const _0x1b2e69=_0x225e24,_0x16d12d=appData[activeGroup];if(!_0x16d12d||!_0x16d12d[_0x1b2e69(0xfc0,'pj(#')][_0xf2a47d]||!_0x16d12d[_0x1b2e69(0x7f5,'7Xia')][_0xf2a47d][_0x1b2e69(0x565,'Fj&C')][_0x3a3193])return;const _0x5318f2=_0x16d12d[_0x1b2e69(0x7f5,'7Xia')][_0xf2a47d][_0x1b2e69(0xe30,']Sv0')][_0x3a3193];_0x5318f2[_0x1b2e69(0x71d,'ySL*')]=_0x1ab861;if(_0x16d12d[_0x1b2e69(0x3db,'5Ad)')]){const _0x50c489=_0x16d12d[_0x1b2e69(0x8cf,'ySL*')][_0x1b2e69(0x31b,'i%tL')](_0x53fb60=>_0x53fb60['id']===_0x5318f2['id']);if(_0x50c489)_0x50c489[_0x1b2e69(0x6ba,']Sv0')]=_0x1ab861;}if(typeof recalculateTotals===_0x1b2e69(0x391,'7Xia'))recalculateTotals(activeGroup);if(typeof saveAppDataToDB===_0x1b2e69(0x695,'lm&&'))saveAppDataToDB();renderMatrixTable();if(typeof showToast===_0x1b2e69(0x695,'lm&&'))showToast(_0x1b2e69(0x8ef,'i%tL'),_0x1b2e69(0xe63,'7JZb'));}function deleteItemFromSession(_0x3b9a1d,_0x580d6f){const _0x4a6070=_0x225e24,_0x49de51=appData[activeGroup];if(!_0x49de51||!_0x49de51[_0x4a6070(0x64e,'fyWu')][_0x3b9a1d])return;const _0x589e6d=_0x49de51[_0x4a6070(0xce8,'hCJL')][_0x3b9a1d][_0x4a6070(0x3ca,'&SjD')][_0x580d6f];_0x589e6d&&(_0x49de51[_0x4a6070(0x8c6,'MfL&')]&&(_0x49de51[_0x4a6070(0x3db,'5Ad)')]=_0x49de51[_0x4a6070(0xc11,'kMoM')][_0x4a6070(0x458,'#Ux*')](_0x35f35b=>_0x35f35b['id']!==_0x589e6d['id'])),_0x49de51[_0x4a6070(0xc52,'gL1S')][_0x3b9a1d][_0x4a6070(0x3bd,'iEe2')][_0x4a6070(0x21b,'Fj&C')](_0x580d6f,0x1),_0x49de51[_0x4a6070(0x758,'LyuC')][_0x3b9a1d][_0x4a6070(0x651,'BNmM')][_0x4a6070(0x9bd,'MHv!')]===0x0&&_0x49de51[_0x4a6070(0x11ea,'VWnK')][_0x4a6070(0x5e3,'Mgu1')](_0x3b9a1d,0x1));if(typeof recalculateTotals===_0x4a6070(0xc4a,'&SjD'))recalculateTotals(activeGroup);if(typeof saveAppDataToDB===_0x4a6070(0xf84,'f#xl'))saveAppDataToDB();renderMatrixTable();if(typeof showToast===_0x4a6070(0x96c,')UVA'))showToast(_0x4a6070(0x7ba,'gL1S'),_0x4a6070(0x121c,'%AH&'));}function deleteSelectedItems(){const _0x440f9c=_0x225e24,_0x4c7ee3=document[_0x440f9c(0x27b,'hCJL')](_0x440f9c(0x11d7,'E5)l'));if(_0x4c7ee3[_0x440f9c(0xcd8,')UVA')]===0x0){if(typeof showToast===_0x440f9c(0x312,'#&$8'))showToast(_0x440f9c(0xef1,'LyuC'),_0x440f9c(0xaad,'WL8L'));return;}const _0x1f9eb8=appData[activeGroup];if(!_0x1f9eb8)return;const _0x5f5206=new Set(),_0x39ccf6={};_0x4c7ee3[_0x440f9c(0x8ca,'Fj&C')](_0x37e65a=>{const _0x58f1c6=_0x440f9c,_0xe570ee=parseInt(_0x37e65a[_0x58f1c6(0xac1,'LyuC')][_0x58f1c6(0x7ed,'#&$8')]),_0x23f2e3=parseInt(_0x37e65a[_0x58f1c6(0xb22,'lm&&')][_0x58f1c6(0x707,'#Ux*')]),_0x4cf8c6=_0x1f9eb8[_0x58f1c6(0x758,'LyuC')][_0xe570ee]?.[_0x58f1c6(0xc28,'gL1S')][_0x23f2e3];if(_0x4cf8c6&&_0x4cf8c6['id'])_0x5f5206[_0x58f1c6(0xffc,'5Ad)')](_0x4cf8c6['id']);if(!_0x39ccf6[_0xe570ee])_0x39ccf6[_0xe570ee]=[];_0x39ccf6[_0xe570ee][_0x58f1c6(0xa6b,']Sv0')](_0x23f2e3);}),Object[_0x440f9c(0xf79,'%AH&')](_0x39ccf6)[_0x440f9c(0x857,'ySL*')](_0x193ab4=>{const _0x271b53=_0x440f9c;_0x39ccf6[_0x193ab4][_0x271b53(0x11c8,'5Ad)')]((_0x2ae62a,_0x18a36a)=>_0x18a36a-_0x2ae62a)[_0x271b53(0x8ca,'Fj&C')](_0x4ace00=>{const _0x352f28=_0x271b53;_0x1f9eb8[_0x352f28(0x4a4,'Fj&C')][_0x193ab4][_0x352f28(0x4fb,'lm&&')][_0x352f28(0x90c,'OTP&')](_0x4ace00,0x1);});}),_0x1f9eb8[_0x440f9c(0x10ef,')U6s')]=_0x1f9eb8[_0x440f9c(0xfc0,'pj(#')][_0x440f9c(0x1c9,'VWnK')](_0x223ee3=>_0x223ee3[_0x440f9c(0xb56,'hCJL')]&&_0x223ee3[_0x440f9c(0x438,'VWnK')][_0x440f9c(0xfe5,'5Ad)')]>0x0);_0x1f9eb8[_0x440f9c(0xa7f,'e6gp')]&&_0x5f5206[_0x440f9c(0x117b,'Fj&C')]>0x0&&(_0x1f9eb8[_0x440f9c(0x103c,'2Lzj')]=_0x1f9eb8[_0x440f9c(0x751,'M1DA')][_0x440f9c(0xa44,')UVA')](_0x45a6dd=>!_0x5f5206[_0x440f9c(0x9ea,'Mgu1')](_0x45a6dd['id'])));if(typeof recalculateTotals===_0x440f9c(0x96c,')UVA'))recalculateTotals(activeGroup);if(typeof saveAppDataToDB===_0x440f9c(0xd93,'i%tL'))saveAppDataToDB();renderMatrixTable();if(typeof showToast===_0x440f9c(0x57f,'u@TD'))showToast(_0x440f9c(0x819,')UVA')+_0x4c7ee3[_0x440f9c(0x124c,'LyuC')]+_0x440f9c(0x625,'Mgu1'),_0x440f9c(0x206,'7!Gb'));}function deleteSession(_0x5aaa3b){const _0x5cf170=_0x225e24,_0x276824=appData[activeGroup];if(!_0x276824||!_0x276824[_0x5cf170(0x715,'7!Gb')][_0x5aaa3b])return;const _0xc2f4ea=_0x276824[_0x5cf170(0x31e,'I*r6')][_0x5aaa3b];if(_0xc2f4ea&&_0xc2f4ea[_0x5cf170(0x37e,')UVA')]&&_0x276824[_0x5cf170(0x33e,'MHv!')]){const _0x1b472f=new Set(_0xc2f4ea[_0x5cf170(0x7dc,'M*BU')][_0x5cf170(0xa88,'ySL*')](_0x46a151=>_0x46a151['id']));_0x276824[_0x5cf170(0x6c4,'wBCK')]=_0x276824[_0x5cf170(0xf60,'5Ess')][_0x5cf170(0xb81,'Oc5r')](_0x39c7e8=>!_0x1b472f[_0x5cf170(0x4c9,'LyuC')](_0x39c7e8['id']));}_0x276824[_0x5cf170(0x7df,'5Ad)')][_0x5cf170(0xfe7,'#&$8')](_0x5aaa3b,0x1);if(typeof recalculateTotals===_0x5cf170(0x70d,'MHv!'))recalculateTotals(activeGroup);if(typeof saveAppDataToDB===_0x5cf170(0x1152,'fyWu'))saveAppDataToDB();renderMatrixTable();if(typeof showToast===_0x5cf170(0x1152,'fyWu'))showToast(_0x5cf170(0x6da,']Sv0'),_0x5cf170(0x10e9,'OTP&'));}let currentMatrixPage=0x1;const ITEMS_PER_PAGE=0x1e;function renderMatrixTable(_0x448f4c=0x1){const _0x1eb6d5=_0x225e24;currentMatrixPage=_0x448f4c;if(typeof renderGroupButtons===_0x1eb6d5(0x479,'kMoM'))renderGroupButtons();const _0xe2155e=document[_0x1eb6d5(0x509,'7!Gb')](_0x1eb6d5(0x60a,'OTP&'));if(!_0xe2155e)return;const _0x51ff83=appData?.[activeGroup];if(!_0x51ff83||!Array[_0x1eb6d5(0xc87,'iEe2')](_0x51ff83[_0x1eb6d5(0x758,'LyuC')])||_0x51ff83[_0x1eb6d5(0x34c,'lm&&')][_0x1eb6d5(0xd26,'7!Gb')]===0x0){_0xe2155e[_0x1eb6d5(0x1140,'2Lzj')]=_0x1eb6d5(0x11ba,'%AH&');if(typeof updateDetailTotals===_0x1eb6d5(0x391,'7Xia'))updateDetailTotals();if(typeof updateGrandSummary===_0x1eb6d5(0xe06,'PX3c'))updateGrandSummary();return;}const _0x256c69=_0x51ff83[_0x1eb6d5(0xcf2,'MHv!')][_0x1eb6d5(0xc98,'zNw(')],_0x4a150b=new Map((_0x51ff83[_0x1eb6d5(0x751,'M1DA')]||[])[_0x1eb6d5(0xa79,'WL8L')](_0x3d92ab=>[_0x3d92ab['id'],_0x3d92ab])),_0x4ea62a=hasActiveDetailFilter();let _0x2aeb49,_0x377453,_0x1796d9=0x0;if(_0x4ea62a){_0x2aeb49=[];for(let _0x58f363=_0x256c69-0x1;_0x58f363>=0x0;_0x58f363--){const _0xaa1e0b=_0x51ff83[_0x1eb6d5(0xb75,']Sv0')][_0x58f363],_0x134c64=Array[_0x1eb6d5(0x643,'ySL*')](_0xaa1e0b[_0x1eb6d5(0xe30,']Sv0')])?_0xaa1e0b[_0x1eb6d5(0xa67,'5Ad)')][_0x1eb6d5(0x123a,'5Ad)')](_0x4c77d8=>_0x4a150b[_0x1eb6d5(0x283,'iEe2')](_0x4c77d8['id'])||_0x4c77d8):[],_0x361350=[];for(let _0x2509f4=0x0;_0x2509f4<_0x134c64[_0x1eb6d5(0x809,'ySL*')];_0x2509f4++){if(detailItemMatches(_0x134c64[_0x2509f4],_0xaa1e0b))_0x361350[_0x1eb6d5(0x6bb,'M*BU')]({'item':_0x134c64[_0x2509f4],'itemIdx':_0x2509f4});}_0x361350[_0x1eb6d5(0x1ef,'pj(#')]&&(_0x2aeb49[_0x1eb6d5(0x72c,'MfL&')]({'realSessionIdx':_0x58f363,'session':_0xaa1e0b,'items':_0x134c64,'visibleItems':_0x361350}),_0x1796d9+=_0x361350[_0x1eb6d5(0x703,'iEe2')]);}_0x377453=_0x2aeb49[_0x1eb6d5(0x703,'iEe2')];}else{_0x377453=_0x256c69;const _0x44c474=(_0x448f4c-0x1)*ITEMS_PER_PAGE,_0x2a96c0=Math[_0x1eb6d5(0x718,'MHv!')](_0x44c474+ITEMS_PER_PAGE,_0x377453),_0x57c8cb=_0x51ff83[_0x1eb6d5(0xc52,'gL1S')][_0x1eb6d5(0x907,'gL1S')](_0x44c474,_0x2a96c0)[_0x1eb6d5(0x8e8,'pj(#')]();_0x2aeb49=_0x57c8cb[_0x1eb6d5(0xb3d,'u@TD')]((_0x1541ae,_0x2e0c09)=>{const _0x59742d=_0x1eb6d5,_0x57cdc9=_0x377453-0x1-(_0x44c474+_0x2e0c09),_0x552603=Array[_0x59742d(0xfb9,'hCJL')](_0x1541ae[_0x59742d(0x372,'2Lzj')])?_0x1541ae[_0x59742d(0xa8f,'#Ux*')][_0x59742d(0x2e6,'lX[b')](_0x3c966f=>_0x4a150b[_0x59742d(0x47f,'lm&&')](_0x3c966f['id'])||_0x3c966f):[],_0x492769=_0x552603[_0x59742d(0x61a,'M1DA')]((_0x83104d,_0x272316)=>({'item':_0x83104d,'itemIdx':_0x272316}));return{'realSessionIdx':_0x57cdc9,'session':_0x1541ae,'items':_0x552603,'visibleItems':_0x492769};});}const _0x27f9de=(_0x448f4c-0x1)*ITEMS_PER_PAGE,_0x3d6563=_0x4ea62a?_0x2aeb49[_0x1eb6d5(0x92b,'nR@W')](_0x27f9de,_0x27f9de+ITEMS_PER_PAGE):_0x2aeb49,_0x44f874=document[_0x1eb6d5(0xe2f,'M*BU')]();for(let _0xc87345=0x0;_0xc87345<_0x3d6563[_0x1eb6d5(0x368,'Fj&C')];_0xc87345++){const {realSessionIdx:_0x8a325c,session:_0x401eb2,items:_0x2df8ab,visibleItems:_0x35f103}=_0x3d6563[_0xc87345];if(_0x35f103[_0x1eb6d5(0x1102,'M*BU')]===0x0)continue;let _0x8af3e3=0x0,_0x4f078b=0x0;const _0x3beb4a=_0x401eb2[_0x1eb6d5(0x52b,'nR@W')]||_0x2df8ab[0x0]?.[_0x1eb6d5(0x62c,'7Xia')]||'MT';for(let _0x4799bc=0x0;_0x4799bc<_0x35f103[_0x1eb6d5(0x368,'Fj&C')];_0x4799bc++){const _0x54daa0=calculateItemFinancials(_0x35f103[_0x4799bc][_0x1eb6d5(0x3e9,'Mgu1')],_0x3beb4a);_0x8af3e3+=_0x54daa0[_0x1eb6d5(0xb2b,'M1DA')],_0x4f078b+=_0x54daa0[_0x1eb6d5(0x9c1,'MHv!')];}const _0x264f7b=_0x8af3e3-_0x4f078b,_0x3acb73=_0x2df8ab[0x0]?.[_0x1eb6d5(0xc2c,'cNV6')]?.[_0x1eb6d5(0x1185,'I*r6')](_0x53bb40=>typeof STATION_ABBR!==_0x1eb6d5(0x45d,'%AH&')&&STATION_ABBR[_0x53bb40]?STATION_ABBR[_0x53bb40]:_0x53bb40)[_0x1eb6d5(0x1228,'7JZb')](',\x20')||_0x1eb6d5(0x963,'i%tL'),_0x2c5323=_0x2df8ab[0x0]?.[_0x1eb6d5(0x1135,'#&$8')]||_0x3beb4a,_0x2e5b12=_0x264f7b>=0x0?_0x1eb6d5(0xe21,'kMoM'):_0x1eb6d5(0x306,'7Xia'),_0x5973ff=document[_0x1eb6d5(0xaf6,'nR@W')]('tr');_0x5973ff[_0x1eb6d5(0xf70,'Mgu1')][_0x1eb6d5(0xac9,'&SjD')]=_0x1eb6d5(0xb1a,'Mgu1'),_0x5973ff[_0x1eb6d5(0x81b,'7JZb')]=_0x1eb6d5(0x204,'lX[b')+(_0x8a325c+0x1)+_0x1eb6d5(0x3f6,'mn5c')+(_0x401eb2[_0x1eb6d5(0x211,'5Ad)')]||'')+_0x1eb6d5(0x4a6,')UVA')+_0x3acb73+_0x1eb6d5(0x6e3,'5Ad)')+(_0x2df8ab[0x0]?.[_0x1eb6d5(0x1021,'Oc5r')]?.[_0x1eb6d5(0xd47,'K7h7')]||0x1)+_0x1eb6d5(0x303,'VWnK')+_0x8af3e3[_0x1eb6d5(0x88e,'kMoM')]()+_0x1eb6d5(0xaf8,'kMoM')+_0x2e5b12+_0x1eb6d5(0x1005,')U6s')+(_0x264f7b>=0x0?'+':'')+_0x264f7b[_0x1eb6d5(0x10f0,'lm&&')]()+_0x1eb6d5(0x242,'e6gp')+_0x8a325c+_0x1eb6d5(0x5b3,'WL8L'),_0x44f874[_0x1eb6d5(0x9b5,'lX[b')](_0x5973ff);for(let _0x4f97d9=0x0;_0x4f97d9<_0x35f103[_0x1eb6d5(0x259,'kMoM')];_0x4f97d9++){const _0x37190f=_0x35f103[_0x4f97d9][_0x1eb6d5(0x4c6,'cNV6')],_0x4e1847=_0x35f103[_0x4f97d9][_0x1eb6d5(0xd52,'BNmM')],_0x1a68e3=calculateItemFinancials(_0x4e1847,_0x3beb4a),_0x3fa3d8=_0x1a68e3[_0x1eb6d5(0xf10,'mn5c')],_0x473cf6=_0x1a68e3[_0x1eb6d5(0xbe2,'LyuC')],_0x15ee58=_0x3fa3d8-_0x473cf6,_0x19c6e0=_0x4e1847[_0x1eb6d5(0x396,'fyWu')]||(_0x4e1847[_0x1eb6d5(0x314,'gL1S')]>=0x3e8?_0x4e1847[_0x1eb6d5(0xdc6,'I*r6')]/0x3e8:_0x4e1847[_0x1eb6d5(0x855,'PX3c')])||0x1,_0x14fd60=Boolean(_0x4e1847[_0x1eb6d5(0x1067,'VWnK')]),_0x54e879=_0x14fd60?_0x1eb6d5(0x82c,'LyuC'):_0x1eb6d5(0x779,'lX[b'),_0x4947cd=Array[_0x1eb6d5(0x8a7,'i%tL')](_0x4e1847[_0x1eb6d5(0xb4b,'7!Gb')])&&_0x4e1847[_0x1eb6d5(0x92f,'%AH&')][_0x1eb6d5(0x368,'Fj&C')]>=0x2,_0x2cc53b=_0x4947cd?Math[_0x1eb6d5(0x470,'7!Gb')](0x5a,String(_0x4e1847[_0x1eb6d5(0x677,'OTP&')]||'')[_0x1eb6d5(0xc94,'Mgu1')]*0xb+0x18):0x4e,_0x4f9c8b=BET_TYPES[_0x4e1847[_0x1eb6d5(0x60f,'lm&&')]]?_0x4e1847[_0x1eb6d5(0xe5d,'#Ux*')]:mapBetType(_0x4e1847[_0x1eb6d5(0x1007,'hCJL')]);let _0x3a93a8='';if(typeof BET_TYPES!==_0x1eb6d5(0x7fe,'ySL*'))for(const [_0xd4b131,_0x324e22]of Object[_0x1eb6d5(0xe7a,'m1lh')](BET_TYPES)){if(typeof HIDDEN_BET_TYPES!==_0x1eb6d5(0x1065,'f#xl')&&HIDDEN_BET_TYPES[_0x1eb6d5(0xb66,'fyWu')](_0xd4b131)&&_0xd4b131!==_0x4f9c8b)continue;_0x3a93a8+=_0x1eb6d5(0x1019,'u@TD')+_0xd4b131+'\x22\x20'+(_0x4f9c8b===_0xd4b131?_0x1eb6d5(0x390,'BNmM'):'')+'>'+_0x324e22[_0x1eb6d5(0x291,'5Ad)')]+_0x1eb6d5(0x9e9,'zNw(');}const _0x488a2e=_0x1eb6d5(0x102a,'kMoM')+(_0x15ee58>=0x0?_0x1eb6d5(0x9a6,'hCJL'):_0x1eb6d5(0x315,'iEe2'))+_0x1eb6d5(0x31d,'cNV6')+(_0x15ee58>=0x0?'+':'')+_0x15ee58[_0x1eb6d5(0x7f6,'LyuC')]()+_0x1eb6d5(0x2b8,'BNmM'),_0x4ffcf1=Array[_0x1eb6d5(0xe85,'u@TD')](_0x4e1847[_0x1eb6d5(0x49d,'hCJL')])&&_0x4e1847[_0x1eb6d5(0xd9f,'gL1S')][_0x1eb6d5(0xa00,'2Lzj')]>0x0?_0x4e1847[_0x1eb6d5(0xa71,'iEe2')][_0x1eb6d5(0xa79,'WL8L')](_0x5c56d0=>typeof STATION_ABBR!==_0x1eb6d5(0x7a5,'E5)l')&&STATION_ABBR[_0x5c56d0]?STATION_ABBR[_0x5c56d0]:_0x5c56d0)[_0x1eb6d5(0xb51,')UVA')](',\x20'):_0x1eb6d5(0x5b1,'PX3c'),_0x340e29=document[_0x1eb6d5(0xdab,'7JZb')]('tr');_0x340e29[_0x1eb6d5(0x692,'u@TD')][_0x1eb6d5(0x1074,'MfL&')]=_0x14fd60?_0x1eb6d5(0x286,'M1DA'):_0x4e1847[_0x1eb6d5(0xc9f,']Sv0')]?_0x1eb6d5(0xdcf,'M1DA'):_0x1eb6d5(0x114d,'i%tL'),_0x340e29[_0x1eb6d5(0x107f,'Mgu1')]=_0x1eb6d5(0x40f,'I*r6')+(_0x4f97d9+0x1)+_0x1eb6d5(0x3f5,'%AH&')+_0x4ffcf1+_0x1eb6d5(0x977,'M1DA')+(_0x4e1847[_0x1eb6d5(0x56d,'7!Gb')]||_0x2c5323)+_0x1eb6d5(0x9f5,'mn5c')+(_0x4947cd?_0x1eb6d5(0x72f,'e6gp'):_0x1eb6d5(0x6b0,'7JZb'))+_0x1eb6d5(0x8f5,'7!Gb')+(_0x4947cd?'':_0x1eb6d5(0x68e,'lm&&'))+_0x1eb6d5(0xc91,')UVA')+Math[_0x1eb6d5(0xfba,'VWnK')](0x3,(_0x4e1847[_0x1eb6d5(0xd58,'zNw(')]||'')[_0x1eb6d5(0xb3e,'fyWu')])+_0x1eb6d5(0x8e7,'lm&&')+_0x54e879+'\x20'+(_0x4947cd?_0x1eb6d5(0x4c4,'MHv!')+_0x2cc53b+_0x1eb6d5(0x6ae,'M*BU')+_0x2cc53b+_0x1eb6d5(0xd81,'I*r6'):'')+_0x1eb6d5(0x42e,'M1DA')+escapeHtml(_0x4e1847[_0x1eb6d5(0xf2b,')UVA')]||'')+_0x1eb6d5(0xf91,'f#xl')+_0x8a325c+',\x20'+_0x37190f+_0x1eb6d5(0x7b7,')UVA')+_0x8a325c+',\x20'+_0x37190f+_0x1eb6d5(0x3ff,'K7h7')+(_0x4e1847[_0x1eb6d5(0x503,'5Ad)')]?.[_0x1eb6d5(0x703,'iEe2')]===0x2?'✓':'')+_0x1eb6d5(0xa45,'nR@W')+(_0x4e1847[_0x1eb6d5(0xe0e,'f#xl')]?.[_0x1eb6d5(0xc68,'y)UI')]===0x3?'✓':'')+_0x1eb6d5(0xb88,'Mgu1')+(['da','dx',_0x1eb6d5(0x358,'i%tL'),_0x1eb6d5(0x1127,'LyuC')][_0x1eb6d5(0x45c,'f#xl')](_0x4e1847[_0x1eb6d5(0xf66,'BNmM')])?'✓':'')+_0x1eb6d5(0x69d,'#Ux*')+_0x8a325c+',\x20'+_0x37190f+_0x1eb6d5(0x9f3,'iEe2')+_0x3a93a8+_0x1eb6d5(0x5a2,'u@TD')+escapeHtml(_0x19c6e0)+_0x1eb6d5(0xeee,'VWnK')+_0x8a325c+',\x20'+_0x37190f+_0x1eb6d5(0x649,'Oc5r')+_0x8a325c+',\x20'+_0x37190f+_0x1eb6d5(0x65d,'5Ess')+_0x3fa3d8[_0x1eb6d5(0x1172,']Sv0')]()+_0x1eb6d5(0x285,'f#xl')+(_0x473cf6>0x0?_0x1eb6d5(0x37f,'7JZb'):_0x1eb6d5(0x348,'fyWu'))+_0x1eb6d5(0xb62,'u@TD')+(_0x473cf6>0x0?_0x1eb6d5(0x109a,'Mgu1'):_0x1eb6d5(0x533,'fyWu'))+_0x1eb6d5(0xa3e,'u@TD')+(_0x473cf6>0x0?_0x473cf6[_0x1eb6d5(0xe31,'E5)l')]()+'\x20₫':'—')+_0x1eb6d5(0xac6,'hCJL')+_0x488a2e+_0x1eb6d5(0x2ff,'f#xl')+escapeHtml(_0x4e1847[_0x1eb6d5(0xe4a,')U6s')]||'')+_0x1eb6d5(0x741,'OTP&')+_0x8a325c+',\x20'+_0x37190f+_0x1eb6d5(0x898,'nR@W')+_0x8a325c+',\x20'+_0x37190f+_0x1eb6d5(0x59d,'VWnK')+_0x8a325c+',\x20'+_0x37190f+_0x1eb6d5(0xee0,'#Ux*'),_0x44f874[_0x1eb6d5(0x383,'Oc5r')](_0x340e29);}}_0xe2155e[_0x1eb6d5(0x6a0,'WL8L')]='',_0xe2155e[_0x1eb6d5(0x35d,'2Lzj')](_0x44f874);const _0xc15db=document[_0x1eb6d5(0xa7d,'7JZb')](_0x1eb6d5(0xd1d,'BNmM'));_0xc15db&&(_0xc15db[_0x1eb6d5(0x82e,'&SjD')]=_0x4ea62a?_0x1796d9+_0x1eb6d5(0x401,'lm&&'):(_0x51ff83[_0x1eb6d5(0xa7f,'e6gp')]||[])[_0x1eb6d5(0x5df,'#Ux*')]+_0x1eb6d5(0x69b,'pj(#'));if(typeof updateDetailTotals===_0x1eb6d5(0xd6b,'hCJL'))updateDetailTotals();if(typeof updateGrandSummary===_0x1eb6d5(0x821,'pj(#'))updateGrandSummary();typeof renderPaginationControls===_0x1eb6d5(0x486,'2Lzj')&&renderPaginationControls(_0x1eb6d5(0x734,'VWnK'),_0x377453,_0x448f4c,ITEMS_PER_PAGE,_0x1eb6d5(0x7bb,'u@TD'));}function calculateItemFinancials(_0x434911,_0xddf0a6='MT'){const _0x4b6c96=_0x225e24;if(!_0x434911)return{'totalItemCost':0x0,'winAmount':0x0,'soLo':0x0};const _0x6c76fc=_0xddf0a6==='MB'||_0xddf0a6===_0x4b6c96(0x22d,'hCJL'),_0x41741c=String(_0x434911[_0x4b6c96(0x560,'%AH&')]||'')[_0x4b6c96(0x82a,'nR@W')]()[_0x4b6c96(0x238,'E5)l')]();let _0x88478b=0x12;if(['c2','c3'][_0x4b6c96(0x256,'7Xia')](_0x41741c))_0x88478b=0x1;else{if(['da','dx','dv',_0x4b6c96(0x358,'i%tL'),_0x4b6c96(0xdc8,'Mgu1'),'dá'][_0x4b6c96(0xf72,'pj(#')](_0x41741c))_0x88478b=_0x6c76fc?0x36:0x24;else{if(_0x41741c==='xc')_0x88478b=_0x6c76fc?0x17:0x11;else{if(typeof getPrizeCount===_0x4b6c96(0x121a,'Mgu1')&&BET_TYPES[_0x41741c]&&!['bl','2c','3c'][_0x4b6c96(0x6e9,'MfL&')](_0x41741c))_0x88478b=getPrizeCount(_0x41741c,_0x6c76fc?'MB':_0xddf0a6==='MN'?'MN':'MT');else _0x434911[_0x4b6c96(0x7b8,'fyWu')]===0x3||_0x41741c==='3c'||_0x434911[_0x4b6c96(0x9ac,'fyWu')]?.[_0x4b6c96(0x633,'mn5c')]===0x3?_0x88478b=_0x6c76fc?0x17:0x11:_0x88478b=_0x6c76fc?0x1b:0x12;}}}const _0x595db1=Number(_0x434911[_0x4b6c96(0x881,'OTP&')])||(_0x434911[_0x4b6c96(0x3a5,'cNV6')]>=0x3e8?_0x434911[_0x4b6c96(0xee5,'7Xia')]/0x3e8:_0x434911[_0x4b6c96(0xfcc,']Sv0')])||0x0,_0x3a0dfc=Array[_0x4b6c96(0x9af,'e[5n')](_0x434911[_0x4b6c96(0x1175,'7Xia')])&&_0x434911[_0x4b6c96(0xdf9,'7JZb')][_0x4b6c96(0x792,'7Xia')]>0x0?_0x434911[_0x4b6c96(0x4bb,'lX[b')][_0x4b6c96(0xc98,'zNw(')]:0x1,_0x3abe1c=Number(_0x434911[_0x4b6c96(0xdb8,'PX3c')])||(_0x434911[_0x4b6c96(0xde6,'e6gp')]?0x1:0x0),_0x5a5199=_0x595db1*_0x88478b*_0x3a0dfc*0x3e8;let _0x237d4=0x0;if(_0x3abe1c>0x0){const _0x47cbb6=_0x434911[_0x4b6c96(0x1231,'i%tL')]===0x3||_0x434911[_0x4b6c96(0x10ae,'E5)l')]?.[_0x4b6c96(0xe18,'lm&&')]===0x3||['da','dx',_0x4b6c96(0x1c4,'WL8L'),_0x4b6c96(0x10e1,'Oc5r'),'dá','3c'][_0x4b6c96(0xfeb,'iEe2')](_0x41741c),_0x707879=_0x47cbb6?CUSTOM_RATES?.['c3']||CUSTOM_RATES?.['da']||0x30c:CUSTOM_RATES?.['c2']||0x5b;_0x237d4=_0x595db1*_0x707879*_0x3abe1c*_0x3a0dfc*0x3e8;}return{'totalItemCost':Math[_0x4b6c96(0x6c1,'zNw(')](_0x5a5199),'winAmount':Math[_0x4b6c96(0xb46,'5Ess')](_0x237d4),'soLo':_0x88478b};}function renderPaginationControls(_0x459146,_0x3a026e,_0x24f318,_0x40c68d,_0x5460b3){const _0x12b1e4=_0x225e24,_0xfbaf9b=document[_0x12b1e4(0xb07,'WL8L')](_0x459146);if(!_0xfbaf9b)return;const _0x45f77d=Math[_0x12b1e4(0x694,'VWnK')](_0x3a026e/_0x40c68d);if(_0x45f77d<=0x1){_0xfbaf9b[_0x12b1e4(0xd03,'lm&&')]='';return;}let _0x3f9a87=_0x12b1e4(0x10ac,'y)UI');for(let _0x40fc7a=0x1;_0x40fc7a<=_0x45f77d;_0x40fc7a++){const _0x1b566a=_0x40fc7a===_0x24f318?_0x12b1e4(0x81a,'hCJL'):_0x12b1e4(0xa94,'LyuC');_0x3f9a87+=_0x12b1e4(0x119b,'MfL&')+_0x1b566a+_0x12b1e4(0x686,'M1DA')+_0x5460b3+'('+_0x40fc7a+_0x12b1e4(0xe78,'f#xl')+_0x40fc7a+_0x12b1e4(0x8e3,'5Ess');}_0x3f9a87+=_0x12b1e4(0x9e7,'#Ux*'),_0xfbaf9b[_0x12b1e4(0xd03,'lm&&')]=_0x3f9a87;}function adminResetOneUser(){const _0x404c65=_0x225e24,_0x3e0112=document[_0x404c65(0x11d4,'pj(#')](_0x404c65(0x335,')U6s'));if(_0x3e0112)_0x3e0112[_0x404c65(0x288,'iEe2')][_0x404c65(0x1212,'iEe2')]=_0x404c65(0xfd3,'nR@W');typeof customPrompt===_0x404c65(0x1082,'VWnK')&&customPrompt(_0x404c65(0x1244,'7JZb'),_0x404c65(0xf6b,')U6s'),'',_0x1e9c38=>{const _0x20e130=_0x404c65;if(!_0x1e9c38)return;if(typeof removeUserPattern===_0x20e130(0xa8d,'BNmM'))removeUserPattern(_0x1e9c38[_0x20e130(0x1094,'Oc5r')]());if(typeof showToast===_0x20e130(0xc4a,'&SjD'))showToast(_0x20e130(0x922,'&SjD')+_0x1e9c38+'\x22',_0x20e130(0x777,'kMoM'));if(typeof initPatternCanvas===_0x20e130(0x96c,')UVA'))initPatternCanvas();});}function adminResetAllUsers(){const _0x536270=_0x225e24,_0x5a1fef=document[_0x536270(0x509,'7!Gb')](_0x536270(0xf48,'nR@W'));if(_0x5a1fef)_0x5a1fef[_0x536270(0x2af,'7Xia')][_0x536270(0x80b,'OTP&')]=_0x536270(0xdac,'iEe2');const _0xe3669f=[];for(let _0x31e6fc=0x0;_0x31e6fc<localStorage[_0x536270(0x62b,'nR@W')];_0x31e6fc++){const _0x5b75ac=localStorage[_0x536270(0x5bb,'gL1S')](_0x31e6fc);_0x5b75ac&&typeof STORAGE_KEY_PATTERN!==_0x536270(0xf86,'cNV6')&&_0x5b75ac[_0x536270(0x7bd,'m1lh')](STORAGE_KEY_PATTERN)&&_0xe3669f[_0x536270(0x69f,'f#xl')](_0x5b75ac);}_0xe3669f[_0x536270(0x1186,'LyuC')](_0x2a6762=>localStorage[_0x536270(0x4b8,'MfL&')](_0x2a6762));if(typeof showToast===_0x536270(0xb90,'wBCK'))showToast(_0x536270(0x100a,')UVA')+_0xe3669f[_0x536270(0x1102,'M*BU')]+_0x536270(0xcd5,'#Ux*'),_0x536270(0x91a,'#Ux*'));if(typeof initPatternCanvas===_0x536270(0x312,'#&$8'))initPatternCanvas();}function calcCapitalShare(){const _0x4f425b=_0x225e24,_0x4689fb=document[_0x4f425b(0x711,'Oc5r')](_0x4f425b(0x11d6,'e6gp')),_0x63f977=document[_0x4f425b(0xb17,'m1lh')](_0x4f425b(0xa68,'LyuC')),_0x3e60fc=document[_0x4f425b(0x66c,'2Lzj')](_0x4f425b(0x2fc,'BNmM')),_0xc47db5=document[_0x4f425b(0x732,'hCJL')](_0x4f425b(0x5ea,'kMoM')),_0x9b0a53=document[_0x4f425b(0xeb6,'LyuC')](_0x4f425b(0x8c2,'E5)l')),_0xca8fc4=document[_0x4f425b(0x271,'ySL*')](_0x4f425b(0x114f,'lX[b')),_0xa08a4d=document[_0x4f425b(0x8e9,'MHv!')](_0x4f425b(0x516,'MfL&'));if(!_0x4689fb||!_0x63f977||!_0xc47db5||!_0x9b0a53)return;const _0x3bfe4b=Math[_0x4f425b(0xc05,')UVA')](0x0,Math[_0x4f425b(0x4c3,'m1lh')](0x64,parseFloat(_0x4689fb[_0x4f425b(0xc6f,'#Ux*')])||0x0)),_0x7dff7b=_0x63f977[_0x4f425b(0x6f7,'WL8L')]||_0x4f425b(0x367,'i%tL');if(_0x3e60fc)_0x3e60fc[_0x4f425b(0xab7,'E5)l')]=_0x3bfe4b;let _0x52e052=0x0,_0x22b6f7=0x0,_0x3e5803=0x0,_0x8ea385=0x0,_0x4b9eda=0x0;typeof groups!==_0x4f425b(0xe87,'zNw(')&&Array[_0x4f425b(0x5fc,'M*BU')](groups)&&groups[_0x4f425b(0x6c2,'K7h7')](_0x4d85e1=>{const _0x2f71d2=_0x4f425b;if(!appData[_0x4d85e1])return;typeof recalculateTotals===_0x2f71d2(0x6d6,'M1DA')&&recalculateTotals(_0x4d85e1);const _0x18de1b=appData[_0x4d85e1][_0x2f71d2(0x2a6,'7JZb')]||{},_0x1a4e6a=Number(_0x18de1b[_0x2f71d2(0xd9c,'5Ess')])||0x0,_0x4a658d=Number(_0x18de1b[_0x2f71d2(0xcff,'lm&&')])||0x0,_0x1e2477=_0x1a4e6a-_0x4a658d;_0x52e052+=_0x4a658d,_0x22b6f7+=_0x1a4e6a,_0x3e5803+=_0x1e2477,_0x4d85e1===activeGroup&&(_0x8ea385=_0x4a658d,_0x4b9eda=_0x1e2477);});let _0x4080a9=0x0;switch(_0x7dff7b){case _0x4f425b(0x909,'iEe2'):_0x4080a9=_0x4b9eda;break;case _0x4f425b(0x332,'iEe2'):_0x4080a9=-_0x8ea385;break;case _0x4f425b(0x1128,'kMoM'):_0x4080a9=-_0x52e052;break;case _0x4f425b(0x112a,'hCJL'):_0x4080a9=_0x22b6f7;break;case _0x4f425b(0x847,'Mgu1'):_0x4080a9=_0x3e5803;break;default:_0x4080a9=_0x4b9eda;}const _0xd18fa1=Math[_0x4f425b(0x6d3,'M1DA')](_0x4080a9*(_0x3bfe4b/0x64)),_0x55ac79=_0x4080a9-_0xd18fa1;_0xca8fc4&&(_0xca8fc4[_0x4f425b(0x10f5,'y)UI')]=(_0x4080a9>=0x0?'+':'-')+Math[_0x4f425b(0x3c5,'2Lzj')](_0x4080a9)[_0x4f425b(0xd01,'7JZb')]()+'\x20₫',_0xca8fc4[_0x4f425b(0x6ce,'lm&&')][_0x4f425b(0xa55,'M1DA')]=_0x4080a9>=0x0?_0x4f425b(0x489,'m1lh'):_0x4f425b(0x9c5,'VWnK')),_0xa08a4d&&(_0xa08a4d[_0x4f425b(0x1010,'5Ad)')]=_0xd18fa1>=0x0?_0x4f425b(0x302,'fyWu'):_0x4f425b(0xbd0,'WL8L')),_0xc47db5[_0x4f425b(0xf38,'ySL*')]=(_0xd18fa1>=0x0?'+':'-')+Math[_0x4f425b(0x64d,'%AH&')](_0xd18fa1)[_0x4f425b(0x2a8,'e6gp')]()+'\x20₫',_0xc47db5[_0x4f425b(0x3a9,'kMoM')][_0x4f425b(0x11bc,'pj(#')]=_0xd18fa1>=0x0?_0x4f425b(0x1150,'#Ux*'):_0x4f425b(0xc9b,'M1DA'),_0x9b0a53[_0x4f425b(0xdaf,'kMoM')]=(_0x55ac79>=0x0?'+':'-')+Math[_0x4f425b(0x219,')U6s')](_0x55ac79)[_0x4f425b(0xce7,'u@TD')]()+'\x20₫',_0x9b0a53[_0x4f425b(0xc3f,'nR@W')][_0x4f425b(0x10f8,')U6s')]=_0x55ac79>=0x0?_0x4f425b(0x8d8,'7JZb'):_0x4f425b(0x7c6,'fyWu');}function exportCapitalShare(){const _0x448d30=_0x225e24;if(typeof calcCapitalShare===_0x448d30(0x1152,'fyWu'))calcCapitalShare();const _0x1efd36=parseFloat(document[_0x448d30(0x1197,'VWnK')](_0x448d30(0xfa1,'#Ux*'))?.[_0x448d30(0xe1d,'y)UI')])||0x0,_0x36faca=document[_0x448d30(0x465,']Sv0')](_0x448d30(0xf7f,'cNV6'))?.[_0x448d30(0xcb7,'VWnK')]||_0x448d30(0xfd6,'nR@W'),_0x3984ea=document[_0x448d30(0x465,']Sv0')](_0x448d30(0x8b2,'gL1S'))?.[_0x448d30(0x260,'zNw(')]||_0x448d30(0xde2,'ySL*'),_0x2911ab=document[_0x448d30(0x271,'ySL*')](_0x448d30(0xd8a,'e[5n'))?.[_0x448d30(0x117e,']Sv0')]||_0x448d30(0xbf3,'kMoM'),_0x590911=document[_0x448d30(0xa25,')U6s')](_0x448d30(0x2a0,'#&$8'))?.[_0x448d30(0xcf3,'f#xl')]||_0x448d30(0x2d6,'7!Gb'),_0x12a2e4={'activeNet':_0x448d30(0x1181,'e6gp'),'activeWin':_0x448d30(0xb05,'BNmM'),'totalWin':_0x448d30(0x1193,'&SjD'),'totalBet':_0x448d30(0xc57,'M1DA'),'net':_0x448d30(0xbd5,'pj(#')},_0x3d842a=_0x12a2e4[_0x36faca]||_0x36faca,_0x456b60=new Date(),_0x321cdb=_0x456b60[_0x448d30(0x11d5,'VWnK')](_0x448d30(0x5b4,'5Ess')),_0x519d53=[_0x448d30(0x109e,'zNw('),_0x448d30(0x29f,'VWnK'),_0x448d30(0x582,'ySL*')][_0x448d30(0xd39,'#&$8')](_0x36faca),_0x52f034=_0x519d53?_0x448d30(0xa76,'Mgu1'):_0x448d30(0x3f0,'u@TD')+(activeGroup||'A');let _0x3dcd68='';_0x519d53&&typeof groups!==_0x448d30(0xcc8,'MfL&')&&(_0x3dcd68=_0x448d30(0xf5b,'e[5n'),_0x3dcd68+=_0x448d30(0x930,'#Ux*'),_0x3dcd68+=_0x448d30(0x116f,'#&$8'),_0x3dcd68+=_0x448d30(0xc65,'mn5c'),groups[_0x448d30(0x25b,']Sv0')](_0x374051=>{const _0x1230bf=_0x448d30;if(!appData[_0x374051])return;if(typeof recalculateTotals===_0x1230bf(0xfbf,'M*BU'))recalculateTotals(_0x374051);const _0x411b47=appData[_0x374051][_0x1230bf(0x120f,'kMoM')]||{},_0x38c8c8=Number(_0x411b47[_0x1230bf(0x9b2,'m1lh')])||0x0,_0x158a33=Number(_0x411b47[_0x1230bf(0x3c9,'M*BU')])||0x0,_0x19b113=_0x38c8c8-_0x158a33,_0x3883ee=(_0x19b113>=0x0?'+':'-')+Math[_0x1230bf(0xbac,'Oc5r')](_0x19b113)[_0x1230bf(0x1016,'ySL*')]();_0x3dcd68+=_0x1230bf(0x3e3,')UVA')+String(_0x374051)[_0x1230bf(0x66d,'7Xia')](0x2)+_0x1230bf(0x10ab,'K7h7')+_0x38c8c8[_0x1230bf(0xef0,'pj(#')]()[_0x1230bf(0xe8e,'i%tL')](0x9)+_0x1230bf(0xa3c,')UVA')+_0x158a33[_0x1230bf(0x828,'7!Gb')]()[_0x1230bf(0xbcb,'lm&&')](0x9)+_0x1230bf(0xdf2,'m1lh')+_0x3883ee[_0x1230bf(0x475,'M1DA')](0xa)+'\x0a';}),_0x3dcd68+=_0x448d30(0x7c3,'MfL&'));const _0x2c78a4=(_0x448d30(0xbaf,'e6gp')+_0x321cdb+_0x448d30(0x105f,'5Ess')+_0x52f034+_0x448d30(0x559,'lX[b')+_0x3d842a+_0x448d30(0xbab,'wBCK')+_0x1efd36+_0x448d30(0x5d9,'5Ad)')+_0x2911ab+'\x0a\x0a'+_0x590911+'\x20('+_0x1efd36+_0x448d30(0x4df,'u@TD')+_0x3984ea+_0x448d30(0xa10,']Sv0')+_0x3dcd68+_0x448d30(0x119c,'u@TD'))[_0x448d30(0x88d,'u@TD')](),_0x4f11ba=new Blob([_0x2c78a4],{'type':_0x448d30(0x103b,'E5)l')}),_0x16bf59=URL[_0x448d30(0xa5e,'M1DA')](_0x4f11ba),_0x48bbd6=document[_0x448d30(0x125a,'Oc5r')]('a');_0x48bbd6[_0x448d30(0xcf1,'MfL&')]=_0x16bf59;const _0x561da9=_0x519d53?_0x448d30(0x9fb,'m1lh')+_0x1efd36+_0x448d30(0xbf8,'wBCK'):_0x448d30(0xad2,'#Ux*')+(activeGroup||'A')+'_'+_0x1efd36+_0x448d30(0xcbf,'7JZb');_0x48bbd6[_0x448d30(0x8c0,'u@TD')]=_0x561da9,_0x48bbd6[_0x448d30(0x83b,'BNmM')](),URL[_0x448d30(0xf8c,'5Ess')](_0x16bf59),typeof showToast===_0x448d30(0x70c,')U6s')&&showToast(_0x448d30(0xe94,')U6s'),_0x448d30(0xab0,'lm&&'));}document[_0x225e24(0xce4,'#&$8')](_0x225e24(0xcde,'e[5n'),function(_0x5d3f0a){const _0x46ab22=_0x225e24,_0x347ef5=_0x5d3f0a[_0x46ab22(0x87b,')UVA')][_0x46ab22(0x629,'#&$8')]();if(_0x5d3f0a[_0x46ab22(0x11ca,'kMoM')]===_0x46ab22(0xf6f,'u@TD')){const _0x2b496f=document[_0x46ab22(0x3f4,'zNw(')](_0x46ab22(0x989,'&SjD'));if(_0x2b496f&&_0x2b496f[_0x46ab22(0x347,'M1DA')][_0x46ab22(0x9f1,'PX3c')]!==_0x46ab22(0xfd3,'nR@W')){const _0xcc346c=document[_0x46ab22(0x700,'e6gp')](_0x46ab22(0x593,'f#xl')),_0x5b8757=document[_0x46ab22(0xb17,'m1lh')](_0x46ab22(0x55a,'E5)l'));if(_0x5b8757&&_0x5b8757[_0x46ab22(0xfb6,']Sv0')][_0x46ab22(0x9b8,'E5)l')]!==_0x46ab22(0xfd3,'nR@W')&&_0xcc346c){_0x5d3f0a[_0x46ab22(0x7a6,'gL1S')]();const _0x426ab1=_0x2b496f[_0x46ab22(0x551,'gL1S')](_0x46ab22(0x5d1,'WL8L'));if(_0x426ab1)_0x426ab1[_0x46ab22(0x110a,'5Ess')]();return;}}const _0x71ecfa=document[_0x46ab22(0x6c5,'#Ux*')](_0x46ab22(0xa03,'LyuC'));if(_0x71ecfa&&_0x71ecfa[_0x46ab22(0x452,'&SjD')][_0x46ab22(0x274,'mn5c')]!==_0x46ab22(0x11b9,'5Ad)')){_0x5d3f0a[_0x46ab22(0x114b,'I*r6')]();if(typeof confirmManualInput===_0x46ab22(0xef3,'I*r6'))confirmManualInput();return;}const _0x10ee4f=document[_0x46ab22(0x7d9,'fyWu')](_0x46ab22(0x418,']Sv0'));if(_0x10ee4f&&_0x10ee4f[_0x46ab22(0x762,'zNw(')][_0x46ab22(0x1026,'K7h7')]!==_0x46ab22(0xa75,'u@TD')){_0x5d3f0a[_0x46ab22(0xe82,'7!Gb')]();if(typeof confirmSmartManual===_0x46ab22(0x312,'#&$8'))confirmSmartManual();return;}}if(typeof isUnlocked!==_0x46ab22(0x941,'Fj&C')&&!isUnlocked){if(_0x5d3f0a[_0x46ab22(0xf75,'#&$8')]&&_0x347ef5==='m'){_0x5d3f0a[_0x46ab22(0x586,')U6s')]();if(typeof revealLockScreen===_0x46ab22(0x670,'Oc5r'))revealLockScreen();return;}if(_0x5d3f0a[_0x46ab22(0xf75,'#&$8')]&&(_0x5d3f0a[_0x46ab22(0x6f6,'wBCK')]||_0x5d3f0a[_0x46ab22(0x480,'LyuC')])&&_0x347ef5==='r'){_0x5d3f0a[_0x46ab22(0x944,'VWnK')](),_0x5d3f0a[_0x46ab22(0x108c,'cNV6')]();if(typeof triggerSecureResetPattern===_0x46ab22(0xc4a,'&SjD'))triggerSecureResetPattern();return;}return;}if(_0x5d3f0a[_0x46ab22(0x40e,'2Lzj')]&&_0x347ef5==='t'){_0x5d3f0a[_0x46ab22(0xec4,'pj(#')]();if(typeof openSmartManualModal===_0x46ab22(0x70d,'MHv!'))openSmartManualModal();else{if(typeof openManualModal===_0x46ab22(0x118d,'Fj&C'))openManualModal();}return;}if(_0x5d3f0a[_0x46ab22(0x11dc,'lX[b')]&&_0x347ef5==='d'){_0x5d3f0a[_0x46ab22(0x874,'E5)l')]();const _0x540e8e=document[_0x46ab22(0x54e,'OTP&')](_0x46ab22(0xf55,'zNw('));_0x540e8e&&(_0x540e8e[_0x46ab22(0x117f,'ySL*')](),_0x540e8e[_0x46ab22(0x8bd,'lX[b')]());return;}if(_0x5d3f0a[_0x46ab22(0x6db,'cNV6')]&&_0x347ef5==='s'){_0x5d3f0a[_0x46ab22(0xdd0,'#&$8')]();if(typeof checkAllResults===_0x46ab22(0x5aa,'e6gp'))checkAllResults();return;}if(_0x5d3f0a[_0x46ab22(0x111e,'7Xia')]&&_0x347ef5==='f'){_0x5d3f0a[_0x46ab22(0x1dc,'%AH&')]();typeof openSmartFilterFromInput===_0x46ab22(0x6d6,'M1DA')&&openSmartFilterFromInput();return;}if(_0x5d3f0a[_0x46ab22(0x2f7,'#Ux*')]&&_0x347ef5==='g'){_0x5d3f0a[_0x46ab22(0x970,'kMoM')]();typeof addSmartRow===_0x46ab22(0x670,'Oc5r')&&addSmartRow();return;}if(_0x5d3f0a[_0x46ab22(0x6f6,'wBCK')]&&_0x347ef5==='b'){_0x5d3f0a[_0x46ab22(0xdb2,']Sv0')]();typeof processSmartInput===_0x46ab22(0x305,'ySL*')&&processSmartInput();return;}}),window[_0x225e24(0xbc6,'WL8L')](_0x225e24(0xaa3,'K7h7'),async()=>{const _0x547e6e=_0x225e24,_0x353032=document[_0x547e6e(0xb17,'m1lh')](_0x547e6e(0xdaa,'cNV6')),_0x3089e6=document[_0x547e6e(0x5c1,'M*BU')](_0x547e6e(0xa70,'VWnK'));if(_0x353032)_0x353032[_0x547e6e(0x755,'mn5c')][_0x547e6e(0x666,'%AH&')]=_0x547e6e(0x8dd,')U6s');if(_0x3089e6)_0x3089e6[_0x547e6e(0x762,'zNw(')][_0x547e6e(0x2ef,'f#xl')]=_0x547e6e(0xa8e,'VWnK');const _0x2cee82=document[_0x547e6e(0xa7d,'7JZb')](_0x547e6e(0x36e,'M*BU'));_0x2cee82&&(_0x2cee82[_0x547e6e(0x251,'PX3c')][_0x547e6e(0xd51,'&SjD')]=_0x547e6e(0x11ab,'f#xl'),_0x2cee82[_0x547e6e(0xf70,'Mgu1')][_0x547e6e(0x603,'PX3c')]=_0x547e6e(0x5e2,')UVA'),_0x2cee82[_0x547e6e(0xd4e,'I*r6')][_0x547e6e(0x8b5,'2Lzj')]='1',_0x2cee82[_0x547e6e(0x652,'e6gp')][_0x547e6e(0x481,'e[5n')]='1');if(typeof loadCustomRates===_0x547e6e(0xef3,'I*r6'))loadCustomRates();if(typeof applyCustomRatesToUI===_0x547e6e(0x305,'ySL*'))applyCustomRatesToUI();if(typeof initOcean===_0x547e6e(0x91d,'OTP&'))initOcean();try{if(typeof initIndexedDB===_0x547e6e(0x93c,'LyuC'))await initIndexedDB();if(typeof loadAppDataFromDB===_0x547e6e(0xc4d,'WL8L'))await loadAppDataFromDB();typeof groups!==_0x547e6e(0xe3d,'pj(#')&&Array[_0x547e6e(0xe92,'WL8L')](groups)&&groups[_0x547e6e(0x264,'kMoM')](_0x1cfc4f=>{const _0x4d22a4=_0x547e6e;if(typeof initAppDataForGroup===_0x4d22a4(0xd6b,'hCJL'))initAppDataForGroup(_0x1cfc4f);});}catch(_0x18c9ea){console[_0x547e6e(0x73c,'MHv!')](_0x547e6e(0x99f,'gL1S'),_0x18c9ea),typeof groups!==_0x547e6e(0xe3d,'pj(#')&&Array[_0x547e6e(0x245,'PX3c')](groups)&&groups[_0x547e6e(0xf30,'MHv!')](_0x3db402=>{const _0x5add3e=_0x547e6e;if(typeof initAppDataForGroup===_0x5add3e(0x821,'pj(#'))initAppDataForGroup(_0x3db402);});}if(typeof STORAGE_KEY_USER!==_0x547e6e(0x941,'Fj&C')){const _0x20701b=localStorage[_0x547e6e(0x26b,'7Xia')](STORAGE_KEY_USER);if(_0x20701b){if(typeof currentUser!==_0x547e6e(0xd0a,'e6gp'))currentUser=_0x20701b;const _0xd4d070=document[_0x547e6e(0x996,'I*r6')](_0x547e6e(0x11f8,'7!Gb'));if(_0xd4d070)_0xd4d070[_0x547e6e(0x885,'mn5c')]=_0x20701b;}}});const SMART_FILTER_RATIO_KEY=_0x225e24(0xfdd,'BNmM');let smartFilterState={'targetK':0x0,'filterType':'','isInverted':![],'ratioA':0x0,'ratioB':0x0};function getItemK(_0x3e88f6){const _0x2a63d0=_0x225e24;if(_0x3e88f6[_0x2a63d0(0xd00,'iEe2')]!==undefined&&_0x3e88f6[_0x2a63d0(0x11b4,'%AH&')]!==null)return Number(_0x3e88f6[_0x2a63d0(0x10d6,'u@TD')])||0x0;if(_0x3e88f6[_0x2a63d0(0x3a5,'cNV6')])return _0x3e88f6[_0x2a63d0(0xaa2,')U6s')]>=0x3e8?_0x3e88f6[_0x2a63d0(0x1079,'kMoM')]/0x3e8:Number(_0x3e88f6[_0x2a63d0(0x54c,'5Ad)')])||0x0;return 0x0;}function normalizeBetTypeKey(_0x564189){const _0x248d16=_0x225e24;if(!_0x564189)return'';const _0x280ade=String(_0x564189)[_0x248d16(0x11b1,'gL1S')]()[_0x248d16(0x2cc,'kMoM')]();if(typeof mapBetType===_0x248d16(0x6d6,'M1DA'))try{return mapBetType(_0x280ade)||_0x280ade;}catch(_0x89e118){}const _0x5ea1d9=_0x280ade[_0x248d16(0x5db,'7!Gb')](_0x248d16(0xbee,'u@TD'))[_0x248d16(0xc97,'PX3c')](/[\u0300-\u036f]/g,'')[_0x248d16(0xa5f,'Fj&C')](/đ/g,'d')[_0x248d16(0x350,'5Ad)')](/\s+/g,'');if(/^(db|de|debiet|dacbiet|dacbit|gdb)$/[_0x248d16(0x511,'OTP&')](_0x5ea1d9))return'db';return _0x280ade;}function parseRatioInput(_0x2827ee){const _0x2e1703=_0x225e24;if(!_0x2827ee)return null;const _0x11dacb=String(_0x2827ee)[_0x2e1703(0x11a9,'%AH&')]()[_0x2e1703(0xa87,'#&$8')](/\s+/g,'')[_0x2e1703(0xbb1,'LyuC')](/^(\d+(?:[.,]\d+)?)[/:](\d+(?:[.,]\d+)?)$/);if(!_0x11dacb)return null;const _0x147ba2=parseFloat(_0x11dacb[0x1][_0x2e1703(0xbd8,'OTP&')](',','.')),_0x219531=parseFloat(_0x11dacb[0x2][_0x2e1703(0xe12,'7Xia')](',','.'));if(!(_0x147ba2>0x0)||!(_0x219531>0x0))return null;return{'a':_0x147ba2,'b':_0x219531};}function loadSavedRatio(){const _0x9911ca=_0x225e24;try{const _0x95912a=localStorage[_0x9911ca(0x514,'ySL*')](SMART_FILTER_RATIO_KEY);if(!_0x95912a)return null;const _0x331ef6=JSON[_0x9911ca(0x1239,'5Ad)')](_0x95912a);if(_0x331ef6&&_0x331ef6['a']>0x0&&_0x331ef6['b']>0x0)return _0x331ef6;}catch(_0x440af1){}return null;}function saveRatio(_0xcc7043,_0x55e329){const _0x2ae6a5=_0x225e24;try{localStorage[_0x2ae6a5(0x9e2,'Fj&C')](SMART_FILTER_RATIO_KEY,JSON[_0x2ae6a5(0xf2d,'kMoM')]({'a':_0xcc7043,'b':_0x55e329}));}catch(_0x54550b){}}function batchCutAmount(_0x1b3c13,_0x3e0c44,_0x3f910d=''){const _0x8248ad=_0x225e24;if(!_0x3e0c44||_0x3e0c44<=0x0)return _0x1b3c13;const _0x1640ba=_0x3f910d?normalizeBetTypeKey(_0x3f910d):'',_0x4a1208=[];let _0x591706=0x0;_0x1b3c13[_0x8248ad(0xb6a,'I*r6')](_0x34d8a1=>{const _0x42b46d=_0x8248ad,_0x1c16bc=normalizeBetTypeKey(_0x34d8a1[_0x42b46d(0xda6,'PX3c')]),_0xf0d5e0=!_0x1640ba||_0x1c16bc===_0x1640ba,_0x405145=getItemK(_0x34d8a1);if(_0xf0d5e0&&_0x405145>_0x3e0c44){const _0x50a7b0=+(_0x405145-_0x3e0c44)[_0x42b46d(0xff7,'%AH&')](0x2),_0x3efd20={...JSON[_0x42b46d(0x50b,'M*BU')](JSON[_0x42b46d(0x85d,'#Ux*')](_0x34d8a1)),'id':_0x42b46d(0x32e,'M1DA')+Date[_0x42b46d(0xa4c,'lm&&')]()+'_'+Math[_0x42b46d(0x10da,'2Lzj')]()[_0x42b46d(0x44a,'E5)l')](0x24)[_0x42b46d(0x11b8,'m1lh')](0x2,0x7),'originalAmount':_0x50a7b0,'amount':_0x50a7b0*0x3e8,'note':(_0x34d8a1[_0x42b46d(0xdcc,'M1DA')]||'')+(_0x42b46d(0x3d0,'e[5n')+_0x50a7b0+'k]'),'_part':_0x42b46d(0xf65,'%AH&')},_0x4ae0b6={...JSON[_0x42b46d(0x8ab,'u@TD')](JSON[_0x42b46d(0xa6c,'PX3c')](_0x34d8a1)),'id':_0x42b46d(0x40b,'I*r6')+Date[_0x42b46d(0x6bd,'iEe2')]()+'_'+Math[_0x42b46d(0xb8b,'5Ad)')]()[_0x42b46d(0xbeb,'i%tL')](0x24)[_0x42b46d(0x112e,'lm&&')](0x2,0x7),'originalAmount':_0x3e0c44,'amount':_0x3e0c44*0x3e8,'note':_0x42b46d(0xfaa,')UVA')+_0x3e0c44+_0x42b46d(0xae6,'e[5n')+_0x405145+'k]','_part':_0x42b46d(0x7f8,'WL8L')};_0x4a1208[_0x42b46d(0x62a,'%AH&')](_0x3efd20,_0x4ae0b6),_0x591706++;}else _0x4a1208[_0x42b46d(0x471,'zNw(')]({...JSON[_0x42b46d(0xa80,'&SjD')](JSON[_0x42b46d(0x10c8,'Oc5r')](_0x34d8a1)),'_part':_0x42b46d(0x117a,'hCJL')});});if(_0x591706>0x0&&typeof showToast===_0x8248ad(0xa8d,'BNmM')){const _0xcf216f=_0x1640ba?_0x8248ad(0x289,'5Ad)')+(BET_TYPES&&BET_TYPES[_0x1640ba]?.[_0x8248ad(0x770,'wBCK')]||_0x1640ba)+')':'';showToast(_0x8248ad(0xbfd,'mn5c')+_0x3e0c44+'k'+_0xcf216f+_0x8248ad(0x8bf,'#Ux*')+_0x591706*0x2+_0x8248ad(0xa02,'m1lh'),_0x8248ad(0xe5e,'Mgu1'));}return _0x4a1208;}function batchCutByRatio(_0x1d79eb,_0x5bebe4,_0x1b4214,_0x101ce7=''){const _0x15f43c=_0x225e24;if(!(_0x5bebe4>0x0)||!(_0x1b4214>0x0))return _0x1d79eb;const _0x2643d2=_0x101ce7?normalizeBetTypeKey(_0x101ce7):'',_0x109d51=_0x5bebe4+_0x1b4214,_0x51db73=[];let _0xc97c7a=0x0;_0x1d79eb[_0x15f43c(0xbbe,'VWnK')](_0x1f49dc=>{const _0x3b96f6=_0x15f43c,_0x4e128=normalizeBetTypeKey(_0x1f49dc[_0x3b96f6(0x1007,'hCJL')]),_0x3ebd1b=!_0x2643d2||_0x4e128===_0x2643d2,_0x46c260=getItemK(_0x1f49dc);if(_0x3ebd1b&&_0x46c260>0x0){const _0x3298ba=+(_0x46c260*_0x5bebe4/_0x109d51)[_0x3b96f6(0x850,'nR@W')](0x2),_0x2cb67a=+(_0x46c260-_0x3298ba)[_0x3b96f6(0x631,'ySL*')](0x2);if(_0x3298ba<=0x0||_0x2cb67a<=0x0){_0x51db73[_0x3b96f6(0x85c,'gL1S')]({...JSON[_0x3b96f6(0x301,'lX[b')](JSON[_0x3b96f6(0xea0,'I*r6')](_0x1f49dc)),'_part':_0x3b96f6(0x1040,'WL8L')});return;}_0x51db73[_0x3b96f6(0xa2a,'7!Gb')]({...JSON[_0x3b96f6(0x1239,'5Ad)')](JSON[_0x3b96f6(0xbb4,'&SjD')](_0x1f49dc)),'id':_0x3b96f6(0xc38,'zNw(')+Date[_0x3b96f6(0xeff,'e6gp')]()+'_'+Math[_0x3b96f6(0x10a4,'nR@W')]()[_0x3b96f6(0xb5a,'cNV6')](0x24)[_0x3b96f6(0xb2c,'7!Gb')](0x2,0x7),'originalAmount':_0x3298ba,'amount':_0x3298ba*0x3e8,'note':(_0x1f49dc[_0x3b96f6(0x926,'2Lzj')]||'')+(_0x3b96f6(0x47b,'5Ess')+_0x3298ba+_0x3b96f6(0x846,'pj(#')+_0x5bebe4+'/'+_0x109d51+']'),'_part':_0x3b96f6(0x1fa,'7Xia')}),_0x51db73[_0x3b96f6(0x2df,'nR@W')]({...JSON[_0x3b96f6(0x3ac,'Mgu1')](JSON[_0x3b96f6(0x608,'Fj&C')](_0x1f49dc)),'id':_0x3b96f6(0x6cb,'fyWu')+Date[_0x3b96f6(0x8bb,')UVA')]()+'_'+Math[_0x3b96f6(0x5e5,'zNw(')]()[_0x3b96f6(0x10f6,')U6s')](0x24)[_0x3b96f6(0xbd1,']Sv0')](0x2,0x7),'originalAmount':_0x2cb67a,'amount':_0x2cb67a*0x3e8,'note':_0x3b96f6(0x689,'lm&&')+_0x2cb67a+_0x3b96f6(0xf01,'BNmM')+_0x1b4214+'/'+_0x109d51+_0x3b96f6(0x32c,'lm&&')+_0x46c260+'k]','_part':_0x3b96f6(0xfc4,'OTP&')}),_0xc97c7a++;}else _0x51db73[_0x3b96f6(0x581,'pj(#')]({...JSON[_0x3b96f6(0x50a,'m1lh')](JSON[_0x3b96f6(0xad1,'nR@W')](_0x1f49dc)),'_part':_0x3b96f6(0x443,'MHv!')});});if(_0xc97c7a>0x0&&typeof showToast===_0x15f43c(0xa95,'lX[b')){const _0x1143c2=_0x2643d2?_0x15f43c(0xde3,'iEe2')+(BET_TYPES&&BET_TYPES[_0x2643d2]?.[_0x15f43c(0x64b,']Sv0')]||_0x2643d2)+')':'';showToast(_0x15f43c(0xd94,'BNmM')+_0x5bebe4+'/'+_0x1b4214+_0x1143c2+_0x15f43c(0xf22,'OTP&')+_0xc97c7a+_0x15f43c(0xe80,'iEe2'),_0x15f43c(0x777,'kMoM'));}return _0x51db73;}function getSplitItems(_0xa62848){const _0x4198c4=_0x225e24;if(!_0xa62848||!Array[_0x4198c4(0x245,'PX3c')](_0xa62848))return{'selected':[],'unselected':[]};const _0x19afb7=smartFilterState[_0x4198c4(0x4c7,'2Lzj')],_0x101878=smartFilterState[_0x4198c4(0xc32,'MfL&')]?normalizeBetTypeKey(smartFilterState[_0x4198c4(0xead,')U6s')]):'',_0x5c903f=smartFilterState[_0x4198c4(0x1248,']Sv0')],_0x1ccb27=_0xa62848[_0x4198c4(0xeba,'LyuC')](_0x3641f9=>_0x3641f9[_0x4198c4(0x1120,'OTP&')]===_0x4198c4(0x569,'ySL*')||_0x3641f9[_0x4198c4(0xd7b,']Sv0')]===_0x4198c4(0x1153,'Fj&C'));let _0x562088=[],_0x50e77a=[];if(_0x1ccb27&&(!_0x19afb7||_0x19afb7<=0x0)&&!_0x101878){const _0x390aec=_0xa62848[_0x4198c4(0xd38,'2Lzj')](_0x314274=>_0x314274[_0x4198c4(0x4ab,'zNw(')]===_0x4198c4(0x9c8,'5Ad)')),_0x3e00e8=_0xa62848[_0x4198c4(0xd92,'7!Gb')](_0x35f824=>_0x35f824[_0x4198c4(0x9f8,'E5)l')]===_0x4198c4(0x986,'cNV6'));return _0x5c903f?{'selected':_0x3e00e8,'unselected':_0x390aec}:{'selected':_0x390aec,'unselected':_0x3e00e8};}return _0xa62848[_0x4198c4(0x877,'2Lzj')](_0x3bfa15=>{const _0x442173=_0x4198c4,_0xbbfa39=getItemK(_0x3bfa15),_0x479f34=normalizeBetTypeKey(_0x3bfa15[_0x442173(0x1054,'MfL&')]);let _0xfbec2d=!![];if(_0x1ccb27)_0xfbec2d=_0x3bfa15[_0x442173(0xec3,'%AH&')]===_0x442173(0x10ca,'Mgu1');if(_0x101878&&_0x479f34!==_0x101878)_0xfbec2d=![];if(_0x19afb7>0x0&&Math[_0x442173(0x313,'7Xia')](_0xbbfa39-_0x19afb7)>=0.001)_0xfbec2d=![];(_0xfbec2d?_0x562088:_0x50e77a)[_0x442173(0x4c8,'kMoM')](_0x3bfa15);}),_0x5c903f?{'selected':_0x50e77a,'unselected':_0x562088}:{'selected':_0x562088,'unselected':_0x50e77a};}function exportFilteredToCopyText(_0xe765ec){const _0xb2d4db=_0x225e24;if(!_0xe765ec||!_0xe765ec[_0xb2d4db(0x2a4,'WL8L')])return'';const _0x2206cb={};return _0xe765ec[_0xb2d4db(0x11d8,'MfL&')](_0x14a9cf=>{const _0x5e44c3=_0xb2d4db;let _0x158b13=[];if(Array[_0x5e44c3(0x253,'Fj&C')](_0x14a9cf[_0x5e44c3(0xe34,'7!Gb')])&&_0x14a9cf[_0x5e44c3(0x866,'VWnK')][_0x5e44c3(0xd47,'K7h7')])_0x158b13=_0x14a9cf[_0x5e44c3(0x8fb,'MfL&')];else{if(Array[_0x5e44c3(0x7c0,'f#xl')](_0x14a9cf[_0x5e44c3(0xc6c,'m1lh')])&&_0x14a9cf[_0x5e44c3(0x544,'ySL*')][_0x5e44c3(0x66b,'5Ess')])_0x158b13=_0x14a9cf[_0x5e44c3(0x677,'OTP&')];else{const _0x3c2fa7=_0x14a9cf[_0x5e44c3(0xd8c,'&SjD')]||_0x14a9cf[_0x5e44c3(0xb83,'7JZb')]||_0x14a9cf['so']||'';if(_0x3c2fa7)_0x158b13=[_0x3c2fa7];}}if(!_0x158b13[_0x5e44c3(0xd47,'K7h7')])return;const _0x1d06a3=(_0x14a9cf[_0x5e44c3(0x5e1,'zNw(')]||_0x14a9cf[_0x5e44c3(0x678,'LyuC')]||_0x14a9cf[_0x5e44c3(0x8ff,'5Ad)')]||'')[_0x5e44c3(0x51e,'iEe2')](),_0xd57655=(_0x14a9cf[_0x5e44c3(0x4c1,'Oc5r')]||'bl')[_0x5e44c3(0x1037,'y)UI')](),_0x1d3ff2=getItemK(_0x14a9cf),_0x135e0b=_0x1d06a3+'|'+_0xd57655+'|'+_0x1d3ff2;if(!_0x2206cb[_0x135e0b])_0x2206cb[_0x135e0b]={'province':_0x1d06a3,'type':_0xd57655,'amount':_0x1d3ff2,'numbers':[]};_0x158b13[_0x5e44c3(0xd14,'#Ux*')](_0x1f1e0a=>{const _0x595226=_0x5e44c3,_0x4925f9=String(_0x1f1e0a)[_0x595226(0xe10,'iEe2')]();if(_0x4925f9&&!_0x2206cb[_0x135e0b][_0x595226(0xf33,'ySL*')][_0x595226(0x111d,'mn5c')](_0x4925f9))_0x2206cb[_0x135e0b][_0x595226(0x1214,'MHv!')][_0x595226(0x62a,'%AH&')](_0x4925f9);});}),Object[_0xb2d4db(0x887,'#Ux*')](_0x2206cb)[_0xb2d4db(0xa8b,'7JZb')](_0x85e964=>_0x85e964[_0xb2d4db(0xeb7,'5Ad)')][_0xb2d4db(0x111c,'u@TD')])[_0xb2d4db(0x9a3,'7JZb')](_0x850eb9=>''+(_0x850eb9[_0xb2d4db(0xc88,'e[5n')]?_0x850eb9[_0xb2d4db(0x36f,']Sv0')]+':\x20':'')+_0x850eb9[_0xb2d4db(0xbff,'gL1S')][_0xb2d4db(0x92a,'fyWu')]('.')+'\x20'+_0x850eb9[_0xb2d4db(0x859,'ySL*')]+'\x20'+_0x850eb9[_0xb2d4db(0x439,'#&$8')]+'k')[_0xb2d4db(0x109c,'LyuC')]('\x0a');}function buildFilterRow(_0x3c2786){const _0x2316cd=_0x225e24;let _0x5ed2a8=_0x3c2786[_0x2316cd(0x410,'Fj&C')]||_0x3c2786[_0x2316cd(0x100f,'MfL&')]||_0x3c2786['so']||'-';if(Array[_0x2316cd(0xe8f,'e6gp')](_0x3c2786[_0x2316cd(0x2c2,')U6s')])&&_0x3c2786[_0x2316cd(0x10be,'hCJL')][_0x2316cd(0xcf8,'i%tL')])_0x5ed2a8=_0x3c2786[_0x2316cd(0x1173,'Fj&C')][_0x2316cd(0x1ca,'cNV6')]('.');const _0x5636f4=getItemK(_0x3c2786),_0x47f502=(_0x3c2786[_0x2316cd(0x6b1,'i%tL')]||'bl')[_0x2316cd(0x56f,'BNmM')](),_0x1dab9b=typeof BET_TYPES!==_0x2316cd(0x1156,'#&$8')&&BET_TYPES[_0x3c2786[_0x2316cd(0xd3c,'E5)l')]]?.[_0x2316cd(0x83d,'7JZb')]||_0x47f502;return _0x2316cd(0x293,'MHv!')+_0x5ed2a8+_0x2316cd(0x3e5,'pj(#')+_0x47f502+'\x22>'+_0x1dab9b+_0x2316cd(0x104b,'ySL*')+_0x5636f4+_0x2316cd(0xc8d,'VWnK')+(_0x3c2786[_0x2316cd(0x228,'5Ad)')]||'-')+_0x2316cd(0xea5,'e[5n')+_0x3c2786['id']+_0x2316cd(0x985,'m1lh');}function collectPendingBetTypes(_0x35fa7f){const _0x4c6b37=_0x225e24,_0x359762=new Set();return(_0x35fa7f||[])[_0x4c6b37(0x5a6,'hCJL')](_0x42f5c4=>{const _0xcfb627=_0x4c6b37,_0xef4eca=normalizeBetTypeKey(_0x42f5c4[_0xcfb627(0xb4e,'mn5c')]);if(_0xef4eca)_0x359762[_0xcfb627(0x897,'MfL&')](_0xef4eca);}),['db','bl','2c','3c','da','dx','dd',_0x4c6b37(0xaa8,'fyWu'),_0x4c6b37(0x90a,'wBCK'),'xc','g1','g7','g8'][_0x4c6b37(0x10de,'OTP&')](_0x315d46=>_0x359762[_0x4c6b37(0x2ac,'7!Gb')](_0x315d46)),[..._0x359762][_0x4c6b37(0xea9,'Oc5r')]();}function parseManualFilterLine(_0x5c0965,_0x1d143f){const _0x166304=_0x225e24,_0x4ef462=String(_0x5c0965||'')[_0x166304(0xd29,'OTP&')]();if(!_0x4ef462)return[];if(typeof parseSmartLottoText===_0x166304(0x6d6,'M1DA')){const _0x1ec93c=parseSmartLottoText(_0x4ef462,_0x1d143f||'MT')||[];if(_0x1ec93c[_0x166304(0x1070,'BNmM')])return _0x1ec93c;}const _0x1f49f2=_0x4ef462[_0x166304(0xf99,'MHv!')](/\b\d{2,4}\b/g)||[],_0x15dab4=_0x4ef462[_0x166304(0xb63,'M1DA')](/(\d+(?:[.,]\d+)?)\s*(k|n|ng|tr|m)?\s*$/i);let _0x30071b=0x0;if(_0x15dab4){_0x30071b=parseFloat(_0x15dab4[0x1][_0x166304(0x952,'7!Gb')](',','.'))||0x0;if(/tr|m/i[_0x166304(0x4e6,'kMoM')](_0x15dab4[0x2]||''))_0x30071b*=0x3e8;}const _0x45d658=normalizeBetTypeKey((_0x4ef462[_0x166304(0x115d,'7JZb')](/\b(dac\s*biet|dacbiet|db|de|bl|lo|da|dx|xc|g[1-8]|dau|duoi|dd|2c|3c|4c|5c)\b/i)||[])[0x0]||'bl');if(!_0x1f49f2[_0x166304(0xa00,'2Lzj')]||_0x30071b<=0x0)return[];return _0x1f49f2[_0x166304(0x118c,']Sv0')](_0x45a8ca=>{const _0x70662e=_0x166304;if(typeof createItem===_0x70662e(0x479,'kMoM'))return createItem(_0x45a8ca,_0x30071b,_0x1d143f||'MT',_0x45d658,_0x70662e(0x873,'Mgu1'));return{'id':_0x70662e(0x8ce,'5Ad)')+Date[_0x70662e(0x7fb,'WL8L')]()+'_'+Math[_0x70662e(0x115a,'pj(#')]()[_0x70662e(0x7b4,'nR@W')](0x24)[_0x70662e(0x87e,'&SjD')](0x2,0x7),'num':_0x45a8ca,'betType':_0x45d658,'originalAmount':_0x30071b,'amount':_0x30071b*0x3e8,'region':_0x1d143f||'MT','matched':![],'winAmount':0x0,'note':_0x70662e(0x2e5,')U6s')};});}function renderSmartFilterModal(){const _0x594629=_0x225e24;if(!Array[_0x594629(0x5d6,'2Lzj')](pendingInputItems))pendingInputItems=[];smartFilterState[_0x594629(0x5f8,'M*BU')]=0x0,smartFilterState[_0x594629(0x59f,'K7h7')]='',smartFilterState[_0x594629(0xbef,'cNV6')]=![];const _0x469dbd=loadSavedRatio();_0x469dbd?(smartFilterState[_0x594629(0xc21,')UVA')]=_0x469dbd['a'],smartFilterState[_0x594629(0x405,'VWnK')]=_0x469dbd['b']):(smartFilterState[_0x594629(0x107c,'cNV6')]=0x0,smartFilterState[_0x594629(0x5de,'MHv!')]=0x0);const _0x4bcbf6=document[_0x594629(0x120d,'y)UI')](_0x594629(0xf06,'MfL&'))?.[_0x594629(0x879,'OTP&')]||'MT',_0xe4128f=collectPendingBetTypes(pendingInputItems)[_0x594629(0x9a3,'7JZb')](_0x3898f2=>{const _0x18e8de=_0x594629,_0x1b2994=typeof BET_TYPES!==_0x18e8de(0xf86,'cNV6')&&BET_TYPES[_0x3898f2]?.[_0x18e8de(0xb21,'lm&&')]||_0x3898f2[_0x18e8de(0xdfb,'m1lh')]();return _0x18e8de(0x73e,'fyWu')+_0x3898f2+'\x22>'+_0x1b2994+_0x18e8de(0x10c7,'K7h7');})[_0x594629(0x227,'PX3c')](''),_0x1a177b=_0x469dbd?_0x469dbd['a']+'/'+_0x469dbd['b']:_0x594629(0x8e2,'iEe2'),_0x2ca5c8=_0x594629(0xbfe,'I*r6')+_0xe4128f+_0x594629(0xc53,'MfL&')+_0x1a177b+_0x594629(0x84f,'pj(#')+(_0x469dbd?_0x469dbd['a']+'/'+_0x469dbd['b']:'')+_0x594629(0x120e,'7JZb')+[_0x594629(0xd4b,'e6gp'),_0x594629(0x528,'7Xia'),_0x594629(0x1052,'I*r6'),_0x594629(0x284,'#&$8'),_0x594629(0x7e8,'zNw('),_0x594629(0xacb,'#&$8')][_0x594629(0x5a1,'#&$8')](_0xa07517=>_0x594629(0x11dd,'#Ux*')+_0xa07517+'\x22>'+_0xa07517+_0x594629(0xcbd,'VWnK'))[_0x594629(0x40c,'lm&&')]('')+_0x594629(0x5cf,'PX3c');showModal({'title':_0x594629(0x393,'M*BU'),'body':_0x2ca5c8,'confirmText':_0x594629(0x9e6,'2Lzj'),'cancelText':_0x594629(0x6f8,'PX3c'),'showCancel':!![],'wide':!![],'onConfirm':()=>{const _0x51a3f8=_0x594629,{selected:_0x1b7b8d}=getSplitItems(pendingInputItems);if(!_0x1b7b8d[_0x51a3f8(0xd41,']Sv0')])return showToast(_0x51a3f8(0xbd7,'f#xl'),_0x51a3f8(0xd2a,'&SjD'));const _0x4be129=_0x1b7b8d[_0x51a3f8(0x4b0,'kMoM')](_0x40e54b=>{const _0x389a56=_0x51a3f8,_0x19d5b6=getItemK(_0x40e54b),_0x35ac21={..._0x40e54b,'id':_0x389a56(0x8b1,'e6gp')+Date[_0x389a56(0x800,'&SjD')]()+'_'+Math[_0x389a56(0x959,'LyuC')]()[_0x389a56(0x658,'LyuC')](0x24)[_0x389a56(0x3d6,'5Ad)')](0x2,0x7),'originalAmount':_0x19d5b6,'amount':_0x19d5b6*0x3e8};return delete _0x35ac21[_0x389a56(0x9e4,'I*r6')],_0x35ac21;}),_0x551228=typeof activeGroup!==_0x51a3f8(0x1126,'u@TD')?activeGroup:'A';if(!appData[_0x551228])appData[_0x551228]={};if(!appData[_0x551228][_0x51a3f8(0x628,'MfL&')])appData[_0x551228][_0x51a3f8(0x10ef,')U6s')]=[];if(!appData[_0x551228][_0x51a3f8(0x1093,'m1lh')])appData[_0x551228][_0x51a3f8(0x223,')UVA')]=[];appData[_0x551228][_0x51a3f8(0x715,'7!Gb')][_0x51a3f8(0x62a,'%AH&')]({'time':new Date()[_0x51a3f8(0x924,'WL8L')](_0x51a3f8(0xc92,')UVA'),{'hour':_0x51a3f8(0x916,'E5)l'),'minute':_0x51a3f8(0x1036,'VWnK')})+_0x51a3f8(0x8b4,'&SjD')+new Date()[_0x51a3f8(0x330,'PX3c')](_0x51a3f8(0x650,'M*BU')),'items':_0x4be129}),appData[_0x551228][_0x51a3f8(0x33e,'MHv!')][_0x51a3f8(0x1121,'5Ad)')](..._0x4be129);if(typeof renderMatrixTable===_0x51a3f8(0x57f,'u@TD'))renderMatrixTable();if(typeof updateGrandSummary===_0x51a3f8(0x1152,'fyWu'))updateGrandSummary();if(typeof saveAppDataToDBDebounced===_0x51a3f8(0x93c,'LyuC'))saveAppDataToDBDebounced();showToast(_0x51a3f8(0x310,'I*r6')+_0x4be129[_0x51a3f8(0x351,'e[5n')]+_0x51a3f8(0x832,'M1DA'),_0x51a3f8(0xefa,'fyWu')),pendingInputItems=[];const _0x244140=document[_0x51a3f8(0xa7d,'7JZb')](_0x51a3f8(0xe36,']Sv0'))||document[_0x51a3f8(0x10cb,'5Ad)')](_0x51a3f8(0x11a4,'I*r6'));if(_0x244140)_0x244140[_0x51a3f8(0x5a7,'u@TD')]='';}});const _0x37c48f=()=>{const _0x203355=_0x594629,_0x4153e2=document[_0x203355(0x836,'y)UI')](_0x203355(0xfbc,'Mgu1'));smartFilterState[_0x203355(0x9c2,'7!Gb')]=_0x4153e2?_0x4153e2[_0x203355(0x352,'iEe2')]||'':'';},_0x2a3196=()=>{const _0x5b9eda=_0x594629,{selected:_0x351fa1,unselected:_0x1f5438}=getSplitItems(pendingInputItems),_0x13b782=document[_0x5b9eda(0x5c1,'M*BU')](_0x5b9eda(0x76c,'fyWu')),_0x153358=document[_0x5b9eda(0x612,'gL1S')](_0x5b9eda(0xca9,'MfL&'));if(_0x13b782)_0x13b782[_0x5b9eda(0x754,'nR@W')]=_0x351fa1[_0x5b9eda(0x124c,'LyuC')];if(_0x153358)_0x153358[_0x5b9eda(0x260,'zNw(')]=_0x1f5438[_0x5b9eda(0x633,'mn5c')];const _0x5606e7=document[_0x5b9eda(0x996,'I*r6')](_0x5b9eda(0x1088,'5Ess'));if(_0x5606e7){const _0xa68d2d=smartFilterState[_0x5b9eda(0x3ce,'Fj&C')],_0x286825=smartFilterState[_0x5b9eda(0x59f,'K7h7')]?BET_TYPES&&BET_TYPES[smartFilterState[_0x5b9eda(0x59f,'K7h7')]]?.[_0x5b9eda(0xdba,'MfL&')]||smartFilterState[_0x5b9eda(0xf49,'5Ad)')]:_0x5b9eda(0x58c,'#&$8'),_0x525206=smartFilterState[_0x5b9eda(0xbf6,'E5)l')]>0x0?_0x5b9eda(0xd55,'mn5c')+smartFilterState[_0x5b9eda(0xbf6,'E5)l')]:'',_0x9b53a2=smartFilterState[_0x5b9eda(0xe28,'7JZb')]>0x0&&smartFilterState[_0x5b9eda(0x5de,'MHv!')]>0x0?_0x5b9eda(0xd37,'f#xl')+smartFilterState[_0x5b9eda(0xca6,'WL8L')]+'/'+smartFilterState[_0x5b9eda(0xa64,'ySL*')]:'';_0x5606e7[_0x5b9eda(0x63f,')UVA')]=(_0xa68d2d?_0x5b9eda(0x67f,'#&$8'):_0x5b9eda(0xd2e,'I*r6'))+(_0x5b9eda(0xc3a,'f#xl')+_0x286825+_0x5b9eda(0xa82,'5Ad)')+_0x525206+_0x9b53a2)+(_0x5b9eda(0xbb0,'%AH&')+_0x351fa1[_0x5b9eda(0x10f4,'E5)l')]+_0x5b9eda(0x616,'gL1S')+_0x1f5438[_0x5b9eda(0xe18,'lm&&')]+_0x5b9eda(0x4dd,'BNmM'))+(_0x5b9eda(0x121b,'mn5c')+pendingInputItems[_0x5b9eda(0x65c,'#&$8')]+_0x5b9eda(0xadf,'ySL*'));}const _0x72c8b4=document[_0x5b9eda(0x8e6,'e[5n')](_0x5b9eda(0x5c4,'5Ad)')),_0x227c30=document[_0x5b9eda(0xf2a,'Fj&C')](_0x5b9eda(0x78c,'5Ad)'));if(_0x72c8b4)_0x72c8b4[_0x5b9eda(0x867,'e[5n')]=_0x351fa1[_0x5b9eda(0xa5b,'Oc5r')]?_0x351fa1[_0x5b9eda(0x58f,'OTP&')](buildFilterRow)[_0x5b9eda(0x11cc,'&SjD')](''):_0x5b9eda(0xd83,'M1DA');if(_0x227c30)_0x227c30[_0x5b9eda(0x1136,'f#xl')]=_0x1f5438[_0x5b9eda(0x222,'m1lh')]?_0x1f5438[_0x5b9eda(0x4b0,'kMoM')](buildFilterRow)[_0x5b9eda(0x5fd,'5Ess')](''):_0x5b9eda(0xfa2,'M*BU');};document[_0x594629(0x836,'y)UI')](_0x594629(0x940,'lm&&'))[_0x594629(0x1004,'nR@W')]=()=>{const _0x226f2b=_0x594629,_0x1252b0=document[_0x226f2b(0x812,'M1DA')](_0x226f2b(0xabf,'gL1S')),_0x411b4f=_0x1252b0?.[_0x226f2b(0x879,'OTP&')]?.[_0x226f2b(0x538,'zNw(')]()||'';if(!_0x411b4f)return showToast(_0x226f2b(0xb99,'5Ad)'),_0x226f2b(0x4be,'cNV6'));const _0x58b67e=parseManualFilterLine(_0x411b4f,_0x4bcbf6);if(!_0x58b67e[_0x226f2b(0x259,'kMoM')])return showToast(_0x226f2b(0xb25,')U6s'),_0x226f2b(0xa5c,'7Xia'));pendingInputItems[_0x226f2b(0x500,'cNV6')](..._0x58b67e);if(_0x1252b0)_0x1252b0[_0x226f2b(0x7ce,'&SjD')]='';const _0x56656c=document[_0x226f2b(0x11d4,'pj(#')](_0x226f2b(0x95e,'pj(#'));if(_0x56656c){const _0x4f2a45=_0x56656c[_0x226f2b(0xf41,'#&$8')],_0x2d7524=collectPendingBetTypes(pendingInputItems)[_0x226f2b(0xf59,'i%tL')](_0x367df4=>_0x226f2b(0x48c,'LyuC')+_0x367df4+'\x22\x20'+(_0x367df4===_0x4f2a45?_0x226f2b(0x515,'K7h7'):'')+'>'+(BET_TYPES&&BET_TYPES[_0x367df4]?.[_0x226f2b(0x1100,'zNw(')]||_0x367df4[_0x226f2b(0xb9f,')UVA')]())+_0x226f2b(0x118a,'2Lzj'))[_0x226f2b(0xf11,'2Lzj')]('');_0x56656c[_0x226f2b(0xc49,'MfL&')]=_0x226f2b(0xbe4,'5Ad)')+_0x2d7524;}_0x2a3196(),showToast(_0x226f2b(0x1f3,'kMoM')+_0x58b67e[_0x226f2b(0x368,'Fj&C')]+_0x226f2b(0x442,')UVA')+_0x58b67e[0x0][_0x226f2b(0x4bd,'OTP&')]+')',_0x226f2b(0x1d7,'BNmM'));},document[_0x594629(0x9f6,'lm&&')](_0x594629(0x24d,'E5)l'))?.[_0x594629(0x113b,'mn5c')](_0x594629(0xfb5,'pj(#'),_0x1f45fe=>{const _0x163516=_0x594629;_0x1f45fe[_0x163516(0x88f,'e6gp')]===_0x163516(0x97e,'5Ad)')&&(_0x1f45fe[_0x163516(0xb8e,'Fj&C')](),document[_0x163516(0xb17,'m1lh')](_0x163516(0x1fe,'7Xia'))[_0x163516(0xd5e,'&SjD')]());}),document[_0x594629(0x808,')UVA')](_0x594629(0x681,'M*BU'))[_0x594629(0x638,'7!Gb')](_0x226999=>{const _0x3e8e45=_0x594629;_0x226999[_0x3e8e45(0xe93,'lX[b')]=()=>{const _0x45c1b9=_0x3e8e45,_0x2cf9ce=_0x226999[_0x45c1b9(0x990,'y)UI')](_0x45c1b9(0xcca,'lX[b')),_0x548bb5=document[_0x45c1b9(0xce3,'&SjD')](_0x45c1b9(0x8aa,'mn5c'));if(_0x548bb5)_0x548bb5[_0x45c1b9(0x11bf,'MfL&')]=_0x2cf9ce;const _0x3718eb=parseRatioInput(_0x2cf9ce);_0x3718eb&&(smartFilterState[_0x45c1b9(0x10d1,'m1lh')]=_0x3718eb['a'],smartFilterState[_0x45c1b9(0xd7a,'MfL&')]=_0x3718eb['b'],saveRatio(_0x3718eb['a'],_0x3718eb['b']));};}),document[_0x594629(0x9de,'cNV6')](_0x594629(0x121f,'I*r6'))[_0x594629(0xafc,'I*r6')]=()=>{const _0x385b0f=_0x594629;_0x37c48f();const _0x50eba6=smartFilterState[_0x385b0f(0xb97,'#&$8')];if(!_0x50eba6)return showToast(_0x385b0f(0xeaf,'m1lh'),_0x385b0f(0x91b,'5Ess'));pendingInputItems[_0x385b0f(0x11a2,'zNw(')](_0xe2a5c0=>{const _0x4035e5=_0x385b0f;_0xe2a5c0[_0x4035e5(0x375,'MHv!')]=_0x50eba6;}),_0x2a3196(),showToast(_0x385b0f(0x1e2,'%AH&')+(BET_TYPES&&BET_TYPES[_0x50eba6]?.[_0x385b0f(0x880,')U6s')]||_0x50eba6)+_0x385b0f(0x529,'5Ess')+pendingInputItems[_0x385b0f(0x103f,'gL1S')]+_0x385b0f(0xf62,'y)UI'),_0x385b0f(0x4e1,'#&$8'));};const _0x119fc6=document[_0x594629(0xb65,'i%tL')](_0x594629(0x7bf,'7!Gb'));_0x119fc6&&(_0x119fc6[_0x594629(0x1012,'%AH&')]=()=>{const _0x4a4b35=_0x594629;_0x37c48f(),smartFilterState[_0x4a4b35(0xf3c,'%AH&')]=![],_0x2a3196();}),document[_0x594629(0xe3b,'lX[b')](_0x594629(0x1130,'WL8L'))[_0x594629(0x98d,'BNmM')]=()=>{const _0x3089ce=_0x594629;_0x37c48f();const _0x451491=parseFloat(document[_0x3089ce(0x732,'hCJL')](_0x3089ce(0x4cb,'K7h7'))[_0x3089ce(0x6bf,'MHv!')]);smartFilterState[_0x3089ce(0xbf6,'E5)l')]=isNaN(_0x451491)?0x0:_0x451491,smartFilterState[_0x3089ce(0x74e,'gL1S')]=![],_0x2a3196();},document[_0x594629(0x5c1,'M*BU')](_0x594629(0x119a,'7JZb'))[_0x594629(0x319,'cNV6')]=()=>{const _0x34dedd=_0x594629;if(!pendingInputItems[_0x34dedd(0xfe5,'5Ad)')])return showToast(_0x34dedd(0xb55,'fyWu'),_0x34dedd(0xa31,'#&$8'));_0x37c48f();const _0x4134a7=parseFloat(document[_0x34dedd(0xb07,'WL8L')](_0x34dedd(0x428,'PX3c'))[_0x34dedd(0x366,'%AH&')]);if(isNaN(_0x4134a7)||_0x4134a7<=0x0)return showToast(_0x34dedd(0xa20,'Mgu1'),_0x34dedd(0x9fc,'5Ad)'));pendingInputItems=batchCutAmount(pendingInputItems,_0x4134a7,smartFilterState[_0x34dedd(0x11fe,')UVA')]),smartFilterState[_0x34dedd(0x760,'5Ess')]=0x0,smartFilterState[_0x34dedd(0x6e4,'iEe2')]=![],_0x2a3196();},document[_0x594629(0x996,'I*r6')](_0x594629(0x7ad,')U6s'))[_0x594629(0x98d,'BNmM')]=()=>{const _0x57dff3=_0x594629;if(!pendingInputItems[_0x57dff3(0x361,'%AH&')])return showToast(_0x57dff3(0x4d7,'&SjD'),_0x57dff3(0xdf6,'M*BU'));_0x37c48f();let _0x3ef2c2=document[_0x57dff3(0x7d9,'fyWu')](_0x57dff3(0x7d2,'PX3c'))?.[_0x57dff3(0xc2b,')U6s')]||'';!_0x3ef2c2&&smartFilterState[_0x57dff3(0x4b7,'BNmM')]>0x0&&(_0x3ef2c2=smartFilterState[_0x57dff3(0x4cd,'7!Gb')]+'/'+smartFilterState[_0x57dff3(0x405,'VWnK')]);const _0x4b4025=parseRatioInput(_0x3ef2c2);if(!_0x4b4025)return showToast(_0x57dff3(0xb33,'nR@W'),_0x57dff3(0x59c,'BNmM'));smartFilterState[_0x57dff3(0x4cd,'7!Gb')]=_0x4b4025['a'],smartFilterState[_0x57dff3(0xa4a,'5Ad)')]=_0x4b4025['b'],saveRatio(_0x4b4025['a'],_0x4b4025['b']),pendingInputItems=batchCutByRatio(pendingInputItems,_0x4b4025['a'],_0x4b4025['b'],smartFilterState[_0x57dff3(0xc32,'MfL&')]),smartFilterState[_0x57dff3(0x268,'e[5n')]=0x0,smartFilterState[_0x57dff3(0xb87,'K7h7')]=![],_0x2a3196();},document[_0x594629(0x9f6,'lm&&')](_0x594629(0xf51,'fyWu'))[_0x594629(0x3ec,')UVA')]=()=>{const _0x4305c8=_0x594629;smartFilterState[_0x4305c8(0x1248,']Sv0')]=!smartFilterState[_0x4305c8(0x5f9,'wBCK')],_0x2a3196();},document[_0x594629(0x7d9,'fyWu')](_0x594629(0x6ab,'Oc5r'))[_0x594629(0x7f4,'#&$8')]=()=>{const _0x1df9ab=_0x594629;smartFilterState[_0x1df9ab(0x610,')UVA')]=0x0,smartFilterState[_0x1df9ab(0xc30,'kMoM')]='',smartFilterState[_0x1df9ab(0x485,'f#xl')]=![];const _0x3466af=document[_0x1df9ab(0xefb,'iEe2')](_0x1df9ab(0x572,'Mgu1')),_0x1fda73=document[_0x1df9ab(0x271,'ySL*')](_0x1df9ab(0x10ee,'WL8L'));if(_0x3466af)_0x3466af[_0x1df9ab(0xcb7,'VWnK')]='';if(_0x1fda73)_0x1fda73[_0x1df9ab(0x11bf,'MfL&')]='';pendingInputItems[_0x1df9ab(0x8f7,'WL8L')](_0x1a4119=>{const _0xdfe28c=_0x1df9ab;delete _0x1a4119[_0xdfe28c(0xb45,'nR@W')];}),_0x2a3196(),showToast(_0x1df9ab(0xbb3,'K7h7'),_0x1df9ab(0x23e,'LyuC'));},document[_0x594629(0x465,']Sv0')](_0x594629(0xc46,'e6gp'))[_0x594629(0x5ad,'OTP&')]=()=>{const _0x341200=_0x594629,{unselected:_0x3453ed}=getSplitItems(pendingInputItems),_0xc50a15=exportFilteredToCopyText(_0x3453ed);if(!_0xc50a15)return showToast(_0x341200(0x8b6,'nR@W'),_0x341200(0xe77,'E5)l'));executeCopyText(_0xc50a15);},window[_0x594629(0x24c,'f#xl')]=_0x111945=>{const _0x1ef3c5=_0x594629,_0x3686a4=smartFilterState[_0x1ef3c5(0x645,'PX3c')]>0x0?smartFilterState[_0x1ef3c5(0x5ab,'Fj&C')]+'/'+smartFilterState[_0x1ef3c5(0xf57,'7JZb')]:'10';customPrompt(_0x1ef3c5(0x25a,'y)UI'),_0x1ef3c5(0xc1e,'#&$8'),_0x3686a4,_0x364b1c=>{const _0x30c673=_0x1ef3c5;if(!_0x364b1c)return;const _0x30fc58=pendingInputItems[_0x30c673(0x4a3,'iEe2')](_0x4a012b=>_0x4a012b['id']===_0x111945);if(_0x30fc58===-0x1)return;const _0x3d6afe=pendingInputItems[_0x30fc58],_0x3d2b19=getItemK(_0x3d6afe),_0x286f87=parseRatioInput(_0x364b1c);let _0x46a3ce,_0x230c49;if(_0x286f87){const _0x408b59=_0x286f87['a']+_0x286f87['b'];_0x46a3ce=+(_0x3d2b19*_0x286f87['a']/_0x408b59)[_0x30c673(0x631,'ySL*')](0x2),_0x230c49=+(_0x3d2b19-_0x46a3ce)[_0x30c673(0x474,'MHv!')](0x2),saveRatio(_0x286f87['a'],_0x286f87['b']);}else{_0x230c49=parseFloat(String(_0x364b1c)[_0x30c673(0x3b9,'LyuC')](',','.'));if(isNaN(_0x230c49)||_0x230c49<=0x0)return showToast(_0x30c673(0x1227,'Oc5r'),_0x30c673(0xbbc,']Sv0'));if(_0x3d2b19<=_0x230c49)return showToast(_0x30c673(0x614,'M1DA'),_0x30c673(0x9fc,'5Ad)'));_0x46a3ce=+(_0x3d2b19-_0x230c49)[_0x30c673(0x1116,'zNw(')](0x2);}if(_0x46a3ce<=0x0||_0x230c49<=0x0)return showToast(_0x30c673(0x1fd,'2Lzj'),_0x30c673(0x11e3,'LyuC'));_0x3d6afe[_0x30c673(0x6de,'BNmM')]=_0x46a3ce,_0x3d6afe[_0x30c673(0x459,'f#xl')]=_0x46a3ce*0x3e8,_0x3d6afe[_0x30c673(0x563,'pj(#')]=(_0x3d6afe[_0x30c673(0x119d,'BNmM')]||'')+(_0x30c673(0xf15,'&SjD')+_0x46a3ce+'k]'),_0x3d6afe[_0x30c673(0x7de,')UVA')]=_0x30c673(0xde7,'y)UI'),pendingInputItems[_0x30c673(0x21b,'Fj&C')](_0x30fc58+0x1,0x0,{...JSON[_0x30c673(0xa61,'K7h7')](JSON[_0x30c673(0xad1,'nR@W')](_0x3d6afe)),'id':_0x30c673(0x287,'&SjD')+Date[_0x30c673(0x430,'MfL&')]()+'_'+Math[_0x30c673(0x2c7,'mn5c')]()[_0x30c673(0x622,'PX3c')](0x24)[_0x30c673(0xabb,'ySL*')](0x2,0x7),'originalAmount':_0x230c49,'amount':_0x230c49*0x3e8,'note':_0x30c673(0x517,'fyWu')+_0x230c49+_0x30c673(0x46f,'cNV6')+_0x3d2b19+'k]','_part':_0x30c673(0x10cc,'e[5n')}),_0x2a3196();});},_0x2a3196();}function executeCopyText(_0x38753d){const _0x2c5822=_0x225e24;navigator[_0x2c5822(0x257,'m1lh')]&&window[_0x2c5822(0x11f1,'BNmM')]?navigator[_0x2c5822(0x342,'gL1S')][_0x2c5822(0xf4b,'&SjD')](_0x38753d)[_0x2c5822(0x11b5,'2Lzj')](()=>showToast(_0x2c5822(0x47c,'e[5n'),_0x2c5822(0x1104,'pj(#')))[_0x2c5822(0x201,')U6s')](()=>fallbackCopyText(_0x38753d)):fallbackCopyText(_0x38753d);}function fallbackCopyText(_0x45dad0){const _0x568698=_0x225e24,_0x220512=document[_0x568698(0x9ec,'BNmM')](_0x568698(0x252,'zNw('));_0x220512[_0x568698(0xe4c,'i%tL')]=_0x45dad0,_0x220512[_0x568698(0xf70,'Mgu1')][_0x568698(0x10c4,'kMoM')]=_0x568698(0x571,'I*r6'),document[_0x568698(0xf5d,'%AH&')][_0x568698(0x35d,'2Lzj')](_0x220512),_0x220512[_0x568698(0xf8e,'%AH&')]();try{document[_0x568698(0x22c,'#Ux*')](_0x568698(0x437,'Mgu1')),showToast(_0x568698(0x47c,'e[5n'),_0x568698(0x206,'7!Gb'));}catch(_0x4a690f){showToast(_0x568698(0xada,'7Xia'),_0x568698(0x725,'i%tL'));}document[_0x568698(0x813,'m1lh')][_0x568698(0xfef,'7!Gb')](_0x220512);}function openSmartFilterFromInput(){const _0xa003cb=_0x225e24,_0x3d0c52=document[_0xa003cb(0x700,'e6gp')](_0xa003cb(0x5b7,'WL8L'))||document[_0xa003cb(0xa7d,'7JZb')](_0xa003cb(0xd43,'M1DA'))||document[_0xa003cb(0x5f1,'E5)l')](_0xa003cb(0xccd,'7JZb')),_0x3f9ce5=_0x3d0c52?_0x3d0c52[_0xa003cb(0xcb7,'VWnK')][_0xa003cb(0xb5b,'Fj&C')]():'',_0x3f21a2=typeof detectRegionFromText===_0xa003cb(0xd93,'i%tL')?detectRegionFromText(_0x3f9ce5,document[_0xa003cb(0xaab,'kMoM')](_0xa003cb(0x446,'M1DA'))?.[_0xa003cb(0xc37,'7!Gb')]||'MT'):document[_0xa003cb(0x551,'gL1S')](_0xa003cb(0xb82,'e6gp'))?.[_0xa003cb(0xb59,'7JZb')]||'MT';if(_0x3f9ce5){const _0x36b40a=document[_0xa003cb(0x632,'%AH&')](_0xa003cb(0xe15,'LyuC')+_0x3f21a2+'\x22]');if(_0x36b40a)_0x36b40a[_0xa003cb(0xedb,'VWnK')]=!![];if(typeof parseSmartLottoText!==_0xa003cb(0xfbf,'M*BU'))return showToast(_0xa003cb(0x7f0,')U6s'),_0xa003cb(0xb18,'gL1S'));pendingInputItems=parseSmartLottoText(_0x3f9ce5,_0x3f21a2)||[],!pendingInputItems[_0xa003cb(0xd41,']Sv0')]&&showToast(_0xa003cb(0x4c5,'nR@W'),_0xa003cb(0xf5a,'gL1S'));}else pendingInputItems=Array[_0xa003cb(0x63c,'Mgu1')](pendingInputItems)?pendingInputItems:[];renderSmartFilterModal();}
+/**
+ * UNIFIED SMART APP CONTROLLER - HIGH PERFORMANCE + MAXIMUM SECURITY
+ * Cập nhật 20/08/2026
+ * - Hỗ trợ 3 miền + chọn đài theo ngày
+ * - Nhập tay + Nhập nhanh thông minh (parse đoạn dài)
+ * - Bảng xem lại có chỉnh sửa / trả số / xóa
+ * - Bảng Chi Tiết mới rõ ràng, tô đỏ số trúng
+ */
+
+// ================= GLOBAL STATE =================
+let groups = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H'];
+let activeGroup = 'A';
+let currentUser = "Nhóm Quản Lý 01";
+let appData = {};
+let isUnlocked = false;
+let autoPurgeEnabled = true;
+let skipComparisonModal = false;          // false = luôn hiện bảng xem lại
+let selectedStations = [];                // đài đang được chọn
+let pendingInputItems = [];
+let inputSessionCount = 0;
+let detailPage = 1;
+const DETAIL_PAGE_SIZE = 100;
+let detailSearchTerm = '';
+let detailMatchFilter = 'all';           // 'all' | 'matched' (chỉ trúng) | 'unmatched' (chỉ trật) — dùng để nhà cái lọc đối chiếu
+// Lọc theo Miền/Đài dạng CÂY — tick 1 miền (không tick đài con nào) = xem
+// GỘP hết đài của miền đó; tick thêm đài con cụ thể mới thu hẹp lại đúng đài
+// đó. Rỗng cả 2 Set = không lọc theo miền/đài (giữ hành vi "Tất cả" cũ).
+let detailRegionFilter = new Set();      // Set các miền đang tick: 'MN'/'MT'/'MB'
+let detailStationFilterSet = new Set();  // Set tên đài cụ thể đang tick (thuộc bất kỳ miền nào ở trên)
+
+// Key localStorage
+const STORAGE_KEY_PATTERN = "SEA_LOTTO_PATTERN_SECURITY_PASS";
+const STORAGE_KEY_USER = "SEA_LOTTO_CURRENT_USER_NAME";
+
+// ================= INDEXEDDB =================
+const DB_NAME = "SeaLottoBigDataDB";
+const DB_VERSION = 1;
+let dbInstance = null;
+// Chỉ cho phép một giao dịch ghi chạy tại một thời điểm. Trước đây `await
+// store.put(...)` không thực sự chờ IndexedDB, nên các lần nhập liên tiếp có
+// thể bị ghi chồng khi người dùng tải lại trang ngay sau đó.
+let appStateSaveQueue = Promise.resolve();
+let saveTimeout = null;
+
+const BET_TYPES = {
+    // --- LÔ BAO & CÀNG THƯỜNG ---
+    'bl':        { name: 'Bao Lô (2C)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    '2c':        { name: 'Bao Lô 2C', prizes: { MB: 27, MT: 18, MN: 18 } },
+    '3c':        { name: 'Bao Lô 3C', prizes: { MB: 23, MT: 17, MN: 17 } },
+    'c2':        { name: '2C', prizes: { MB: 1, MT: 1, MN: 1 } },
+    'c3':        { name: '3C', prizes: { MB: 1, MT: 1, MN: 1 } },
+    // ĐÃ BỎ "4 Càng" (cược đúng 4 chữ số, tỷ lệ riêng 8800 lần) — xác nhận
+    // hệ thống chỉ có ĐÚNG 3 kiểu cược thật (2C/3C/Đá), không có kiểu số 4
+    // chữ số nào cả, "nghĩ 4 Càng" trước đây là hiểu sai. "4C" giờ là mã
+    // KHÁCH MIỀN BẮC hay gõ để chỉ "4 Cuối" — cùng 1 khái niệm với '5c'/
+    // 'g3g2g1db' bên dưới (Trung/Nam gọi "5 Cuối" vì gộp thêm Giải 3, Bắc
+    // gọi "4 Cuối" vì không có Giải 3 trong tổ hợp) — dùng LUÔN chung 1
+    // công thức/số lô theo miền (xem getBetTypeTiers), không tách mã riêng.
+    '4c':        { name: '4/5 Cuối GĐB', prizes: { MB: 4, MT: 5, MN: 5 } },
+    // Số lô MB đã sửa lại đúng theo Cocomi: ở Miền Bắc, tổ hợp này CHỈ gồm
+    // G2+G1+ĐB (4 lô, Bắc gọi là "4 Cuối") — không có G3 như Trung/Nam (5
+    // lô, gọi "5 Cuối"). Xem getBetTypeTiers cho phần tổ hợp giải theo miền.
+    '5c':        { name: '5 Cuối GĐB', prizes: { MB: 4, MT: 5, MN: 5 } },
+    '10c':       { name: '10 Cuối GĐB', prizes: { MB: 10, MT: 10, MN: 10 } },
+    'bao4c':     { name: 'Bao 4 Càng (cũ)', prizes: { MB: 20, MT: 16, MN: 16 } },
+
+    // --- CÁC CƯỢC LÔ THEO SỐ LƯỢNG GIẢI ---
+    '7lo':       { name: '7 Lô Đầu', prizes: { MB: 7, MT: 7, MN: 7 } },
+    '10lo':      { name: '10 Lô', prizes: { MB: 10, MT: 10, MN: 10 } },
+    // Miền Bắc đã xác nhận với Cocomi: "10 Cuối" = ĐB+G1+G2+G3 = 10 lô.
+    // Miền Trung/Nam CHƯA có xác nhận riêng cho "10 Cuối" — số lô 10 ở đây
+    // tạm giữ nguyên như trước, cần hỏi lại nếu MT/MN có dùng cách gọi này.
+    '10cuoi':    { name: '10 Lô Cuối', prizes: { MB: 10, MT: 10, MN: 10 } },
+    '12lo':      { name: '12 Lô', prizes: { MB: 12, MT: 12, MN: 12 } },
+    // "14 Cuối" — CHỈ Miền Bắc theo Cocomi (ĐB+G1+G2+G3+G4 = 14 lô). Miền
+    // Trung/Nam không có khái niệm này nên để 0 (ẩn khỏi lựa chọn MT/MN).
+    '14cuoi':    { name: '14 Lô Cuối (Đặc Biệt → Giải 4, riêng Miền Bắc)', prizes: { MB: 14, MT: 0, MN: 0 } },
+    '14lo':      { name: '14 Lô Cuối', prizes: { MB: 14, MT: 14, MN: 14 } },
+    '16lo':      { name: '16 Lô Cuối', prizes: { MB: 16, MT: 16, MN: 16 } },
+
+    // --- XỈU CHỦ / ĐẦU ĐUÔI / ĐẶC BIỆT ---
+    'dd':        { name: 'Đầu Đuôi', prizes: { MB: 5, MT: 2, MN: 2 } }, // MB: 4G7 + 1GĐB | MT/MN: 1G8 + 1GĐB
+    'dau':       { name: 'Đầu (G8 / G7)', prizes: { MB: 4, MT: 1, MN: 1 } }, // MB: G7(4 giải) | MT/MN: G8(1 giải)
+    'duoi':      { name: 'Đuôi (GĐB)', prizes: { MB: 1, MT: 1, MN: 1 } },
+    'de':        { name: 'Đề (2 số đặc biệt MB)', prizes: { MB: 1, MT: 1, MN: 1 } },
+    'dau_db':    { name: 'Đầu Đặc Biệt (2 số đầu GĐB)', prizes: { MB: 1, MT: 1, MN: 1 } },
+    
+    'xc':        { name: 'Xỉu Chủ (Đầu+Đuôi)', prizes: { MB: 4, MT: 2, MN: 2 } }, // MB: 3G6 + 1GĐB | MT/MN: 1G7 + 1GĐB
+    'xc_dau':    { name: 'Xỉu Chủ Đầu', prizes: { MB: 3, MT: 1, MN: 1 } }, // MB: G6 (3 giải) | MT/MN: G7 (1 giải)
+    'xc_duoi':   { name: 'Xỉu Chủ Đuôi', prizes: { MB: 1, MT: 1, MN: 1 } },
+    'db':        { name: 'Đặc Biệt', prizes: { MB: 1, MT: 1, MN: 1 } },
+
+    // --- GIẢI LẺ CỤ THỂ ---
+    'g1':        { name: 'Giải 1', prizes: { MB: 1, MT: 1, MN: 1 } },
+    'g2':        { name: 'Giải 2', prizes: { MB: 2, MT: 1, MN: 1 } },
+    'g3':        { name: 'Giải 3', prizes: { MB: 6, MT: 2, MN: 2 } },
+    'g4':        { name: 'Giải 4', prizes: { MB: 4, MT: 7, MN: 7 } },
+    'g5':        { name: 'Giải 5', prizes: { MB: 6, MT: 1, MN: 1 } },
+    'g6':        { name: 'Giải 6', prizes: { MB: 3, MT: 3, MN: 3 } },
+    'g7':        { name: 'Giải 7', prizes: { MB: 4, MT: 1, MN: 1 } },
+    'g8':        { name: 'Giải 8', prizes: { MB: 0, MT: 1, MN: 1 } },
+    'g6g3':      { name: 'Giải 6 + Giải 3', prizes: { MB: 9, MT: 5, MN: 5 } },
+    'g7g6':      { name: 'Giải 7 + Giải 6', prizes: { MB: 7, MT: 4, MN: 4 } },
+    'g6g5':      { name: 'Giải 6 + Giải 5', prizes: { MB: 9, MT: 4, MN: 4 } },
+    'g5g4':      { name: 'Giải 5 + Giải 4', prizes: { MB: 10, MT: 8, MN: 8 } },
+    'g3g2':      { name: 'Giải 3 + Giải 2', prizes: { MB: 8, MT: 3, MN: 3 } },
+    'g2g1':      { name: 'Giải 2 + Giải 1', prizes: { MB: 3, MT: 2, MN: 2 } },
+    'g1db':      { name: 'Giải 1 + Đặc Biệt', prizes: { MB: 2, MT: 2, MN: 2 } },
+    'g6g4':      { name: 'Giải 6 + Giải 4', prizes: { MB: 7, MT: 10, MN: 10 } },
+    'g4g3':      { name: 'Giải 4 + Giải 3', prizes: { MB: 10, MT: 9, MN: 9 } },
+    'g6g4g3':    { name: 'Giải 6 + Giải 4 + Giải 3', prizes: { MB: 13, MT: 12, MN: 12 } },
+    'g7g6g5g4':  { name: '12 Đầu (G7 + G6 + G5 + G4)', prizes: { MB: 17, MT: 12, MN: 12 } },
+    'g8g7g6g5g4': { name: '13 Đầu (G8 + G7 + G6 + G5 + G4)', prizes: { MB: 17, MT: 13, MN: 13 } },
+    // Số lô MB đã sửa lại đúng theo Cocomi — xem chú thích ở mã '5c' phía
+    // trên (Miền Bắc: G2+G1+ĐB = 4 lô, KHÔNG có G3 như Trung/Nam).
+    'g3g2g1db':  { name: '5 Cuối (G3 + G2 + G1 + ĐB)', prizes: { MB: 4, MT: 5, MN: 5 } },
+    // Bổ sung theo xác nhận Cocomi (29/08/2026) — chỉ có ở Miền Trung/Nam
+    // (dựa trên G7/G8, Miền Bắc không có cách gọi tương ứng được xác nhận):
+    'g7g6g5':    { name: '5 Đầu (G7 + G6 + G5)', prizes: { MB: 0, MT: 5, MN: 5 } },
+    'g8g7g6g5':  { name: '6 Đầu (G8 + G7 + G6 + G5)', prizes: { MB: 0, MT: 6, MN: 6 } },
+    // "12 Cuối" — KHÁC "12 Đầu" (g7g6g5g4) dù trùng số lô 12 do ngẫu nhiên;
+    // đây tính từ G4 xuống ĐB (đuôi), "12 Đầu" tính từ G7 xuống G4 (đầu).
+    'g4g3g2g1db': { name: '12 Cuối (G4 + G3 + G2 + G1 + ĐB)', prizes: { MB: 0, MT: 12, MN: 12 } },
+    '3d':        { name: '3 Đầu', prizes: { MB: 3, MT: 3, MN: 3 } },
+    '8d':        { name: '8 Đầu', prizes: { MB: 8, MT: 8, MN: 8 } },
+    '10d':       { name: '10 Đầu', prizes: { MB: 10, MT: 10, MN: 10 } },
+    '12d':       { name: '12 Đầu', prizes: { MB: 17, MT: 12, MN: 12 } },
+    '13d':       { name: '13 Đầu', prizes: { MB: 17, MT: 13, MN: 13 } },
+    'g4lo5':     { name: 'G4 Lô (5 giải)', prizes: { MB: 5, MT: 5, MN: 5 } },
+    'g4lo7':     { name: 'G4 Lô (7 giải)', prizes: { MB: 7, MT: 7, MN: 7 } },
+    'g6lo1':     { name: 'G6 Lô (1 giải)', prizes: { MB: 1, MT: 1, MN: 1 } },
+
+    // --- CƯỢC TẬP HỢP / ĐÁ XIÊN ---
+    // "prizes" của cả 3 mã Đá dưới đây CHỈ LÀ SỐ GIỮ CHỖ, không dùng để tính
+    // tiền thật (calculateItemFinancials có nhánh RIÊNG cho da/dx/dv, tính
+    // theo số lô/con × số con thật trong pairNums, không bao giờ đọc prizes
+    // ở đây) — NHƯNG dropdown chọn tay lại dùng "prizes[miền] === 0" để
+    // ẨN loại không áp dụng miền đó (VD "14 Cuối" chỉ Bắc). Để prizes = 0 ở
+    // đây từng làm ẨN LUÔN cả 3 loại Đá khỏi dropdown Ở MỌI MIỀN — lỗi thật
+    // đã xảy ra, không chọn tay được Đá Thẳng/Xiên/Chéo. Đổi thành 1 (khác 0)
+    // để không bị hiểu nhầm là "không áp dụng miền nào" — Đá áp dụng CẢ 3 miền.
+    'da':        { name: 'Đá Thẳng', prizes: { MB: 1, MT: 1, MN: 1 } },
+    // Xác nhận Cocomi: "Xiên" = cả nhóm là 1 cược, đủ hết số mới trúng.
+    'dx':        { name: 'Đá Xiên (cả nhóm, thiếu 1 số là thua)', prizes: { MB: 1, MT: 1, MN: 1 } },
+    // "Chéo" = tách từng cặp riêng, trúng phần vẫn ăn — CÙNG cơ chế với
+    // Đá Vòng/Liên Hoàn, không phải với "Xiên" như trước đây hiểu nhầm.
+    // Tên gọi CHỈ dùng đúng chữ "Đá Chéo" như Cocomi nói — trước đây ghép
+    // thêm "/ Vòng / Liên Hoàn" (tên gọi cũ trong app từ trước khi có xác
+    // nhận Cocomi) khiến tên hiển thị dài dòng, khó hiểu, không ai nhận ra
+    // đây chính là "Đá Chéo". Mã 'dv' giữ nguyên (không đổi, tránh vỡ dữ liệu
+    // cũ), chỉ đổi CHỮ HIỂN THỊ cho đúng và gọn như khách/Cocomi hay gọi.
+    'dv':        { name: 'Đá Chéo (tách từng cặp, trúng phần vẫn ăn)', prizes: { MB: 1, MT: 1, MN: 1 } },
+    'day_so':    { name: 'Dãy Số (20 đến 30)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'chan_chan': { name: 'Chẵn Chẵn', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'le_le':     { name: 'Lẻ Lẻ', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'chan_le':   { name: 'Chẵn Lẻ', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'le_chan':   { name: 'Lẻ Chẵn', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'giap':      { name: '12 Con Giáp', prizes: { MB: 27, MT: 18, MN: 18 } },
+
+    // --- CON GIÁP RIÊNG LẺ (gõ đúng 1 con, không cần "giáp" cả 100 số) ---
+    // "dậu" (gà) và "dê" KHÔNG dùng được ở đây vì bỏ dấu trùng "dau"=Đầu và
+    // "de"=Đề (2 từ khóa cược đã có sẵn, rất thông dụng) — dùng tên Hán Việt
+    // (Dậu → gõ "ga", Mùi → gõ "mui") để khỏi đụng hàng.
+    'ty':   { name: 'Tý (Chuột)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'suu':  { name: 'Sửu (Trâu)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'dan':  { name: 'Dần (Hổ)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'mao':  { name: 'Mão (Mèo)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'thin': { name: 'Thìn (Rồng)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'ran':  { name: 'Tỵ (Rắn)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'ngo':  { name: 'Ngọ (Ngựa)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'mui':  { name: 'Mùi (Dê)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'than': { name: 'Thân (Khỉ)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'ga':   { name: 'Dậu (Gà)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'tuat': { name: 'Tuất (Chó)', prizes: { MB: 27, MT: 18, MN: 18 } },
+    'hoi':  { name: 'Hợi (Heo)', prizes: { MB: 27, MT: 18, MN: 18 } }
+};
+
+// Các mã "Cược tổng hợp" (gộp sẵn nhiều giải) có TÊN đã tự ghi rõ đủ các
+// giải bên trong (VD "Giải 7 + Giải 6", "5 Cuối (G3+G2+G1+ĐB)"...) — dùng
+// chung 1 danh sách này ở CẢ 3 chỗ: (1) chỉ hiện ĐÚNG các mã này trong
+// dropdown chọn loại — không hiện song song mã viết tắt trùng công thức
+// (VD '5c'/'12d'/'13d') để khỏi có 2 lựa chọn ra cùng 1 kết quả gây rối;
+// (2) không hiện thêm badge "🎯 ..." cho các mã này vì tên đã tự nói rõ,
+// hiện thêm chỉ lặp lại y chang; (3) getManualTypeKey() quy các mã viết tắt
+// trùng công thức về đúng mã rõ ràng tương ứng trong danh sách này.
+const SELF_DESCRIBING_TIER_TYPES = [
+    'g7g6', 'g6g5', 'g5g4', 'g3g2', 'g2g1', 'g1db',
+    'g6g3', 'g6g4', 'g4g3', 'g6g4g3',
+    'g7g6g5g4', 'g8g7g6g5g4', 'g3g2g1db',
+    'g7g6g5', 'g8g7g6g5', 'g4g3g2g1db'
+];
+// Map 12 con giáp chuẩn (tên Hán Việt + tên gọi thường ngày miền Nam/Trung —
+// người nhập liệu quen gõ "chuột", "heo", "rắn"... hơn là "tý", "hợi", "tỵ").
+const ZODIAC_TY = ['00', '12', '24', '36', '48', '60', '72', '84', '96'];
+const ZODIAC_SUU = ['01', '13', '25', '37', '49', '61', '73', '85', '97'];
+const ZODIAC_DAN = ['02', '14', '26', '38', '50', '62', '74', '86', '98'];
+const ZODIAC_MAO = ['03', '15', '27', '39', '51', '63', '75', '87', '99'];
+const ZODIAC_THIN = ['04', '16', '28', '40', '52', '64', '76', '88'];
+const ZODIAC_TY_RAN = ['05', '17', '29', '41', '53', '65', '77', '89'];
+const ZODIAC_NGO = ['06', '18', '30', '42', '54', '66', '78', '90'];
+const ZODIAC_MUI = ['07', '19', '31', '43', '55', '67', '79', '91'];
+const ZODIAC_THAN = ['08', '20', '32', '44', '56', '68', '80', '92'];
+const ZODIAC_DAU = ['09', '21', '33', '45', '57', '69', '81', '93'];
+const ZODIAC_TUAT = ['10', '22', '34', '46', '58', '70', '82', '94'];
+const ZODIAC_HOI = ['11', '23', '35', '47', '59', '71', '83', '95'];
+
+const ZODIAC_MAP = {
+    'ty': ZODIAC_TY, 'chuot': ZODIAC_TY,
+    'suu': ZODIAC_SUU, 'trau': ZODIAC_SUU,
+    'dan': ZODIAC_DAN, 'ho': ZODIAC_DAN, 'cop': ZODIAC_DAN,
+    'mao': ZODIAC_MAO, 'meo': ZODIAC_MAO,
+    'thin': ZODIAC_THIN, 'rong': ZODIAC_THIN,
+    'ty_ran': ZODIAC_TY_RAN, 'ran': ZODIAC_TY_RAN,
+    'ngo': ZODIAC_NGO, 'ngua': ZODIAC_NGO,
+    'mui': ZODIAC_MUI, 'de': ZODIAC_MUI,
+    'than': ZODIAC_THAN, 'khi': ZODIAC_THAN,
+    'dau': ZODIAC_DAU, 'ga': ZODIAC_DAU,
+    'tuat': ZODIAC_TUAT, 'cho': ZODIAC_TUAT,
+    'hoi': ZODIAC_HOI, 'heo': ZODIAC_HOI, 'lon': ZODIAC_HOI
+};
+
+const ALL_ZODIAC_NUMS = [...new Set(Object.values(ZODIAC_MAP).flat())];
+
+const PAIR_SETS_NORM = {
+    'le le': ['11','13','15','17','19','31','33','35','37','39','51','53','55','57','59','71','73','75','77','79','91','93','95','97','99'],
+    'le chan': ['10','12','14','16','18','30','32','34','36','38','50','52','54','56','58','70','72','74','76','78','90','92','94','96','98'],
+    'chan chan': ['00','02','04','06','08','20','22','24','26','28','40','42','44','46','48','60','62','64','66','68','80','82','84','86','88'],
+    'chan le': ['01','03','05','07','09','21','23','25','27','29','41','43','45','47','49','61','63','65','67','69','81','83','85','87','89']
+};
+
+// Dàn số cố định cho các loại cược "cả cụm" (Chẵn/Lẻ theo cặp, 12 Con Giáp) —
+// gõ tên loại là tự bung đủ dàn số có sẵn, không cần gõ tay từng số.
+const PATTERN_TYPE_NUMS = {
+    'le_le': PAIR_SETS_NORM['le le'],
+    'le_chan': PAIR_SETS_NORM['le chan'],
+    'chan_chan': PAIR_SETS_NORM['chan chan'],
+    'chan_le': PAIR_SETS_NORM['chan le'],
+    'giap': ALL_ZODIAC_NUMS,
+    // 12 con giáp riêng lẻ — gõ đúng 1 con là ra đúng dàn số của con đó.
+    'ty': ZODIAC_TY,
+    'suu': ZODIAC_SUU,
+    'dan': ZODIAC_DAN,
+    'mao': ZODIAC_MAO,
+    'thin': ZODIAC_THIN,
+    'ran': ZODIAC_TY_RAN,
+    'ngo': ZODIAC_NGO,
+    'mui': ZODIAC_MUI,
+    'than': ZODIAC_THAN,
+    'ga': ZODIAC_DAU,
+    'tuat': ZODIAC_TUAT,
+    'hoi': ZODIAC_HOI
+};
+
+function getPrizeCount(betTypeKey, region = 'MT') {
+    // "g4lo6" = đúng 1 vị trí cụ thể trong Giải 4 → luôn 1 lô, mọi miền.
+    if (/^g[1-8]lo\d+$/.test(betTypeKey)) return 1;
+    const type = BET_TYPES[betTypeKey];
+    if (!type) return 18; // Default fallback
+    if (typeof type.prizes === 'number') return type.prizes;
+    // "|| type.prizes['MT']" coi 0 là falsy nên tự thay bằng số của MT —
+    // NHƯNG 0 ở đây thường là CỐ Ý (VD 'g8'/'g7g6g5' Miền Bắc không có
+    // Giải 8 nên phải là 0, không phải mượn tạm số của MT/MN). Chỉ fallback
+    // khi region đó THẬT SỰ chưa khai báo trong "prizes" (undefined).
+    return type.prizes[region] !== undefined ? type.prizes[region] : type.prizes['MT'];
+}
+
+// Ví dụ sử dụng:
+// getPrizeCount('10cuoi', 'MT') => 10
+// getPrizeCount('bl', 'MB')     => 27
+
+// ================= BẢO MẬT =================
+// SHA-256 thuần JS (không phụ thuộc crypto.subtle vì app có thể chạy ở
+// file:// / môi trường không secure-context, nơi Web Crypto bị vô hiệu).
+function sha256Hex(str) {
+    function rotr(x, n) { return (x >>> n) | (x << (32 - n)); }
+    const k = [
+        0x428a2f98, 0x71374491, 0xb5c0fbcf, 0xe9b5dba5, 0x3956c25b, 0x59f111f1, 0x923f82a4, 0xab1c5ed5,
+        0xd807aa98, 0x12835b01, 0x243185be, 0x550c7dc3, 0x72be5d74, 0x80deb1fe, 0x9bdc06a7, 0xc19bf174,
+        0xe49b69c1, 0xefbe4786, 0x0fc19dc6, 0x240ca1cc, 0x2de92c6f, 0x4a7484aa, 0x5cb0a9dc, 0x76f988da,
+        0x983e5152, 0xa831c66d, 0xb00327c8, 0xbf597fc7, 0xc6e00bf3, 0xd5a79147, 0x06ca6351, 0x14292967,
+        0x27b70a85, 0x2e1b2138, 0x4d2c6dfc, 0x53380d13, 0x650a7354, 0x766a0abb, 0x81c2c92e, 0x92722c85,
+        0xa2bfe8a1, 0xa81a664b, 0xc24b8b70, 0xc76c51a3, 0xd192e819, 0xd6990624, 0xf40e3585, 0x106aa070,
+        0x19a4c116, 0x1e376c08, 0x2748774c, 0x34b0bcb5, 0x391c0cb3, 0x4ed8aa4a, 0x5b9cca4f, 0x682e6ff3,
+        0x748f82ee, 0x78a5636f, 0x84c87814, 0x8cc70208, 0x90befffa, 0xa4506ceb, 0xbef9a3f7, 0xc67178f2
+    ];
+    let h = [0x6a09e667, 0xbb67ae85, 0x3c6ef372, 0xa54ff53a, 0x510e527f, 0x9b05688c, 0x1f83d9ab, 0x5be0cd19];
+
+    const utf8 = unescape(encodeURIComponent(str));
+    const bitLen = utf8.length * 8;
+    let padded = utf8 + String.fromCharCode(0x80);
+    padded += '\0'.repeat((56 - (padded.length % 64) + 64) % 64);
+    const lenHi = Math.floor(bitLen / 0x100000000), lenLo = bitLen >>> 0;
+    for (let i = 3; i >= 0; i--) padded += String.fromCharCode((lenHi >>> (i * 8)) & 0xff);
+    for (let i = 3; i >= 0; i--) padded += String.fromCharCode((lenLo >>> (i * 8)) & 0xff);
+
+    for (let chunkStart = 0; chunkStart < padded.length; chunkStart += 64) {
+        const w = new Array(64).fill(0);
+        for (let i = 0; i < 16; i++) {
+            w[i] = (padded.charCodeAt(chunkStart + i * 4) << 24) |
+                (padded.charCodeAt(chunkStart + i * 4 + 1) << 16) |
+                (padded.charCodeAt(chunkStart + i * 4 + 2) << 8) |
+                (padded.charCodeAt(chunkStart + i * 4 + 3));
+        }
+        for (let i = 16; i < 64; i++) {
+            const s0 = rotr(w[i - 15], 7) ^ rotr(w[i - 15], 18) ^ (w[i - 15] >>> 3);
+            const s1 = rotr(w[i - 2], 17) ^ rotr(w[i - 2], 19) ^ (w[i - 2] >>> 10);
+            w[i] = (w[i - 16] + s0 + w[i - 7] + s1) | 0;
+        }
+        let [a, b, c, d, e, f, g, hh] = h;
+        for (let i = 0; i < 64; i++) {
+            const S1 = rotr(e, 6) ^ rotr(e, 11) ^ rotr(e, 25);
+            const ch = (e & f) ^ (~e & g);
+            const temp1 = (hh + S1 + ch + k[i] + w[i]) | 0;
+            const S0 = rotr(a, 2) ^ rotr(a, 13) ^ rotr(a, 22);
+            const maj = (a & b) ^ (a & c) ^ (b & c);
+            const temp2 = (S0 + maj) | 0;
+            hh = g; g = f; f = e; e = (d + temp1) | 0;
+            d = c; c = b; b = a; a = (temp1 + temp2) | 0;
+        }
+        h[0] = (h[0] + a) | 0; h[1] = (h[1] + b) | 0; h[2] = (h[2] + c) | 0; h[3] = (h[3] + d) | 0;
+        h[4] = (h[4] + e) | 0; h[5] = (h[5] + f) | 0; h[6] = (h[6] + g) | 0; h[7] = (h[7] + hh) | 0;
+    }
+    return h.map(x => (x >>> 0).toString(16).padStart(8, '0')).join('');
+}
+
+// Mã Admin không còn lưu dạng chữ thường trong code — chỉ lưu bản băm SHA-256.
+// Mặc định tương ứng mã "VN@" (đổi được qua promptSetNewAdminCode, lưu vào localStorage).
+const ADMIN_HASH_KEY = "SEA_LOTTO_ADMIN_HASH";
+const ADMIN_HASH_DEFAULT = "e09a1f631e0f865b161fd3179267c16293c7456a62eafc29284dd6ddac0cc385";
+
+function getAdminHash() {
+    return localStorage.getItem(ADMIN_HASH_KEY) || ADMIN_HASH_DEFAULT;
+}
+
+function verifyAdminCode(inputCode) {
+    if (!inputCode) return false;
+    return sha256Hex(inputCode.trim().toUpperCase()) === getAdminHash();
+}
+
+function promptSetNewAdminCode() {
+    customPrompt("🔑 MÃ ADMIN MỚI", "Nhập mã Admin MỚI...", "", (newCode) => {
+        if (!newCode || !newCode.trim()) return showToast("Đã hủy đổi mã Admin!", "error");
+        const newHash = sha256Hex(newCode.trim().toUpperCase());
+        localStorage.setItem(ADMIN_HASH_KEY, newHash);
+        showModal({
+            title: "✅ Đã Đổi Mã Admin",
+            body: `
+                <div style="text-align:center;">
+                    <p style="margin-bottom:10px;">Mã Admin mới đã được lưu (băm SHA-256). Mã cũ không còn dùng được nữa.</p>
+                    <p style="margin-bottom:6px; font-size:13px; opacity:.8;">Bản sao lưu mã hóa (nên copy lại phòng khi trình duyệt bị xóa dữ liệu):</p>
+                    <input readonly value="${newHash}" style="width:100%; text-align:center; font-size:12px; padding:8px; box-sizing:border-box;" onclick="this.select()">
+                    <button class="btn btn-blue" style="margin-top:10px;" onclick="executeCopyText('${newHash}')">📋 Copy mã hóa</button>
+                </div>`,
+            isPrompt: false
+        });
+        showToast("Đổi mã Admin thành công!", "success");
+    });
+}
+
+function encryptPattern(patternArray) {
+    const raw = JSON.stringify(patternArray);
+    return btoa(unescape(encodeURIComponent(raw + "|SEA_SECURE|" + Date.now().toString().slice(-4))));
+}
+
+function decryptPattern(encrypted) {
+    try {
+        const decoded = decodeURIComponent(escape(atob(encrypted)));
+        const pure = decoded.split("|SEA_SECURE|")[0];
+        return JSON.parse(pure);
+    } catch (e) {
+        return null;
+    }
+}
+
+// ================= LỊCH ĐÀI THEO NGÀY =================
+const STATION_SCHEDULE = {
+    MB: {
+        1: ['Hà Nội'],
+        2: ['Quảng Ninh'],
+        3: ['Bắc Ninh'],
+        4: ['Hà Nội'],
+        5: ['Hải Phòng'],
+        6: ['Nam Định'],
+        0: ['Thái Bình']
+    },
+    MT: {
+        1: ['Thừa Thiên Huế', 'Phú Yên'],
+        2: ['Đắk Lắk', 'Quảng Nam'],
+        3: ['Đà Nẵng', 'Khánh Hòa'],
+        4: ['Quảng Bình', 'Bình Định', 'Quảng Trị'],
+        5: ['Gia Lai', 'Ninh Thuận'],
+        6: ['Đà Nẵng', 'Quảng Ngãi', 'Đắk Nông'],
+        0: ['Khánh Hòa', 'Kon Tum', 'Thừa Thiên Huế']
+    },
+    MN: {
+        1: ['TP. Hồ Chí Minh', 'Đồng Tháp', 'Cà Mau'],
+        2: ['Bến Tre', 'Vũng Tàu', 'Bạc Liêu'],
+        3: ['Đồng Nai', 'Cần Thơ', 'Sóc Trăng'],
+        4: ['Tây Ninh', 'An Giang', 'Bình Thuận'],
+        5: ['Bình Dương', 'Vĩnh Long', 'Trà Vinh'],
+        6: ['TP. Hồ Chí Minh', 'Long An', 'Bình Phước', 'Hậu Giang'],
+        0: ['Tiền Giang', 'Kiên Giang', 'Đà Lạt']
+    }
+};
+
+const STATION_ABBR = {
+    'Hà Nội': 'HN', 'Quảng Ninh': 'QN', 'Bắc Ninh': 'BN', 'Hải Phòng': 'HP',
+    'Nam Định': 'NĐ', 'Thái Bình': 'TB',
+    'Phú Yên': 'PY', 'Thừa Thiên Huế': 'HUE', 'Huế': 'HUE',
+    'Đắk Lắk': 'ĐL', 'Quảng Nam': 'QNa', 'Đà Nẵng': 'ĐN', 'Khánh Hòa': 'KH',
+    'Quảng Bình': 'QB', 'Bình Định': 'BĐ', 'Quảng Trị': 'QT',
+    'Gia Lai': 'GL', 'Ninh Thuận': 'NT', 'Quảng Ngãi': 'QNg', 'Đắk Nông': 'ĐNô',
+    'Kon Tum': 'KT',
+    'TP. Hồ Chí Minh': 'HCM', 'Đồng Tháp': 'ĐT', 'Cà Mau': 'CM',
+    'Bến Tre': 'BT', 'Vũng Tàu': 'VT', 'Bạc Liêu': 'BL',
+    'Đồng Nai': 'ĐNai', 'Cần Thơ': 'CT', 'Sóc Trăng': 'ST',
+    'Tây Ninh': 'TN', 'An Giang': 'AG', 'Bình Thuận': 'BTh',
+    'Vĩnh Long': 'VL', 'Bình Dương': 'BD', 'Trà Vinh': 'TV',
+    'Long An': 'LA', 'Bình Phước': 'BP', 'Hậu Giang': 'HG',
+    'Tiền Giang': 'TG', 'Kiên Giang': 'KG', 'Đà Lạt': 'ĐLạt'
+};
+
+// Màu riêng cho từng miền — dùng ở thanh ngang mỗi "Lượt nhập" trong Bảng
+// Chi Tiết, để phân biệt nhanh bằng MÀU thay vì phải đọc chữ cột "Đài" từng
+// dòng (1 nhóm 1 ngày thường có rất nhiều tin xen kẽ đủ 3 miền). Cũng dùng
+// trong Hướng Dẫn để giải thích ý nghĩa từng màu.
+const REGION_HEADER_COLOR = {
+    MN: '#f59e0b', // cam — Miền Nam
+    MT: '#00f3ff', // xanh cyan — Miền Trung
+    MB: '#c084fc'  // tím — Miền Bắc
+};
+
+// Dò xem nội dung dán vào có nhắc tới tên đài nào không (VD "Vĩnh Long") —
+// chỉ nhận đúng tên chuẩn (có/không dấu), không đoán các cách viết tắt tùy
+// tiện như "Vlong". Dùng để CẢNH BÁO nhẹ khi đài nhắc tới khác đài đang chọn,
+// không chặn nhập.
+function detectMentionedStations(rawText) {
+    if (!rawText || typeof removeAccents !== 'function') return [];
+    const textNorm = removeAccents(String(rawText).toLowerCase());
+    const found = [];
+    for (const full of Object.keys(STATION_ABBR)) {
+        const nameNorm = removeAccents(full.toLowerCase()).replace(/^tp\.\s*/, '').trim();
+        if (nameNorm.length < 4) continue; // tên quá ngắn dễ trùng ngẫu nhiên, bỏ qua
+        const re = new RegExp('\\b' + nameNorm.replace(/\s+/g, '\\s+') + '\\b', 'i');
+        if (re.test(textNorm)) found.push(full);
+    }
+    return [...new Set(found)];
+}
+
+function getTodayStations(region) {
+    const day = new Date().getDay();
+    return STATION_SCHEDULE[region]?.[day] || [];
+}
+
+function resolveStations(region) {
+    if (selectedStations && selectedStations.length > 0) {
+        return [...selectedStations];
+    }
+    return getMainStation(region || 'MT');
+}
+
+function onRegionChange() {
+    selectedStations = [];
+    showTodayStationsPanel(false);
+}
+
+function showTodayStationsPanel(showNotice = true) {
+    const region = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+    const stations = getTodayStations(region);
+    const panel = document.getElementById('station-select-panel');
+    const container = document.getElementById('station-checkboxes');
+    if (!panel || !container) return;
+
+    if (stations.length === 0) {
+        showToast('Không có đài nào cho miền này hôm nay', 'error');
+        return;
+    }
+
+    const hint = document.getElementById('station-selection-hint');
+    if (hint) hint.innerHTML = `Đài ${region} mở thưởng hôm nay: <b style="color:#fbbf24;">${stations.map(s => STATION_ABBR[s] || s).join(', ')}</b>. Tick các đài cần đánh:`;
+
+    container.innerHTML = stations.map((s, idx) => {
+        const abbr = STATION_ABBR[s] || s.substring(0, 3).toUpperCase();
+        const checked = selectedStations.includes(s) ? 'checked' : '';
+        const mainTag = idx === 0 ? ' <span style="color:#fbbf24;font-size:10px;">(chính)</span>' : '';
+        return `
+            <label style="display:flex;align-items:center;gap:4px;background:#1e293b;padding:4px 8px;border-radius:6px;font-size:12px;cursor:pointer;">
+                <input type="checkbox" value="${s}" ${checked} onchange="toggleStation(this)">
+                ${abbr}${mainTag} <small style="color:#94a3b8">(${s})</small>
+            </label>
+        `;
+    }).join('');
+
+    panel.style.display = 'block';
+    if (showNotice) showToast(`Đài ${region} hôm nay đã hiển thị. Bỏ trống = đài chính.`, 'info');
+}
+
+function toggleStation(cb) {
+    if (cb.checked) {
+        if (!selectedStations.includes(cb.value)) selectedStations.push(cb.value);
+    } else {
+        selectedStations = selectedStations.filter(s => s !== cb.value);
+    }
+}
+
+function confirmSelectedStations() {
+    if (selectedStations.length === 0) {
+        document.getElementById('station-select-panel').style.display = 'none';
+        const region = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+        const main = getMainStation(region);
+        showToast(`Chưa tick → dùng đài chính: ${main.map(s => STATION_ABBR[s] || s).join(', ')}`, 'info');
+        return;
+    }
+    document.getElementById('station-select-panel').style.display = 'none';
+    showToast(`Đã chọn ${selectedStations.length} đài: ${selectedStations.map(s => STATION_ABBR[s] || s).join(', ')}`, 'success');
+}
+
+// ================= INDEXEDDB ENGINE =================
+function initIndexedDB() {
+    return new Promise((resolve, reject) => {
+        const request = indexedDB.open(DB_NAME, DB_VERSION);
+        request.onupgradeneeded = (e) => {
+            const db = e.target.result;
+            if (!db.objectStoreNames.contains("bets")) {
+                const betStore = db.createObjectStore("bets", { keyPath: "id", autoIncrement: true });
+                betStore.createIndex("group", "group", { unique: false });
+                betStore.createIndex("timestamp", "timestamp", { unique: false });
+                betStore.createIndex("dateStr", "dateStr", { unique: false });
+            }
+            if (!db.objectStoreNames.contains("results")) {
+                db.createObjectStore("results", { keyPath: "dateStr" });
+            }
+            if (!db.objectStoreNames.contains("appState")) {
+                db.createObjectStore("appState", { keyPath: "key" });
+            }
+        };
+        request.onsuccess = (e) => {
+            dbInstance = e.target.result;
+            resolve(dbInstance);
+        };
+        request.onerror = (e) => reject("Không thể mở IndexedDB: " + e.target.error);
+    });
+}
+
+function saveAppDataToDB() {
+    if (!dbInstance) return Promise.resolve();
+    appStateSaveQueue = appStateSaveQueue.catch(() => {}).then(() => new Promise((resolve, reject) => {
+        let tx;
+        try {
+            tx = dbInstance.transaction(["appState"], "readwrite");
+            const store = tx.objectStore("appState");
+            store.put({ key: "groups", value: groups });
+            store.put({ key: "activeGroup", value: activeGroup });
+            for (const g of groups) {
+                if (appData[g]) store.put({ key: `data_${g}`, value: appData[g] });
+            }
+        } catch (error) {
+            reject(error);
+            return;
+        }
+        tx.oncomplete = () => resolve();
+        tx.onerror = () => reject(tx.error || new Error('Không thể lưu dữ liệu'));
+        tx.onabort = () => reject(tx.error || new Error('Giao dịch lưu đã bị hủy'));
+    }));
+    return appStateSaveQueue;
+}
+
+async function loadAppDataFromDB() {
+    if (!dbInstance) return;
+    const readState = (key) => new Promise((resolve, reject) => {
+        const tx = dbInstance.transaction(["appState"], "readonly");
+        const req = tx.objectStore("appState").get(key);
+        req.onsuccess = () => resolve(req.result ? req.result.value : undefined);
+        req.onerror = () => reject(req.error);
+    });
+
+    const savedGroups = await readState('groups');
+    if (Array.isArray(savedGroups) && savedGroups.length) groups = savedGroups;
+    const [savedActive, ...savedData] = await Promise.all([
+        readState('activeGroup'),
+        ...groups.map(g => readState(`data_${g}`))
+    ]);
+    groups.forEach((g, index) => {
+        if (savedData[index]) appData[g] = savedData[index];
+    });
+    if (savedActive) activeGroup = savedActive;
+    ensureDataStructure();
+}
+
+function ensureDataStructure() {
+    groups.forEach(g => {
+        if (!appData[g]) {
+            initAppDataForGroup(g);
+            return;
+        }
+        if (!appData[g].inputHistory) appData[g].inputHistory = [];
+        if (!appData[g].matrix) {
+            appData[g].matrix = {
+                mt3c: Array(20).fill().map(() => [0, 0, 0]),
+                mt2c: Array(20).fill().map(() => [0, 0]),
+                mb3c: Array(20).fill().map(() => [0, 0, 0]),
+                mb2c: Array(20).fill().map(() => [0, 0]),
+            };
+        }
+        if (!appData[g].totals) {
+            appData[g].totals = { mtXac: 0, mtLai: 0, mbXac: 0, mbLai: 0, totalBet: 0, totalWin: 0, net: 0 };
+        }
+        if (!appData[g].betList) appData[g].betList = [];
+        if (!appData[g].winningLogs) appData[g].winningLogs = [];
+    });
+}
+
+function initAppDataForGroup(g) {
+    if (appData[g]) return;
+    appData[g] = {
+        betList: [],
+        inputHistory: [],
+        matrix: {
+            mt3c: Array(20).fill().map(() => [0, 0, 0]),
+            mt2c: Array(20).fill().map(() => [0, 0]),
+            mb3c: Array(20).fill().map(() => [0, 0, 0]),
+            mb2c: Array(20).fill().map(() => [0, 0]),
+        },
+        winningLogs: [],
+        totals: { mtXac: 0, mtLai: 0, mbXac: 0, mbLai: 0, totalBet: 0, totalWin: 0, net: 0 }
+    };
+}
+
+// ================= MODAL & TOAST =================
+function showToast(message, type = 'info') {
+    const container = document.getElementById('toast-container');
+    if (!container) return;
+    const toast = document.createElement('div');
+    toast.className = `toast ${type}`;
+    toast.innerText = message;
+    container.appendChild(toast);
+    setTimeout(() => {
+        toast.style.opacity = '0';
+        toast.style.transition = 'opacity 0.3s';
+        setTimeout(() => toast.remove(), 300);
+    }, 3000);
+}
+
+function showModal({
+    title = 'Thông Báo',
+    body = '',
+    isPrompt = false,
+    defaultValue = '',
+    placeholder = '',
+    confirmText = 'Xác Nhận',
+    cancelText = 'Hủy Bỏ',
+    confirmClass = 'btn-green',
+    showCancel = null,
+    onConfirm = null,
+    onCancel = null,
+    wide = false          // true = modal rộng hơn (dùng cho bảng nhiều cột như Lọc/Cắt thông minh)
+}) {
+    const overlay = document.getElementById('custom-modal-overlay');
+    const titleEl = document.getElementById('modal-title');
+    const bodyEl = document.getElementById('modal-body');
+    const inputContainer = document.getElementById('modal-input-container');
+    const promptInput = document.getElementById('modal-prompt-input');
+    const btnContainer = document.getElementById('modal-buttons');
+
+    if (!overlay) return;
+
+    const cardEl = overlay.querySelector('.modal-card');
+    if (cardEl) cardEl.style.width = wide ? 'min(920px, 95vw)' : '';
+
+    if (titleEl) titleEl.innerText = title;
+    if (bodyEl) bodyEl.innerHTML = body;
+
+    if (inputContainer && promptInput) {
+        if (isPrompt) {
+            inputContainer.style.display = 'block';
+            promptInput.value = defaultValue;
+            promptInput.placeholder = placeholder;
+            setTimeout(() => { promptInput.focus(); promptInput.select(); }, 50);
+        } else {
+            inputContainer.style.display = 'none';
+        }
+    }
+
+    if (btnContainer) {
+        btnContainer.innerHTML = '';
+        btnContainer.style.display = 'flex';
+        btnContainer.style.gap = '10px';
+
+        const needsCancel = showCancel !== null ? showCancel : isPrompt;
+
+        if (needsCancel) {
+            const btnCancel = document.createElement('button');
+            btnCancel.className = 'btn btn-gray';
+            btnCancel.style.flex = '1';
+            btnCancel.innerText = cancelText;
+            btnCancel.onclick = () => {
+                overlay.style.display = 'none';
+                if (onCancel) onCancel();
+            };
+            btnContainer.appendChild(btnCancel);
+        }
+
+        const btnOk = document.createElement('button');
+        btnOk.className = `btn ${confirmClass}`;
+        btnOk.style.flex = '1';
+        btnOk.innerText = confirmText;
+        btnOk.onclick = () => {
+            const val = isPrompt && promptInput ? promptInput.value.trim() : true;
+            overlay.style.display = 'none';
+            if (onConfirm) onConfirm(val);
+        };
+        btnContainer.appendChild(btnOk);
+    }
+
+    overlay.style.display = 'flex';
+}
+
+function customAlert(msg, title = "Thông Báo") {
+    showModal({ title, body: msg });
+}
+
+function customPrompt(title, placeholder, defaultVal, callback) {
+    showModal({ title, body: '', isPrompt: true, placeholder, defaultValue: defaultVal, onConfirm: callback });
+}
+
+// ================= QUẢN LÝ NHÓM =================
+function addNewGroup() {
+    customPrompt("Thêm Nhóm Mới", "Nhập tên nhóm...", `Nhóm ${String.fromCharCode(65 + groups.length)}`, (name) => {
+        if (!name) return;
+        name = name.trim();
+        if (groups.includes(name)) return showToast("Tên nhóm này đã tồn tại!", "error");
+        groups.push(name);
+        initAppDataForGroup(name);
+        switchGroup(name);
+        updateGrandSummary();
+        saveAppDataToDB();
+        showToast(`Đã thêm "${name}" thành công!`, "success");
+    });
+}
+
+function renameGroup(oldName) {
+    showModal({
+        title: "✏️ Đổi Tên Nhóm",
+        body: `Nhập tên mới cho <b>Nhóm ${oldName}</b>:`,
+        isPrompt: true,
+        defaultValue: oldName,
+        placeholder: "Nhập tên mới...",
+        confirmText: "Lưu Thay Đổi",
+        confirmClass: "btn-green",
+        cancelText: "Hủy",
+        showCancel: true,
+        onConfirm: (newName) => {
+            if (!newName) return typeof showToast === 'function' && showToast("Tên nhóm không được để trống!", "error");
+            if (newName === oldName) return;
+            if (groups.includes(newName)) return typeof showToast === 'function' && showToast("Tên nhóm này đã tồn tại!", "error");
+
+            const idx = groups.indexOf(oldName);
+            if (idx === -1) return;
+
+            groups[idx] = newName;
+            if (typeof appData !== 'undefined' && appData[oldName]) {
+                appData[newName] = appData[oldName];
+                delete appData[oldName];
+            }
+
+            if (typeof activeGroup !== 'undefined' && activeGroup === oldName) activeGroup = newName;
+            if (typeof currentGroup !== 'undefined' && currentGroup === oldName) currentGroup = newName;
+
+            if (typeof renderGroupButtons === 'function') renderGroupButtons();
+            if (typeof renderGroupNav === 'function') renderGroupNav();
+            if (typeof renderMatrixTable === 'function') renderMatrixTable();
+            if (typeof updateGrandSummary === 'function') updateGrandSummary();
+            if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+
+            if (typeof showToast === 'function') showToast(`Đã đổi tên "${oldName}" → "${newName}"`, "success");
+        }
+    });
+}
+
+function deleteGroup(g) {
+    if (typeof groups !== 'undefined' && groups.length <= 1) {
+        return typeof showToast === 'function' && showToast("Không thể xóa nhóm cuối cùng!", "error");
+    }
+
+    showModal({
+        title: "⚠️ Xác Nhận Xóa",
+        body: `
+            <div style="text-align:center; padding:5px 0;">
+                <p style="font-size:14px; color:#cbd5e1; margin-bottom:8px;">
+                    Bạn có chắc chắn muốn xóa <b style="color:#00f3ff;">Nhóm ${g}</b>?
+                </p>
+                <p style="color:#f87171; font-size:12.5px;">Toàn bộ dữ liệu nhóm này sẽ mất vĩnh viễn.</p>
+            </div>`,
+        confirmText: "Xóa Ngay",
+        confirmClass: "btn-red",
+        cancelText: "Hủy Bỏ",
+        showCancel: true,
+        onConfirm: () => {
+            groups = groups.filter(item => item !== g);
+            if (typeof appData !== 'undefined') delete appData[g];
+            if (typeof activeGroup !== 'undefined' && activeGroup === g) activeGroup = groups[0];
+            if (typeof currentGroup !== 'undefined' && currentGroup === g) currentGroup = groups[0];
+
+            if (typeof renderGroupButtons === 'function') renderGroupButtons();
+            if (typeof renderGroupNav === 'function') renderGroupNav();
+            if (typeof renderMatrixTable === 'function') renderMatrixTable();
+            if (typeof updateGrandSummary === 'function') updateGrandSummary();
+            if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+
+            if (typeof showToast === 'function') showToast(`Đã xóa nhóm ${g}`, "success");
+        }
+    });
+}
+
+// ================= CÁC HÀM HIỆU NĂNG =================
+function saveAppDataToDBDebounced() {
+    clearTimeout(saveTimeout);
+    saveTimeout = setTimeout(() => {
+        if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+    }, 350);
+}
+
+// Giữ bản thay đổi đang gõ khi chuyển tab/đóng trang. Không render lại ở đây
+// để con trỏ trong ô nhập không bị giật.
+window.addEventListener('pagehide', () => {
+    clearTimeout(saveTimeout);
+    if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+});
+
+document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'hidden') {
+        clearTimeout(saveTimeout);
+        if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+    }
+});
+
+let searchTimeout = null;
+function onSearchInput(searchTerm) {
+    clearTimeout(searchTimeout);
+    searchTimeout = setTimeout(() => {
+        if (typeof filterAndRenderMatrixTable === 'function') {
+            filterAndRenderMatrixTable(searchTerm);
+        }
+    }, 250);
+}
+
+// ================= PARSER THÔNG MINH (BẢN ĐẦY ĐỦ) =================
+function parseAmount(str) {
+    if (!str) return 0;
+    str = String(str).toLowerCase().replace(/\s/g, '').replace(/,/g, '.');
+    str = str.replace(/ng$/, 'n');
+
+    // 0/5 → 0.5 | 1/2 → 0.5
+    if (str.includes('/')) {
+        const parts = str.replace(/[kntr]/g, '').split('/');
+        if (parts.length === 2 && parts[0] === '0' && /^\d+$/.test(parts[1])) {
+            return Number(`0.${parts[1]}`);
+        }
+        const a = parseFloat(parts[0]) || 0;
+        const b = parseFloat(parts[1]) || 1;
+        const n = a / b;
+        if (str.includes('tr') || str.includes('m')) return n * 1000;
+        return n;
+    }
+
+    let mul = 1;
+    if (str.endsWith('tr') || str.endsWith('m')) {
+        mul = 1000;
+        str = str.slice(0, -2);
+    } else if (str.endsWith('k') || str.endsWith('n')) {
+        str = str.slice(0, -1); // n = k
+    }
+
+    const num = parseFloat(str);
+    if (isNaN(num)) return 0;
+    const val = num * mul;
+    // 50000 → 50 (k)
+    return (val >= 1000 && mul === 1) ? val / 1000 : val;
+}
+
+function mapBetType(raw) {
+    const t = String(raw || '').toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
+        .replace(/đ/g, 'd')
+        .replace(/\s+/g, '');
+
+    if (/^(bl|blo|baolo|bao|lo)$/.test(t)) return 'bl';
+    if (/^(da|da2)$/.test(t)) return 'da';
+    // Xác nhận Cocomi (29/08/2026): "Xiên" và "Chéo" là 2 CÁCH TÍNH KHÁC
+    // NHAU, không phải 2 tên gọi của cùng 1 thứ như trước đây tưởng nhầm:
+    // - "Xiên" = CẢ NHÓM 1 cược duy nhất, đủ HẾT số mới trúng (giữ nguyên ở
+    //   'dx', không đổi).
+    // - "Chéo" = TÁCH TỪNG CẶP riêng (VD 3 số → 3 cặp), trúng từng phần vẫn
+    //   ăn tiền — ĐÚNG cơ chế đang có sẵn ở 'dv' (Đá Vòng), không phải 'dx'.
+    if (/^(xien|xuyen|dx)$/.test(t)) return 'dx';
+    if (/^(cheo|che)$/.test(t)) return 'dv';
+    if (/^(dvong|davong|lienhoan|dv|dlh)$/.test(t)) return 'dv';
+    if (/^(xc|xiuchu)$/.test(t)) return 'xc';
+    // Đặc biệt / đề / đb / dac biet / gdb
+    if (/^(db|de|debiet|dacbiet|dacbit|gdb|dacthuong|dacthuongbiet)$/.test(t)) return 'db';
+    // "Đầu Chót" = tên gọi khác của "Đầu Đuôi" (Đầu chót = Đầu + Chót/Đuôi
+    // GĐB) — phải bắt TRƯỚC "dau" đứng một mình, không thì "chót" bị rớt,
+    // hiểu nhầm thành chỉ mỗi "Đầu" (mất nửa cược).
+    if (/^(dc|dd|daucuoi|dauduoi|dauchot)$/.test(t)) return 'dd';
+    if (/^(dau)$/.test(t)) return 'dau';
+    if (/^(duoi|cuoi|chot)$/.test(t)) return 'duoi';
+    // "5 cuối"/"4 cuối" gõ đủ chữ (có cách) → quy về đúng "5c"/"4c" như gõ tắt.
+    // "4 chót" (từ địa phương, khách Miền Bắc hay gõ) cũng là "4 Cuối"
+    // (đã bỏ nghĩa "4 Càng" cũ) — chữ "chót" ở đây khác nghĩa "chót"=Đuôi
+    // đứng MỘT MÌNH phía dưới, chỉ tính khi đi liền số "4" phía trước.
+    if (/^(4c|4cuoi|4chot)$/.test(t)) return '4c';
+    if (/^(5c|5cuoi)$/.test(t)) return '5c';
+    if (/^(10c|10locuoi)$/.test(t)) return '10cuoi';
+    // Bổ sung theo xác nhận Cocomi: "14 Cuối" (riêng Miền Bắc), "5 Đầu"/
+    // "6 Đầu" (riêng Trung/Nam) — phải bắt "12cuoi" TRƯỚC "12d" (khác nhau
+    // hoàn toàn: "12 Cuối" = G4..ĐB, "12 Đầu"/"12d" = G7..G4).
+    if (/^(14c|14cuoi)$/.test(t)) return '14cuoi';
+    if (/^(12cuoi)$/.test(t)) return 'g4g3g2g1db';
+    if (/^(5dau)$/.test(t)) return 'g7g6g5';
+    if (/^(6dau)$/.test(t)) return 'g8g7g6g5';
+    // Cocomi xác nhận khách Trung/Nam hay gõ tắt "5d"/"6d" (đi kèm "3c"/"2c")
+    // thay vì gõ đủ "5 đầu"/"6 đầu" — cùng nghĩa, quy về chung 1 mã.
+    if (t === '5d') return 'g7g6g5';
+    if (t === '6d') return 'g8g7g6g5';
+    if (t === 'g4g3g2g1db') return 'g4g3g2g1db';
+    if (t === 'g7g6g5') return 'g7g6g5';
+    if (t === 'g8g7g6g5') return 'g8g7g6g5';
+    if (t === '14cuoi') return '14cuoi';
+    if (t === '10lo') return '10lo';
+    if (/^(3d|8d|10d|12d|13d)$/.test(t)) return t;
+    // "g4lo6" = chỉ đúng SỐ THỨ 6 trong danh sách Giải 4 (theo đúng thứ tự
+    // liệt kê trong bảng KQXS) — không phải bao hết các số của Giải 4. Nhận
+    // chung mọi tổ hợp giải+vị trí (không chỉ g4lo5/g4lo7/g6lo1 như trước).
+    const gLo = t.match(/^g([1-8])lo(\d+)$/);
+    if (gLo) return `g${gLo[1]}lo${gLo[2]}`;
+    if (/^(g6g4g3|6g4g3)$/.test(t)) return 'g6g4g3';
+    if (/^(g8g7g6g5g4|13d)$/.test(t)) return t === '13d' ? '13d' : 'g8g7g6g5g4';
+    if (/^(g7g6g5g4|12d)$/.test(t)) return t === '12d' ? '12d' : 'g7g6g5g4';
+    if (t === 'g3g2g1db') return 'g3g2g1db';
+    if (/^(g7g6|g6g5|g5g4|g3g2|g2g1|g1db)$/.test(t)) return t;
+    if (/^(g6g4|6g4)$/.test(t)) return 'g6g4';
+    if (/^(g4g3|4g3)$/.test(t)) return 'g4g3';
+    if (t === 'g6g3' || t === '6g3') return 'g6g3';
+    if (/^(3c)$/.test(t)) return '3c';
+    if (/^(2c)$/.test(t)) return '2c';
+    if (/^(c2|2cang|2cangrieng)$/.test(t)) return 'c2';
+    if (/^(c3|3cang|3cangrieng)$/.test(t)) return 'c3';
+
+    // Chẵn/Lẻ theo cặp (đầu-đuôi) và 12 Con Giáp — dùng chung dàn số có sẵn
+    // trong PAIR_SETS_NORM / ALL_ZODIAC_NUMS (xem hàm add() bên dưới).
+    if (/^(chanchan)$/.test(t)) return 'chan_chan';
+    if (/^(lele)$/.test(t)) return 'le_le';
+    if (/^(chanle)$/.test(t)) return 'chan_le';
+    if (/^(lechan)$/.test(t)) return 'le_chan';
+    if (/^(giap|congiap|12congiap)$/.test(t)) return 'giap';
+
+    // 12 con giáp riêng lẻ — "dậu"/"dê" bỏ dấu trùng "dau"=Đầu/"de"=Đề (từ
+    // khóa cược đã có sẵn) nên KHÔNG nhận 2 tên đó ở đây, dùng "ga"/"mui" thay.
+    if (/^(ty|chuot)$/.test(t)) return 'ty';
+    if (/^(suu|trau)$/.test(t)) return 'suu';
+    if (/^(dan|ho|cop)$/.test(t)) return 'dan';
+    if (/^(mao|meo)$/.test(t)) return 'mao';
+    if (/^(thin|rong)$/.test(t)) return 'thin';
+    if (/^(ran)$/.test(t)) return 'ran';
+    if (/^(ngo|ngua)$/.test(t)) return 'ngo';
+    if (/^(mui)$/.test(t)) return 'mui';
+    if (/^(than|khi)$/.test(t)) return 'than';
+    if (/^(ga)$/.test(t)) return 'ga';
+    if (/^(tuat|cho)$/.test(t)) return 'tuat';
+    if (/^(hoi|heo|lon)$/.test(t)) return 'hoi';
+
+    // Tên giải bằng chữ (miền Nam/Trung quen gọi "giải nhất/nhì/ba..." hơn
+    // "g1/g2/g3") — quy về đúng key "g1".."g8" đã có sẵn luật/tỷ lệ.
+    if (/^gnhat$/.test(t)) return 'g1';
+    if (/^gnhi$/.test(t)) return 'g2';
+    if (/^gba$/.test(t)) return 'g3';
+    if (/^gtu$/.test(t)) return 'g4';
+    if (/^gnam$/.test(t)) return 'g5';
+    if (/^gsau$/.test(t)) return 'g6';
+    if (/^gbay$/.test(t)) return 'g7';
+    if (/^gtam$/.test(t)) return 'g8';
+
+    const g = t.match(/^g([1-8])$/);
+    if (g) return 'g' + g[1];
+    // "giải7"/"giải 7" gõ đủ chữ (đã bỏ dấu ở trên nên còn "giai7") → quy về
+    // đúng "g7" như gõ tắt.
+    const giai = t.match(/^giai([1-8])$/);
+    if (giai) return 'g' + giai[1];
+    return 'bl';
+}
+
+// Quy các mã CŨ/viết tắt trùng công thức về đúng 1 mã DUY NHẤT để hiển thị
+// (dropdown, badge, ghi chú...) — không đổi gì trong cách tính tiền, vì
+// getPrizeCount/getBetTypeTiers tra theo BET_TYPES nào cũng ra cùng kết quả
+// (đã kiểm tra: '5c' và 'g3g2g1db' cho đúng cùng {MB:10,MT:5,MN:5}, tương
+// tự '12d'/'g7g6g5g4' và '13d'/'g8g7g6g5g4') — chỉ gộp DANH SÁCH HIỂN THỊ
+// cho gọn, dữ liệu cũ đã lỡ lưu mã viết tắt vẫn tính tiền đúng y hệt.
+const DUPLICATE_TYPE_DISPLAY_MAP = {
+    'bl': '2c',
+    '5c': 'g3g2g1db',
+    '4c': 'g3g2g1db',
+    '12d': 'g7g6g5g4',
+    '13d': 'g8g7g6g5g4'
+};
+
+function getManualTypeKey(type) {
+    return DUPLICATE_TYPE_DISPLAY_MAP[type] || type;
+}
+
+// Chẵn lẻ / 12 con giáp KHÔNG PHẢI là "loại cược" thật — đây chỉ là dàn số
+// CÓ SẴN để bung ra khi gõ đúng từ khóa (giống "đảo"/"20 đến 30"), bản chất
+// tiền tính vẫn là Bao Lô 2C (mọi dàn này đều ra số 2 chữ số). Trước đây lỡ
+// đưa 17 mã này vào DANH SÁCH CHỌN TAY khiến người dùng tưởng đây là loại
+// cược riêng, chọn tay được — sai. Quy về '2c' CHỈ khi hiện DROPDOWN chọn
+// loại (để dropdown gọn, không liệt kê 17 mục thừa); ghi chú (note) VẪN giữ
+// nguyên tên gốc ("Hợi (Heo)", "Chẵn Chẵn"...) qua getManualTypeKey() ở nơi
+// khác — không dùng map này, để không mất thông tin nguồn gốc của dòng cược.
+const PATTERN_TYPE_DROPDOWN_FALLBACK = {
+    chan_chan: '2c', le_le: '2c', chan_le: '2c', le_chan: '2c', giap: '2c',
+    ty: '2c', suu: '2c', dan: '2c', mao: '2c', thin: '2c', ran: '2c',
+    ngo: '2c', mui: '2c', than: '2c', ga: '2c', tuat: '2c', hoi: '2c',
+    // "Dãy số" (VD "20 đến 30") CÙNG PHE với đảo/con giáp — chỉ là cách bung
+    // số nhanh, không phải 1 loại cược riêng (xem sửa lỗi ở onInputSmartRow:
+    // trước đây lỡ ép cứng thành 'day_so' — 1 mã có tỷ lệ CỐ ĐỊNH kiểu 2C —
+    // khiến dãy số 3 chữ số bị tính nhầm giá 2C thay vì đúng giá 3C).
+    day_so: '2c'
+};
+
+function getDropdownDisplayType(type) {
+    return PATTERN_TYPE_DROPDOWN_FALLBACK[type] || getManualTypeKey(type);
+}
+
+// Các loại cược tạm ẩn khỏi danh sách chọn (vẫn hiện đúng nếu dòng cược CŨ đã
+// lỡ chọn từ trước, chỉ chặn chọn MỚI):
+// - '3d'/'8d'/'10d': chưa xác định được đúng giải tính trúng.
+// - '7lo'/'10lo'/'12lo'/'14lo'/'16lo': đây thực ra là "Lô trượt xiên" (thắng
+//   khi TẤT CẢ số đã chọn đều KHÔNG về) — cơ chế thắng/thua hoàn toàn khác
+//   với mọi loại cược còn lại trong app (vốn tính theo "khớp số"), và một
+//   lượt cược "trượt xiên" là MỘT NHÓM số cùng ăn/thua chung chứ không phải
+//   từng dòng riêng lẻ như cấu trúc dữ liệu hiện tại — cần thiết kế lại hẳn,
+//   không thể vá nhanh trong prizeMatchesBet.
+// - 'g4lo5'/'g4lo7'/'g6lo1': số giải ghi không khớp cơ cấu giải thật của bất
+//   kỳ miền nào (G4: MB có 4 giải, MT/MN có 7 giải — không có "5"), và trùng
+//   lặp với cược giải riêng G4/G5/G6 vốn đã tính đúng số lô theo từng miền.
+// - 'dau_db': "2 số đầu của GĐB" là so khớp một PHẦN của chính số ĐB (không
+//   phải so khớp cả giải) — cơ chế khác hẳn, chưa cài đúng.
+const HIDDEN_BET_TYPES = [
+    '3d', '8d', '10d',
+    '7lo', '10lo', '12lo', '14lo', '16lo',
+    'g4lo5', 'g4lo7', 'g6lo1',
+    'dau_db'
+];
+
+// Các loại này TÊN GỐC ghi chung chung cả 2 miền (VD "Đầu (G8 / G7)") vì
+// bản thân giải áp dụng phụ thuộc miền — nhưng lúc hiện dropdown chọn loại
+// thì MIỀN ĐÃ ĐƯỢC CHỌN SẴN từ trước rồi (đài đã chọn theo đúng miền đang
+// nạp), không cần chờ đoán — nên hiện thẳng ĐÚNG 1 giải áp dụng cho miền đó
+// luôn, đỡ phải nhớ quy tắc B/T/N mới hiểu được tên gọi.
+// Giá trị là HÀM (nhận vào mảng tiers đã tra theo miền) chứ không phải chữ
+// cố định — vì '5c'/'g3g2g1db' ("Cuối") còn đổi luôn SỐ LƯỢNG giải gộp theo
+// miền (Trung/Nam 4 giải = "5 Cuối", Bắc 3 giải = "4 Cuối"), không chỉ đổi
+// SỐ LÔ như "Đầu"/"Đầu Đuôi"/"Xỉu Chủ" (tên gốc không đổi, chỉ đổi giải).
+const REGIONAL_TYPE_BASE_NAME = {
+    dau: () => 'Đầu',
+    dd: () => 'Đầu Đuôi',
+    xc: () => 'Xỉu Chủ',
+    xc_dau: () => 'Xỉu Chủ Đầu',
+    // Số ghi trong tên ("5 Cuối"/"4 Cuối") là SỐ LÔ thật (getPrizeCount),
+    // KHÔNG phải số giải gộp (tiers.length) — VD Trung/Nam gộp 4 giải
+    // (G3+G2+G1+ĐB) nhưng ra 5 LÔ vì Giải 3 tự nó có 2 số.
+    '5c': (tiers, region) => `${getPrizeCount('g3g2g1db', region)} Cuối`,
+    g3g2g1db: (tiers, region) => `${getPrizeCount('g3g2g1db', region)} Cuối`
+};
+
+// Ghi chú (note) lưu vào item phải đúng theo MIỀN — không dùng thẳng
+// BET_TYPES[key].name (chữ cố định, không phân biệt miền) cho các loại có
+// tên đổi theo miền (VD '4c'/'5c'/'g3g2g1db': Trung/Nam "5 Cuối" 4 giải,
+// Bắc "4 Cuối" chỉ 3 giải — ghi lộn miền là sai hẳn ý nghĩa cược).
+function getRegionAwareTypeName(type, region) {
+    const key = getManualTypeKey(type);
+    if (region && REGIONAL_TYPE_BASE_NAME[key] && typeof getBetTypeTiers === 'function') {
+        const tiers = getBetTypeTiers(key, region);
+        if (Array.isArray(tiers) && tiers.length) {
+            const baseName = REGIONAL_TYPE_BASE_NAME[key](tiers, region);
+            return `${baseName} (${describeTierOnly(tiers)})`;
+        }
+    }
+    return BET_TYPES[key]?.name || String(type).toUpperCase();
+}
+
+function getManualBetTypeOptions(selectedType, region) {
+    const groups = [
+        ['Bao lô theo số', ['2c', '3c']],
+        ['Đặc biệt', ['db']],
+        ['Càng riêng', ['c2', 'c3']],
+        ['Giải riêng', ['g1', 'g2', 'g3', 'g4', 'g5', 'g6', 'g7', 'g8']],
+        // '5c'/'4c'/'12d'/'13d' (mã viết tắt, tên không tự ghi rõ giải) đã BỎ
+        // khỏi đây — cùng công thức y hệt 'g3g2g1db'/'g7g6g5g4'/'g8g7g6g5g4'
+        // bên dưới (tên đã ghi rõ sẵn) nên không cần hiện 2 lựa chọn cho cùng
+        // 1 kết quả. Dữ liệu CŨ lỡ lưu '5c'/'4c'/'12d'/'13d' vẫn tính tiền
+        // đúng bình thường, chỉ tự hiển thị quy về mã rõ ràng.
+        // TOÀN BỘ họ "Cuối" (4c/5c, 10 Cuối, 12 Cuối, 14 Cuối) gom CHUNG 1
+        // nhóm để dễ thấy — trước đây '4c'/'5c' (g3g2g1db) và '12cuoi'
+        // (g4g3g2g1db) bị để lẫn trong nhóm "Cược tổng hợp" chung với nhiều
+        // mã khác không liên quan, khiến "4 Cuối" (tên hiện theo Miền Bắc của
+        // CÙNG 1 mã g3g2g1db — Miền Trung/Nam hiện "5 Cuối") rất khó tìm thấy
+        // dù thực ra đã có sẵn. Tên hiển thị theo miền (REGIONAL_TYPE_BASE_NAME).
+        ['Cuối GĐB (theo giải)', ['g3g2g1db', '10cuoi', 'g4g3g2g1db', '14cuoi']],
+        // Họ "Đầu" gom chung tương tự — 5 Đầu/6 Đầu (Trung/Nam) và 12 Đầu/13
+        // Đầu (mọi miền) đều là "tính từ giải X xuống thấp dần", để cạnh nhau
+        // cho dễ so sánh/chọn đúng.
+        ['Đầu (theo giải)', ['g7g6g5', 'g8g7g6g5', 'g7g6g5g4', 'g8g7g6g5g4']],
+        ['Đầu / Lô theo giải', ['3d', '8d', '10d', '7lo', '10lo', '12lo', '14lo', '16lo', 'g4lo5', 'g4lo7', 'g6lo1']],
+        // "Dãy số"/'day_so' KHÔNG có ở đây nữa — không phải 1 loại cược thật
+        // (xem PATTERN_TYPE_DROPDOWN_FALLBACK), chỉ là cách bung số nhanh
+        // giống "đảo"/con giáp, luôn đi kèm 1 loại thật (2C/3C/Đá/1 giải) chứ
+        // không tự nó là 1 lựa chọn riêng.
+        ['Đá', ['da', 'dx', 'dv']],
+        ['Giải kết hợp khác', SELF_DESCRIBING_TIER_TYPES.filter(k => !['g3g2g1db', '10cuoi', 'g4g3g2g1db', '14cuoi', 'g7g6g5', 'g8g7g6g5', 'g7g6g5g4', 'g8g7g6g5g4'].includes(k))],
+        ['Đầu / Đuôi / Xỉu chủ', ['dau', 'duoi', 'dd', 'xc', 'xc_dau', 'xc_duoi', 'dau_db']]
+        // Chẵn lẻ / 12 con giáp (chan_chan, giap, ty, ran...) KHÔNG có trong
+        // danh sách chọn tay — đây không phải "loại cược" thật, chỉ là dàn
+        // số có sẵn bung ra khi gõ đúng từ khóa (y hệt "đảo"), tiền vẫn tính
+        // như Bao Lô 2C. Xem PATTERN_TYPE_DROPDOWN_FALLBACK/getDropdownDisplayType.
+    ];
+    const groupsHtml = groups.map(([label, keys]) => {
+        const options = keys
+            .filter(key => BET_TYPES[key] && (!HIDDEN_BET_TYPES.includes(key) || key === selectedType))
+            // Loại nào KHÔNG áp dụng cho miền đang chọn (VD "14 Cuối" chỉ có
+            // ở Bắc, "5/6 Đầu" chỉ có ở Trung/Nam — số lô ghi 0 cho miền
+            // không áp dụng) thì ẩn luôn, đỡ liệt kê thứ không chọn được.
+            .filter(key => !region || !BET_TYPES[key].prizes || BET_TYPES[key].prizes[region] !== 0 || key === selectedType)
+            .map(key => {
+                let displayName = BET_TYPES[key].name;
+                // Đã biết miền (region) → thay tên chung chung bằng ĐÚNG 1
+                // giải áp dụng cho miền đó (VD Trung/Nam: "Đầu (Giải 8)",
+                // Bắc: "Đầu (Giải 7)") thay vì luôn ghi cả 2 "(G8 / G7)".
+                if (region && REGIONAL_TYPE_BASE_NAME[key] && typeof getBetTypeTiers === 'function') {
+                    const tiers = getBetTypeTiers(key, region);
+                    if (Array.isArray(tiers) && tiers.length) {
+                        const baseName = REGIONAL_TYPE_BASE_NAME[key](tiers, region);
+                        displayName = `${baseName} (${describeTierOnly(tiers)})`;
+                    }
+                }
+                return `<option value="${key}" ${selectedType === key ? 'selected' : ''}>${escapeHtml(displayName)}</option>`;
+            }).join('');
+        return options ? `<optgroup label="${label}">${options}</optgroup>` : '';
+    }).join('');
+
+    // "Giải N - Lô M" (VD "Giải 5 - Lô 3") — chọn ĐÚNG 1 vị trí cụ thể trong
+    // 1 giải nhiều lô (xem describeTierOnly/prizeMatchesBet/getPrizeCount —
+    // đã hỗ trợ sẵn, chỉ thiếu chỗ CHỌN TAY). Không nằm trong BET_TYPES
+    // (không phải mã cố định — sinh động theo ĐÚNG số lô thật của giải đó
+    // THEO TỪNG MIỀN, VD Giải 5 Trung/Nam 1 lô nên không có, Giải 5 Bắc 6 lô
+    // nên có "Lô 1".."Lô 6") nên xây RIÊNG, không dùng chung pipeline lọc
+    // theo BET_TYPES[key] ở trên. THIẾU nhóm này thì <select> không có
+    // option nào khớp mã 'g{n}lo{m}' — trình duyệt tự hiện lựa chọn ĐẦU TIÊN
+    // (Bao Lô 2C) dù dữ liệu thật vẫn đang là 'g{n}lo{m}', khiến người xem
+    // tưởng nhầm đang chọn Bao Lô 2C — và nếu có thao tác nào đó đọc lại
+    // .value của <select> này để ghi ngược vào dữ liệu (VD đồng bộ ô Nhập Tay
+    // sau khi gõ số) thì betType THẬT SỰ bị ghi đè thành '2c' sai hẳn, kéo
+    // theo tiền tính sai theo công thức Bao Lô thay vì đúng 1 lô như phải có.
+    let gLoOptions = '';
+    if (region) {
+        for (let n = 1; n <= 8; n++) {
+            const giaiKey = 'g' + n;
+            if (!BET_TYPES[giaiKey] || !BET_TYPES[giaiKey].prizes || BET_TYPES[giaiKey].prizes[region] === 0) continue;
+            const maxLo = (typeof getPrizeCount === 'function') ? getPrizeCount(giaiKey, region) : 1;
+            // Giải chỉ có 1 lô (VD Giải 1, hay Giải 5/7/8 Trung/Nam) thì chọn
+            // thẳng "Giải N" ở nhóm "Giải riêng" phía trên là đủ, không cần
+            // tách "Lô 1" dư thừa (chỉ có đúng 1 lựa chọn thì không phải chọn gì).
+            if (!(maxLo > 1)) continue;
+            for (let m = 1; m <= maxLo; m++) {
+                const key = `g${n}lo${m}`;
+                gLoOptions += `<option value="${key}" ${selectedType === key ? 'selected' : ''}>Giải ${n} - Lô ${m}</option>`;
+            }
+        }
+    }
+    const gLoGroupHtml = gLoOptions ? `<optgroup label="Giải nhiều lô (chọn đúng vị trí)">${gLoOptions}</optgroup>` : '';
+
+    return groupsHtml + gLoGroupHtml;
+}
+
+function extractNums(str) {
+    if (!str) return [];
+    // Tiền không phải số cược: 10k, 10ng, x 50, =100, :100.
+    const source = String(str)
+        .replace(/\b\d+(?:[.,/]\d+)?\s*(?:k|n|ng|tr|m|c)\b/gi, ' ')
+        .replace(/([=:]|\bx\s*)\s*\d+(?:[.,/]\d+)?\b/gi, '$1 ');
+    return source.match(/\b\d{2,4}\b/g) || [];
+}
+
+function digitPermutations(numStr) {
+    const chars = String(numStr).split('');
+    if (chars.length < 2) return [numStr];
+    const out = new Set();
+    (function permute(arr, current) {
+        if (!arr.length) { out.add(current.join('')); return; }
+        for (let i = 0; i < arr.length; i++) {
+            permute(arr.slice(0, i).concat(arr.slice(i + 1)), current.concat(arr[i]));
+        }
+    })(chars, []);
+    return [...out];
+}
+
+// Cú pháp khách gõ tắt thường gặp: "SỐ.SỐ.LOẠI.TIỀN.SỐ.LOẠI.TIỀN..." — SỐ
+// đứng TRƯỚC loại cược (VD "935.347.db.2n"), khác thứ tự "loại trước số"
+// mà bản cũ (parseDottedBetLineOld, không còn dùng) giả định — nên bản cũ
+// ÂM THẦM LÀM RỚT hoặc lặp nhầm số khi có từ 2 cụm loại cược trở lên trên
+// một dòng. Bản này quét theo TOKEN, không quan tâm thứ tự số/loại trước
+// sau, chỉ flush khi gặp TIỀN — nên xử lý đúng cả 2 kiểu viết. Hỗ trợ thêm:
+// - Gộp nhiều loại dùng chung 1 khoản tiền bằng dấu "+": "g5+g7", "g1+db"
+// - Không có số mới trước 1 cụm loại+tiền → dùng lại số của cụm gần nhất
+//   (VD "...db.10n+g7.3n" = 10n cho db, RỒI 3n cho g7, CÙNG dải số đó)
+// - "dao"/"đảo": nhân bản số đứng trước thành TẤT CẢ hoán vị chữ số
+// - Chữ cái đơn "d"/"c" = viết tắt Đầu/Đuôi (chỉ trong cú pháp chấm này)
+function parseDottedBetLine(rawLine, region) {
+    let line = String(rawLine || '').replace(/[Đđ]/g, 'd').toLowerCase()
+        .normalize('NFD').replace(/[̀-ͯ]/g, '')
+        .replace(/,/g, '.'); // dấu phẩy khách gõ nhầm cũng coi như dấu chấm
+    // Ghép "chẵn chẵn"/"chẵn lẻ"/"lẻ lẻ"/"lẻ chẵn" (2 chữ, cách nhau khoảng
+    // trắng) thành 1 token liền — tokenizer bên dưới tách theo khoảng trắng/
+    // dấu chấm nên nếu để nguyên 2 chữ, mỗi chữ "chan"/"le" đứng riêng không
+    // khớp TYPE_RE nào cả, bị coi là "token không xác định" rồi BỎ QUA hoàn
+    // toàn — khiến cụm cược "cả cụm" này mất trắng loại, tự động DÙNG LẠI
+    // loại+số của cụm ngay TRƯỚC ĐÓ (sai hẳn, không phải ý khách).
+    line = line.replace(/\b(chan|le)\s+(chan|le)\b/gi, '$1$2');
+    line = line.replace(/\b(?:12\s*)?con\s*giap\b/gi, 'giap');
+
+    // Cú pháp "(50s x 55k)" — khách tự ghi kèm SỐ LƯỢNG để tự đối chiếu (VD
+    // "...90 ( 50s x 55k)." = 50 số phía trước, mỗi số 55k). "50s" không phải
+    // lệnh riêng, chỉ để đối chiếu — quy về đúng "55k" để tokenizer bên dưới
+    // nhận như tiền bình thường. Đếm lại đúng số THẬT SỰ đứng trước ngoặc đó
+    // (kể từ ngoặc trước, nếu có) — lệch với số khách ghi thì báo ngay, tránh
+    // tính sai tiền hàng loạt vì gõ nhầm 1 số mà không ai để ý.
+    let lastPriceClauseEnd = 0;
+    line = line.replace(/\(\s*(\d+)\s*s\s*x\s*([\d.,/]+(?:ng|tr|k|n|m)?)\s*\)/gi, (full, declaredCount, price, offset, wholeStr) => {
+        const segment = wholeStr.slice(lastPriceClauseEnd, offset);
+        lastPriceClauseEnd = offset + full.length;
+        const actualCount = (segment.match(/\b\d{2,4}\b/g) || []).length;
+        if (Number(declaredCount) !== actualCount && typeof showToast === 'function') {
+            showToast(`⚠️ Ghi "${declaredCount}s" nhưng đếm được ${actualCount} số thật — kiểm tra lại kẻo tính sai tiền`, 'error');
+        }
+        return ` ${price} `;
+    });
+
+    const tokens = line.split(/[.\s+]+/).map(t => t.trim()).filter(Boolean);
+    if (tokens.length < 4) return null;
+
+    // "g[1-8]lo[số]" (VD "g3lo1"/"g4lo2") = chỉ đúng 1 vị trí cụ thể trong 1
+    // giải (xem describeTierOnly/prizeMatchesBet/getPrizeCount — đã hỗ trợ
+    // sẵn mọi tổ hợp giải+vị trí, tính đúng 1 lô, KHÔNG cần thêm code riêng
+    // cho từng giải) — trước đây thiếu trong TYPE_RE của cú pháp nhiều dòng
+    // (chấm phân cách) nên các dòng kiểu "G3lo1. Hcm. 12.21.23...(50s x 55k)"
+    // bị rớt hẳn, không nhận ra "g3lo1" là loại cược hợp lệ.
+    const TYPE_RE = /^(g[1-8]lo\d+|g[1-8]|4c|5c|10c|10locuoi|10cuoi|db|de)$/i;
+    // Nhóm "cả cụm" (chẵn/lẻ theo cặp, 12 con giáp — đã ghép liền ở bước
+    // trên) có SẴN dàn số cố định riêng (PATTERN_TYPE_NUMS), không cần
+    // khách gõ tay số nào — nhận diện được khi XỬ LÝ token thật (isTypeToken)
+    // nhưng CỐ TÌNH không tính vào "typeTokenCount" gate bên dưới: nhiều chữ
+    // ở đây (heo/ga/cho/ho...) trùng với tên gọi khác đã có sẵn TRONG chính
+    // TYPE_RE (VD "Db. Heo x 50k" — tierOnly giới hạn về Đặc Biệt, xử lý ở
+    // hàm chính parseSmartLottoText) — nếu tính vào gate sẽ khiến dòng đó bị
+    // hàm NÀY nuốt mất trước, làm mất luôn tierOnly (hàm này chưa hiểu khái
+    // niệm tierOnly).
+    const PATTERN_TOKEN_RE = /^(chanchan|chanle|lele|lechan|giap|chuot|trau|cop|meo|rong|ran|ngua|mui|khi|tuat|cho|hoi|heo|ty|suu|dan|ho|mao|thin|ngo|than|ga)$/i;
+    const isTypeToken = t => TYPE_RE.test(t) || PATTERN_TOKEN_RE.test(t) || t === 'd' || t === 'c';
+    const isDaoToken = t => t === 'dao';
+    const isAmountToken = t => /^\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)$/i.test(t);
+    const isNumberToken = t => /^\d{2,4}$/.test(t);
+
+    // Bắt buộc có ít nhất 1 từ khóa loại cược "chắc chắn" (không chỉ dựa vào
+    // "d"/"c" đơn lẻ vốn dễ trùng ký tự ngẫu nhiên), CỘNG THÊM hoặc >=2 mốc
+    // loại/đảo (cú pháp nhiều cụm, mỗi cụm tự ghi lại loại — VD "G7. 12 1k.
+    // G8. 34 2k") HOẶC >=2 mốc tiền (cú pháp 1 loại DÙNG CHUNG cho nhiều
+    // nhóm giá khác nhau — VD "G3lo1. Hcm. 12.21...90 (50s x 55k). 00.01...37
+    // (18s x 25k)." — chỉ ghi loại 1 lần, nhóm số sau tự dùng lại loại đó qua
+    // "lastTypes" bên dưới) — thiếu vế sau thì dòng này bị coi là dòng
+    // thường, rớt hẳn không nhận "g3lo1" dù đã có trong TYPE_RE.
+    const hasStrongType = tokens.some(t => TYPE_RE.test(t));
+    // Gate CHỈ đếm loại "chắc chắn" (TYPE_RE gốc) + đảo — KHÔNG tính nhóm
+    // "cả cụm" (xem giải thích PATTERN_TOKEN_RE phía trên), để không đổi
+    // hành vi ROUTING của các dòng vốn đã hoạt động đúng qua hàm chính.
+    const typeTokenCount = tokens.filter(t => TYPE_RE.test(t) || isDaoToken(t)).length;
+    const amountTokenCount = tokens.filter(isAmountToken).length;
+    if (!hasStrongType || (typeTokenCount < 2 && amountTokenCount < 2)) return null;
+
+    const resolveType = t => {
+        if (t === 'd') return 'dau';
+        if (t === 'c') return 'duoi';
+        return mapBetType(t);
+    };
+
+    const items = [];
+    let currentNumbers = [];
+    let lastNumbers = [];
+    let pendingTypes = [];
+    let lastTypes = [];
+    let pendingDao = false;
+    let clauseIndex = 0;
+
+    tokens.forEach(tok => {
+        if (isDaoToken(tok)) { pendingDao = true; return; }
+        if (isTypeToken(tok)) { pendingTypes.push(resolveType(tok)); return; }
+        if (isAmountToken(tok)) {
+            const amount = parseAmount(tok);
+            const numbersToUse = currentNumbers.length ? currentNumbers : lastNumbers;
+            // Không có loại cược MỚI trước cụm này (VD "...db. 2k. 339. 993. 1k")
+            // → dùng lại loại cược gần nhất, đối xứng với việc dùng lại SỐ gần
+            // nhất khi cụm không có số mới. Thiếu chỗ này thì cụm cuối cùng của
+            // dòng nhiều loại cược dễ bị RỚT hẳn nếu quên gõ lại tên loại.
+            const typesToUse = pendingTypes.length ? pendingTypes : lastTypes;
+            // Loại "cả cụm" (chan_chan/giap/12 con giáp riêng lẻ...) có SẴN
+            // dàn số cố định riêng (PATTERN_TYPE_NUMS) — không cần khách gõ
+            // số nào cả, nên không được bắt buộc "numbersToUse.length > 0"
+            // như các loại thường (thiếu chỗ này thì cụm "chan chan, chan le
+            // x 85k" đứng SAU 1 dòng khác trong CÙNG tin nhắn sẽ bị rớt điều
+            // kiện, tự động dùng lại nhầm SỐ+LOẠI của dòng ngay trước đó).
+            const hasPatternType = typesToUse.some(t => PATTERN_TYPE_NUMS[t]);
+            if (amount > 0 && typesToUse.length && (numbersToUse.length || hasPatternType)) {
+                typesToUse.forEach(type => {
+                    const ownNums = PATTERN_TYPE_NUMS[type];
+                    const expanded = ownNums
+                        ? ownNums
+                        : (pendingDao ? [...new Set(numbersToUse.flatMap(n => digitPermutations(n)))] : numbersToUse);
+                    if (!expanded.length) return;
+                    const linkId = `group-${clauseIndex}`;
+                    // "g3lo1" ghi chú rõ "Giải 3 (Lô 1)" thay vì in hoa thô
+                    // "G3LO1" — dễ đối chiếu hơn khi nhìn lại Bảng Chi Tiết.
+                    const noteText = /^g[1-8]lo\d+$/.test(type)
+                        ? describeTierOnly([type])
+                        : (ownNums ? getRegionAwareTypeName(type, region) : type.toUpperCase());
+                    expanded.forEach(number => {
+                        const item = createItem(number, amount, region, type, noteText);
+                        item.linkId = linkId;
+                        items.push(item);
+                    });
+                    clauseIndex++;
+                });
+                lastNumbers = numbersToUse;
+                lastTypes = typesToUse;
+            }
+            currentNumbers = [];
+            pendingTypes = [];
+            pendingDao = false;
+            return;
+        }
+        if (isNumberToken(tok)) { currentNumbers.push(tok); return; }
+        // Token không xác định được nghĩa (VD mảnh dư kiểu "+1+") — bỏ qua,
+        // không đoán liều số tiền/số cược để tránh sai lệch tiền thật.
+    });
+
+    return items.length ? items : null;
+}
+
+function parseDottedBetLineOld(rawLine, region) {
+    const line = String(rawLine || '').replace(/[Đđ]/g, 'd').toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    const parts = line.split(/\s*\.\s*/).map(part => part.trim()).filter(Boolean);
+    if (parts.length < 4 || parts.filter(part => /^(?:g[1-8]|4c|5c|10c|10lo\s*cuoi|db|de)\b/.test(part)).length < 2) {
+        return null;
+    }
+
+    const items = [];
+    let currentType = '';
+    let currentNumbers = [];
+    let currentAmount = 0;
+    let previousNumbers = [];
+    let groupIndex = 0;
+
+    const flush = () => {
+        if (!currentType || currentAmount <= 0) return;
+        const numbers = currentNumbers.length ? currentNumbers : previousNumbers;
+        if (!numbers.length) return;
+        numbers.forEach(number => {
+            const item = createItem(number, currentAmount, region, currentType, currentType.toUpperCase());
+            item.linkId = `group-${groupIndex}`;
+            items.push(item);
+        });
+        previousNumbers = [...numbers];
+        groupIndex++;
+    };
+
+    parts.forEach(part => {
+        const compactPart = part.replace(/\s+/g, '');
+        if (/^(db|de)$/.test(compactPart)) {
+            flush();
+            currentType = 'db';
+            currentNumbers = [];
+            currentAmount = 0;
+            return;
+        }
+        const typeMatch = part.match(/^(g[1-8]|4c|5c|10c|10lo\s*cuoi|db|de)\b/i);
+        if (typeMatch) {
+            flush();
+            currentType = /^(db|de)\b/i.test(part) ? 'db' : mapBetType(typeMatch[1]);
+            currentNumbers = [];
+            currentAmount = 0;
+            currentNumbers.push(...extractNums(part.slice(typeMatch[0].length)));
+            return;
+        }
+
+        const amountMatch = part.match(/^(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m))$/i);
+        if (amountMatch) {
+            currentAmount = parseAmount(amountMatch[1]);
+            return;
+        }
+
+        if (currentType && currentAmount <= 0) {
+            currentNumbers.push(...extractNums(part));
+        } else if (currentType && currentAmount > 0) {
+            const nextNumbers = extractNums(part);
+            if (nextNumbers.length) {
+                flush();
+                currentNumbers = nextNumbers;
+                currentAmount = 0;
+            }
+        }
+    });
+    flush();
+
+    return items.length ? items : null;
+}
+
+function parseCompactGroupedBetLine(rawLine, region) {
+    const normalized = String(rawLine || '').toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd');
+    const totalMatch = normalized.match(/\bok\s*[=:]\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)/i);
+    if (!totalMatch || !/g6g3/.test(normalized)) return null;
+
+    const body = normalized.slice(0, totalMatch.index).replace(/\s+/g, '');
+    const match = body.match(/^(\d{2,4})\.(\d{2,4})g6g3\.(\d{2,4})db(\d+(?:[.,]\d+)?(?:k|n|m)?)$/i);
+    if (!match) return null;
+
+    const totalAmount = parseAmount(totalMatch[1]);
+    const dbAmount = parseAmount(match[4]);
+    const remainingAmount = totalAmount - dbAmount;
+    if (totalAmount <= 0 || dbAmount <= 0 || remainingAmount <= 0) return null;
+
+    const numbers = [match[1], match[2]];
+    const g6g3LotCount = getPrizeCount('g6g3', region);
+    const perNumberAmount = remainingAmount / (numbers.length * g6g3LotCount);
+    const items = numbers.map(number => createItem(number, perNumberAmount, region, 'g6g3', 'G6G3'));
+    const dbItem = createItem(match[3], dbAmount, region, 'db', 'DB');
+    const linkId = `group-${Date.now()}-${Math.random().toString(36).slice(2, 6)}`;
+    items.forEach(item => { item.linkId = linkId; });
+    dbItem.linkId = `group-${Date.now()}-${Math.random().toString(36).slice(2, 6)}`;
+    return [...items, dbItem];
+}
+
+function detectRegionFromText(raw, fallback) {
+    const t = String(raw).toLowerCase()
+        .normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    if (/\b(mb|mien bac|bac|bao bac)\b/.test(t)) return 'MB';
+    if (/\b(mn|mien nam|nam)\b/.test(t)) return 'MN';
+    if (/\b(mt|mien trung|trung)\b/.test(t)) return 'MT';
+    return fallback || 'MT';
+}
+
+// Từ điển con giáp / chẵn lẻ (giữ nguyên nếu bạn đã có)
+const ALL_DICT = {
+    ...(typeof PAIR_SETS_NORM !== 'undefined' ? PAIR_SETS_NORM : {}),
+    ...(typeof ZODIAC_MAP !== 'undefined' ? ZODIAC_MAP : {})
+};
+const DICT_KEYS = Object.keys(ALL_DICT);
+const DICT_REGEX = DICT_KEYS.length > 0
+    ? new RegExp('\\b(' + DICT_KEYS.join('|') + ')\\b', 'gi')
+    : null;
+
+function parseSmartLottoText(rawText, region) {
+    const results = [];
+    if (!rawText) return results;
+
+    // typeRe: thêm dac biet / dacbiet / xiuchu / dauduoi / baolo…
+    const typeRe = /\b(bao\s*bac|bao\s*lo|baolo|blo|bl|lo|da|dx|dvong|davong|lienhoan|dv|cheo|xien|xuyen|xc|xiuchu|dac\s*biet|dacbiet|dac\s*bit|db|de|debiet|dc|dd|daucuoi|dauduoi|c2|c3|g8g7g6g5g4|g7g6g5g4|g3g2g1db|g7g6|g6g5|g5g4|g3g2|g2g1|g1db|g6g4g3|g6g4|g4g3|g6g3|g4lo5|g4lo7|g6lo1|10lo|10c|5c|4c|3c|2c|3d|8d|10d|12d|13d|g[1-8]|dau|duoi)\b/gi;
+
+    const moneyRe = /(?:[=:]|\bx\s*)(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)(?=\s|$|[.+])|\b(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m))\b|\b(\d+(?:[.,/]\d+)?)(?=\s*(?:[.+]|$))/gi;
+
+    const add = (nums, amount, type, note = '', linkId = '', tierOnly = '') => {
+        if (!amount || !nums.length) return;
+        if (type === 'dv') {
+            const uniqueNums = [...new Set(nums)];
+            if (uniqueNums.length < 3) return;
+            const pairs = uniqueNums.flatMap((first, index) =>
+                uniqueNums.slice(index + 1).map(second => [first, second])
+            );
+            pairs.forEach(pair => {
+                const item = createItem(pair.join('-'), amount, region, type, note);
+                item.linkId = linkId;
+                item.pairNums = pair;
+                results.push(item);
+            });
+            return;
+        }
+        if (['da', 'dx', 'cheo', 'xien'].includes(type)) {
+            const uniqueNums = [...new Set(nums)];
+            if (uniqueNums.length < 2) return;
+            // "Chéo/Xiên" đúng nghĩa phải từ 3 số trở lên — gõ "chéo"/"xiên"
+            // nhưng chỉ đưa đúng 2 số thì thực chất là "Đá Thẳng" (tiền tính
+            // giống hệt nhau nên không lệch, chỉ đổi lại đúng TÊN loại).
+            const isCheoKeyword = ['dx', 'cheo', 'xien'].includes(type);
+            const betTypeKey = (isCheoKeyword && uniqueNums.length >= 3) ? 'dx' : 'da';
+            const group = betTypeKey === 'da' ? uniqueNums.slice(0, 2) : uniqueNums;
+            const item = createItem(group.join('-'), amount, region, betTypeKey, note, '', tierOnly);
+            item.linkId = linkId;
+            item.pairNums = group;
+            results.push(item);
+            return;
+        }
+        nums.forEach(num => {
+            const item = createItem(num, amount, region, type, note, '', tierOnly);
+            item.linkId = linkId;
+            results.push(item);
+        });
+    };
+
+    const parseNumberList = value => (String(value || '').match(/\d{2,3}/g) || []);
+
+    /** Chuẩn hóa từ khóa dài → mã ngắn TRƯỚC khi match type */
+    const normalizeTypePhrases = (line) => {
+        return String(line)
+            .replace(/\bdac\s*biet\b/gi, 'db')
+            .replace(/\bdac\s*bit\b/gi, 'db')
+            .replace(/\bdebiet\b/gi, 'db')
+            .replace(/\bdacbiet\b/gi, 'db')
+            .replace(/\bxiuchu\b/gi, 'xc')
+            .replace(/\bdaucuoi\b/gi, 'dd')
+            .replace(/\bdauduoi\b/gi, 'dd')
+            .replace(/\bbaolo\b/gi, 'bl')
+            .replace(/\bbao\s*lo\b/gi, 'bl')
+            .replace(/\blienhoan\b/gi, 'dv')
+            .replace(/\bdavong\b/gi, 'dv')
+            .replace(/\bdvong\b/gi, 'dv');
+    };
+
+    const addGroupedClauses = (line, lineIndex) => {
+        let handled = false;
+        let clauseIndex = 0;
+
+        // lo/bl + db/de/dac biet (đã normalize nên chỉ cần db|de)
+        const loDbRe = /(?:^|\s)([\d]{2,3}(?:[\s,.+\-]+\d{2,3})*)\s*(?:lo|blo|bl)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)\s*\+\s*(?:db|de)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)/gi;
+        let match;
+        while ((match = loDbRe.exec(line)) !== null) {
+            const numbers = parseNumberList(match[1]);
+            if (!numbers.length) continue;
+            const groupId = `quick-${lineIndex}-${clauseIndex++}`;
+            const lotType = numbers.every(number => number.length === 3) ? '3c' : '2c';
+            add(numbers, parseAmount(match[2]), lotType, 'LO', `${groupId}-lo`);
+            add(numbers, parseAmount(match[3]), 'db', 'DB', `${groupId}-db`);
+            handled = true;
+        }
+
+        // Số + db/de (sau normalize: "39 db 300k")
+        const dbRe = /(?:^|\s)([\d]{2,3}(?:[\s,.+\-]+\d{2,3})*)\s*(?:db|de)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)/gi;
+        while ((match = dbRe.exec(line)) !== null) {
+            const numbers = parseNumberList(match[1]);
+            if (!numbers.length) continue;
+            const groupId = `quick-${lineIndex}-${clauseIndex++}`;
+            add(numbers, parseAmount(match[2]), 'db', 'DB', `${groupId}-db`);
+            handled = true;
+        }
+        return handled;
+    };
+
+    String(rawText).replace(/\r/g, '').split(/[\n;]+/).forEach((raw, lineIndex) => {
+        let line = raw.toLowerCase().replace(/^\[.*?\]\s*\w+:\s*/i, ' ').trim();
+        if (!line) return;
+
+        // Bỏ dấu + đ→d
+        line = line.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd');
+        // Chuẩn hóa cụm từ loại cược dài → mã ngắn (quan trọng!)
+        line = normalizeTypePhrases(line);
+        line = line.replace(/d\s*b\b/gi, 'db');
+        line = line.replace(/\b(db|de|lo|blo|bl)\s*(?=\d)/gi, '$1 ');
+
+        if (addGroupedClauses(line, lineIndex)) return;
+
+        const compactGroupedItems = parseCompactGroupedBetLine(line, region);
+        if (compactGroupedItems) {
+            results.push(...compactGroupedItems);
+            return;
+        }
+        const dottedItems = parseDottedBetLine(line, region);
+        if (dottedItems) {
+            results.push(...dottedItems);
+            return;
+        }
+
+        line = line.replace(/(\d{2,4})(da|cheo|xien|xuyen)(\d{2,4})/gi, '$1 $2 $3')
+            .replace(/(\d{2,4})(db|de)(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)/gi, '$1 $2 $3')
+            .replace(/g(?!6g3\b)([1-8])g([1-8])/gi, 'g$1 g$2');
+
+        const ranges = /\b(\d{1,3})\s*(?:den|toi|\.\.|…)\s*(\d{1,3})\b/gi;
+        line = line.replace(ranges, (full, from, to, offset, whole) => {
+            const start = Number(from), end = Number(to);
+            const tail = whole.slice(offset + full.length, offset + full.length + 35);
+            const money = tail.match(/(?:[=:]|\bx\s*)\s*(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)|\b(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m))\b/i);
+            const amount = parseAmount(money?.[1] || money?.[2] || money?.[3]);
+            const kind = tail.match(/\b(c2|c3|g8g7g6g5g4|g7g6g5g4|g3g2g1db|g7g6|g6g5|g5g4|g3g2|g2g1|g1db|g6g4g3|g6g4|g4g3|g6g3|g[1-8]lo\d+|g[1-8]|db|de|dc|dd|10lo|10c|5c|4c|3c|2c|3d|8d|10d|12d|13d)\b/i);
+            if (amount > 0 && end >= start && end - start <= 99) {
+                const width = Math.max(2, from.length, to.length);
+                add(
+                    Array.from({ length: end - start + 1 }, (_, i) => String(start + i).padStart(width, '0')),
+                    amount,
+                    mapBetType(kind?.[1] || 'bl'),
+                    'RANGE'
+                );
+            }
+            return ' ';
+        });
+
+        const hits = [...line.matchAll(typeRe)];
+        if (!hits.length) {
+            const money = [...line.matchAll(moneyRe)].pop();
+            const amount = parseAmount(money?.[1] || money?.[2] || money?.[3]);
+            const nums = extractNums(line);
+            if (amount > 0 && nums.length) {
+                nums.forEach(num => {
+                    const digits = num.length;
+                    add([num], amount, digits >= 4 ? '4c' : (digits === 3 ? '3c' : 'bl'), 'AUTO');
+                });
+            }
+            return;
+        }
+
+        const orderedGroups = [];
+        let previousNumbers = [];
+        let pendingPatternTypes = [];
+        let pendingTierRestrict = [];
+        for (let index = 0; index < hits.length; index++) {
+            const hit = hits[index];
+            const nextIndex = index + 1 < hits.length ? hits[index + 1].index : line.length;
+            const beforeStart = index ? hits[index - 1].index + hits[index - 1][0].length : 0;
+            const before = line.slice(beforeStart, hit.index);
+            const after = line.slice(hit.index + hit[0].length, nextIndex);
+            const type = mapBetType(hit[0]);
+
+            // "Gnhat"/"g1"/"g4lo6"/"Db" đứng TRƠ TRỌI (không kèm số cược riêng
+            // trước/sau, không kèm tiền riêng) rồi theo sau là 1 loại "cả cụm"
+            // → hiểu là GIỚI HẠN cụm đó chỉ so với đúng (các) giải này, gộp
+            // OR — khớp 1 TRONG SỐ đó là đủ (VD "Gnhat. Le le x 50k" → chỉ
+            // tính trúng khi Giải Nhất về đúng số; "Db+G7. Chan chan x 35k" →
+            // trúng khi ĐB HOẶC G7 về đúng số — không tính bao lô như mặc
+            // định). Riêng "Db" phải kèm điều kiện KHÔNG có tiền riêng, vì
+            // "Đb. 2k" vẫn là cú pháp CŨ (dùng lại số trước đó, có tiền ngay
+            // sau) — không được đụng vào, giữ nguyên như trước giờ.
+            const isTierWord = /^g[1-8]$/.test(type) || /^g[1-8]lo\d+$/.test(type) || type === 'db';
+            if (isTierWord) {
+                const hasOwnNumber = extractNums(after.split(/[=:]/)[0]).length > 0 || extractNums(before).length > 0;
+                // Đảo ngược thứ tự cũng phải hiểu được (VD "Heo Db 50k"/"Heo
+                // G6 G7 30k" — con giáp/cả cụm gõ TRƯỚC, giải/tier gõ SAU):
+                // nếu đang có sẵn 1 (hay nhiều) loại "cả cụm" còn TREO CHỜ
+                // tiền (pendingPatternTypes chưa rỗng) thì giải/tier này vẫn
+                // thuộc về ĐÚNG cụm đó, kể cả khi có tiền ngay sau nó — lúc
+                // này rõ ràng không phải câu "Đb. 2k" kiểu cũ (1 dòng Đặc
+                // Biệt độc lập, dùng lại số của mệnh đề trước) nữa.
+                const continuesPendingPattern = !hasOwnNumber && pendingPatternTypes.length > 0;
+                if (continuesPendingPattern) {
+                    pendingTierRestrict.push(type);
+                    const tierMoneyMatches = [...after.matchAll(moneyRe)];
+                    const tierMoney = tierMoneyMatches.find(m => m[1] || m[2]) || tierMoneyMatches.at(-1);
+                    const tierAmount = parseAmount(tierMoney?.[1] || tierMoney?.[2] || tierMoney?.[3]);
+                    if (tierAmount > 0) {
+                        const lastPatternType = pendingPatternTypes[pendingPatternTypes.length - 1];
+                        pendingPatternTypes.forEach(t => {
+                            orderedGroups.push({ type: t, numbers: [...PATTERN_TYPE_NUMS[t]], amount: tierAmount, tierOnly: [...pendingTierRestrict] });
+                        });
+                        previousNumbers = [...PATTERN_TYPE_NUMS[lastPatternType]];
+                        pendingPatternTypes = [];
+                        pendingTierRestrict = [];
+                    }
+                    continue;
+                }
+
+                // Thứ tự thuận (giải/tier gõ TRƯỚC con giáp) — giữ nguyên như
+                // trước giờ, không đổi gì ở nhánh này.
+                const isBareDb = type === 'db' && ![...after.matchAll(moneyRe)].length;
+                // Chỉ nuốt làm "giới hạn giải" khi PHÍA SAU thực sự có 1 loại
+                // "cả cụm" (chan_chan/le_le/giap...) đang chờ — nếu không, đây
+                // chỉ là 1 mệnh đề BÌNH THƯỜNG muốn dùng lại số của mệnh đề
+                // trước (VD "459 bl 10n, giải7 20n" — "giải7" không giới hạn
+                // cụm nào cả). Thiếu bước nhìn trước này thì mệnh đề đó bị
+                // nuốt mất trắng, không rơi xuống được cơ chế dùng-lại-số.
+                let followsPatternType = false;
+                if (!hasOwnNumber) {
+                    for (let peek = index + 1; peek < hits.length; peek++) {
+                        const peekType = mapBetType(hits[peek][0]);
+                        if (PATTERN_TYPE_NUMS[peekType]) { followsPatternType = true; break; }
+                        // Đá/Chéo/Xiên/Vòng cũng nhận giới hạn giải được (VD
+                        // "G4. 12 chéo 34 chéo 56 x10k" → chỉ dò riêng Giải
+                        // 4) — khác PATTERN_TYPE_NUMS ở chỗ đá không có dàn
+                        // số cố định (số thật lấy ngay trong câu), nên chỉ
+                        // cần biết ĐÂY LÀ đá là đủ để nhìn trước; phần gắn
+                        // tierOnly thật sự xử lý riêng lúc tạo dòng bên dưới.
+                        if (['da', 'dx', 'dv', 'cheo', 'xien'].includes(peekType)) { followsPatternType = true; break; }
+                        const peekIsBareTier = /^g[1-8]$/.test(peekType) || /^g[1-8]lo\d+$/.test(peekType) || peekType === 'db';
+                        if (!peekIsBareTier) break;
+                    }
+                }
+                if (!hasOwnNumber && (isBareDb || type !== 'db') && followsPatternType) {
+                    pendingTierRestrict.push(type);
+                    continue;
+                }
+
+                // Đá/Chéo/Xiên/Vòng: số của ĐÁ thường nằm NGAY GIỮA tier-word
+                // và từ khóa đá (VD "G4. 12 34 56 chéo x10k") — khác hẳn con
+                // giáp/chẵn lẻ (không có số riêng), nên KHÔNG dùng chung điều
+                // kiện !hasOwnNumber ở trên (numbers ở giữa khiến hasOwnNumber
+                // luôn = true). Chỉ cần chắc chắn CHƯA có tiền nào chen giữa —
+                // có tiền rồi nghĩa là tier-word đã là 1 dòng cược ĐỘC LẬP
+                // xong xuôi, không liên quan gì tới đá đứng sau nó nữa.
+                // Chỉ coi là "có tiền riêng" khi thấy tiền RÕ RÀNG (có đơn vị
+                // k/n/tr/m/ng, hoặc có tiền tố =/:/x) — dùng moneyRe đầy đủ ở
+                // đây sẽ dính nhầm chính SỐ CUỐI của đá (VD "56" trong "G4.
+                // 12 34 56 chéo x10k") vì moneyRe có nhánh coi 1 số trơ trọi
+                // đứng cuối là tiền thiếu chữ "k" — không đúng ý ở đây.
+                const hasExplicitOwnAmount = /(?:[=:]|\bx\s*)\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\b|\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)\b/i.test(after);
+                if (!hasExplicitOwnAmount && index + 1 < hits.length) {
+                    const nextType = mapBetType(hits[index + 1][0]);
+                    if (['da', 'dx', 'dv', 'cheo', 'xien'].includes(nextType)) {
+                        pendingTierRestrict.push(type);
+                        continue;
+                    }
+                }
+            }
+
+            // Chẵn/Lẻ theo cặp + 12 Con Giáp: dàn số CỐ ĐỊNH có sẵn, không cần
+            // gõ tay số nào — chỉ cần tìm đúng số TIỀN đứng sau tên loại. Nhiều
+            // loại "cả cụm" đứng liền nhau (VD "le le, le chan x 50k") dùng
+            // CHUNG tiền của cụm cuối cùng — mỗi loại vẫn nhân đủ 50k riêng.
+            if (PATTERN_TYPE_NUMS[type]) {
+                const patternMoneyMatches = [...after.matchAll(moneyRe)];
+                const patternMoney = patternMoneyMatches.find(m => m[1] || m[2]) || patternMoneyMatches.at(-1);
+                const patternAmount = parseAmount(patternMoney?.[1] || patternMoney?.[2] || patternMoney?.[3]);
+                pendingPatternTypes.push(type);
+                if (patternAmount > 0) {
+                    pendingPatternTypes.forEach(t => {
+                        orderedGroups.push({ type: t, numbers: [...PATTERN_TYPE_NUMS[t]], amount: patternAmount, tierOnly: [...pendingTierRestrict] });
+                    });
+                    previousNumbers = [...PATTERN_TYPE_NUMS[type]];
+                    pendingPatternTypes = [];
+                    pendingTierRestrict = [];
+                }
+                continue;
+            } else if (pendingPatternTypes.length) {
+                // Loại "cả cụm" đứng trước chưa tìm được tiền riêng, nhưng gặp
+                // ngay 1 loại KHÁC (không phải cả cụm) — không cùng cụm tiền
+                // nữa, bỏ để tránh gán nhầm tiền của clause khác vào.
+                pendingPatternTypes = [];
+                pendingTierRestrict = [];
+            }
+
+            const afterNumbers = extractNums(after.split(/[=:]/)[0]);
+
+            const lastMoneyInBefore = [...before.matchAll(/(?:[=:]\s*)?\d+(?:[.,/]\d+)?(?:k|n|tr|m|ng)\b/gi)].pop();
+            const beforeFresh = lastMoneyInBefore
+                ? before.slice(lastMoneyInBefore.index + lastMoneyInBefore[0].length)
+                : before;
+            const beforeNumbers = extractNums(beforeFresh);
+            const explicitAmounts = [...after.matchAll(/\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)\b/gi)];
+            const isPairType = ['da', 'dx', 'dv', 'cheo', 'xien'].includes(type);
+
+            if (afterNumbers.length && explicitAmounts.length) {
+                let clauseStart = 0;
+                explicitAmounts.forEach((amountMatch, amtIdx) => {
+                    const clauseNumberText = after.slice(clauseStart, amountMatch.index);
+                    let clauseNumbers = extractNums(clauseNumberText);
+                    if (isPairType && amtIdx === 0 && beforeNumbers.length) {
+                        clauseNumbers = [...beforeNumbers, ...clauseNumbers];
+                    }
+                    const amount = parseAmount(amountMatch[0]);
+                    // "=" (hoặc ":") ngay trước số tiền này → TỔNG CUỐI CÙNG, không
+                    // phải giá mỗi lô (xem giải thích ở nhánh "else" phía dưới).
+                    const isTotalAmount = /[=:]\s*$/.test(clauseNumberText);
+                    if (clauseNumbers.length && amount > 0) {
+                        // Đá/Chéo/Xiên/Vòng có sẵn giới hạn giải treo từ mệnh
+                        // đề trước (VD "G4. 12 chéo 34 chéo 56 x10k") → gắn
+                        // luôn vào dòng này, chỉ dò đúng giải đó thay vì bao
+                        // lô mặc định. Dùng xong xóa ngay, không để dính sang
+                        // mệnh đề khác không liên quan.
+                        const pairTierOnly = (isPairType && pendingTierRestrict.length) ? [...pendingTierRestrict] : undefined;
+                        orderedGroups.push({ type, numbers: [...new Set(clauseNumbers)], amount, isTotalAmount, ...(pairTierOnly ? { tierOnly: pairTierOnly } : {}) });
+                        previousNumbers = [...new Set(clauseNumbers)];
+                        if (pairTierOnly) pendingTierRestrict = [];
+                    }
+                    clauseStart = amountMatch.index + amountMatch[0].length;
+                });
+            } else {
+                // Mở rộng thêm "g1".."g8" và "g_lo_" (VD "giải7"/"g4lo6") vào
+                // danh sách được DÙNG LẠI SỐ CŨ khi đứng 1 mình không kèm số
+                // riêng — trước đây chỉ 4c/5c/10c/db được vậy, nên 1 dòng kiểu
+                // "459 bl 10n, giải7 20n, đb 100n" bị RỚT hẳn mệnh đề "giải7"
+                // (không có cơ chế nào cho nó mượn lại số 459 ở trên).
+                const reusableType = /^(4c|5c|10c|db|g[1-8]|g[1-8]lo\d+)$/.test(type) || isPairType;
+                const singleBareTrailing = afterNumbers.length === 1 && !beforeNumbers.length;
+                let numbers;
+                if (reusableType && previousNumbers.length && singleBareTrailing) {
+                    numbers = previousNumbers;
+                } else if (afterNumbers.length) {
+                    numbers = (isPairType && beforeNumbers.length)
+                        ? [...beforeNumbers, ...afterNumbers]
+                        : afterNumbers;
+                } else if (beforeNumbers.length) {
+                    numbers = beforeNumbers;
+                } else if (reusableType) {
+                    numbers = previousNumbers;
+                } else {
+                    numbers = [];
+                }
+                const moneyMatches = [...after.matchAll(moneyRe)];
+                const money = moneyMatches.find(m => m[1] || m[2]) || moneyMatches.at(-1);
+                const amount = parseAmount(money?.[1] || money?.[2] || money?.[3]);
+                if (numbers.length && amount > 0) {
+                    orderedGroups.push({ type, numbers: [...new Set(numbers)], amount });
+                    previousNumbers = [...new Set(numbers)];
+                }
+            }
+        }
+
+        if (orderedGroups.length) {
+            orderedGroups.forEach((group, groupIndex) => {
+                if (group.isTotalAmount) {
+                    // Có "=" → group.amount là TỔNG CUỐI CÙNG, không phải giá mỗi
+                    // lô. Tạo tạm với giá 1k/số để ĐO đúng số lô/số dòng thật của
+                    // loại cược này (qua calculateItemFinancials — không tự tính
+                    // lại luật lô ở đây, tránh lệch với công thức tính tiền chính),
+                    // rồi suy ngược ra giá mỗi số sao cho tổng khớp đúng ý người gõ.
+                    // Ghi chú hiển thị tên đọc được (VD "Tỵ (Rắn)") thay vì mã
+                    // thô (VD "RAN") — nhìn vào bảng chi tiết biết ngay đây là
+                    // cược con giáp/chẵn lẻ nào, khỏi phải đoán qua mã viết tắt.
+                    const noteText = getRegionAwareTypeName(group.type, region);
+                    const created = add(group.numbers, 1, group.type, noteText, `group-${groupIndex}`, group.tierOnly || '');
+                    if (created.length && typeof calculateItemFinancials === 'function') {
+                        const costFor1k = created.reduce((sum, it) => sum + calculateItemFinancials(it, region).totalItemCost, 0);
+                        if (costFor1k > 0) {
+                            const scale = (group.amount * 1000) / costFor1k;
+                            created.forEach(it => {
+                                it.originalAmount = Math.round(it.originalAmount * scale * 100) / 100;
+                                it.amount = it.originalAmount * 1000;
+                            });
+                        }
+                    }
+                } else {
+                    const noteText2 = getRegionAwareTypeName(group.type, region);
+                    add(group.numbers, group.amount, group.type, noteText2, `group-${groupIndex}`, group.tierOnly || '');
+                }
+            });
+            return;
+        }
+
+        let previousNums = [];
+        hits.forEach((match, index) => {
+            const previousEnd = index ? hits[index - 1].index + hits[index - 1][0].length : 0;
+            const before = line.slice(previousEnd, match.index);
+            const after = line.slice(
+                match.index + match[0].length,
+                index + 1 < hits.length ? hits[index + 1].index : line.length
+            );
+            const type = mapBetType(match[0]);
+            const moneyMatches = [...after.matchAll(moneyRe)];
+            const money = moneyMatches.find(m => m[1] || m[2]) || moneyMatches.at(-1);
+            const amount = parseAmount(money?.[1] || money?.[2] || money?.[3]);
+            const numberSource = index && /\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\s*[.+]?\s*$/i.test(before)
+                ? ''
+                : before;
+            let nums = extractNums(numberSource);
+            const numsAfterType = extractNums(
+                after.split(/[=:]|\bx\s*/i)[0].replace(/\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\s*[.+]?\s*$/i, '')
+            );
+            if (!nums.length && numsAfterType.length) nums = numsAfterType;
+            if (!nums.length) nums = [...previousNums];
+            else previousNums = [...nums];
+            if (['da', 'dx', 'dv', 'cheo', 'xien'].includes(type)) {
+                nums = [...nums, ...extractNums(after.split(/[=:]|\bx\s*/i)[0])];
+                previousNums = [...nums];
+            }
+            const isSharedAmount = /[=:]/.test(after);
+            add(
+                nums,
+                isSharedAmount ? amount / Math.max(nums.length, 1) : amount,
+                type,
+                match[0].toUpperCase()
+            );
+        });
+    });
+
+    return results.filter(item => Number(item.originalAmount) > 0);
+}
+
+function parseSmartLottoText(rawText, region) {
+    const results = [];
+    if (!rawText) return results;
+    // Số của cụm cược NGAY TRƯỚC — dùng khi 1 dòng bị tách thành nhiều dòng
+    // "ảo" (xem normalizedForSplit bên dưới) NHƯNG cụm sau vẫn muốn DÙNG LẠI
+    // số của cụm trước (VD "272 4 chốt 100k. đb 300k" — "đb 300k" không có
+    // số riêng, ý là 272). Xoá về [] mỗi khi gặp dòng THẬT (xuống dòng/";"
+    // người dùng gõ) để không dính số giữa 2 tin/2 khách khác nhau.
+    let carryNumbers = [];
+    const typeRe = /\b(bao\s*bac|bao\s*lo|blo|bl|lo|da|dx|dvong|davong|lienhoan|dv|cheo|xien|xuyen|xc|dac\s*biet|dacbiet|dac\s*bit|db|de|dc|dau\s*chot|dd|c2|c3|g8g7g6g5g4|g7g6g5g4|g3g2g1db|g4g3g2g1db|g8g7g6g5|g7g6g5|g7g6|g6g5|g5g4|g3g2|g2g1|g1db|g6g4g3|g6g4|g4g3|g6g3|g[1-8]lo\d+|10lo|10c|14\s*cuoi|14c|12\s*cuoi|5\s*cuoi|4\s*cuoi|4\s*chot|5\s*dau|6\s*dau|5c|4c|3c|2c|3d|5d|6d|8d|10d|12d|13d|12\s*con\s*giap|con\s*giap|giap|chan\s*chan|le\s*le|chan\s*le|le\s*chan|g\s*nhat|g\s*nhi|g\s*ba|g\s*tu|g\s*nam|g\s*sau|g\s*bay|g\s*tam|giai\s*[1-8]|chuot|trau|cop|meo|rong|ran|ngua|mui|khi|tuat|cho|hoi|heo|lon|ty|suu|dan|ho|mao|thin|ngo|than|ga|g[1-8]|dau|duoi|chot)\b/gi;
+    const moneyRe = /(?:[=:]|\bx\s*)(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)(?=\s|$|[.+])|\b(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m))\b|\b(\d+(?:[.,/]\d+)?)(?=\s*(?:[.+]|$))/gi;
+    // Trả về mảng dòng cược vừa tạo (ngoài việc đẩy vào `results` như cũ) để
+    // chỗ gọi có thể ĐO lại chi phí thật (đo qua calculateItemFinancials) khi
+    // cần chia lại tiền cho đúng kiểu "=" (tổng cuối cùng cố định).
+    const add = (nums, amount, type, note = '', linkId = '', tierOnly = '') => {
+        if (!amount || !nums.length) return [];
+        if (type === 'dv') {
+            // Đá Vòng/Liên Hoàn/CHÉO (xác nhận Cocomi: "chéo" là 1 mã với
+            // "vòng"/"liên hoàn" — tách nhóm số thành TỪNG CẶP đôi độc lập
+            // (C(n,2) cặp), mỗi cặp tự ăn/thua riêng — trúng 1 phần vẫn có
+            // tiền, khác hẳn Đá Xiên (cả nhóm phải về đủ mới ăn).
+            const uniqueNums = [...new Set(nums)];
+            if (uniqueNums.length < 2) return [];
+            // Chỉ đúng 2 số thì "chéo/vòng" cũng chỉ ra được 1 cặp duy nhất —
+            // thực chất là "Đá Thẳng" (tiền tính giống hệt, chỉ đổi lại TÊN).
+            if (uniqueNums.length < 3) {
+                const group = uniqueNums.slice(0, 2);
+                const item = createItem(group.join('-'), amount, region, 'da', note, '', tierOnly);
+                item.linkId = linkId;
+                item.pairNums = group;
+                results.push(item);
+                return [item];
+            }
+            const pairs = uniqueNums.flatMap((first, index) => uniqueNums.slice(index + 1).map(second => [first, second]));
+            return pairs.map(pair => {
+                const item = createItem(pair.join('-'), amount, region, type, note, '', tierOnly);
+                item.linkId = linkId;
+                item.pairNums = pair;
+                results.push(item);
+                return item;
+            });
+        }
+        if (['da', 'dx'].includes(type)) {
+            // 2 số = đá thẳng (1 cặp duy nhất). 3+ số = đá XIÊN — CẢ NHÓM là
+            // MỘT cược duy nhất (trúng khi TẤT CẢ số trong nhóm đều về,
+            // thiếu 1 số là thua cả cụm) — KHÔNG tách thành nhiều cặp độc
+            // lập (đó là "Đá Chéo"/dv, xử lý ở nhánh trên, khác cơ chế).
+            const uniqueNums = [...new Set(nums)];
+            if (uniqueNums.length < 2) return [];
+            // "Xiên" đúng nghĩa phải từ 3 số trở lên — gõ "xiên" nhưng chỉ
+            // đưa đúng 2 số thì thực chất là "Đá Thẳng" (tiền tính giống hệt
+            // nhau nên không lệch, chỉ đổi lại đúng TÊN loại).
+            const betTypeKey = (type === 'dx' && uniqueNums.length >= 3) ? 'dx' : 'da';
+            const group = betTypeKey === 'da' ? uniqueNums.slice(0, 2) : uniqueNums;
+            const item = createItem(group.join('-'), amount, region, betTypeKey, note, '', tierOnly);
+            item.linkId = linkId;
+            item.pairNums = group;
+            results.push(item);
+            return [item];
+        }
+        return nums.map(num => {
+            const item = createItem(num, amount, region, type, note, '', tierOnly);
+            item.linkId = linkId;
+            results.push(item);
+            return item;
+        });
+    };
+
+    const parseNumberList = value => (String(value || '').match(/\d{2,3}/g) || []);
+    const addGroupedClauses = (line, lineIndex) => {
+        // "đảo" ở đâu đó trên dòng (kể cả TRƠ TRỌI, dùng lại dàn số của cụm
+        // trước — VD "986, 382 đb 50k, đảo đb 5k") thì KHÔNG được nhận dòng
+        // này — hàm này chỉ hiểu ĐÚNG 1 cụm "số...db...tiền" đầu tiên rồi
+        // báo "đã xử lý xong" (return true) khiến cả dòng bị bỏ qua luôn ở
+        // trên, mất sạch cụm "đảo" phía sau dù chưa hề đụng tới. Nhường lại
+        // cho vòng lặp chung bên dưới — nơi ĐÃ xử lý đúng cả 2 việc (danh
+        // sách số + đảo) trong cùng 1 dòng.
+        if (/\bdao\b/i.test(line)) return false;
+        // "[,.+\-]+\d" (không cho khoảng trắng sau dấu phẩy) làm rớt hết số
+        // phía trước khi người dùng gõ "986, 382" (có dấu cách sau phẩy —
+        // cách gõ rất phổ biến trong tin nhắn thật) — chỉ đổi thành
+        // "[,.+\-]\s*\d" để cho phép khoảng trắng đó, không đổi gì khác.
+        const loDbRe = /(?:^|\s)([\d]{2,3}(?:[\s,.+\-]+\d{2,3})*)\s*(?:lo|blo|bl)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)\s*\+\s*(?:db|de)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)/gi;
+        const dbRe = /(?:^|\s)([\d]{2,3}(?:[\s,.+\-]+\d{2,3})*)\s*(?:db|de)\s*(\d+(?:[.,]\d+)?(?:k|n|m)?)/gi;
+        const loDbMatches = [...line.matchAll(loDbRe)];
+        const dbMatches = [...line.matchAll(dbRe)];
+        if (!loDbMatches.length && !dbMatches.length) return false;
+
+        // Dòng thật hay chứa NHIỀU cụm cược KHÁC LOẠI đứng trước/sau cụm db
+        // này (VD "Đá 02.80x5k .Bao lô.02.80x5k ... 98.698.54.354 đb 15k..
+        // 88.g7 x70k ..."). Hàm này chỉ hiểu đúng (các) cụm "số...db...tiền"
+        // — nếu add() xong rồi báo "đã xử lý xong" (return true) như trước
+        // đây, TOÀN BỘ cụm khác (Đá/Bao lô/G7/Giải...) trong CÙNG dòng bị bỏ
+        // qua ở trên, mất trắng dù chưa hề đụng tới. Xóa các đoạn đã khớp
+        // rồi rà lại phần CÒN LẠI: còn từ khóa thể loại nào khác ngoài chính
+        // "db"/"de" thì nhường lại CẢ DÒNG cho vòng lặp chung bên dưới (nơi
+        // đã hiểu đủ mọi loại cược trộn lẫn trong 1 dòng).
+        let leftover = line;
+        [...loDbMatches, ...dbMatches]
+            .sort((a, b) => b.index - a.index)
+            .forEach(m => {
+                leftover = leftover.slice(0, m.index) + ' ' + leftover.slice(m.index + m[0].length);
+            });
+        const leftoverHasOtherType = [...leftover.matchAll(typeRe)].some(m => mapBetType(m[0]) !== 'db');
+        if (leftoverHasOtherType) return false;
+
+        let handled = false;
+        let clauseIndex = 0;
+        loDbMatches.forEach(match => {
+            const numbers = parseNumberList(match[1]);
+            if (!numbers.length) return;
+            const groupId = `quick-${lineIndex}-${clauseIndex++}`;
+            const lotType = numbers.every(number => number.length === 3) ? '3c' : '2c';
+            add(numbers, parseAmount(match[2]), lotType, 'LO', `${groupId}-lo`);
+            add(numbers, parseAmount(match[3]), 'db', 'DB', `${groupId}-db`);
+            handled = true;
+        });
+        dbMatches.forEach(match => {
+            const numbers = parseNumberList(match[1]);
+            if (!numbers.length) return;
+            const groupId = `quick-${lineIndex}-${clauseIndex++}`;
+            add(numbers, parseAmount(match[2]), 'db', 'DB', `${groupId}-db`);
+            handled = true;
+        });
+        return handled;
+    };
+
+    // Khách hay gõ NHIỀU cụm cược liền nhau trên CÙNG 1 dòng, ngăn cách bằng
+    // 1 chuỗi CHẤM LẶP LẠI (VD "...", "....." — 3 chấm trở lên) như dấu
+    // xuống dòng tạm — VD "03.30 g3.3k.....03.30.10 đá chéo 0,5...05.15.35
+    // g1 10k". Trước đây cả dòng bị gộp chung 1 lượt xử lý, khiến số/loại
+    // của các cụm sau bị LẪN VÀO cụm trước (dùng lại nhầm số/loại cũ) — dù
+    // TỪNG CỤM tách riêng vẫn parse đúng 100%. Tách CHỦ ĐỘNG tại đây thành
+    // nhiều dòng riêng (y hệt xuống dòng thật) TRƯỚC khi xử lý, để mỗi cụm
+    // được xử lý ĐỘC LẬP như khi test riêng — chỉ tách từ 3 CHẤM LIỀN NHAU
+    // trở lên (CHỪA đúng 2 chấm ".." vì đó là cú pháp "kéo dãy số", VD
+    // "05..95 g1 5k", không được đụng vào).
+    //
+    // Tin thật còn hay dùng ĐÚNG 1 (hoặc 2) CHẤM để ngăn cụm cược này với
+    // cụm KẾ TIẾP, ngay khi cụm trước vừa xong TIỀN (VD "Đá 02.80.x5k .Bao
+    // lô.02.80x5k .Bao lô 380.x2k . 98.698.54.354 đb 15k.. 88.g7 x70k").
+    // Không thể tách MỌI dấu chấm (chấm còn dùng để nối danh sách số như
+    // "02.80"/"98.698.54.354", và nối loại+tiền như "g7.5k") — nhưng dấu
+    // chấm đứng NGAY SAU 1 khoản TIỀN đã hoàn chỉnh (có đơn vị k/n/tr/m/ng,
+    // hoặc có tiền tố "x") thì chắc chắn không phải để nối số nữa (số trong
+    // danh sách không bao giờ có đơn vị tiền) — an toàn để hiểu là hết cụm
+    // này. Dùng "" (khác "\n" thật) để CÒN PHÂN BIỆT được đây là ranh
+    // giới "ảo" (cùng 1 dòng gốc, được PHÉP dùng lại số của cụm liền trước
+    // qua carryNumbers) hay ranh giới THẬT (xuống dòng/";" người dùng gõ,
+    // PHẢI xoá carryNumbers — 2 dòng thật là 2 cược độc lập, không liên quan).
+    const normalizedForSplit = String(rawText)
+        .replace(/\.{3,}/g, '')
+        .replace(/((?:x\s*\d+(?:[.,\/]\d+)?(?:ng|tr|k|n|m)?|\d+(?:[.,\/]\d+)?(?:ng|tr|k|n|m)))\s*\.{1,2}(?!\.)/gi, '$1');
+    const splitParts = normalizedForSplit.replace(/\r/g, '').split(/([\n;]+)/);
+    splitParts.forEach((raw, partIndex) => {
+        if (partIndex % 2 === 1) {
+            if (/[\n;]/.test(raw)) carryNumbers = [];
+            return;
+        }
+        const lineIndex = partIndex / 2;
+        let line = raw.toLowerCase().replace(/^\[.*?\]\s*\w+:\s*/i, ' ').trim();
+        if (!line) return;
+        line = line.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd');
+        line = line.replace(/d\s*b\b/gi, 'db');
+        line = line.replace(/\b(db|de|lo|blo|bl)\s*(?=\d)/gi, '$1 ');
+        // "Tc"/"tổng cộng" + số ở CUỐI dòng chỉ là khách GHI LẠI tổng tiền để
+        // đối chiếu (giống "=460"/"ok=460"), không phải thêm 1 cược mới. Nếu
+        // không loại bỏ, số tiền này bị hiểu nhầm thành 1 khoản TIỀN MỚI, tự
+        // động dùng lại dàn số của cụm ngay trước đó — tạo thêm 1 dòng cược
+        // ẢO không hề có trong ý khách (VD "...375 g1.5k TC 80k" bị hiểu
+        // thành CƯỢC THÊM g1 80k cho đúng dàn số vừa liệt kê).
+        line = line.replace(/\b(?:tc|tong\s*cong)\b\s*\.?\s*\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\s*$/i, '').trim();
+        if (addGroupedClauses(line, lineIndex)) return;
+        const compactGroupedItems = parseCompactGroupedBetLine(line, region);
+        if (compactGroupedItems) {
+            results.push(...compactGroupedItems);
+            return;
+        }
+        const dottedItems = parseDottedBetLine(line, region);
+        if (dottedItems) {
+            results.push(...dottedItems);
+            return;
+        }
+        // "đảo" (đã bỏ dấu thành "dao"): hoán vị đủ chữ số của các số ĐỨNG
+        // NGAY TRƯỚC nó, áp dụng cho MỌI loại cược kể cả bao lô mặc định/
+        // không ghi loại nào. Trước đây "đảo" CHỈ hoạt động qua cú pháp
+        // chấm (parseDottedBetLine) và CHỈ khi có kèm 1 từ khóa giải "mạnh"
+        // (g1-g8/4c/5c/10c/db...) — nên "68 79 đảo 10k" hay "68 79 đảo bl
+        // 10k" (bao lô, loại phổ biến nhất) bị bỏ qua "đảo" hoàn toàn, chỉ
+        // tính đúng 2 số gốc. Thay số+"dao" bằng chính TOÀN BỘ hoán vị của
+        // chúng (cách nhau dấu cách) để vòng lặp bên dưới xử lý y hệt như
+        // gõ tay từng số hoán vị đó.
+        line = line.replace(/((?:\d{2,4}[\s,]+)+)dao\b/gi, (full, numsPart) => {
+            const nums = numsPart.match(/\d{2,4}/g) || [];
+            if (!nums.length) return full;
+            const expanded = [...new Set(nums.flatMap(n => digitPermutations(n)))];
+            return expanded.join(' ') + ' ';
+        });
+        // "đảo" đứng TRƠ TRỌI (không có số nào ngay trước nó, chỉ có dấu câu/
+        // từ khác chen giữa) — VD "986, 382 đb 50k, đảo đb 5k": khách ghi số
+        // 1 LẦN cho cụm đầu, rồi muốn ĐẢO LẠI ĐÚNG DÀN SỐ ĐÓ cho cụm giá khác
+        // (rất thường gặp — số 1 lần, nhiều cụm giá khác nhau). Regex ở trên
+        // CHỈ bắt được khi số đứng NGAY TRƯỚC "đảo" — trường hợp này để sót
+        // hoàn toàn (không có số ngay trước, "đảo" bị bỏ qua im lặng, mất
+        // luôn cả cụm giá đó). Dùng lại đúng CỤM SỐ GẦN NHẤT xuất hiện trước
+        // đó trên dòng (giống cách "4c/5c/g1-g8..." đứng trơ trọi dùng lại số
+        // cũ ở chỗ khác trong hàm này).
+        if (/\bdao\b/i.test(line)) {
+            line = line.replace(/\bdao\b/gi, (full, offset, wholeStr) => {
+                // Bỏ hết mảnh số GIỐNG TIỀN (VD "50" trong "50k") trước khi
+                // tìm cụm số gần nhất — không thì "đảo" sau 1 cụm tiền dễ bị
+                // nhầm đảo NHẦM mảnh số của tiền thay vì đúng dàn số cược.
+                const before = wholeStr.slice(0, offset)
+                    .replace(/\b\d+(?:[.,/]\d+)?\s*(?:k|n|ng|tr|m)\b/gi, ' ')
+                    .replace(/(?:[=:]|\bx\s*)\d+(?:[.,/]\d+)?\b/gi, ' ');
+                const groups = before.match(/\d{2,4}(?:[\s,.\-]+\d{2,4})*/g);
+                if (!groups || !groups.length) return full;
+                const nums = groups[groups.length - 1].match(/\d{2,4}/g) || [];
+                if (!nums.length) return full;
+                const expanded = [...new Set(nums.flatMap(n => digitPermutations(n)))];
+                return expanded.join(' ') + ' ';
+            });
+        }
+        // [GÓI DỮ LIỆU DÙNG CHUNG — dò NHIỀU GIẢI/TIER gộp 1 bộ số + 1 giá]
+        // Chỉ liệt kê bí danh THUỘC NHÓM GIẢI/TIER (KHÔNG đụng đá/xiên/chéo/
+        // bao lô — nhóm đó có luật tiền riêng khi chỉ 2 số, xử lý ở khối
+        // "Xiên+Chéo" phía dưới). Các tổ hợp "cứng" đã xây riêng (g7g6,
+        // g6g5, g8g7g6g5g4...) cố tình liệt kê TRƯỚC "g[1-8]" — regex ưu
+        // tiên khớp bí danh dài/cụ thể trước, nên "g7g6" tự nuốt gọn thành 1
+        // token DUY NHẤT (không tách), trong khi "g3g4" (chưa có bí danh
+        // riêng) mới bị bóc thành 2 token "g3"+"g4" — không cần danh sách
+        // loại trừ riêng như trước.
+        // Khách có thể nối các giải/tier này bằng BẤT KỲ ký tự nào (dính
+        // liền "g3g4g5", chấm/phẩy/khoảng trắng/"+"/"&"...) — miễn bí danh
+        // đó đã có trong danh sách này (và trong typeRe ở trên) là tự nhận
+        // ra, không cần viết thêm regex riêng mỗi khi gặp cách nối MỚI.
+        // Thêm giải/tier mới: thêm vào CẢ ĐÂY lẫn typeRe phía trên.
+        const TIER_COMBO_ALIASES = 'g8g7g6g5g4|g7g6g5g4|g3g2g1db|g4g3g2g1db|g8g7g6g5|g7g6g5|g7g6|g6g5|g5g4|g3g2|g2g1|g1db|g6g4g3|g6g4|g4g3|g6g3|g[1-8]lo\\d+|10lo|10c|5c|4c|3c|2c|3d|8d|10d|12d|13d|g[1-8]|db|de';
+        const tierComboZoneRe = new RegExp(`((?:\\d{2,4}[\\s,.\\-]+)+)((?:(?:${TIER_COMBO_ALIASES})[\\s,.\\-&+]*){2,})((?:x\\s*)?\\d+(?:[.,/]\\d+)?(?:ng|tr|k|n|m)?)`, 'gi');
+        line = line.replace(tierComboZoneRe, (full, numsPart, typeZone, amount) => {
+            const nums = numsPart.match(/\d{2,4}/g) || [];
+            if (!nums.length) return full;
+            const rawTokens = [...typeZone.matchAll(new RegExp(TIER_COMBO_ALIASES, 'gi'))].map(m => m[0]);
+            const canonicalTypes = [...new Set(rawTokens.map(t => mapBetType(t)))];
+            if (canonicalTypes.length < 2) return full;
+            const numStr = nums.join(' ');
+            return canonicalTypes.map(t => `${numStr} ${t} ${amount}`).join(' + ') + ' ';
+        });
+        // Cùng ý trên nhưng gõ RÕ CHỮ "giải" kèm DANH SÁCH số giải cách nhau
+        // bằng chấm/phẩy/khoảng trắng thay vì viết liền "g3g4g5" (VD "02.80
+        // giải 3.4.5.x5k" = đánh cả Giải 3, Giải 4, Giải 5 cho 2 số 02, 80,
+        // mỗi giải 1 dòng riêng, tách y hệt cơ chế "g3g4g5" bên trên).
+        line = line.replace(/((?:\d{2,4}[\s,.\-]+)+)giai\s*\.?\s*((?:[1-8][\s,.\-]*){2,})\.?\s*((?:x\s*)?\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)/gi, (full, numsPart, giaiListPart, amount) => {
+            const nums = numsPart.match(/\d{2,4}/g) || [];
+            if (!nums.length) return full;
+            const giaiTokens = giaiListPart.match(/[1-8]/g) || [];
+            if (giaiTokens.length < 2) return full;
+            const numStr = nums.join(' ');
+            return giaiTokens.map(d => `${numStr} g${d} ${amount}`).join(' + ') + ' ';
+        });
+        // Cùng ý trên nhưng gõ tắt "g" + danh sách số giải cách nhau bằng
+        // gạch ngang/chấm/phẩy, KHÔNG lặp lại "g" cho từng giải (VD "829-672
+        // g4-5 đb 10" = đánh cả Giải 4, Giải 5 VÀ Đặc Biệt cho 2 số 829, 672,
+        // cùng chung giá 10 — "đb" phía sau vẫn thuộc chung cụm này). Không
+        // đụng "g4lo6" (chữ "lo" chen giữa nên không khớp danh sách chỉ toàn
+        // chữ số này).
+        // Đã tìm ra & né lỗi CÓ SẴN của cơ chế "+" nối nhiều mệnh đề: mệnh đề
+        // có TỪ 2 SỐ TRỞ LÊN đứng trước loại (VD "829 672 g4 ...") CHỈ tính
+        // đúng khi tiền có ĐƠN VỊ rõ ràng (VD "10k") — tiền trơ trọi không
+        // đơn vị (VD "10") làm số/tiền bị xáo lẫn giữa các mệnh đề (mệnh đề
+        // "g3g4g5" trước đây tách đúng vì tiền gốc LUÔN có đơn vị "k"). Chủ
+        // động gắn thêm "k" nếu tiền khách gõ trơ trọi — giá trị quy đổi
+        // KHÔNG đổi (parseAmount("10") === parseAmount("10k")) nên không ảnh
+        // hưởng đúng/sai số tiền, chỉ để tránh đúng lỗi có sẵn đó.
+        // Chỉ cho phép dấu ngăn KHÔNG CÓ khoảng trắng ("-", ",", ".") giữa
+        // các chữ số giải — nếu cho phép cả khoảng trắng thì dễ khớp NHẦM
+        // vào chữ số ĐẦU của 1 khoản tiền đứng sau (VD "g1. 50k" bị hiểu
+        // lầm "g1" nối tiếp giải "5" từ "50k" — có khoảng trắng trước "50").
+        line = line.replace(/((?:\d{2,4}[\s,.\-]+)+)g([1-8](?:[.,\-]+[1-8])+)((?:[\s,.\-]+(?:db|de))?)\s*\.?\s*((?:x\s*)?\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)/gi, (full, numsPart, giaiListPart, dbSuffix, amountRaw) => {
+            const nums = numsPart.match(/\d{2,4}/g) || [];
+            if (!nums.length) return full;
+            const types = (giaiListPart.match(/[1-8]/g) || []).map(d => `g${d}`);
+            if (dbSuffix) types.push('db');
+            if (types.length < 2) return full;
+            const amount = /(?:ng|tr|k|n|m)$/i.test(amountRaw) ? amountRaw : `${amountRaw}k`;
+            const numStr = nums.join(' ');
+            return types.map(t => `${numStr} ${t} ${amount}`).join(' + ') + ' ';
+        });
+        // "Xiên/Xuyên + Chéo" (hoặc ngược lại) đứng CHUNG 1 cụm, chỉ 1 tiền
+        // cuối — khách muốn cược CẢ 2 kiểu độc lập trên CÙNG bộ số (VD "37 70
+        // 92. Xuyên+ chéo 1n" = vừa Đá Xiên 3 con VỪA Đá Chéo tách 3 cặp,
+        // mỗi kiểu 1k riêng, tính tiền CỘNG DỒN cả 2 — không phải chỉ 1 trong
+        // 2). Tách thành 2 cụm độc lập, mỗi cụm lặp lại đủ số + đúng loại +
+        // đúng tiền, để vòng lặp bên dưới xử lý y hệt 2 dòng cược riêng biệt
+        // (giống cách "+" nối 2 loại cược khác nhau trên cùng số ở nơi khác).
+        // Chỉ áp dụng khi có TỪ 3 SỐ TRỞ LÊN (đúng 2 số thì Xiên/Chéo/Thẳng
+        // đều là 1, tách ra sẽ tính tiền gấp đôi sai).
+        line = line.replace(/((?:\d{2,4}[\s,.\-]+)+)(xien|xuyen|dx)\s*\+\s*(cheo|che|dv)\s+(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)/gi, (full, numsPart, t1, t2, amount) => {
+            const nums = numsPart.match(/\d{2,4}/g) || [];
+            if (nums.length < 3) return full;
+            const numStr = nums.join(' ');
+            return `${numStr} xien ${amount} + ${numStr} cheo ${amount} `;
+        });
+        line = line.replace(/((?:\d{2,4}[\s,.\-]+)+)(cheo|che|dv)\s*\+\s*(xien|xuyen|dx)\s+(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)/gi, (full, numsPart, t1, t2, amount) => {
+            const nums = numsPart.match(/\d{2,4}/g) || [];
+            if (nums.length < 3) return full;
+            const numStr = nums.join(' ');
+            return `${numStr} xien ${amount} + ${numStr} cheo ${amount} `;
+        });
+        line = line.replace(/(\d{2,4})(da|cheo|xien|xuyen)(\d{2,4})/gi, '$1 $2 $3')
+            .replace(/(\d{2,4})(db|de)(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)/gi, '$1 $2 $3')
+            // Chỉ tách rời khi CẢ CỤM dính liền không phải 1 tổ hợp đã xây
+            // riêng (trước đây chỉ loại trừ đúng "g6g3", còn "g7g6"/"g6g5"/
+            // "g7g6g5g4"... vẫn bị tách nhầm ra từng giải rời).
+            .replace(/(?:g[1-8]){2,}/gi, full => {
+                const KNOWN_G_TOKEN_COMBOS = ['g8g7g6g5g4', 'g7g6g5g4', 'g8g7g6g5', 'g7g6g5', 'g7g6', 'g6g5', 'g5g4', 'g3g2', 'g2g1', 'g6g4g3', 'g6g4', 'g4g3', 'g6g3'];
+                if (KNOWN_G_TOKEN_COMBOS.includes(full.toLowerCase())) return full;
+                return (full.match(/g[1-8]/gi) || []).join(' ');
+            });
+        // "(?<!\d[,.])" chặn KHÔNG cho số bắt đầu dãy là phần ĐUÔI THẬP PHÂN
+        // của 1 khoản tiền đứng ngay trước (VD "chéo 0,5 ..05 đến 95..." —
+        // nếu không chặn, "5" trong "0,5" bị hiểu nhầm là ĐIỂM BẮT ĐẦU dãy
+        // nối với "05" phía sau qua "..", nuốt mất luôn "0" của "05" thật sự
+        // mở đầu cụm kế tiếp). Phải kiểm tra ĐỦ 2 ký tự lùi lại (digit rồi
+        // mới tới dấu phẩy/chấm) — chỉ chặn đúng "chấm/phẩy thập phân", KHÔNG
+        // được chặn nhầm cả trường hợp "..05" (2 dấu chấm liền là RANH GIỚI
+        // cụm, không phải thập phân — số "05" sau đó vẫn phải được nhận làm
+        // điểm bắt đầu dãy mới bình thường). "\b" vốn coi phẩy/chấm là ranh
+        // giới hợp lệ nên không tự phân biệt được 2 trường hợp này.
+        const ranges = /(?<!\d[,.])\b(\d{1,3})\s*(?:den|toi|\.\.|…)\s*(\d{1,3})\b/gi;
+        // Dò TRƯỚC toàn bộ dãy số (matchAll, chưa xoá gì) rồi mới xoá SAU
+        // theo danh sách đoạn đã gom — trước đây dùng .replace() trực tiếp
+        // CHỈ xoá đúng phần "TỪ..ĐẾN" rồi trả về ' ', còn phần LOẠI+TIỀN vừa
+        // dò được trong "tail" (chỉ để ĐỌC, không hề bị xoá khỏi dòng) vẫn
+        // còn nguyên trong "line" — khiến vòng lặp hits/orderedGroups bên
+        // dưới ĐỌC LẠI đúng cụm "loại+tiền" đó lần 2, tự động mượn nhầm dàn
+        // số của cụm TRƯỚC ĐÓ (previousNumbers) làm dàn số ảo thứ 2 (trùng
+        // lặp 1 phần). Giờ xoá luôn CẢ phần loại+tiền đã tiêu thụ, không chỉ
+        // riêng "TỪ..ĐẾN".
+        const rangeMatches = [...line.matchAll(ranges)];
+        const spansToBlank = [];
+        rangeMatches.forEach(m => {
+            const start = Number(m[1]), end = Number(m[2]);
+            const matchEnd = m.index + m[0].length;
+            spansToBlank.push([m.index, matchEnd]);
+            const tail = line.slice(matchEnd, matchEnd + 35);
+            const money = tail.match(/(?:[=:]|\bx\s*)\s*(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?)|\b(\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m))\b/i);
+            const amount = parseAmount(money?.[1] || money?.[2] || money?.[3]);
+            const kind = tail.match(/\b(c2|c3|g8g7g6g5g4|g7g6g5g4|g3g2g1db|g7g6|g6g5|g5g4|g3g2|g2g1|g1db|g6g4g3|g6g4|g4g3|g6g3|g[1-8]lo\d+|g[1-8]|db|de|dc|dd|10lo|10c|5c|4c|3c|2c|3d|8d|10d|12d|13d)\b/i);
+            if (amount > 0 && end >= start && end - start <= 99) {
+                const width = Math.max(2, m[1].length, m[2].length);
+                add(Array.from({ length: end - start + 1 }, (_, i) => String(start + i).padStart(width, '0')), amount, mapBetType(kind?.[1] || 'bl'), 'RANGE');
+                if (kind) spansToBlank.push([matchEnd + kind.index, matchEnd + kind.index + kind[0].length]);
+                if (money) spansToBlank.push([matchEnd + money.index, matchEnd + money.index + money[0].length]);
+            }
+        });
+        spansToBlank.sort((a, b) => b[0] - a[0]).forEach(([s, e]) => {
+            line = line.slice(0, s) + ' ' + line.slice(e);
+        });
+        const hits = [...line.matchAll(typeRe)];
+        if (!hits.length) {
+            const money = [...line.matchAll(moneyRe)].pop();
+            const amount = parseAmount(money?.[1] || money?.[2] || money?.[3]);
+            const nums = extractNums(line);
+            if (amount > 0 && nums.length) {
+                nums.forEach(num => {
+                    const digits = num.length;
+                    add([num], amount, digits >= 4 ? '4c' : (digits === 3 ? '3c' : 'bl'), 'AUTO');
+                });
+            }
+            return;
+        }
+
+        // Tin dạng "loại ... số ... giá ... loại ... số ..." cần ưu tiên
+        // số sau loại. Chỉ kế thừa số trước đó khi loại mới không có số riêng.
+        // Khởi tạo từ carryNumbers (số của cụm liền trước, NẾU ranh giới vào
+        // dòng này là "ảo" — xem normalizedForSplit phía trên) để "đb 300k"
+        // đứng riêng 1 dòng-ảo vẫn dùng lại đúng số của cụm trước nó.
+        const orderedGroups = [];
+        let previousNumbers = [...carryNumbers];
+        let pendingPatternTypes = [];
+        let pendingTierRestrict = [];
+        for (let index = 0; index < hits.length; index++) {
+            const hit = hits[index];
+            const nextIndex = index + 1 < hits.length ? hits[index + 1].index : line.length;
+            const beforeStart = index ? hits[index - 1].index + hits[index - 1][0].length : 0;
+            const before = line.slice(beforeStart, hit.index);
+            const after = line.slice(hit.index + hit[0].length, nextIndex);
+            const type = mapBetType(hit[0]);
+
+            // "Gnhat"/"g1"/"g4lo6"/"Db" đứng TRƠ TRỌI (không kèm số cược riêng
+            // trước/sau, không kèm tiền riêng) rồi theo sau là 1 loại "cả cụm"
+            // → hiểu là GIỚI HẠN cụm đó chỉ so với đúng (các) giải này, gộp
+            // OR — khớp 1 TRONG SỐ đó là đủ (VD "Gnhat. Le le x 50k" → chỉ
+            // tính trúng khi Giải Nhất về đúng số; "Db+G7. Chan chan x 35k" →
+            // trúng khi ĐB HOẶC G7 về đúng số — không tính bao lô như mặc
+            // định). Riêng "Db" phải kèm điều kiện KHÔNG có tiền riêng, vì
+            // "Đb. 2k" vẫn là cú pháp CŨ (dùng lại số trước đó, có tiền ngay
+            // sau) — không được đụng vào, giữ nguyên như trước giờ.
+            const isTierWord = /^g[1-8]$/.test(type) || /^g[1-8]lo\d+$/.test(type) || type === 'db';
+            if (isTierWord) {
+                const hasOwnNumber = extractNums(after.split(/[=:]/)[0]).length > 0 || extractNums(before).length > 0;
+                // Đảo ngược thứ tự cũng phải hiểu được (VD "Heo Db 50k"/"Heo
+                // G6 G7 30k" — con giáp/cả cụm gõ TRƯỚC, giải/tier gõ SAU):
+                // nếu đang có sẵn 1 (hay nhiều) loại "cả cụm" còn TREO CHỜ
+                // tiền (pendingPatternTypes chưa rỗng) thì giải/tier này vẫn
+                // thuộc về ĐÚNG cụm đó, kể cả khi có tiền ngay sau nó — lúc
+                // này rõ ràng không phải câu "Đb. 2k" kiểu cũ (1 dòng Đặc
+                // Biệt độc lập, dùng lại số của mệnh đề trước) nữa.
+                const continuesPendingPattern = !hasOwnNumber && pendingPatternTypes.length > 0;
+                if (continuesPendingPattern) {
+                    pendingTierRestrict.push(type);
+                    const tierMoneyMatches = [...after.matchAll(moneyRe)];
+                    const tierMoney = tierMoneyMatches.find(m => m[1] || m[2]) || tierMoneyMatches.at(-1);
+                    const tierAmount = parseAmount(tierMoney?.[1] || tierMoney?.[2] || tierMoney?.[3]);
+                    if (tierAmount > 0) {
+                        const lastPatternType = pendingPatternTypes[pendingPatternTypes.length - 1];
+                        pendingPatternTypes.forEach(t => {
+                            orderedGroups.push({ type: t, numbers: [...PATTERN_TYPE_NUMS[t]], amount: tierAmount, tierOnly: [...pendingTierRestrict] });
+                        });
+                        previousNumbers = [...PATTERN_TYPE_NUMS[lastPatternType]];
+                        pendingPatternTypes = [];
+                        pendingTierRestrict = [];
+                    }
+                    continue;
+                }
+
+                // Thứ tự thuận (giải/tier gõ TRƯỚC con giáp) — giữ nguyên như
+                // trước giờ, không đổi gì ở nhánh này.
+                const isBareDb = type === 'db' && ![...after.matchAll(moneyRe)].length;
+                // Chỉ nuốt làm "giới hạn giải" khi PHÍA SAU thực sự có 1 loại
+                // "cả cụm" (chan_chan/le_le/giap...) đang chờ — nếu không, đây
+                // chỉ là 1 mệnh đề BÌNH THƯỜNG muốn dùng lại số của mệnh đề
+                // trước (VD "459 bl 10n, giải7 20n" — "giải7" không giới hạn
+                // cụm nào cả). Thiếu bước nhìn trước này thì mệnh đề đó bị
+                // nuốt mất trắng, không rơi xuống được cơ chế dùng-lại-số.
+                let followsPatternType = false;
+                if (!hasOwnNumber) {
+                    for (let peek = index + 1; peek < hits.length; peek++) {
+                        const peekType = mapBetType(hits[peek][0]);
+                        if (PATTERN_TYPE_NUMS[peekType]) { followsPatternType = true; break; }
+                        // Đá/Chéo/Xiên/Vòng cũng nhận giới hạn giải được (VD
+                        // "G4. 12 chéo 34 chéo 56 x10k" → chỉ dò riêng Giải
+                        // 4) — khác PATTERN_TYPE_NUMS ở chỗ đá không có dàn
+                        // số cố định (số thật lấy ngay trong câu), nên chỉ
+                        // cần biết ĐÂY LÀ đá là đủ để nhìn trước; phần gắn
+                        // tierOnly thật sự xử lý riêng lúc tạo dòng bên dưới.
+                        if (['da', 'dx', 'dv', 'cheo', 'xien'].includes(peekType)) { followsPatternType = true; break; }
+                        const peekIsBareTier = /^g[1-8]$/.test(peekType) || /^g[1-8]lo\d+$/.test(peekType) || peekType === 'db';
+                        if (!peekIsBareTier) break;
+                    }
+                }
+                if (!hasOwnNumber && (isBareDb || type !== 'db') && followsPatternType) {
+                    pendingTierRestrict.push(type);
+                    continue;
+                }
+
+                // Đá/Chéo/Xiên/Vòng: số của ĐÁ thường nằm NGAY GIỮA tier-word
+                // và từ khóa đá (VD "G4. 12 34 56 chéo x10k") — khác hẳn con
+                // giáp/chẵn lẻ (không có số riêng), nên KHÔNG dùng chung điều
+                // kiện !hasOwnNumber ở trên (numbers ở giữa khiến hasOwnNumber
+                // luôn = true). Chỉ cần chắc chắn CHƯA có tiền nào chen giữa —
+                // có tiền rồi nghĩa là tier-word đã là 1 dòng cược ĐỘC LẬP
+                // xong xuôi, không liên quan gì tới đá đứng sau nó nữa.
+                // Chỉ coi là "có tiền riêng" khi thấy tiền RÕ RÀNG (có đơn vị
+                // k/n/tr/m/ng, hoặc có tiền tố =/:/x) — dùng moneyRe đầy đủ ở
+                // đây sẽ dính nhầm chính SỐ CUỐI của đá (VD "56" trong "G4.
+                // 12 34 56 chéo x10k") vì moneyRe có nhánh coi 1 số trơ trọi
+                // đứng cuối là tiền thiếu chữ "k" — không đúng ý ở đây.
+                const hasExplicitOwnAmount = /(?:[=:]|\bx\s*)\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\b|\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)\b/i.test(after);
+                if (!hasExplicitOwnAmount && index + 1 < hits.length) {
+                    const nextType = mapBetType(hits[index + 1][0]);
+                    if (['da', 'dx', 'dv', 'cheo', 'xien'].includes(nextType)) {
+                        pendingTierRestrict.push(type);
+                        continue;
+                    }
+                }
+            }
+
+            // Chẵn/Lẻ theo cặp + 12 Con Giáp: dàn số CỐ ĐỊNH có sẵn, không cần
+            // gõ tay số nào — chỉ cần tìm đúng số TIỀN đứng sau tên loại. Nhiều
+            // loại "cả cụm" đứng liền nhau (VD "le le, le chan x 50k") dùng
+            // CHUNG tiền của cụm cuối cùng — mỗi loại vẫn nhân đủ 50k riêng.
+            if (PATTERN_TYPE_NUMS[type]) {
+                const patternMoneyMatches = [...after.matchAll(moneyRe)];
+                const patternMoney = patternMoneyMatches.find(m => m[1] || m[2]) || patternMoneyMatches.at(-1);
+                const patternAmount = parseAmount(patternMoney?.[1] || patternMoney?.[2] || patternMoney?.[3]);
+                pendingPatternTypes.push(type);
+                if (patternAmount > 0) {
+                    pendingPatternTypes.forEach(t => {
+                        orderedGroups.push({ type: t, numbers: [...PATTERN_TYPE_NUMS[t]], amount: patternAmount, tierOnly: [...pendingTierRestrict] });
+                    });
+                    previousNumbers = [...PATTERN_TYPE_NUMS[type]];
+                    pendingPatternTypes = [];
+                    pendingTierRestrict = [];
+                }
+                continue;
+            } else if (pendingPatternTypes.length) {
+                // Loại "cả cụm" đứng trước chưa tìm được tiền riêng, nhưng gặp
+                // ngay 1 loại KHÁC (không phải cả cụm) — không cùng cụm tiền
+                // nữa, bỏ để tránh gán nhầm tiền của clause khác vào.
+                pendingPatternTypes = [];
+                pendingTierRestrict = [];
+            }
+
+            const afterNumbers = extractNums(after.split(/[=:]/)[0]);
+            // "before" trải dài từ CUỐI hit trước đó, nên có thể dính luôn
+            // phần tiền của clause TRƯỚC (VD "...=10k 03 30" khi hit trước là
+            // "Blô 303 =10k" thì before của hit "Đá" là " 303 =10k 03 30 " —
+            // lấy nguyên si sẽ dính nhầm "303" từ clause cũ). Chỉ lấy số ở
+            // phần SAU dấu tiền gần nhất trong "before" để tránh dính nhầm.
+            const lastMoneyInBefore = [...before.matchAll(/(?:[=:]\s*)?\d+(?:[.,/]\d+)?(?:k|n|tr|m|ng)\b/gi)].pop();
+            const beforeFresh = lastMoneyInBefore ? before.slice(lastMoneyInBefore.index + lastMoneyInBefore[0].length) : before;
+            const beforeNumbers = extractNums(beforeFresh);
+            const explicitAmounts = [...after.matchAll(/\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)\b/gi)];
+            // Đá/Xiên quy ước viết "SỐ1 đá SỐ2" — số đầu đứng TRƯỚC từ khóa.
+            // Vòng lặp này trước đây chỉ lấy afterNumbers, làm rớt mất số
+            // đứng trước (VD "79 đá 37 =60k" → chỉ còn "37", thiếu "79" nên
+            // không đủ 2 số để ghép cặp và bị bỏ qua hoàn toàn).
+            const isPairType = ['da', 'dx', 'dv', 'cheo', 'xien'].includes(type);
+            // Loại được phép "dùng lại số cũ" khi không có số riêng — tính
+            // TRƯỚC ở đây (không chỉ trong nhánh else bên dưới) để dùng
+            // được luôn cho fallback bên trong vòng lặp explicitAmounts.
+            const reusableTypeForFallback = /^(4c|5c|10c|db|g[1-8]|g[1-8]lo\d+)$/.test(type) || isPairType;
+            if (afterNumbers.length && explicitAmounts.length) {
+                let clauseStart = 0;
+                explicitAmounts.forEach((amountMatch, amtIdx) => {
+                    const clauseNumberText = after.slice(clauseStart, amountMatch.index);
+                    let clauseNumbers = extractNums(clauseNumberText);
+                    if (isPairType && amtIdx === 0 && beforeNumbers.length) {
+                        clauseNumbers = [...beforeNumbers, ...clauseNumbers];
+                    } else if (!isPairType && amtIdx === 0 && !clauseNumbers.length && beforeNumbers.length) {
+                        // Loại không phải cặp (g3/g4/db/4c/5c...) mà số của
+                        // CHÍNH NÓ nằm TRƯỚC từ khóa (VD "03 30 g3 3k + 03 30
+                        // g4 3k" — số "03 30" của "g3" nằm trong before, còn
+                        // clauseNumberText lúc này chỉ có mỗi tiền, trống số).
+                        // Không lấy bước này thì mọi mệnh đề "+"-nối nhau (trừ
+                        // mệnh đề CUỐI) đều mất trắng số, chỉ dòng cuối sống sót.
+                        clauseNumbers = beforeNumbers;
+                    }
+                    // Không có số nào đứng NGAY TRƯỚC khoản tiền này — nhưng
+                    // "afterNumbers" (dùng để chọn nhánh if/else phía trên)
+                    // lại thấy có số, vì số đó thực ra thuộc về MỆNH ĐỀ SAU
+                    // (VD "giải 7/100k.689 g7 42k" — "689" nằm sau "100k",
+                    // là số của cụm "g7 42k" kế tiếp, không phải của "giải
+                    // 7/100k"). Nếu loại này được dùng lại số cũ và đã có số
+                    // của mệnh đề trước, dùng lại số đó thay vì bỏ trắng.
+                    if (!clauseNumbers.length && reusableTypeForFallback && previousNumbers.length) {
+                        clauseNumbers = previousNumbers;
+                    }
+                    const amount = parseAmount(amountMatch[0]);
+                    // "=" (hoặc ":") ngay trước số tiền này → TỔNG CUỐI CÙNG, không
+                    // phải giá mỗi lô (xem giải thích ở nhánh "else" phía dưới).
+                    const isTotalAmount = /[=:]\s*$/.test(clauseNumberText);
+                    if (clauseNumbers.length && amount > 0) {
+                        // Đá/Chéo/Xiên/Vòng có sẵn giới hạn giải treo từ mệnh
+                        // đề trước (VD "G4. 12 chéo 34 chéo 56 x10k") → gắn
+                        // luôn vào dòng này, chỉ dò đúng giải đó thay vì bao
+                        // lô mặc định. Dùng xong xóa ngay, không để dính sang
+                        // mệnh đề khác không liên quan.
+                        const pairTierOnly = (isPairType && pendingTierRestrict.length) ? [...pendingTierRestrict] : undefined;
+                        orderedGroups.push({ type, numbers: [...new Set(clauseNumbers)], amount, isTotalAmount, ...(pairTierOnly ? { tierOnly: pairTierOnly } : {}) });
+                        previousNumbers = [...new Set(clauseNumbers)];
+                        if (pairTierOnly) pendingTierRestrict = [];
+                    }
+                    clauseStart = amountMatch.index + amountMatch[0].length;
+                });
+            } else {
+                // Tin kiểu "00.33.44 bl 3. Chéo 0/5. Db 20" — Chéo/Db không có
+                // số riêng, ý là dùng LẠI đúng 00,33,44 ở trên, còn "0/5"/"20"
+                // chỉ là TIỀN. Nếu đúng 1 số trơ trọi phía sau (không đơn vị,
+                // không số nào khác quanh từ khóa) và đã có số của cụm trước
+                // đó, thì hiểu là tiền tiếp tục dùng số cũ — chứ không phải
+                // số cược mới — mới đúng ý người gõ.
+                // Mở rộng thêm "g1".."g8" và "g_lo_" (VD "giải7"/"g4lo6") vào
+                // danh sách được DÙNG LẠI SỐ CŨ khi đứng 1 mình không kèm số
+                // riêng — trước đây chỉ 4c/5c/10c/db được vậy, nên 1 dòng kiểu
+                // "459 bl 10n, giải7 20n, đb 100n" bị RỚT hẳn mệnh đề "giải7"
+                // (không có cơ chế nào cho nó mượn lại số 459 ở trên).
+                const reusableType = /^(4c|5c|10c|db|g[1-8]|g[1-8]lo\d+)$/.test(type) || isPairType;
+                const singleBareTrailing = afterNumbers.length === 1 && !beforeNumbers.length;
+                // "24 bl 10." — "10" đứng ngay sau loại cược nhưng KHÔNG có đơn vị
+                // (k/n/…) nên không lọt vào nhánh explicitAmounts phía trên; nếu
+                // không chặn ở đây, "10" bị hiểu lầm là THÊM 1 SỐ CƯỢC (mất số 24
+                // đứng trước, cược nhầm sang số 10). Loại không phải kiểu cặp (đá)
+                // + đã có số đứng trước + chỉ đúng 1 số trơ trọi phía sau → số đó
+                // gần như chắc chắn là TIỀN thiếu chữ "k", không phải số cược mới.
+                const bareAfterIsLikelyAmount = !isPairType && afterNumbers.length === 1 && beforeNumbers.length > 0;
+                let numbers;
+                if (reusableType && previousNumbers.length && singleBareTrailing) {
+                    numbers = previousNumbers;
+                } else if (bareAfterIsLikelyAmount) {
+                    numbers = beforeNumbers;
+                } else if (afterNumbers.length) {
+                    numbers = (isPairType && beforeNumbers.length) ? [...beforeNumbers, ...afterNumbers] : afterNumbers;
+                } else if (beforeNumbers.length) {
+                    // Không có số sau từ khóa → thử số ĐỨNG TRƯỚC (mọi loại,
+                    // không riêng gì 4c/5c/10c/db/đá — VD "00.33.44 bl 3").
+                    numbers = beforeNumbers;
+                } else if (reusableType) {
+                    numbers = previousNumbers;
+                } else {
+                    numbers = [];
+                }
+                const moneyMatches = [...after.matchAll(moneyRe)];
+                const money = moneyMatches.find(match => match[1] || match[2]) || moneyMatches.at(-1);
+                const amount = parseAmount(money?.[1] || money?.[2] || money?.[3]);
+                // Có "=" (hoặc ":") ngay trước số tiền — CHO PHÉP có khoảng trắng ở
+                // giữa ("= 50") — nghĩa là TỔNG CUỐI CÙNG đúng bằng số đó (chia
+                // ngược ra từng số/lô), KHÔNG PHẢI giá mỗi lô rồi nhân thêm như
+                // khi không có "=". Phải kiểm tra CẢ 2 kiểu: "=" dính liền số tiền
+                // (nằm NGAY TRONG money[0], VD "=100") lẫn "=" có khoảng trắng
+                // (nằm ở phần TRƯỚC vị trí khớp, VD "= 50") — 2 kiểu khớp qua 2
+                // nhánh khác nhau của moneyRe nên không thể chỉ kiểm tra 1 chỗ.
+                const isTotalAmount = money
+                    ? /^[=:]/.test(money[0]) || /[=:]\s*$/.test(after.slice(0, money.index))
+                    : false;
+                if (numbers.length && amount > 0) {
+                    // Cùng logic gắn tierOnly cho đá/chéo/xiên/vòng như nhánh
+                    // explicitAmounts phía trên — cần lặp lại ở đây vì tiền
+                    // kiểu dính liền không khoảng trắng ("x10k") rơi vào
+                    // nhánh else này (không khớp \b trước số của explicitAmounts).
+                    const pairTierOnly = (isPairType && pendingTierRestrict.length) ? [...pendingTierRestrict] : undefined;
+                    orderedGroups.push({ type, numbers: [...new Set(numbers)], amount, isTotalAmount, ...(pairTierOnly ? { tierOnly: pairTierOnly } : {}) });
+                    previousNumbers = [...new Set(numbers)];
+                    if (pairTierOnly) pendingTierRestrict = [];
+                }
+            }
+        }
+        // Lưu lại số cuối cùng của dòng này — nếu dòng KẾ TIẾP là ranh giới
+        // "ảo" (cùng tin gốc), nó sẽ được phép dùng lại đúng số này.
+        carryNumbers = [...previousNumbers];
+
+        // Gộp loại có số riêng với các loại rỗng phía sau não bộ cũ không còn
+        // được phép kéo số ngược từ một nhóm đã kết thúc.
+        if (orderedGroups.length) {
+            orderedGroups.forEach((group, groupIndex) => {
+                if (group.isTotalAmount) {
+                    // Có "=" → group.amount là TỔNG CUỐI CÙNG, không phải giá mỗi
+                    // lô. Tạo tạm với giá 1k/số để ĐO đúng số lô/số dòng thật của
+                    // loại cược này (qua calculateItemFinancials — không tự tính
+                    // lại luật lô ở đây, tránh lệch với công thức tính tiền chính),
+                    // rồi suy ngược ra giá mỗi số sao cho tổng khớp đúng ý người gõ.
+                    // Ghi chú hiển thị tên đọc được (VD "Tỵ (Rắn)") thay vì mã
+                    // thô (VD "RAN") — nhìn vào bảng chi tiết biết ngay đây là
+                    // cược con giáp/chẵn lẻ nào, khỏi phải đoán qua mã viết tắt.
+                    const noteText = getRegionAwareTypeName(group.type, region);
+                    const created = add(group.numbers, 1, group.type, noteText, `group-${groupIndex}`, group.tierOnly || '');
+                    if (created.length && typeof calculateItemFinancials === 'function') {
+                        const costFor1k = created.reduce((sum, it) => sum + calculateItemFinancials(it, region).totalItemCost, 0);
+                        if (costFor1k > 0) {
+                            const scale = (group.amount * 1000) / costFor1k;
+                            created.forEach(it => {
+                                it.originalAmount = Math.round(it.originalAmount * scale * 100) / 100;
+                                it.amount = it.originalAmount * 1000;
+                            });
+                        }
+                    }
+                } else {
+                    const noteText2 = getRegionAwareTypeName(group.type, region);
+                    add(group.numbers, group.amount, group.type, noteText2, `group-${groupIndex}`, group.tierOnly || '');
+                }
+            });
+            return;
+        }
+
+        let previousNums = [];
+        hits.forEach((match, index) => {
+            const previousEnd = index ? hits[index - 1].index + hits[index - 1][0].length : 0;
+            const before = line.slice(previousEnd, match.index);
+            const after = line.slice(match.index + match[0].length, index + 1 < hits.length ? hits[index + 1].index : line.length);
+            const type = mapBetType(match[0]);
+            const moneyMatches = [...after.matchAll(moneyRe)];
+            const money = moneyMatches.find(match => match[1] || match[2]) || moneyMatches.at(-1);
+            const amount = parseAmount(money?.[1] || money?.[2] || money?.[3]);
+            // Phần đứng giữa hai loại thường là giá của loại trước ("bl 10. db 20").
+            const numberSource = index && /\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\s*[.+]?\s*$/i.test(before) ? '' : before;
+            let nums = extractNums(numberSource);
+            const numsAfterType = extractNums(after.split(/[=:]|\bx\s*/i)[0].replace(/\b\d+(?:[.,/]\d+)?(?:ng|tr|k|n|m)?\s*[.+]?\s*$/i, ''));
+            if (!nums.length && numsAfterType.length) nums = numsAfterType;
+            if (!nums.length) nums = [...previousNums]; else previousNums = [...nums];
+            if (['da', 'dx', 'dv', 'cheo', 'xien'].includes(type)) {
+                nums = [...nums, ...extractNums(after.split(/[=:]|\bx\s*/i)[0])];
+                previousNums = [...nums];
+            }
+            // '=' / ':' means the amount belongs to the whole number group.
+            const isSharedAmount = /[=:]/.test(after);
+            add(nums, isSharedAmount ? amount / Math.max(nums.length, 1) : amount, type, match[0].toUpperCase());
+        });
+    });
+
+    // Cảnh báo "g{giải}lo{số}" (VD "G5lo3") mà VỊ TRÍ ĐÓ KHÔNG TỒN TẠI ở
+    // đúng miền của dòng đó — VD Trung/Nam Giải 5 CHỈ có 1 lô (xem KQXS thật:
+    // "G5 0818" — đúng 1 số), "G5lo3" chỉ có nghĩa ở Miền Bắc (Giải 5 Bắc có
+    // 6 lô). Không chặn/xóa dòng (khách có thể đang nhập đúng miền khác, chỉ
+    // quên đổi đài) — chỉ báo 1 lần cho mỗi tổ hợp giải+miền để không tạo
+    // dòng cược ÂM THẦM KHÔNG BAO GIỜ TRÚNG (vị trí không tồn tại để so
+    // khớp) mà không ai biết vì sao mất tiền cược vô ích.
+    // Toast dễ bị lướt qua mất (tự tắt sau vài giây) — nên NGOÀI toast, còn
+    // gom lại thành danh sách để nơi gọi (VD showSmartPreview) có thể hiện
+    // hẳn 1 banner CỐ ĐỊNH kèm nút "Bỏ Dòng Này" ngay trong khung xem lại,
+    // không tự biến mất, người dùng chắc chắn thấy trước khi bấm Xác Nhận.
+    if (typeof window !== 'undefined') {
+        window._pendingGLoWarning = [];
+        window._pendingGLoInvalidTypes = [];
+    }
+    const gLoWarned = new Set();
+    results.forEach(item => {
+        const gLo = String(item.betType || '').match(/^g([1-8])lo(\d+)$/);
+        if (!gLo) return;
+        const itemRegion = item.region || region;
+        const warnKey = `${gLo[1]}-${gLo[2]}-${itemRegion}`;
+        if (gLoWarned.has(warnKey)) return;
+        const maxLo = (typeof getPrizeCount === 'function') ? getPrizeCount('g' + gLo[1], itemRegion) : null;
+        if (maxLo != null && Number(gLo[2]) > maxLo) {
+            gLoWarned.add(warnKey);
+            const regionLabel = itemRegion === 'MB' ? 'Miền Bắc' : 'Miền Trung/Nam';
+            const betTypeKey = `g${gLo[1]}lo${gLo[2]}`;
+            if (typeof showToast === 'function') {
+                showToast(`⚠️ Giải ${gLo[1]} ở ${regionLabel} chỉ có ${maxLo} lô — "G${gLo[1]}lo${gLo[2]}" không tồn tại, kiểm tra lại giải/miền kẻo cược vô ích`, 'error');
+            }
+            if (typeof window !== 'undefined') {
+                window._pendingGLoWarning.push(`Giải ${gLo[1]} ở <b>${regionLabel}</b> chỉ có <b>${maxLo} lô</b> — <b>"G${gLo[1]}lo${gLo[2]}"</b> không tồn tại, các dòng này sẽ KHÔNG BAO GIỜ trúng.`);
+                window._pendingGLoInvalidTypes.push(betTypeKey);
+            }
+        }
+    });
+
+    return results.filter(item => Number(item.originalAmount) > 0);
+}
+
+// Nhãn dễ hiểu cho tierOnly (1 hoặc nhiều giải kết hợp, VD ['db','g7']) — hiển
+// thị THẲNG ở cột "Loại cược" (thay vì chỉ ghi trong Ghi chú) vì đây mới là
+// thứ cần nhìn để dò tay đối chiếu: dò đúng giải nào, không cần đoán hay lật
+// lại tin nhắn gốc. Nhiều giải kết hợp ghi nối bằng " + " (VD "Đặc Biệt +
+// Giải 7"), khớp trúng khi 1 TRONG SỐ các giải đó về đúng.
+function describeTierOnly(tierOnly) {
+    const list = Array.isArray(tierOnly) ? tierOnly : (tierOnly ? [tierOnly] : []);
+    if (!list.length) return '';
+    return list.map(source => {
+        const t = String(source).toLowerCase();
+        const gLo = t.match(/^g([1-8])lo(\d+)$/);
+        if (gLo) return `Giải ${gLo[1]} (Lô ${gLo[2]})`;
+        const g = t.match(/^g([1-8])$/);
+        if (g) return `Giải ${g[1]}`;
+        if (t === 'db') return 'Đặc Biệt';
+        return t.toUpperCase();
+    }).join(' + ');
+}
+
+// Nhãn "🎯 ..." cho biết BÊN TRONG 1 loại cược đang thật sự dò những giải
+// nào — trước đây chỉ hiện khi gõ kiểu "Db. Heo x 50k" (tierOnly do người
+// dùng tự giới hạn). Nhưng nhiều loại CỐ ĐỊNH sẵn có (5 Cuối, 12 Đầu, 13
+// Đầu, Đầu Đuôi, Xỉu Chủ...) cũng là gộp nhiều giải, mà dropdown chỉ ghi
+// tên chung chung — không tự suy ra được bên trong gồm giải nào nếu không
+// thuộc lòng luật. Hàm này dùng getBetTypeTiers() để tra ra đúng các giải
+// cố định đó, tái dùng lại đúng nhãn "🎯 Giải X + Giải Y" quen thuộc.
+function getDisplayTierBadge(item, region) {
+    const dynamicTiers = (Array.isArray(item.tierOnly) && item.tierOnly.length) ? item.tierOnly : null;
+    // Mã "Cược tổng hợp" (VD 'g3g2g1db') có TÊN đã tự ghi rõ đủ giải bên
+    // trong rồi — hiện thêm badge chỉ lặp lại y chang, dư thừa. Quy về mã
+    // hiển thị trước khi so (getManualTypeKey) để dữ liệu CŨ lỡ lưu mã viết
+    // tắt ('5c'/'12d'/'13d') cũng được nhận đúng, không hiện badge dư nữa.
+    if (!dynamicTiers && SELF_DESCRIBING_TIER_TYPES.includes(getManualTypeKey(item.betType))) return '';
+    // "g{giải}lo{số}" (VD "g5lo3") — dropdown TỰ ghi rõ "Giải 5 - Lô 3" rồi,
+    // hiện thêm badge sẽ mất chữ "Lô 3" (getBetTypeTiers chỉ trả về ['g5'],
+    // không giữ số vị trí) — dễ hiểu lầm là đang dò CẢ Giải 5, không phải
+    // đúng 1 lô cụ thể. Coi như tự mô tả sẵn, không hiện thêm badge nữa.
+    if (!dynamicTiers && /^g[1-8]lo\d+$/.test(String(item.betType || '').toLowerCase())) return '';
+    const tiers = dynamicTiers || (typeof getBetTypeTiers === 'function' ? getBetTypeTiers(item.betType, region) : null);
+    if (!Array.isArray(tiers) || !tiers.length) return '';
+    // Loại chỉ gồm ĐÚNG 1 giải trùng tên chính nó (VD 'db'->['db'], 'g5'->
+    // ['g5']) thì dropdown đã tự nói rõ rồi — hiện thêm badge chỉ dư thừa.
+    if (!dynamicTiers && tiers.length === 1 && tiers[0] === String(item.betType || '').toLowerCase()) return '';
+    return describeTierOnly(tiers);
+}
+
+function createItem(num, amountInK, region, betType, note = '', prizeTag = '', tierOnly = '') {
+    const rawNum = String(num || '');
+    const baseNum = rawNum.split('-')[0];
+    const digits = baseNum.length >= 4 ? 4 : (baseNum.length >= 3 ? 3 : 2);
+    const padded = rawNum.includes('-') ? rawNum : rawNum.padStart(digits, '0');
+    const now = new Date();
+    const kVal = Number(amountInK) || 0;
+    const reg = region || 'MT';
+
+    // Gõ "blô"/"bao lô" cho số 3 chữ số vẫn ra 'bl' ("Bao Lô (2C)") — tiền tính
+    // đúng (đã theo digits) nhưng NHÃN sai/gây hiểu lầm là 2 càng. Số 3 chữ số
+    // thì đổi đúng sang '3c' ("Bao Lô 3C") ngay lúc tạo dòng, khỏi lệch ở mọi
+    // nơi hiển thị sau này.
+    let resolvedBetType = betType || 'bl';
+    if (resolvedBetType === 'bl' && digits === 3) resolvedBetType = '3c';
+
+    const resolvedStations = (typeof resolveStations === 'function') 
+        ? resolveStations(reg) 
+        : (typeof selectedStations !== 'undefined' ? [...selectedStations] : []);
+
+    return {
+        id: 'bet_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7),
+        num: padded,
+        digits: digits,
+        originalAmount: kVal,
+        amount: kVal * 1000,
+        region: reg,
+        betType: resolvedBetType,
+        note: note,
+        prizeTag: prizeTag,
+        tierOnly: (Array.isArray(tierOnly) && tierOnly.length) ? tierOnly : '',
+        matched: false,
+        matchCount: 0,
+        winAmount: 0,
+        stations: resolvedStations,
+        prizeInfo: '',
+        createdAt: now.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' }) + ' ' + now.toLocaleDateString('vi-VN'),
+        createdAtTimestamp: now.getTime(),
+		dateStr: now.toLocaleDateString('vi-VN')
+    };
+}
+
+function getAutoStations(region) {
+    if (typeof getTodayStations === 'function') {
+        const today = getTodayStations(region || 'MT');
+        return today.length ? [...today] : [];
+    }
+    return [];
+}
+
+function getMainStation(region) {
+    if (typeof getTodayStations === 'function') {
+        const today = getTodayStations(region || 'MT');
+        return today.length ? [today[0]] : [];
+    }
+    return [];
+}
+
+// ================= TỶ LỆ CƯỢC (có lưu LocalStorage) =================
+const RATE_STORAGE_KEY = "SEA_LOTTO_CUSTOM_RATES";
+
+let CUSTOM_RATES = {
+    c2: 91,   // 2 Càng
+    c3: 780,  // 3 Càng
+    da: 780   // Đá / Chéo / Xiên
+};
+
+function loadCustomRates() {
+    try {
+        const saved = localStorage.getItem(RATE_STORAGE_KEY);
+        if (saved) {
+            const parsed = JSON.parse(saved);
+            if (parsed && typeof parsed === 'object') {
+                CUSTOM_RATES = { ...CUSTOM_RATES, ...parsed };
+            }
+        }
+    } catch (e) {
+        console.warn("Không load được tỷ lệ đã lưu", e);
+    }
+}
+
+function saveCustomRates() {
+    try {
+        localStorage.setItem(RATE_STORAGE_KEY, JSON.stringify(CUSTOM_RATES));
+    } catch (e) {
+        console.warn("Không lưu được tỷ lệ", e);
+    }
+}
+
+function updateCustomRate(type, val) {
+    const num = parseFloat(val);
+    if (num > 0) {
+        CUSTOM_RATES[type] = num;
+        if (typeof saveCustomRates === 'function') saveCustomRates();
+
+        // Tính lại winAmount cho tất cả item đã trúng
+        if (typeof groups !== 'undefined' && Array.isArray(groups)) {
+            groups.forEach(g => {
+                const list = appData[g]?.betList || [];
+                list.forEach(item => {
+                    if (item.matched || (item.winAmount && item.winAmount > 0)) {
+                        const fin = calculateItemFinancials(item, item.region || 'MT');
+                        item.winAmount = fin.winAmount;
+                    }
+                });
+                if (typeof recalculateTotals === 'function') recalculateTotals(g);
+            });
+        }
+
+        if (typeof showToast === 'function') {
+            showToast(`Đã đổi tỷ lệ ${type.toUpperCase()} thành ${num}`, 'info');
+        }
+        if (typeof renderMatrixTable === 'function') renderMatrixTable();
+        if (typeof updateGrandSummary === 'function') updateGrandSummary();
+    }
+}
+
+function applyCustomRatesToUI() {
+    // Tìm chính xác theo onchange
+    const c2 = document.querySelector('input[onchange*="\'c2\'"]') || document.querySelector('input[onchange*="c2"]');
+    const c3 = document.querySelector('input[onchange*="\'c3\'"]') || document.querySelector('input[onchange*="c3"]');
+    const da = document.querySelector('input[onchange*="\'da\'"]') || document.querySelector('input[onchange*="da"]');
+
+    if (c2) c2.value = CUSTOM_RATES.c2;
+    if (c3) c3.value = CUSTOM_RATES.c3;
+    if (da) da.value = CUSTOM_RATES.da;
+}
+
+// ================= BẢNG XEM LẠI & TRẢ SỐ (REVIEW & REFUND) =================
+
+function showInputComparison(newItems) {
+    pendingInputItems = newItems;
+    inputSessionCount++;
+
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString('vi-VN') + ' - ' + now.toLocaleDateString('vi-VN');
+    const stationsStr = (typeof selectedStations !== 'undefined' && selectedStations.length)
+        ? selectedStations.map(s => (typeof STATION_ABBR !== 'undefined' && STATION_ABBR[s]) ? STATION_ABBR[s] : s).join(', ')
+        : 'Chưa chọn';
+
+    let html = `
+        <div style="max-height:55vh; overflow:auto; font-size:13px;">
+            <p style="color:#94a3b8; margin-bottom:8px;">
+                <b>Lần nhập #${inputSessionCount}</b> | ${timeStr} | Đài: <b style="color:#fbbf24;">${stationsStr}</b>
+            </p>
+            <table style="width:100%; border-collapse:collapse;">
+                <thead>
+                    <tr style="background:#0f172a; color:#00f3ff;">
+                        <th style="padding:6px; border:1px solid #334155;">#</th>
+                        <th style="padding:6px; border:1px solid #334155;">Số</th>
+                        <th style="padding:6px; border:1px solid #334155;">Loại</th>
+                        <th style="padding:6px; border:1px solid #334155;">Tiền (k)</th>
+                        <th style="padding:6px; border:1px solid #334155;">Ghi chú</th>
+                        <th style="padding:6px; border:1px solid #334155;">Thao tác</th>
+                    </tr>
+                </thead>
+                <tbody>
+    `;
+
+    newItems.forEach((item, idx) => {
+        const bg = idx % 2 === 0 ? '#1e293b' : '#0f172a';
+        const origK = item.originalAmount || (item.amount / 1000) || 0;
+        html += `
+            <tr style="background:${bg};" id="review-row-${idx}">
+                <td style="padding:5px; border:1px solid #334155; text-align:center; color:#64748b;">${idx + 1}</td>
+                <td style="padding:5px; border:1px solid #334155; font-weight:bold; color:#00f3ff; text-align:center;">${item.num}</td>
+                <td style="padding:5px; border:1px solid #334155; text-align:center; color:#f472b6;">${(item.betType || '').toUpperCase()}</td>
+                <td style="padding:5px; border:1px solid #334155; text-align:center;">
+                    <input type="number" value="${origK}" style="width:70px; background:#0f172a; border:1px solid #334155; color:#00ff88; text-align:center; font-weight:bold;"
+                           onchange="pendingInputItems[${idx}].originalAmount = parseFloat(this.value) || 0; pendingInputItems[${idx}].amount = (parseFloat(this.value) || 0) * 1000;">
+                </td>
+                <td style="padding:5px; border:1px solid #334155; font-size:12px; color:#94a3b8;">${item.note || ''}</td>
+                <td style="padding:5px; border:1px solid #334155; text-align:center;">
+                    <button class="btn btn-sm btn-red" style="padding:2px 6px; font-size:11px;" onclick="removePendingItem(${idx})">Xóa</button>
+                </td>
+            </tr>
+        `;
+    });
+
+    html += `
+                </tbody>
+            </table>
+            <div style="margin-top:12px; display:flex; gap:8px; flex-wrap:wrap;">
+                <button class="btn btn-green" onclick="confirmPendingInput()">✅ Xác nhận nạp</button>
+                <button class="btn btn-gray" onclick="cancelPendingInput()">Hủy</button>
+            </div>
+            <div style="margin-top:12px; border-top:1px solid #334155; padding-top:10px;">
+                <b style="color:#fbbf24;">Trả số (Refund):</b><br>
+                <input type="text" id="refund-input" placeholder="Ví dụ: 68 200 hoặc hàng 3 150"
+                       style="width:100%; padding:8px; margin-top:6px; background:#1e293b; border:1px solid #00f3ff; color:#fff; border-radius:6px;">
+                <button class="btn btn-orange" style="margin-top:6px;" onclick="processRefund()">Trả số</button>
+            </div>
+        </div>
+    `;
+
+    if (typeof showModal === 'function') {
+        showModal({
+            title: "Bảng Xem Lại – Chỉnh sửa trước khi nạp",
+            body: html,
+            isPrompt: false
+        });
+    }
+}
+
+function removePendingItem(idx) {
+    pendingInputItems.splice(idx, 1);
+    showInputComparison(pendingInputItems);
+}
+
+function processRefund() {
+    const input = document.getElementById('refund-input')?.value.trim();
+    if (!input) {
+        if (typeof showToast === 'function') showToast("Vui lòng nhập lệnh trả số", "error");
+        return;
+    }
+
+    const matchNum = input.match(/^(\d{2,3})\s*(?:trả|tra)?\s*([\d.,]+[kntr]?)$/i);
+    const matchRow = input.match(/^hàng\s*(\d+)\s*(?:trả|tra)?\s*([\d.,]+[kntr]?)$/i);
+
+    if (matchNum) {
+        applyRefundByNumber(matchNum[1], parseAmount(matchNum[2]));
+    } else if (matchRow) {
+        applyRefundByRow(parseInt(matchRow[1], 10) - 1, parseAmount(matchRow[2]));
+    } else {
+        if (typeof showToast === 'function') showToast("Định dạng sai. Ví dụ:\n68 200\nhàng 3 150", "error");
+    }
+}
+
+function applyRefundByNumber(num, refundAmountK) {
+    const item = pendingInputItems.find(i => i.num === num);
+    if (!item) {
+        if (typeof showToast === 'function') showToast(`Không tìm thấy số ${num}`, "error");
+        return;
+    }
+    if (refundAmountK <= 0) {
+        if (typeof showToast === 'function') showToast("Số tiền trả phải > 0", "error");
+        return;
+    }
+
+    const original = item.originalAmount || (item.amount / 1000);
+    if (refundAmountK >= original) {
+        item.originalAmount = 0;
+        item.amount = 0;
+        item.note = `Đã trả hết (gốc ${original}k)`;
+    } else {
+        item.originalAmount = Math.round((original - refundAmountK) * 100) / 100;
+        item.amount = item.originalAmount * 1000;
+        item.note = `Gốc ${original}k → còn ${item.originalAmount}k`;
+    }
+
+    showInputComparison(pendingInputItems);
+    if (typeof showToast === 'function') showToast(`Đã trả ${refundAmountK}k cho số ${num}`, "success");
+}
+
+function applyRefundByRow(rowIndex, refundAmountK) {
+    if (rowIndex < 0 || rowIndex >= pendingInputItems.length) {
+        if (typeof showToast === 'function') showToast("Số hàng không hợp lệ", "error");
+        return;
+    }
+    applyRefundByNumber(pendingInputItems[rowIndex].num, refundAmountK);
+}
+
+function confirmPendingInput() {
+    if (!pendingInputItems || pendingInputItems.length === 0) return;
+
+    const activeG = typeof activeGroup !== 'undefined' ? activeGroup : null;
+    if (!activeG || !appData?.[activeG]) return;
+
+    const gObj = appData[activeG];
+    if (!Array.isArray(gObj.inputHistory)) gObj.inputHistory = [];
+    if (!Array.isArray(gObj.betList)) gObj.betList = [];
+
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' }) + ' - ' + now.toLocaleDateString('vi-VN');
+    
+    const validItems = JSON.parse(JSON.stringify(pendingInputItems.filter(i => (i.amount || 0) > 0)));
+    if (validItems.length === 0) {
+        if (typeof showToast === 'function') showToast("Không có số nào hợp lệ để nhập", "error");
+        return;
+    }
+
+    const session = {
+        id: Date.now(),
+        time: timeStr,
+        region: validItems[0]?.region || 'MT',
+        items: validItems,
+        stations: (typeof selectedStations !== 'undefined') ? [...selectedStations] : []
+    };
+
+    gObj.inputHistory.push(session);
+    gObj.betList.push(...validItems);
+
+    if (typeof recalculateTotals === 'function') recalculateTotals(activeG);
+    if (typeof renderMatrixTable === 'function') renderMatrixTable();
+    if (typeof updateGrandSummary === 'function') updateGrandSummary();
+    if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+
+    const overlay = document.getElementById('custom-modal-overlay');
+    if (overlay) overlay.style.display = 'none';
+
+    const smartInput = document.getElementById('smart-input');
+    if (smartInput) smartInput.value = '';
+
+    pendingInputItems = [];
+    if (typeof showToast === 'function') showToast(`Đã nạp thành công ${validItems.length} số!`, "success");
+}
+
+function cancelPendingInput() {
+    pendingInputItems = [];
+    const overlay = document.getElementById('custom-modal-overlay');
+    if (overlay) overlay.style.display = 'none';
+    if (typeof showToast === 'function') showToast("Đã hủy lần nhập", "info");
+}
+
+// ================= NHẬP NHANH THÔNG MINH (SMART INPUT) =================
+function processSmartInput() {
+        const raw = document.getElementById('smart-input')?.value?.trim() || '';
+    if (!raw) {
+        if (typeof showToast === 'function') showToast('Vui lòng nhập hoặc dán nội dung!', 'error');
+        return;
+    }
+    const region = (typeof detectRegionFromText === 'function')
+        ? detectRegionFromText(raw, document.querySelector('input[name="region-select"]:checked')?.value || 'MT')
+        : (document.querySelector('input[name="region-select"]:checked')?.value || 'MT');
+    const radio = document.querySelector(`input[name="region-select"][value="${region}"]`);
+    if (radio) radio.checked = true;
+    let items = [];
+    try {
+        items = parseSmartLottoText(raw, region) || [];
+    } catch (err) {
+        console.error("Lỗi Parser:", err);
+        if (typeof showToast === 'function') showToast('Lỗi phân tích nội dung!', 'error');
+        return;
+    }
+
+    if (items.length === 0) {
+        if (typeof customAlert === 'function') {
+            customAlert('Không nhận được số hợp lệ nào.<br>Hãy kiểm tra lại cú pháp (bl, đá, 5k, 20-30…).', 'Không có dữ liệu');
+        }
+        return;
+    }
+
+    const stationsToUse = (typeof resolveStations === 'function')
+        ? resolveStations(region)
+        : ((typeof selectedStations !== 'undefined' && selectedStations.length > 0)
+            ? [...selectedStations]
+            : (typeof getMainStation === 'function' ? getMainStation(region) : []));
+
+    items.forEach(it => {
+        if (!it.stations || it.stations.length === 0) {
+            it.stations = [...stationsToUse];
+        }
+        if (!it.region) it.region = region;
+    });
+
+    // Cảnh báo nhẹ (không chặn) nếu nội dung nhắc tới đài khác đài đang chọn
+    // để nhập — VD gõ "Vĩnh Long" nhưng đài đang chọn lại là đài khác.
+    if (typeof detectMentionedStations === 'function') {
+        const mentioned = detectMentionedStations(raw);
+        const mismatched = mentioned.filter(s => !stationsToUse.includes(s));
+        window._pendingStationWarning = mismatched.length
+            ? `⚠️ Nội dung có nhắc tới đài <b>${mismatched.join(', ')}</b>, nhưng đài đang chọn để nhập là <b>${stationsToUse.map(s => (typeof STATION_ABBR !== 'undefined' && STATION_ABBR[s]) || s).join(', ') || 'chưa chọn'}</b> — kiểm tra lại nếu không đúng ý.`
+            : '';
+    }
+
+    if (skipComparisonModal) {
+        commitSmartItems(items);
+        return;
+    }
+
+    showSmartPreview(items);
+}
+
+function resetModalSize() {
+    const card = document.querySelector('#custom-modal-overlay .modal-card');
+    if (card) {
+        card.removeAttribute('id');
+        card.style.maxWidth = '';
+        card.style.width = '';
+    }
+}
+
+function updatePendingSmartField(index, field, value, refresh = true) {
+    const item = window._pendingSmartItems?.[index];
+    if (!item) return;
+    if (field === 'originalAmount') {
+        item.originalAmount = Math.max(0, Number(value) || 0);
+        item.amount = item.originalAmount * 1000;
+    } else if (field === 'num') {
+        item.num = String(value).replace(/\s+/g, '');
+        const first = item.num.split('-')[0] || '';
+        item.digits = first.length >= 4 ? 4 : (first.length >= 3 ? 3 : 2);
+        item.pairNums = item.num.includes('-') ? item.num.split('-').filter(Boolean) : undefined;
+    } else if (field === 'betType') item.betType = mapBetType(value);
+    if (refresh) renderSmartPreviewContent();
+}
+
+function updatePendingSmartStation(index, select) {
+    const item = window._pendingSmartItems?.[index];
+    if (!item) return;
+    item.stations = [...select.selectedOptions].map(option => option.value);
+    renderSmartPreviewContent();
+}
+
+function removePendingSmartItem(index) {
+    if (!window._pendingSmartItems) return;
+    window._pendingSmartItems.splice(index, 1);
+    renderSmartPreviewContent();
+}
+
+function renderSmartPreviewContent() {
+    const items = window._pendingSmartItems || [];
+    const modalBody = document.getElementById('modal-body');
+    if (!modalBody) return;
+    const esc = value => String(value ?? '').replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[char]);
+    const typeOptions = (item, region) => getManualBetTypeOptions(getDropdownDisplayType(item.betType), region);
+    let total = 0;
+    const groups = new Map();
+    items.forEach((item, index) => {
+        const key = item.linkId || `item-${index}`;
+        if (!groups.has(key)) groups.set(key, []);
+        groups.get(key).push({ item, index });
+    });
+    let groupNumber = 0;
+    const rows = [...groups.values()].map(group => {
+        groupNumber += 1;
+        const groupLabel = `Cụm ${String(groupNumber).padStart(2, '0')}`;
+        const groupNumbers = [...new Set(group.map(entry => entry.item.num))].join(', ');
+        const groupRows = group.map(({ item, index }) => {
+        const region = item.region || document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+        const stations = [...new Set([...getTodayStations(region), ...(item.stations || []), ...selectedStations])];
+        const selected = item.stations?.length ? item.stations : selectedStations;
+        const financials = calculateItemFinancials(item, region);
+        total += financials.totalItemCost;
+        const stationOptions = stations.map(station => `<option value="${esc(station)}" ${selected.includes(station) ? 'selected' : ''}>${esc(STATION_ABBR[station] || station)}</option>`).join('');
+        const stationLabel = selected.length
+            ? selected.map(station => STATION_ABBR[station] || station).join('+')
+            : 'Đài chính';
+        return `<tr class="smart-review-item ${index % 2 ? 'is-alt' : ''}">
+            <td class="smart-review-index">${index + 1}</td>
+            <td><input class="smart-review-input smart-review-number" value="${esc(item.num)}" oninput="updatePendingSmartField(${index}, 'num', this.value, false)" onchange="updatePendingSmartField(${index}, 'num', this.value)" aria-label="Số cược"></td>
+            <td>${(() => { const label = getDisplayTierBadge(item, region); return label ? `<div style="color:#fbbf24;font-size:10px;font-weight:bold;margin-bottom:2px;" title="${esc(label)}">🎯 ${esc(label)}</div>` : ''; })()}<select class="smart-review-select" onchange="updatePendingSmartField(${index}, 'betType', this.value)">${typeOptions(item, region)}</select></td>
+            <td><div class="smart-review-money"><input class="smart-review-input" type="number" min="0" step="0.1" value="${Number(item.originalAmount) || 0}" oninput="updatePendingSmartField(${index}, 'originalAmount', this.value, false)" onchange="updatePendingSmartField(${index}, 'originalAmount', this.value)"> <span>k</span></div></td>
+            <td class="smart-review-station-cell"><span class="smart-review-station-label">${esc(stationLabel)}</span><select class="smart-review-stations" multiple size="1" onchange="updatePendingSmartStation(${index}, this)" title="Chọn nhiều đài nếu cần">${stationOptions}</select></td>
+            <td class="smart-review-lots">${financials.soLo}</td><td class="smart-review-cost">${financials.totalItemCost.toLocaleString()} ₫</td>
+            <td><button class="btn btn-red smart-review-delete" onclick="removePendingSmartItem(${index})" aria-label="Xóa dòng">Xóa</button></td>
+        </tr>`;
+        }).join('');
+        const groupTotal = group.reduce((sum, entry) => sum + calculateItemFinancials(entry.item, entry.item.region || 'MT').totalItemCost, 0);
+        return `<tr class="smart-review-group"><td colspan="8"><span class="smart-review-group-id">${groupLabel}</span><span class="smart-review-group-numbers">${esc(groupNumbers)}</span><span class="smart-review-group-total">${group.length} dòng · ${groupTotal.toLocaleString()} ₫</span></td></tr>${groupRows}`;
+    }).join('');
+    const stationWarning = window._pendingStationWarning
+        ? `<div style="background:rgba(251,191,36,0.12);border:1px solid rgba(251,191,36,0.4);border-radius:8px;padding:8px 12px;margin-bottom:10px;font-size:12.5px;color:#fbbf24;">${window._pendingStationWarning}</div>`
+        : '';
+    // Cảnh báo "G{giải}lo{số} không tồn tại" (xem parseSmartLottoText) hiện
+    // NGAY TRONG khung xem lại — cố định, không tự tắt như toast, kèm 2 nút
+    // hành động rõ ràng để người dùng quyết định luôn tại đây, khỏi phải tự
+    // dò tìm dòng sai trong bảng để xóa tay.
+    const gLoWarningList = window._pendingGLoWarning || [];
+    const gLoWarning = gLoWarningList.length
+        ? `<div style="background:rgba(248,113,113,0.14); border:1px solid rgba(248,113,113,0.45); border-radius:8px; padding:10px 12px; margin-bottom:10px; font-size:12.5px; color:#fca5a5;"><div style="margin-bottom:8px;">⚠️ ${gLoWarningList.join('<br>⚠️ ')}</div><div style="display:flex; gap:8px;"><button type="button" class="btn btn-red" style="padding:4px 10px; font-size:12px;" onclick="removeInvalidGLoItems()">Bỏ Dòng Này</button><button type="button" class="btn" style="padding:4px 10px; font-size:12px; background:#334155; color:#e2e8f0;" onclick="dismissGLoWarning()">Vẫn Thêm</button></div></div>`
+        : '';
+
+    modalBody.innerHTML = stationWarning + gLoWarning + `<div class="smart-review-intro"><div><strong>Kiểm tra từng cụm số</strong><span>${groups.size} cụm liên kết · ${items.length} dòng</span></div><small>Giá, loại và đài có thể sửa trước khi nhập</small></div>
+        <div class="smart-review-scroll"><table class="smart-review-table"><thead><tr><th>#</th><th>Số</th><th>Loại</th><th>Giá</th><th>Đài</th><th>Lô</th><th>Vốn</th><th></th></tr></thead><tbody>${rows || '<tr><td colspan="8" class="smart-review-empty">Chưa còn dòng nào.</td></tr>'}</tbody></table></div>
+        <div class="smart-review-total"><span>Tổng vốn lượt này</span><b>${total.toLocaleString()} ₫</b></div>`;
+}
+
+function showSmartPreview(items) {
+    window._pendingSmartItems = items;
+    showModal({
+        title: 'Xem lại & chỉnh trước khi nhập', body: '', confirmText: 'Xác nhận nhập', cancelText: 'Hủy', showCancel: true, confirmClass: 'btn-green',
+        onConfirm: () => { const pending = window._pendingSmartItems || []; window._pendingSmartItems = null; window._pendingStationWarning = ''; window._pendingGLoWarning = []; window._pendingGLoInvalidTypes = []; if (pending.length) commitSmartItems(pending); resetModalSize(); },
+        onCancel: () => { window._pendingSmartItems = null; window._pendingStationWarning = ''; window._pendingGLoWarning = []; window._pendingGLoInvalidTypes = []; resetModalSize(); }
+    });
+    renderSmartPreviewContent();
+    setTimeout(() => { const card = document.querySelector('#custom-modal-overlay .modal-card'); if (card) { card.id = 'smart-preview-modal-card'; card.style.maxWidth = '1100px'; card.style.width = '96%'; } }, 0);
+}
+
+// "Bỏ Dòng Này" trong banner cảnh báo "G{giải}lo{số} không tồn tại" — xóa
+// ĐÚNG các dòng đang bị sai giải/miền (khớp betType) khỏi danh sách đang xem
+// lại, không đụng tới các dòng khác. "Vẫn Thêm" chỉ tắt banner, giữ nguyên
+// dữ liệu (dùng khi người dùng xác nhận mình CỐ Ý muốn vậy, VD nhầm đài lúc
+// gõ nhưng con số vẫn đúng ý, hoặc để sửa tay lại loại cược sau).
+function removeInvalidGLoItems() {
+    const invalidTypes = window._pendingGLoInvalidTypes || [];
+    if (invalidTypes.length && Array.isArray(window._pendingSmartItems)) {
+        const before = window._pendingSmartItems.length;
+        window._pendingSmartItems = window._pendingSmartItems.filter(item => !invalidTypes.includes(String(item.betType || '').toLowerCase()));
+        const removed = before - window._pendingSmartItems.length;
+        if (typeof showToast === 'function') showToast(`Đã bỏ ${removed} dòng không hợp lệ`, 'success');
+    }
+    window._pendingGLoWarning = [];
+    window._pendingGLoInvalidTypes = [];
+    renderSmartPreviewContent();
+}
+
+function dismissGLoWarning() {
+    window._pendingGLoWarning = [];
+    window._pendingGLoInvalidTypes = [];
+    renderSmartPreviewContent();
+}
+
+function commitSmartItems(items) {
+    if (!items || items.length === 0) return;
+
+    const activeG = typeof activeGroup !== 'undefined' ? activeGroup : null;
+    if (!activeG || !appData?.[activeG]) return;
+
+    const gObj = appData[activeG];
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit', second: '2-digit' }) + ' - ' + now.toLocaleDateString('vi-VN');
+
+    items.forEach(it => {
+        if (!it.id) it.id = 'bet_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7);
+        if (!it.createdAt) it.createdAt = timeStr;
+        if (!it.createdAtTimestamp) it.createdAtTimestamp = Date.now();
+        it.matched = false;
+        it.winAmount = 0;
+        it.matchCount = 0;
+    });
+
+    if (!Array.isArray(gObj.inputHistory)) gObj.inputHistory = [];
+    gObj.inputHistory.push({
+        id: Date.now(),
+        time: timeStr,
+        region: items[0]?.region || 'MT',
+        items: items
+    });
+
+    if (!Array.isArray(gObj.betList)) gObj.betList = [];
+    gObj.betList.push(...items);
+
+    const ta = document.getElementById('smart-input');
+    if (ta) ta.value = '';
+
+    if (typeof recalculateTotals === 'function') recalculateTotals(activeG);
+    if (typeof renderMatrixTable === 'function') renderMatrixTable();
+    if (typeof updateGrandSummary === 'function') updateGrandSummary();
+    if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+
+    // === THÊM DÒNG NÀY ===
+    if (typeof calcCapitalShare === 'function') calcCapitalShare();
+
+    if (typeof showToast === 'function') showToast(`Đã nhập ${items.length} số vào nhóm ${activeG}`, 'success');
+}
+
+function confirmPendingInputDirect(items) {
+    pendingInputItems = items;
+    confirmPendingInput();
+}
+
+function toggleSkipComparison() {
+    skipComparisonModal = !skipComparisonModal;
+    if (typeof showToast === 'function') {
+        showToast(skipComparisonModal ? 'Đã TẮT bảng xem lại – nhập thẳng' : 'Đã BẬT bảng xem lại', 'info');
+    }
+}
+
+function showInputHelp() {
+    const sec = (icon, title, color, bodyHtml) => `
+        <div style="margin-bottom:18px;">
+            <div style="display:flex; align-items:center; gap:8px; margin-bottom:8px;">
+                <span style="font-size:18px;">${icon}</span>
+                <b style="color:${color}; font-size:14.5px;">${title}</b>
+            </div>
+            ${bodyHtml}
+        </div>`;
+
+    const shortcutRow = (key, desc) => `
+        <tr>
+            <td style="padding:7px 10px; border:1px solid #334155; white-space:nowrap;">
+                <span style="background:#1e293b; border:1px solid #475569; border-radius:5px; padding:2px 8px; font-family:monospace; color:#00f3ff; font-weight:bold;">${key}</span>
+            </td>
+            <td style="padding:7px 10px; border:1px solid #334155;">${desc}</td>
+        </tr>`;
+
+    const typeRow = (name, note, examples, coverage) => `
+        <tr>
+            <td style="padding:8px; border:1px solid #334155; vertical-align:top; white-space:nowrap;">
+                <b style="color:#fbbf24;">${name}</b>
+                ${note ? `<div style="font-size:11px; color:#94a3b8; margin-top:2px;">${note}</div>` : ''}
+            </td>
+            <td style="padding:8px; border:1px solid #334155;">${examples}</td>
+            <td style="padding:8px; border:1px solid #334155; color:#a5f3fc;">${coverage}</td>
+        </tr>`;
+
+    const help = `
+        <div style="max-height:72vh; overflow-y:auto; padding-right:8px; font-size:13px; color:#e2e8f0; line-height:1.55;">
+
+            <div style="background:rgba(0,243,255,0.08); border:1px solid rgba(0,243,255,0.25); border-radius:8px; padding:10px 12px; margin-bottom:18px;">
+                <b style="color:#00f3ff;">💡 Mẹo quan trọng nhất:</b>
+                Khi 1 dòng dùng NHIỀU loại cược chung 1 bộ số (VD "00.33.44 bl 3. Chéo 0.5k. Db 20k"), luôn gõ kèm đơn vị <b>k</b>/<b>n</b> cho tiền — máy sẽ hiểu đúng "dùng lại số cũ", không bị nhầm số tiền thành số cược mới.
+            </div>
+
+            ${sec('⌨️', 'Phím Tắt Nhanh', '#00f3ff', `
+                <table style="width:100%; border-collapse:collapse;">
+                    <tbody>
+                        ${shortcutRow('Shift + T', 'Mở modal <b>Nhập Tay Thông Minh</b> (từng dòng số + dropdown loại cược)')}
+                        ${shortcutRow('Shift + B', 'Xử lý (phân tích) nội dung đang dán trong khung <b>Nhập Nhanh Thông Minh</b>')}
+                        ${shortcutRow('Shift + F', 'Mở <b>Lọc / Cắt thông minh</b> — cắt bớt tiền hoặc lọc theo mức K trước khi đưa vào Bảng Chi Tiết')}
+                        ${shortcutRow('Shift + G', 'Thêm dòng mới (trong modal Nhập Tay)')}
+                        ${shortcutRow('Shift + D', 'Focus nhanh vào ô dán KQXS để dò số')}
+                        ${shortcutRow('Shift + S', 'Dò kết quả ngay (giống bấm nút "Dò Số")')}
+                        ${shortcutRow('Enter', 'Xác nhận/lưu khi đang mở modal Nhập Tay hoặc Nhập Nhanh')}
+                    </tbody>
+                </table>
+            `)}
+
+            ${sec('✍️', 'Nhập Tay Thông Minh (modal có dropdown chọn loại)', '#fbbf24', `
+                <div style="background:rgba(0,243,255,0.08); border:1px solid rgba(0,243,255,0.25); border-radius:8px; padding:10px 12px; margin-bottom:12px;">
+                    <b style="color:#00f3ff;">Chỉ có ĐÚNG 3 KIỂU CƯỢC</b> — khớp đúng 3 cột <b>2c / 3c / Đá</b> trong Bảng Chi Tiết: <b>2C</b> = số 2 chữ số, <b>3C</b> = số 3 chữ số, <b>Đá</b> = 1 cặp/nhóm số.
+                    <p style="margin:8px 0 0;">Mọi tên gọi khác trong dropdown "Loại cược" (Bao Lô, Đặc Biệt, Giải riêng, 5 Cuối, 12 Đầu, 13 Đầu, Xỉu Chủ, Đầu, Đuôi...) <b style="color:#f87171;">KHÔNG PHẢI là kiểu cược thứ 4</b> — chỉ là chọn <b>DÒ Ở ĐÂU (giải nào)</b> cho đúng 1 trong 3 kiểu trên. Tự hỏi: Số gõ vào là 2C/3C/Đá? Nếu 2C hoặc 3C — dò Bao Lô (mọi giải) hay chỉ 1 giải cụ thể? Nếu Đá — Thẳng (2 số), Chéo/Xiên (3+ số cả nhóm) hay Vòng (3+ số tách cặp)?</p>
+                </div>
+                <div style="overflow-x:auto;">
+                <table style="width:100%; border-collapse:collapse;">
+                    <thead>
+                        <tr style="background:#0f172a; color:#00f3ff;">
+                            <th style="padding:8px; border:1px solid #334155; text-align:left;">Loại cược</th>
+                            <th style="padding:8px; border:1px solid #334155; text-align:left;">Gõ số như thế nào</th>
+                            <th style="padding:8px; border:1px solid #334155; text-align:left;">Dò trúng ở đâu / bao nhiêu lô</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td colspan="3" style="padding:6px 8px; background:#1e293b; color:#fbbf24; font-weight:bold;">— KIỂU 2C (số 2 chữ số) —</td></tr>
+                        ${typeRow('Bao Lô 2C', '2 chữ số — 2C của TẤT CẢ giải', '<code>68</code>', 'Dò TOÀN BỘ 9 giải (G1→G8+ĐB). MT/MN 18 lô, MB 27 lô.')}
+                        ${typeRow('Giải riêng — dạng 2C (VD Đặc Biệt, G7, G8...)', '2 chữ số — 2C của ĐÚNG 1 giải', '<code>39</code> chọn Đặc Biệt', 'CHỈ tính trúng đúng 1 giải đã chọn, không tính giải khác — kể cả số trùng.')}
+                        ${typeRow('13 Đầu — dạng 2C', '2 chữ số — 2C của tổ hợp G8+G7+G6+G5+G4', '<code>68</code>', 'MT/MN 13 lô, MB 17 lô (Bắc không có G8 nên gọi là 12 Đầu).')}
+                        ${typeRow('6 Đầu — dạng 2C (chỉ Trung/Nam)', '2 chữ số — 2C của tổ hợp G8+G7+G6+G5', '<code>68</code>', 'Trung/Nam 6 lô. Gõ tắt <code>6dau</code>. Không có ở Miền Bắc.')}
+                        ${typeRow('Đầu — dạng 2C', '2 chữ số — 2C của 1 giải theo miền (MB: G7, MT/MN: G8)', '<code>68</code>', 'Chỉ 1 giải, đã phân biệt theo miền, không dùng chung công thức.')}
+                        ${typeRow('Đuôi — dạng 2C', '2 chữ số — 2C của Giải Đặc Biệt', '<code>96</code>', 'Chỉ dò đuôi số của Giải Đặc Biệt (mọi miền như nhau).')}
+                        <tr><td colspan="3" style="padding:6px 8px; background:#1e293b; color:#fbbf24; font-weight:bold;">— KIỂU 3C (số 3 chữ số) —</td></tr>
+                        ${typeRow('Bao Lô 3C', '3 chữ số — 3C của TẤT CẢ giải', '<code>839</code>', 'Dò TOÀN BỘ 9 giải. MT/MN 17 lô, MB 23 lô.')}
+                        ${typeRow('Giải riêng — dạng 3C (VD Đặc Biệt, G1-G7...)', '3 chữ số — 3C của ĐÚNG 1 giải', '<code>339</code> chọn Đặc Biệt', 'CHỈ tính trúng đúng 1 giải đã chọn.')}
+                        ${typeRow('12 Đầu — dạng 3C', '3 chữ số — 3C của tổ hợp G7+G6+G5+G4', '<code>839</code>', 'MT/MN 12 lô, MB 17 lô (không có G8 vì G8 chỉ 2 chữ số).')}
+                        ${typeRow('5 Đầu — dạng 3C (chỉ Trung/Nam)', '3 chữ số — 3C của tổ hợp G7+G6+G5', '<code>839</code>', 'Trung/Nam 5 lô. Gõ tắt <code>5dau</code>. Không có ở Miền Bắc.')}
+                        ${typeRow('5 Cuối / 4 Cuối (Trung-Nam gọi "5 Cuối", Bắc gọi "4 Cuối")', 'Gõ <code>5c</code>/<code>4c</code> đều nhận — 2 hoặc 3 chữ số', '<code>339</code>', 'Trung/Nam = G3+G2+G1+ĐB (5 lô). Bắc = G2+G1+ĐB (4 lô, KHÔNG có Giải 3). Tự đổi tên hiển thị đúng theo miền.')}
+                        ${typeRow('12 Cuối (chỉ Trung/Nam — KHÁC "12 Đầu")', '2 hoặc 3 chữ số', '<code>839</code>', 'Trung/Nam = G4+G3+G2+G1+ĐB = 12 lô. Gõ tắt <code>12cuoi</code> — khác hẳn "12 Đầu" (G7+G6+G5+G4) dù trùng số lô.')}
+                        ${typeRow('10 Cuối (chỉ Miền Bắc)', '2 hoặc 3 chữ số', '<code>839</code>', 'Bắc = ĐB+G1+G2+G3 = 10 lô. Gõ tắt <code>10c</code>/<code>10cuoi</code>.')}
+                        ${typeRow('14 Cuối (chỉ Miền Bắc)', '2 hoặc 3 chữ số', '<code>839</code>', 'Bắc = ĐB+G1+G2+G3+G4 = 14 lô. Gõ tắt <code>14c</code>/<code>14cuoi</code>/<code>4 chót</code> (cách khách Bắc hay gõ).')}
+                        ${typeRow('Xỉu Chủ — dạng 3C', '3 chữ số — 3C của Đầu+Đuôi gộp', '<code>339</code>', 'MT/MN = G7+ĐB (2 lô), MB = G6+ĐB (4 lô).')}
+                        <tr><td colspan="3" style="padding:6px 8px; background:#1e293b; color:#fbbf24; font-weight:bold;">— KIỂU ĐÁ (cặp/nhóm số) —</td></tr>
+                        ${typeRow('Đá Thẳng', 'Đúng 2 số', '<code>12 34</code>', 'TRÚNG khi CẢ 2 số cùng về (không cần cùng giải/cùng đài). MT/MN 36 lô, MB 54 lô.')}
+                        ${typeRow('Đá Xiên', '3 số trở lên — <span style="color:#f87171;">CẢ NHÓM là 1 cược duy nhất</span>', '<code>15 51 11 xiên</code>', 'TRÚNG chỉ khi TẤT CẢ số trong nhóm đều về — thiếu 1 số là thua cả cụm. Vốn tăng theo SỐ CON trong nhóm (18/con MT-MN, 27/con Bắc) — VD 3 con Bắc = 3×27 = 81 lô, KHÔNG cố định 1 mức.')}
+                        ${typeRow('Đá Chéo', '3 số trở lên — <span style="color:#4ade80;">tách thành từng cặp độc lập</span>', '<code>15 51 11 chéo</code> → 3 cặp: 15-51, 15-11, 51-11', 'Mỗi cặp tự ăn/thua riêng — ra đủ 2 con trúng 1 cặp, đủ cả 3 con trúng cả 3 cặp. Mỗi cặp tính 36/54 lô như đá thẳng (không cộng dồn theo cả nhóm). Từ 4, 5, 6 con trở lên vẫn là Đá Chéo, chỉ tách ra nhiều cặp hơn (VD 4 con = 6 cặp).')}
+                        <tr><td colspan="3" style="padding:4px 8px; background:rgba(56,189,248,0.08); color:#7dd3fc; font-size:11px;">⚠️ "Chéo" và "Xiên" là 2 CÁCH TÍNH KHÁC NHAU — không phải 2 tên gọi của cùng 1 thứ. Chỉ đúng 2 số thì gõ "chéo" hay "xiên"/"xuyên" đều tự hiểu là Đá Thẳng; từ 3 số trở lên bắt buộc phải gõ rõ "chéo" hay "xiên"/"xuyên" để hệ thống biết đúng cách tính.</td></tr>
+                        <tr><td colspan="3" style="padding:6px 8px; background:#1e293b; color:#fbbf24; font-weight:bold;">— CHỈ LÀ CÁCH BUNG SỐ, VẪN LÀ 2C/3C Ở TRÊN —</td></tr>
+                        ${typeRow('Chẵn Chẵn / Lẻ Lẻ / Chẵn Lẻ / Lẻ Chẵn', '<span style="color:#f87171;">KHÔNG chọn dropdown</span> — gõ đúng cụm từ vào ô "Số", tự bung 25 số 2 chữ số', '<code>chan chan</code>, <code>le le</code>', 'Loại cược vẫn hiện "Bao Lô 2C" — mỗi số trong bộ 25 dò như 2C bao lô bình thường.')}
+                        ${typeRow('12 Con Giáp (cả bộ 100 số)', '<span style="color:#f87171;">KHÔNG chọn dropdown</span> — gõ vào ô "Số", tự bung 100 số 2 chữ số', '<code>giap</code>, <code>12 con giap</code>', 'Loại cược vẫn hiện "Bao Lô 2C", ghi chú tự ghi "12 Con Giáp" để biết nguồn gốc.')}
+                        ${typeRow('1 Con Giáp riêng lẻ (8-9 số)', '<span style="color:#f87171;">KHÔNG chọn dropdown</span> — gõ tên con giáp, tự bung 8-9 số 2 chữ số', '<code>ty</code>/<code>chuot</code>, <code>suu</code>/<code>trau</code>, <code>dan</code>/<code>ho</code>/<code>cop</code>, <code>mao</code>/<code>meo</code>, <code>thin</code>/<code>rong</code>, <code>ran</code>, <code>ngo</code>/<code>ngua</code>, <code>mui</code>/<code>de</code>, <code>than</code>/<code>khi</code>, <code>ga</code> (Dậu), <code>tuat</code>/<code>cho</code>, <code>hoi</code>/<code>heo</code>/<code>lon</code>', 'Loại cược vẫn hiện "Bao Lô 2C", ghi chú tự ghi tên con giáp (VD "Hợi (Heo)").')}
+                        ${typeRow('"Đầu N" (0-9) trong ô Số', 'Gõ <code>dau3</code> / <code>dau 7</code> → tự bung 10 số 2 chữ số cùng hàng chục (VD đầu 3 = 30-39)', '<code>dau3</code>, <code>dau 10</code> (= đầu 1)', 'Chỉ là cách bung dàn số nhanh trong ô "Số", dò theo đúng loại cược bạn chọn (thường là Bao Lô 2C).')}
+                        ${typeRow('Đảo (hoán vị chữ số)', 'Thêm chữ <code>dao</code> vào cuối ô "Số"', '<code>812 612 512 dao</code> → 18 số (mỗi số nở đủ hoán vị chữ số, vẫn 2C/3C tùy số gốc)', 'Mỗi số gõ vào được thay bằng TOÀN BỘ hoán vị chữ số của nó, dò theo đúng loại cược bạn chọn.')}
+                    </tbody>
+                </table>
+                </div>
+                <div style="margin-top:8px; padding:8px 10px; background:rgba(0,243,255,0.06); border:1px solid rgba(0,243,255,0.2); border-radius:6px; font-size:12px; color:#a5f3fc;">
+                    ℹ️ Loại cược nào ứng với NHIỀU giải theo miền (VD "Đầu", "Đầu Đuôi", "Xỉu Chủ") thì dropdown tự đổi tên theo ĐÚNG miền bạn đang chọn (VD Miền Trung hiện "Đầu (Giải 8)", Miền Bắc hiện "Đầu (Giải 7)") — không cần nhớ quy tắc B/T/N.
+                </div>
+            `)}
+
+            ${sec('⚡', 'Nhập Nhanh Thông Minh (dán nguyên văn tin nhắn khách)', '#00ff88', `
+                <p style="color:#94a3b8; margin:0 0 8px;">Dán cả đoạn tin nhắn khách gửi vào khung lớn, bấm <b>Xử Lý</b> (hoặc Shift+B) — hệ thống tự tách từng dòng, từng loại cược. Những kiểu đã kiểm chứng hoạt động tốt:</p>
+                <ul style="margin:0; padding-left:20px; color:#cbd5e1;">
+                    <li style="margin-bottom:5px;"><b>Nhiều dòng / nhiều loại cược một lúc</b> — xuống dòng hoặc dấu <code>;</code> đều tách riêng được.</li>
+                    <li style="margin-bottom:5px;"><b>Số đứng trước HOẶC sau từ khóa loại cược</b> — <code>68 da 91 =100k</code> hay <code>da 68 91 100k</code> đều nhận đúng.</li>
+                    <li style="margin-bottom:5px;"><b>Danh sách số trơ trọi, KHÔNG ghi loại cược nào</b> — <code>22,34,54,54 5k</code> → tự hiểu từng số riêng lẻ, mặc định Bao Lô (2C nếu 2 chữ số, 3C nếu 3 chữ số), mỗi số 5k.</li>
+                    <li style="margin-bottom:5px;"><b>Danh sách số cách nhau phẩy/chấm/gạch</b>, kể cả có khoảng trắng sau dấu phẩy — <code>986, 382, 68 đb 30k</code> nhận đủ cả 3 số, cùng dò Đặc Biệt.</li>
+                    <li style="margin-bottom:5px;"><b>Nhiều loại cược dùng CHUNG 1 bộ số trên cùng dòng</b> — <code>00.33.44 bl 3k. Chéo 0.5k. Db 20k</code> — cả 3 loại tự dùng lại đúng 3 số 00,33,44 (nhớ luôn có đơn vị k/n cho tiền để hết mơ hồ).</li>
+                    <li style="margin-bottom:5px;"><b>Đá Thẳng / Xiên / Chéo</b> — viết số cách nhau GẠCH NỐI hoặc KHOẢNG TRẮNG đều được: <code>20-30</code> hoặc <code>20 30 da</code> (đúng 2 số = Đá Thẳng, 2 số cùng về mới trúng). Từ 3 số trở lên, "xiên" và "chéo" là <b style="color:#f87171;">2 CÁCH TÍNH KHÁC NHAU</b>: <code>15 51 11 xien</code> = <b>Đá Xiên</b> — cả nhóm là 1 cược, THIẾU 1 số là thua hết, vốn = số con × 18/27; <code>15 51 11 cheo</code> = <b>Đá Chéo</b> — tách thành từng cặp riêng (C(n,2) cặp), mỗi cặp tự ăn/thua độc lập, từ 4-5-6 con trở lên vẫn vậy, chỉ tách nhiều cặp hơn. Chỉ đưa đúng 2 số thì "chéo/xiên" đều tự hiểu là Đá Thẳng.</li>
+                    <li style="margin-bottom:5px;"><b>Kéo dãy số</b> — <code>20 đến 30 bl 5k</code> (bung đủ 11 số 20→30), <code>05..95 g1 5k</code>.</li>
+                    <li style="margin-bottom:5px;"><b>Con giáp / chẵn lẻ</b> — <code>ty 10k</code>, <code>heo 10k</code>, <code>chan chan 10k</code>, <code>12 con giap 5k</code> (tự dò 12 con giáp riêng lẻ + tên gọi thường ngày như "heo", "chuot", "trau"...).</li>
+                    <li style="margin-bottom:5px;"><b>Đảo (hoán vị chữ số)</b> — dùng được với BẤT KỲ loại cược nào, kể cả không ghi loại gì (mặc định Bao Lô): <code>20 30 đảo 5k</code> → 4 số (20,02,30,03) Bao Lô 5k; <code>812 612 512 đảo đb 100k</code> → 18 số dò Đặc Biệt 100k.</li>
+                    <li style="margin-bottom:5px;"><b>Nối nhiều cụm dùng chung 1 số bằng dấu "+"</b> — <code>689 bl 20k + db 100k</code> = số 689 vừa đánh Bao Lô 20k vừa đánh Đặc Biệt 100k; <code>687 679 g7 + db 30k</code> tương tự cho nhiều số.</li>
+                    <li style="margin-bottom:5px;"><b>"Giải N" gõ đủ chữ, có hoặc không dấu cách</b> — <code>giải7</code>, <code>giải 7</code>, <code>5 cuối</code>/<code>4 cuối</code>/<code>4 chót</code> (tự đổi đúng "5 Cuối" hay "4 Cuối" theo miền), <code>12 cuối</code>, <code>14 cuối</code>, <code>5 đầu</code>, <code>6 đầu</code>, <code>đầu chót</code> (= Đầu Đuôi) đều nhận đúng như gõ tắt (<code>g7</code>, <code>5c</code>/<code>4c</code>, <code>12cuoi</code>, <code>14cuoi</code>, <code>5dau</code>, <code>6dau</code>, <code>dd</code>).</li>
+                    <li style="margin-bottom:5px;"><b>Giới hạn chỉ dò 1 (hay nhiều) giải cụ thể cho con giáp/chẵn lẻ</b> — gõ tên giải TRƯỚC hoặc SAU cụm con giáp/chẵn lẻ đều được: <code>Db. Heo x 50k</code> hoặc <code>Heo Db 50k</code> (chỉ dò Hợi ở Đặc Biệt); <code>G6 G7 G8 Heo 30k</code> (dò cả 3 giải, khớp 1 trong 3 là đủ trúng). Bảng Chi Tiết sẽ hiện thêm dòng "🎯 ..." cho biết đúng giải đang giới hạn.</li>
+                    <li style="margin-bottom:5px;"><b>Giới hạn giải cho Đá/Chéo/Xiên/Vòng</b> — gõ tên giải TRƯỚC (đứng riêng, cách dấu chấm/xuống dòng) rồi mới tới số + từ khóa đá: <code>G4. 12 34 56 chéo x10k</code> → chỉ dò 3 số này trong Giải 4 (thay vì bao lô mọi giải như mặc định).</li>
+                    <li style="margin-bottom:5px;"><b>Gắn tiền linh hoạt</b> — <code>k</code>, <code>n</code>, số thập phân, phân số (<code>0/5</code> = 0.5k), số ≥1000 tự hiểu là tiền mặt, dấu "=" trước tiền nghĩa là TỔNG CUỐI CÙNG (VD <code>303 bl =10k</code> = tổng 10k chia đều các lô, không phải 10k mỗi lô).</li>
+                </ul>
+                <div style="margin-top:10px; padding:8px 10px; background:rgba(251,191,36,0.08); border:1px solid rgba(251,191,36,0.25); border-radius:6px; font-size:12px; color:#fde68a;">
+                    Sau khi xử lý, luôn hiện <b>bảng xem lại</b> để kiểm tra trước khi lưu — bấm <b>Lọc & Tách Số</b> (Shift+F) nếu cần cắt bớt vốn/lọc theo mức tiền trước khi đưa vào Bảng Chi Tiết.
+                </div>
+            `)}
+
+            ${sec('📋', 'Bảng Chi Tiết — Màu Theo Miền', '#38bdf8', `
+                <p style="color:#94a3b8; margin:0 0 6px;">Mỗi lượt nhập ("📩 Lượt nhập #...") có màu thanh ngang riêng theo MIỀN của tin đó — 1 nhóm trong 1 ngày thường có rất nhiều tin xen kẽ đủ 3 miền, nhìn màu phân biệt nhanh hơn hẳn đọc chữ cột "Đài" từng dòng:</p>
+                <ul style="margin:0; padding-left:20px; color:#cbd5e1;">
+                    <li style="margin-bottom:5px;"><span style="display:inline-block; width:12px; height:12px; border-radius:3px; background:#f59e0b; margin-right:6px; vertical-align:middle;"></span><b style="color:#f59e0b;">Cam</b> = Miền Nam</li>
+                    <li style="margin-bottom:5px;"><span style="display:inline-block; width:12px; height:12px; border-radius:3px; background:#00f3ff; margin-right:6px; vertical-align:middle;"></span><b style="color:#00f3ff;">Xanh cyan</b> = Miền Trung</li>
+                    <li style="margin-bottom:5px;"><span style="display:inline-block; width:12px; height:12px; border-radius:3px; background:#c084fc; margin-right:6px; vertical-align:middle;"></span><b style="color:#c084fc;">Tím</b> = Miền Bắc</li>
+                    <li style="margin-bottom:5px;">Màu lấy theo miền của SỐ trong lượt nhập đó (không phụ thuộc đài cụ thể là đài nào trong miền) — file "📊 Xuất File" cũng giữ đúng màu này khi in ra.</li>
+                </ul>
+            `)}
+
+            ${sec('📊', 'Xuất File', '#a78bfa', `
+                <p style="color:#94a3b8; margin:0 0 6px;">Nút <b>"📊 Xuất File nhóm này"</b> xuất báo cáo HTML riêng cho <b>nhóm đang chọn</b> (mỗi nhóm xuất riêng, không gộp chung).</p>
+                <ul style="margin:0; padding-left:20px; color:#cbd5e1;">
+                    <li style="margin-bottom:5px;">File xuất <b>tôn trọng đúng bộ lọc</b> đang bật trên Bảng Chi Tiết — nếu bạn đang lọc "🎯 Chỉ trúng" thì file cũng CHỈ chứa số trúng (tương tự "Chỉ trật" / lọc theo miền-đài / ô tìm kiếm).</li>
+                    <li style="margin-bottom:5px;">Tổng vốn/tổng trúng trong file tính lại đúng theo đúng phần đã xuất, không lấy tổng cả nhóm khi đang lọc.</li>
+                    <li style="margin-bottom:5px;">Tiêu đề báo cáo ghi rõ đang lọc gì, để dễ đối chiếu khi in ra.</li>
+                    <li style="margin-bottom:5px;">Cột "Thành tiền" trong file luôn theo góc nhìn <b>nhà cái</b>: dương (+) = nhà cái lãi (xanh), âm (-) = nhà cái lỗ vì khách trúng vượt vốn (đỏ).</li>
+                </ul>
+            `)}
+        </div>
+    `;
+
+    if (typeof showModal === 'function') {
+        showModal({
+            title: "📖 Hướng Dẫn Sử Dụng Chi Tiết",
+            body: help,
+            confirmText: "Đã hiểu",
+            showCancel: false,
+            wide: true
+        });
+    }
+}
+
+function deleteBetItem(index) {
+    const activeG = typeof activeGroup !== 'undefined' ? activeGroup : null;
+    if (!activeG || !appData?.[activeG]) return;
+
+    const gObj = appData[activeG];
+    if (!Array.isArray(gObj.betList) || !gObj.betList[index]) return;
+
+    gObj.betList.splice(index, 1);
+
+    if (typeof recalculateTotals === 'function') recalculateTotals(activeG);
+    if (typeof renderMatrixTable === 'function') renderMatrixTable();
+    if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+    if (typeof showToast === 'function') showToast('Đã xóa số', 'success');
+}
+
+// BẢNG CHI TIẾT NÂNG CẤP: CỘT THÀNH TIỀN, ĐÀI/MIỀN TẠI CHECKBOX & TỔNG CỘNG CHÂN BẢNG
+function renderMatrixTable() {
+    const tbody = document.getElementById('excel-matrix-body');
+    if (!tbody) return;
+
+    const gObj = appData[activeGroup];
+    if (!gObj || !gObj.inputHistory || gObj.inputHistory.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="13" style="text-align:center;color:#64748b;padding:30px;">Chưa có dữ liệu nhập</td></tr>`;
+        if (typeof updateGrandSummary === 'function') updateGrandSummary();
+        // === THÊM DÒNG NÀY ===
+        if (typeof calcCapitalShare === 'function') calcCapitalShare();
+        return;
+    }
+
+    let grandTotalBet = 0;
+    let grandTotalWin = 0;
+    let htmlBuffer = [];
+
+    // Lặp qua từng lượt nhập (Session)
+    const historyLen = gObj.inputHistory.length;
+    for (let sIdx = historyLen - 1; sIdx >= 0; sIdx--) {
+        const session = gObj.inputHistory[sIdx];
+        const betItemsById = new Map((gObj.betList || []).map(item => [item.id, item]));
+        const items = (session.items || []).map(item => betItemsById.get(item.id) || item);
+        if (items.length === 0) continue;
+
+        let sessionTotalBet = 0;
+        let sessionTotalWin = 0;
+
+        // Tính toán trước cho session
+        const itemRowsHtml = items.map((item, itemIdx) => {
+            const prizes = BET_TYPES[item.betType]?.prizes || 18;
+            const stationCount = (item.stations && item.stations.length > 0) ? item.stations.length : 1;
+           
+            // CÔNG THỨC CHUẨN: (Số k) * 1000 * số giải * số đài
+            const totalItemCost = (item.originalAmount || 0) * 1000 * prizes * stationCount;
+            const winVal = item.winAmount || 0;
+            const netVal = winVal - totalItemCost;
+
+            sessionTotalBet += totalItemCost;
+            sessionTotalWin += winVal;
+
+            const isHit = item.matched;
+            const numStyle = isHit ? 'color:#ff4d4d; font-weight:bold; font-size:15px;' : 'color:#00f3ff; font-size:14px;';
+           
+            const itemBetType = BET_TYPES[item.betType] ? item.betType : mapBetType(item.betType);
+            const typeSelectOptions = Object.entries(BET_TYPES).map(([val, info]) =>
+                `<option value="${val}" ${itemBetType === val ? 'selected' : ''}>${info.name}</option>`
+            ).join('');
+
+            const netDisplay = winVal > 0
+                ? `<span style="color:${netVal >= 0 ? '#00ff88' : '#ff4d4d'}; font-weight:bold;">${netVal >= 0 ? '+' : ''}${netVal.toLocaleString()} ₫</span>`
+                : `<span style="color:#ff6b6b; font-weight:bold;">-${totalItemCost.toLocaleString()} ₫</span>`;
+
+            return `
+                <tr style="background:#0f172a;">
+                    <td style="text-align:center; color:#64748b; font-size:11px;">${itemIdx + 1}</td>
+                    <td style="text-align:center;">
+                        <input type="checkbox" class="row-checkbox" data-session="${sIdx}" data-item="${itemIdx}">
+                        <span style="display:block; font-size:9px; color:#a855f7; font-weight:bold; margin-top:2px;">${item.region || 'MT'}</span>
+                    </td>
+                    <td style="text-align:center; ${numStyle}">${item.num}</td>
+                    <td style="text-align:center; font-size:12px;">${item.digits === 2 ? '✓' : ''}</td>
+                    <td style="text-align:center; font-size:12px;">${item.digits === 3 ? '✓' : ''}</td>
+                    <td style="text-align:center; font-size:12px;">${['da','dx','dv'].includes(item.betType) ? '✓' : ''}</td>
+                    <td style="text-align:center; font-size:12px;">
+                        <select style="background:#1e293b; color:#f472b6; border:1px solid #334155; border-radius:4px; padding:2px; cursor:pointer;"
+                                onchange="changeItemBetType(${sIdx}, ${itemIdx}, this.value)">
+                            ${typeSelectOptions}
+                        </select>
+                    </td>
+                    <td style="text-align:center; font-size:13px; color:#38bdf8;">${item.originalAmount}k</td>
+                    <td style="text-align:center; font-size:13px; color:#fbbf24; font-weight:bold;">${totalItemCost.toLocaleString()} ₫</td>
+                    <td style="text-align:center; font-size:12px; color:${winVal > 0 ? '#ff4d4d' : '#64748b'}; font-weight:${winVal > 0 ? 'bold' : 'normal'};">
+                        ${winVal > 0 ? winVal.toLocaleString() + ' ₫' : '—'}
+                    </td>
+                    <td style="text-align:center; font-size:12px;">${netDisplay}</td>
+                    <td style="text-align:center;">
+                        <button class="btn btn-sm btn-gray" style="padding:1px 6px; font-size:10px;" onclick="deleteItemFromSession(${sIdx}, ${itemIdx})">✕</button>
+                    </td>
+                </tr>`;
+        }).join('');
+
+        grandTotalBet += sessionTotalBet;
+        grandTotalWin += sessionTotalWin;
+
+        const sessionNet = sessionTotalWin - sessionTotalBet;
+        const stationsStr = items[0].stations?.map(s => (typeof STATION_ABBR !== 'undefined' && STATION_ABBR[s]) ? STATION_ABBR[s] : s).join(', ') || 'Chưa chọn';
+
+        // Header của từng lượt tin nhắn
+        const headerHtml = `
+            <tr style="background:#1e293b; border-top:2px solid #00f3ff;">
+                <td colspan="3" style="padding:8px 12px; font-weight:bold; color:#00f3ff;">
+                    📩 Lượt nhập #${sIdx + 1} <span style="color:#94a3b8; font-size:11px; margin-left:4px;">(${session.time})</span>
+                </td>
+                <td colspan="3" style="padding:8px; color:#fbbf24; font-size:12px;">
+                    Đài: <b>${stationsStr}</b> (${items[0].stations?.length || 1} đài)
+                </td>
+                <td colspan="3" style="padding:8px; color:#38bdf8; text-align:right; font-size:12px;">
+                    Vốn tin này: <b>${sessionTotalBet.toLocaleString()} ₫</b>
+                </td>
+                <td colspan="2" style="padding:8px; text-align:right; font-size:12px; color:${sessionNet >= 0 ? '#00ff88' : '#ff6b6b'}; font-weight:bold;">
+                    Thành tiền: ${sessionNet >= 0 ? '+' : ''}${sessionNet.toLocaleString()} ₫
+                </td>
+                <td style="text-align:center; padding:4px;">
+                    <button class="btn btn-sm btn-red" style="padding:2px 8px; font-size:11px;" onclick="deleteSession(${sIdx})">Xóa Tin</button>
+                </td>
+            </tr>`;
+
+        htmlBuffer.push(headerHtml + itemRowsHtml);
+    }
+
+    // Dòng TỔNG CỘNG TOÀN NHÓM ở chân bảng
+    const grandNet = grandTotalWin - grandTotalBet;
+    const footerHtml = `
+        <tr style="background:#090d16; border-top:3px double #00f3ff; border-bottom:2px solid #00f3ff;">
+            <td colspan="8" style="padding:10px; text-align:right; font-weight:bold; color:#00f3ff; font-size:13px;">
+                🏆 TỔNG CỘNG TOÀN NHÓM:
+            </td>
+            <td style="text-align:center; padding:10px; color:#fbbf24; font-weight:bold; font-size:13px;">
+                ${grandTotalBet.toLocaleString()} ₫
+            </td>
+            <td style="text-align:center; padding:10px; color:#ff4d4d; font-weight:bold; font-size:13px;">
+                ${grandTotalWin > 0 ? grandTotalWin.toLocaleString() + ' ₫' : '—'}
+            </td>
+            <td style="text-align:center; padding:10px; font-weight:bold; font-size:13px; color:${grandNet >= 0 ? '#00ff88' : '#ff6b6b'};">
+                ${grandNet >= 0 ? '+' : ''}${grandNet.toLocaleString()} ₫
+            </td>
+            <td></td>
+        </tr>`;
+
+    htmlBuffer.push(footerHtml);
+
+    // Cập nhật DOM 1 lần duy nhất -> Siêu mượt, không lag
+    tbody.innerHTML = htmlBuffer.join('');
+
+    if (typeof updateGrandSummary === 'function') updateGrandSummary();
+
+    // === THÊM DÒNG NÀY (cuối hàm) ===
+    if (typeof calcCapitalShare === 'function') calcCapitalShare();
+}
+
+function renderDetailPagination(totalPages, totalItems) {
+    const box = document.getElementById('detail-pagination');
+    if (!box) return;
+
+    if (totalPages <= 1) {
+        box.innerHTML = `<div style="text-align:center;font-size:12px;color:#94a3b8;padding:6px 0;">Tổng <b style="color:#00f3ff">${totalItems}</b> số</div>`;
+        return;
+    }
+
+    box.innerHTML = `
+        <div style="display:flex;align-items:center;justify-content:center;gap:12px;padding:8px 0;flex-wrap:wrap;">
+            <button class="btn btn-sm btn-gray" style="min-width:80px;" onclick="changeDetailPage(-1)" ${detailPage <= 1 ? 'disabled' : ''}>← Trước</button>
+            <div style="background:#0f172a;border:1px solid #334155;border-radius:20px;padding:4px 14px;font-size:13px;">
+                Trang <b style="color:#00f3ff">${detailPage}</b> / ${totalPages}
+                <span style="color:#64748b;margin-left:6px;">(${totalItems} số)</span>
+            </div>
+            <button class="btn btn-sm btn-gray" style="min-width:80px;" onclick="changeDetailPage(1)" ${detailPage >= totalPages ? 'disabled' : ''}>Sau →</button>
+        </div>
+    `;
+}
+
+function changeDetailPage(delta) {
+    detailPage += delta;
+    renderMatrixTable();
+}
+
+function getTableItem(sessionIdx, itemIdx) {
+    return appData[activeGroup]?.inputHistory?.[sessionIdx]?.items?.[itemIdx];
+}
+
+function escapeHtml(value) {
+    return String(value ?? '').replace(/[&<>'"]/g, char => ({
+        '&': '&amp;', '<': '&lt;', '>': '&gt;', "'": '&#39;', '"': '&quot;'
+    }[char]));
+}
+
+// Gõ vào ô tìm kiếm bắn sự kiện MỖI PHÍM GÕ — trước đây render lại TOÀN BỘ
+// bảng ngay lập tức mỗi lần đó, với nhóm nhiều dòng thì gõ 1 từ dài là kích
+// hoạt cả chục lần render liên tiếp trong tích tắc, cảm giác nặng/giật dù
+// mỗi lần render tự nó không quá chậm. Dồn lại (debounce) — chỉ thật sự lọc
+// + render sau khi ngừng gõ 220ms, gõ liên tục không kích hoạt render nào.
+let detailSearchDebounceTimer = null;
+function filterDetailTable(value) {
+    const raw = String(value || '');
+    clearTimeout(detailSearchDebounceTimer);
+    detailSearchDebounceTimer = setTimeout(() => {
+        detailSearchTerm = raw.trim().toLocaleLowerCase('vi-VN');
+        currentMatrixPage = 1;
+        renderMatrixTable(1);
+    }, 220);
+}
+
+// Bấm "×" phải đưa TOÀN BỘ bộ lọc về mặc định — trước đây chỉ xóa chữ trong
+// ô tìm kiếm, còn "Chỉ trúng/trật" và cây Miền/Đài đã tick vẫn dính nguyên,
+// nhìn như bấm "×" không có tác dụng gì.
+function clearDetailSearch() {
+    const input = document.getElementById('detail-search-input');
+    if (input) input.value = '';
+    clearTimeout(detailSearchDebounceTimer);
+    detailSearchTerm = '';
+    detailMatchFilter = 'all';
+    detailRegionFilter.clear();
+    detailStationFilterSet.clear();
+    currentMatrixPage = 1;
+    renderMatrixTable(1);
+}
+
+// Lọc thông minh cho nhà cái đối chiếu: chỉ số trúng / chỉ số trật / tất cả.
+// Kết hợp được với ô tìm kiếm — ví dụ gõ "79" + chọn "Chỉ số trúng" để xem
+// riêng những dòng số 79 đã trúng.
+function setDetailMatchFilter(value) {
+    detailMatchFilter = (value === 'matched' || value === 'unmatched') ? value : 'all';
+    currentMatrixPage = 1;
+    updateDetailFilterButtonLabel();
+    renderMatrixTable(1);
+}
+
+function hasActiveDetailFilter() {
+    return Boolean(detailSearchTerm) || detailMatchFilter !== 'all' || detailRegionFilter.size > 0;
+}
+
+function toggleDetailFilterPanel() {
+    const panel = document.getElementById('detail-filter-panel');
+    if (!panel) return;
+    panel.style.display = panel.style.display === 'none' ? 'block' : 'none';
+}
+
+// Đóng panel khi bấm ra ngoài — gắn 1 lần duy nhất khi file load.
+if (typeof document !== 'undefined') {
+    document.addEventListener('click', (e) => {
+        const wrap = document.getElementById('detail-filter-dropdown');
+        const panel = document.getElementById('detail-filter-panel');
+        if (!wrap || !panel || panel.style.display === 'none') return;
+        if (!wrap.contains(e.target)) panel.style.display = 'none';
+    });
+}
+
+// Tick 1 MIỀN (không tick đài con nào bên trong) = xem GỘP toàn bộ đài của
+// miền đó. Bỏ tick miền → xóa luôn mọi đài con đã tick thuộc miền đó (không
+// để sót lựa chọn con "mồ côi" không còn miền cha nào giữ nó).
+function toggleDetailRegionFilter(region, checked) {
+    if (checked) detailRegionFilter.add(region);
+    else {
+        detailRegionFilter.delete(region);
+        [...detailStationFilterSet].forEach(s => {
+            if (detailFilterStationRegionMap[s] === region) detailStationFilterSet.delete(s);
+        });
+    }
+    currentMatrixPage = 1;
+    populateDetailFilterPanel();
+    updateDetailFilterButtonLabel();
+    renderMatrixTable(1);
+}
+
+// Tick 1 ĐÀI CON cụ thể → tự tick luôn miền cha (chọn đài mà miền cha chưa
+// tick thì vô nghĩa). Bỏ tick đài con → chỉ bỏ đúng đài đó, GIỮ miền cha
+// (vẫn còn đài con khác hoặc quay lại xem gộp cả miền nếu bỏ hết đài con).
+function toggleDetailStationFilter(region, station, checked) {
+    if (checked) {
+        detailStationFilterSet.add(station);
+        detailRegionFilter.add(region);
+    } else {
+        detailStationFilterSet.delete(station);
+    }
+    currentMatrixPage = 1;
+    populateDetailFilterPanel();
+    updateDetailFilterButtonLabel();
+    renderMatrixTable(1);
+}
+
+const REGION_ORDER_LIST = ['MN', 'MT', 'MB'];
+const REGION_FULL_NAME = { MN: 'Miền Nam', MT: 'Miền Trung', MB: 'Miền Bắc' };
+let detailFilterStationRegionMap = {}; // tên đài -> miền, dựng lại mỗi lần populate
+
+// Tự liệt kê ĐÚNG các miền/đài THẬT SỰ có trong nhóm đang xem (không liệt kê
+// miền/đài không hề có dữ liệu) — gọi lại mỗi lần render bảng để luôn khớp
+// dữ liệu mới nhất (đổi nhóm, hoặc vừa thêm/xóa số làm mất hẳn 1 đài/miền).
+function populateDetailFilterPanel() {
+    const panel = document.getElementById('detail-filter-panel');
+    if (!panel) return;
+    const gObj = appData[activeGroup];
+    const byRegion = {}; // { MN: Set(stations) }
+    (gObj?.betList || []).forEach(item => {
+        const region = item.region || 'MT';
+        if (!byRegion[region]) byRegion[region] = new Set();
+        (item.stations || []).forEach(s => byRegion[region].add(s));
+    });
+
+    detailFilterStationRegionMap = {};
+    Object.entries(byRegion).forEach(([region, stationSet]) => {
+        stationSet.forEach(s => { detailFilterStationRegionMap[s] = region; });
+    });
+
+    // Miền/đài đã biến mất khỏi dữ liệu (VD vừa xóa hết số) thì tự bỏ khỏi
+    // lựa chọn đang lọc, tránh giữ lọc "ma" không còn ứng với gì.
+    [...detailRegionFilter].forEach(r => { if (!byRegion[r]) detailRegionFilter.delete(r); });
+    [...detailStationFilterSet].forEach(s => { if (!detailFilterStationRegionMap[s]) detailStationFilterSet.delete(s); });
+
+    const matchRadios = ['all', 'matched', 'unmatched'].map(v => {
+        const label = v === 'all' ? 'Tất cả' : v === 'matched' ? '🎯 Chỉ trúng' : 'Chỉ trật';
+        return `<label style="display:flex; align-items:center; gap:6px; padding:3px 0; cursor:pointer; font-size:12.5px; color:#e2e8f0;">
+            <input type="radio" style="margin:0;" name="detail-match-radio" value="${v}" ${detailMatchFilter === v ? 'checked' : ''} onchange="setDetailMatchFilter('${v}')"> ${label}
+        </label>`;
+    }).join('');
+
+    // Thục lề bằng 1 khung con DUY NHẤT (margin-left + viền trái mảnh) thay
+    // vì cộng padding riêng từng dòng — trước đây mỗi label tự cộng padding
+    // khác nhau nên nhìn thục vào/thục ra không đều; giờ mọi checkbox (cả
+    // miền lẫn đài con) đều margin:0, chỉ lệch đúng 1 mức duy nhất, nhìn như
+    // cây phân cấp rõ ràng.
+    const regionBlocks = REGION_ORDER_LIST.filter(r => byRegion[r] && byRegion[r].size).map(r => {
+        const color = REGION_HEADER_COLOR[r] || REGION_HEADER_COLOR.MT;
+        const stations = [...byRegion[r]].sort((a, b) => a.localeCompare(b, 'vi'));
+        const stationRows = stations.map(s => `
+            <label style="display:flex; align-items:center; gap:6px; padding:3px 0; cursor:pointer; font-size:12px; color:#cbd5e1;">
+                <input type="checkbox" style="margin:0;" data-region="${r}" data-station="${escapeHtml(s)}" ${detailStationFilterSet.has(s) ? 'checked' : ''} onchange="toggleDetailStationFilter(this.dataset.region, this.dataset.station, this.checked)"> ${escapeHtml(s)}
+            </label>`).join('');
+        return `
+        <div style="margin-bottom:4px;">
+            <label style="display:flex; align-items:center; gap:6px; padding:3px 0; cursor:pointer; font-size:12.5px; font-weight:bold; color:${color};">
+                <input type="checkbox" style="margin:0;" ${detailRegionFilter.has(r) ? 'checked' : ''} onchange="toggleDetailRegionFilter('${r}', this.checked)"> ${REGION_FULL_NAME[r]}
+            </label>
+            <div style="margin-left:9px; padding-left:12px; border-left:1px solid #334155;">${stationRows}</div>
+        </div>`;
+    }).join('');
+
+    panel.innerHTML = `
+        <div style="border-bottom:1px solid #334155; padding-bottom:6px; margin-bottom:6px;">${matchRadios}</div>
+        <div style="font-size:10.5px; color:#64748b; text-transform:uppercase; letter-spacing:0.4px; margin-bottom:4px;">Theo Miền / Đài</div>
+        ${regionBlocks || '<div style="font-size:11.5px; color:#64748b;">Chưa có dữ liệu</div>'}
+    `;
+}
+
+function updateDetailFilterButtonLabel() {
+    const btn = document.getElementById('detail-filter-btn');
+    if (!btn) return;
+    const parts = [];
+    if (detailMatchFilter === 'matched') parts.push('🎯 Trúng');
+    else if (detailMatchFilter === 'unmatched') parts.push('Trật');
+    if (detailRegionFilter.size) {
+        const label = [...detailRegionFilter].map(r => {
+            const stationsOfRegion = [...detailStationFilterSet].filter(s => detailFilterStationRegionMap[s] === r);
+            return stationsOfRegion.length ? stationsOfRegion.join('+') : REGION_FULL_NAME[r];
+        }).join(', ');
+        parts.push(label);
+    }
+    btn.textContent = (parts.length ? parts.join(' · ') : 'Tất cả') + ' ▾';
+}
+
+function detailItemMatches(item, session) {
+    if (detailMatchFilter === 'matched' && !item.matched) return false;
+    if (detailMatchFilter === 'unmatched' && item.matched) return false;
+    if (detailRegionFilter.size > 0) {
+        const itemRegion = item.region || 'MT';
+        if (!detailRegionFilter.has(itemRegion)) return false;
+        const checkedStationsForRegion = [...detailStationFilterSet].filter(s => detailFilterStationRegionMap[s] === itemRegion);
+        if (checkedStationsForRegion.length && !(Array.isArray(item.stations) && item.stations.some(s => checkedStationsForRegion.includes(s)))) {
+            return false;
+        }
+    }
+    if (!detailSearchTerm) return true;
+    // Một chuỗi chỉ gồm 2–3 chữ số được hiểu là tìm chính xác con số,
+    // tránh việc "21" vô tình khớp với ngày 21 hoặc giờ 21:xx.
+    if (/^\d{2,3}$/.test(detailSearchTerm)) {
+        return String(item.num || '') === detailSearchTerm;
+    }
+    const stationText = Array.isArray(item.stations) ? item.stations.join(' ') : '';
+    const searchable = [
+        item.num, item.region, stationText, item.note, item.createdAt,
+        session?.time, session?.region, BET_TYPES[item.betType]?.name
+    ].filter(Boolean).join(' ').toLocaleLowerCase('vi-VN');
+    return searchable.includes(detailSearchTerm);
+}
+
+function updateDetailItemField(sessionIdx, itemIdx, field, value) {
+    const item = getTableItem(sessionIdx, itemIdx);
+    if (!item) return;
+
+    if (field === 'price') {
+        const price = Math.max(0, parseFloat(value) || 0);
+        item.originalAmount = price;
+        item.amount = price * 1000;
+    } else if (field === 'note') {
+        item.note = String(value || '').trim();
+    }
+    item.edited = true;
+
+    const mainItem = appData[activeGroup]?.betList?.find(bet => bet.id === item.id);
+    if (mainItem) Object.assign(mainItem, item);
+    recalculateTotals(activeGroup);
+    saveAppDataToDB();
+    renderMatrixTable(currentMatrixPage, sessionIdx);
+    showToast(field === 'price' ? 'Đã cập nhật giá tiền' : 'Đã cập nhật ghi chú', 'success');
+}
+
+// Cột Số phải là ô nhập thực sự, không chỉ là ô tìm kiếm. Khi đang gõ chỉ
+// cập nhật dữ liệu và hẹn lưu để giao diện không lag; khi rời ô sẽ lưu ngay.
+function updateDetailItemNumber(sessionIdx, itemIdx, value, commit = false) {
+    const item = getTableItem(sessionIdx, itemIdx);
+    if (!item) return;
+    const raw = String(value || '').replace(/\D/g, '').slice(0, 3);
+    if (!raw) return;
+    item.num = raw.padStart(raw.length >= 3 ? 3 : 2, '0');
+    item.digits = item.num.length;
+    item.edited = true;
+    const mainItem = appData[activeGroup]?.betList?.find(bet => bet.id === item.id);
+    if (mainItem) Object.assign(mainItem, item);
+    if (commit) {
+        recalculateTotals(activeGroup);
+        saveAppDataToDB();
+        renderMatrixTable(currentMatrixPage, sessionIdx);
+        showToast('Đã cập nhật số', 'success');
+    } else {
+        saveAppDataToDBDebounced();
+    }
+}
+
+function updateDetailItemFieldLive(sessionIdx, itemIdx, field, value) {
+    const item = getTableItem(sessionIdx, itemIdx);
+    if (!item) return;
+    if (field === 'price') {
+        const price = Math.max(0, parseFloat(value) || 0);
+        item.originalAmount = price;
+        item.amount = price * 1000;
+    } else if (field === 'note') {
+        item.note = String(value || '');
+    }
+    item.edited = true;
+    const mainItem = appData[activeGroup]?.betList?.find(bet => bet.id === item.id);
+    if (mainItem) Object.assign(mainItem, item);
+    saveAppDataToDBDebounced();
+}
+
+function updateLiveClock() {
+    const clock = document.getElementById('live-clock');
+    if (!clock) return;
+    const now = new Date();
+    clock.textContent = `${now.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit', second: '2-digit' })}  ${now.toLocaleDateString('vi-VN')}`;
+}
+
+setInterval(updateLiveClock, 1000);
+document.addEventListener('DOMContentLoaded', updateLiveClock);
+
+function updateBetField(sessionIdx, itemIdx, field, value) {
+    const item = getTableItem(sessionIdx, itemIdx);
+    if (!item) return;
+    if (field === 'amount') item.amount = Math.max(0, parseFloat(value) || 0);
+    if (field === 'stationText') item.stations = value.split(/[,;]+/).map(v => v.trim()).filter(Boolean);
+    item.originalAmount = item.originalAmount || item.amount;
+    syncBetList();
+    recalculateTotals(activeGroup);
+    saveAppDataToDB();
+    updateDetailTotals();
+    updateGrandSummary();
+}
+
+function handleTableNumberPaste(sessionIdx, itemIdx, value) {
+    const item = getTableItem(sessionIdx, itemIdx);
+    if (!item) return;
+    const nums = value.match(/\d{1,4}/g) || [];
+    if (!nums.length) return;
+    item.num = nums[0].padStart(nums[0].length >= 3 ? nums[0].length : 2, '0');
+    item.digits = item.num.length >= 3 ? 3 : 2;
+    nums.slice(1).forEach(num => {
+        const clone = JSON.parse(JSON.stringify(item));
+        clone.num = num.padStart(num.length >= 3 ? num.length : 2, '0');
+        clone.digits = clone.num.length >= 3 ? 3 : 2;
+        clone.matched = false;
+        clone.winAmount = 0;
+        appData[activeGroup].inputHistory[sessionIdx].items.push(clone);
+    });
+    syncBetList();
+    renderMatrixTable();
+    saveAppDataToDB();
+}
+
+function setBetDigits(sessionIdx, itemIdx, digits, checked) {
+    const item = getTableItem(sessionIdx, itemIdx);
+    if (!item || !checked) return;
+    item.digits = digits;
+    item.num = item.num.padStart(digits, '0').slice(-digits);
+    syncBetList();
+    renderMatrixTable();
+    saveAppDataToDB();
+}
+
+function setBetType(sessionIdx, itemIdx, type) {
+    const item = getTableItem(sessionIdx, itemIdx);
+    if (!item) return;
+    item.betType = type;
+    syncBetList();
+    saveAppDataToDB();
+}
+
+function syncBetList() {
+    const gObj = appData[activeGroup];
+    gObj.betList = gObj.inputHistory.flatMap(session => session.items.filter(item => item.amount > 0));
+}
+
+function addManualBetRow() {
+    // Hiện popup
+    const modal = document.getElementById('manual-input-modal');
+    if (!modal) return showToast('Không tìm thấy popup', 'error');
+
+    // Render danh sách đài đã chọn bên ngoài + đài hôm nay
+    renderManualStations();
+    
+    // Reset form
+    document.getElementById('manual-so').value = '';
+    document.getElementById('manual-tien').value = '5';
+    document.getElementById('manual-donvi').value = 'k';
+    document.getElementById('manual-loai').value = 'bl';
+    document.getElementById('manual-so-hint').textContent = '';
+    document.getElementById('manual-preview').innerHTML = '';
+
+    modal.style.display = 'flex';
+    setTimeout(() => document.getElementById('manual-so').focus(), 100);
+}
+
+function closeManualModal() {
+    document.getElementById('manual-input-modal').style.display = 'none';
+}
+
+function renderManualStations() {
+    const container = document.getElementById('manual-station-list');
+    if (!container) return;
+
+    const region = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+    const todayStations = getTodayStations(region);
+
+    // Ưu tiên đài đã tick bên ngoài, nếu chưa có thì lấy đài hôm nay
+    let list = selectedStations.length > 0 ? [...selectedStations] : todayStations;
+
+    if (list.length === 0) {
+        container.innerHTML = '<span style="color:#f87171;font-size:13px;">Chưa chọn đài nào. Hãy chọn đài ở ngoài trước.</span>';
+        return;
+    }
+
+    container.innerHTML = list.map(s => {
+        const abbr = STATION_ABBR[s] || s.substring(0, 3);
+        const checked = selectedStations.includes(s) || todayStations.includes(s) ? 'checked' : '';
+        return `
+            <label style="display:flex;align-items:center;gap:4px;background:#1e293b;padding:5px 10px;border-radius:6px;font-size:12px;cursor:pointer;">
+                <input type="checkbox" value="${s}" ${checked} class="manual-station-cb">
+                ${abbr}
+            </label>
+        `;
+    }).join('');
+}
+
+function confirmManualInput() {
+    const soEl = document.getElementById('manual-so');
+    const loaiEl = document.getElementById('manual-loai');
+    const tienEl = document.getElementById('manual-tien');
+    const donviEl = document.getElementById('manual-donvi');
+
+    // Modal cũ không còn trong HTML → bỏ qua an toàn
+    if (!soEl || !loaiEl || !tienEl) {
+        return showToast('Dùng 「＋ Thêm dòng nhập thông minh」 (nhiều dòng / nhiều loại)', 'info');
+    }
+
+    const soRaw = soEl.value.trim();
+    const tien = parseFloat(tienEl.value) || 0;
+    const donvi = donviEl ? donviEl.value : 'k';
+
+    if (!soRaw || tien <= 0) {
+        return showToast('Vui lòng nhập Số và Tiền hợp lệ', 'error');
+    }
+
+    const nums = soRaw.match(/\d{2,4}/g) || [];
+    if (nums.length === 0) return showToast('Không nhận được số hợp lệ', 'error');
+
+    // Hỗ trợ 1 loại hoặc multi-select (nếu HTML còn multiple)
+    let loaiList = [];
+    if (loaiEl.multiple) {
+        loaiList = Array.from(loaiEl.selectedOptions).map(o => o.value);
+    } else if (loaiEl.value) {
+        loaiList = [loaiEl.value];
+    }
+    if (loaiList.length === 0) {
+        return showToast('Hãy chọn ít nhất 1 loại cược', 'error');
+    }
+
+    const checkedStations = Array.from(
+        document.querySelectorAll('.manual-station-cb:checked')
+    ).map(cb => cb.value);
+
+    if (checkedStations.length === 0) {
+        return showToast('Hãy chọn ít nhất 1 đài', 'error');
+    }
+
+    const region = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+    const heso = (donvi === 'k' || donvi === 'n') ? 1000 : 1;
+    // Chỉ lưu giá gốc (k) — vốn do calculateItemFinancials tính
+    const giaK = tien;
+
+    const gObj = appData[activeGroup];
+    if (!gObj.betList) gObj.betList = [];
+    if (!gObj.inputHistory) gObj.inputHistory = [];
+
+    const newItems = [];
+    const now = Date.now();
+    const enteredAt = new Date();
+    const timeStr = enteredAt.toLocaleTimeString('vi-VN', {
+        hour: '2-digit', minute: '2-digit', second: '2-digit'
+    }) + ' - ' + enteredAt.toLocaleDateString('vi-VN');
+
+    nums.forEach(num => {
+        const digits = num.length >= 3 ? 3 : 2;
+        const padded = num.padStart(digits === 2 ? 2 : 3, '0');
+
+        loaiList.forEach(loai => {
+            const item = {
+                num: padded,
+                digits: (loai === '3c' || loai === '4c') ? 3 : digits,
+                originalAmount: giaK,          // 5 = 5k
+                amount: giaK * 1000,           // 5000 — KHÔNG nhân số lô / số đài
+                region,
+                betType: loai,
+                note: '',
+                prizeTag: '',
+                matched: false,
+                matchCount: 0,
+                winAmount: 0,
+                stations: [...checkedStations],
+                prizeInfo: '',
+                createdAt: timeStr,
+                createdAtTimestamp: now,
+                id: 'bet_' + now + '_' + Math.random().toString(36).slice(2, 7)
+            };
+            newItems.push(item);
+            gObj.betList.push(item);
+        });
+    });
+
+    // 1 lần nhập = 1 tin
+    gObj.inputHistory.push({
+        id: now,
+        time: timeStr,
+        region,
+        items: newItems
+    });
+
+    if (typeof recalculateTotals === 'function') recalculateTotals(activeGroup);
+    if (typeof renderMatrixTable === 'function') renderMatrixTable();
+    if (typeof updateDetailTotals === 'function') updateDetailTotals();
+    if (typeof updateGrandSummary === 'function') updateGrandSummary();
+    if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+    if (typeof closeManualModal === 'function') closeManualModal();
+
+    showToast(`Đã thêm ${newItems.length} hàng (${nums.length} số × ${loaiList.length} loại)`, 'success');
+}
+// ================= TỔNG DƯỚI BẢNG CHI TIẾT =================
+function updateDetailTotals() {
+    const gObj = appData[activeGroup];
+    const el = (id) => document.getElementById(id);
+
+    if (!gObj) {
+        if (el('detail-total-messages')) el('detail-total-messages').innerText = '0';
+        if (el('detail-total-count')) el('detail-total-count').innerText = '0';
+        if (el('detail-total-bet')) el('detail-total-bet').innerText = '0 ₫';
+        if (el('detail-total-win')) el('detail-total-win').innerText = '0 ₫';
+        if (el('detail-total-net')) el('detail-total-net').innerText = '0 ₫';
+        if (el('detail-percent-amount')) el('detail-percent-amount').innerText = '0 ₫';
+        return;
+    }
+
+    // Tính lại từ betList cho khớp với bảng
+    recalculateTotals(activeGroup);
+
+    const totalMessages = (gObj.inputHistory || []).length;
+    const totalCount = (gObj.betList || []).length;
+    const totalBet = gObj.totals.totalBet || 0;
+    const totalWin = gObj.totals.totalWin || 0;
+
+    // 1. Tính lợi nhuận Nhà Cái (Thành tiền) = Tổng cược - Tổng trúng
+    // Nếu chưa trúng hoặc cược > trúng -> Kết quả DƯƠNG (+) = Nhà cái LỜI
+    const houseNet = totalBet - totalWin;
+
+    if (el('detail-total-messages')) el('detail-total-messages').innerText = totalMessages.toLocaleString();
+    if (el('detail-total-count')) el('detail-total-count').innerText = totalCount.toLocaleString();
+    if (el('detail-total-bet')) el('detail-total-bet').innerText = totalBet.toLocaleString() + ' ₫';
+    if (el('detail-total-win')) el('detail-total-win').innerText = totalWin > 0 ? totalWin.toLocaleString() + ' ₫' : '—';
+
+    // 2. Hiển thị Thành tiền gốc của nhà cái (Không bị trừ khi gõ %)
+    if (el('detail-total-net')) {
+        el('detail-total-net').innerText = (houseNet >= 0 ? '+' : '') + houseNet.toLocaleString() + ' ₫';
+        el('detail-total-net').style.color = houseNet >= 0 ? '#00ff88' : '#ff6b6b';
+    }
+
+    // 3. Tính tiền hùn vốn để chia cho cổ đông (% dựa trên lợi nhuận/lỗ nhà cái)
+    const percentVal = parseFloat(el('detail-percent')?.value || 0);
+    const percentAmount = Math.round((houseNet * percentVal) / 100);
+
+    if (el('detail-percent-amount')) {
+        // Thêm dấu + / - để rõ ràng số tiền hùn vốn là lời hay lỗ
+        const prefix = percentAmount > 0 ? '+' : '';
+        el('detail-percent-amount').innerText = prefix + percentAmount.toLocaleString() + ' ₫';
+    }
+}
+function deleteSession(sessionIdx) {
+    const gObj = appData[activeGroup];
+    if (!gObj || !gObj.inputHistory[sessionIdx]) return;
+    if (!confirm(`Xóa toàn bộ lần nhập #${sessionIdx + 1}?`)) return;
+
+    const removed = gObj.inputHistory.splice(sessionIdx, 1)[0];
+    // Cũng xóa khỏi betList (đơn giản)
+    removed.items.forEach(item => {
+        const idx = gObj.betList.findIndex(b => b.num === item.num && b.amount === item.amount && b.region === item.region);
+        if (idx > -1) gObj.betList.splice(idx, 1);
+    });
+
+    recalculateTotals(activeGroup);
+    renderMatrixTable();
+    updateGrandSummary();
+    saveAppDataToDB();
+    showToast('Đã xóa lần nhập', 'success');
+}
+
+function deleteItemFromSession(sessionIdx, itemIdx) {
+    const gObj = appData[activeGroup];
+    if (!gObj || !gObj.inputHistory[sessionIdx]) return;
+
+    const item = gObj.inputHistory[sessionIdx].items[itemIdx];
+    gObj.inputHistory[sessionIdx].items.splice(itemIdx, 1);
+
+    // Xóa khỏi betList
+    const idx = gObj.betList.findIndex(b => b.num === item.num && b.amount === item.amount && b.region === item.region);
+    if (idx > -1) gObj.betList.splice(idx, 1);
+
+    if (gObj.inputHistory[sessionIdx].items.length === 0) {
+        gObj.inputHistory.splice(sessionIdx, 1);
+    }
+
+    recalculateTotals(activeGroup);
+    renderMatrixTable();
+    updateGrandSummary();
+    saveAppDataToDB();
+    showToast('Đã xóa số', 'success');
+}
+
+// ================= TÍNH LẠI TỔNG NHÓM =================
+function recalculateTotals(g) {
+    const groupName = g || activeGroup;
+    const gObj = appData[groupName];
+    if (!gObj) return;
+
+    let totalBet = 0;
+    let totalWin = 0;
+    const list = gObj.betList || [];
+
+    for (let i = 0; i < list.length; i++) {
+        const item = list[i];
+        const fin = calculateItemFinancials(item, item.region || 'MT');
+        totalBet += fin.totalItemCost; // đúng = giá_k × số_lô × số_đài × 1000
+
+        // Chỉ cộng tiền trúng khi đã dò và trúng
+        if (item.matched) {
+            totalWin += (Number(item.winAmount) || fin.winAmount || 0);
+        }
+    }
+
+    if (!gObj.totals) gObj.totals = {};
+    gObj.totals.totalBet = totalBet;
+    gObj.totals.totalWin = totalWin;
+    gObj.totals.net = totalWin - totalBet;
+    gObj.totals.mtXac = totalBet; // giữ tương thích chỗ cũ
+    gObj.totals.mbXac = 0;
+}
+
+// ================= BẢNG TỔNG THỂ TOÀN BỘ NHÓM =================
+function updateGrandSummary() {
+    const tbody = document.getElementById('grand-summary-body');
+    if (!tbody) return;
+
+    let html = '';
+    for (let i = 0; i < groups.length; i++) {
+        const g = groups[i];
+        const data = appData[g];
+
+        if (!data) {
+            html += `
+                <tr style="cursor:pointer;" onclick="selectGroupAndScroll('${g}')">
+                    <td><b>Nhóm ${g}</b></td>
+                    <td>0</td><td>0</td><td>0</td>
+                    <td><span style="color:#94a3b8;">0</span></td>
+                    <td>⚪ Trống</td>
+                </tr>`;
+            continue;
+        }
+
+        if (typeof recalculateTotals === 'function') recalculateTotals(g);
+
+        const t = data.totals || {};
+        const betMT = Number(t.mtXac) || 0;          // Cược Miền Trung
+        const betMBMN = Number(t.mbXac) || 0;        // Cược Miền Bắc + Miền Nam
+        const bet = Number(t.totalBet) || (betMT + betMBMN);
+        const win = Number(t.totalWin) || 0;
+
+        // Góc nhìn nhà cái: Lời = tiền thu - tiền trả
+        const net = bet - win;
+
+        const hasData = (data.betList || []).length > 0;
+        const hasWin = win > 0;
+
+        const netStatus = net > 0
+            ? `<span style="color:#00ff88; font-weight:bold;">Lời +${net.toLocaleString()}</span>`
+            : (net < 0
+                ? `<span style="color:#ff6b6b; font-weight:bold;">Lỗ ${Math.abs(net).toLocaleString()}</span>`
+                : `<span style="color:#94a3b8;">0</span>`);
+
+        const status = hasWin
+            ? `<span class="blink-win">🟢 Có trúng</span>`
+            : (hasData ? '🟡 Đã có số' : '⚪ Trống');
+
+        let rowStyle = 'cursor:pointer;';
+        if (g === activeGroup) {
+            rowStyle += 'background:rgba(0,243,255,0.12);';
+        } else if (hasWin) {
+            rowStyle += 'background:rgba(255,77,77,0.08);';
+        }
+
+        html += `
+            <tr style="${rowStyle}" onclick="selectGroupAndScroll('${g}')">
+                <td><b>Nhóm ${g}</b>${g === activeGroup ? ' ←' : ''}</td>
+                <td>${betMT.toLocaleString()}</td>
+                <td>${betMBMN > 0 ? betMBMN.toLocaleString() : '—'}</td>
+                <td style="color:#ff4d4d; font-weight:bold;">${win.toLocaleString()}</td>
+                <td>${netStatus}</td>
+                <td>${status}</td>
+            </tr>`;
+    }
+    tbody.innerHTML = html;
+}
+
+// Danh sách tên đài dùng chung cho extractKQXSMeta() (tóm tắt hiện lên đầu
+// bảng) VÀ parseKQXS() (gán đài cho từng cột số) — tách ra 1 chỗ duy nhất để
+// khỏi có 2 bản dễ lệch nhau theo thời gian.
+const KQXS_STATION_NAMES = [
+    // ----- Miền Nam -----
+    ['TP. HỒ CHÍ MINH', 'TP. Hồ Chí Minh'],
+    ['TP HCM', 'TP. Hồ Chí Minh'],
+    ['HỒ CHÍ MINH', 'TP. Hồ Chí Minh'],
+    ['LONG AN', 'Long An'],
+    ['BÌNH PHƯỚC', 'Bình Phước'],
+    ['HẬU GIANG', 'Hậu Giang'],
+    ['ĐỒNG THÁP', 'Đồng Tháp'],
+    ['CÀ MAU', 'Cà Mau'],
+    ['BẾN TRE', 'Bến Tre'],
+    ['VŨNG TÀU', 'Vũng Tàu'],
+    ['BÀ RỊA', 'Vũng Tàu'],
+    ['BẠC LIÊU', 'Bạc Liêu'],
+    ['ĐỒNG NAI', 'Đồng Nai'],
+    ['CẦN THƠ', 'Cần Thơ'],
+    ['SÓC TRĂNG', 'Sóc Trăng'],
+    ['TÂY NINH', 'Tây Ninh'],
+    ['AN GIANG', 'An Giang'],
+    ['BÌNH THUẬN', 'Bình Thuận'],
+    ['VĨNH LONG', 'Vĩnh Long'],
+    ['BÌNH DƯƠNG', 'Bình Dương'],
+    ['TRÀ VINH', 'Trà Vinh'],
+    ['TIỀN GIANG', 'Tiền Giang'],
+    ['KIÊN GIANG', 'Kiên Giang'],
+    ['ĐÀ LẠT', 'Đà Lạt'],
+    ['LÂM ĐỒNG', 'Đà Lạt'],
+
+    // ----- Miền Trung -----
+    ['THỪA THIÊN HUẾ', 'Thừa Thiên Huế'],
+    ['THỪA THIÊN', 'Thừa Thiên Huế'],
+    ['HUẾ', 'Thừa Thiên Huế'],
+    ['PHÚ YÊN', 'Phú Yên'],
+    ['ĐẮK LẮK', 'Đắk Lắk'],
+    ['DAK LAK', 'Đắk Lắk'],
+    ['QUẢNG NAM', 'Quảng Nam'],
+    ['ĐÀ NẴNG', 'Đà Nẵng'],
+    ['KHÁNH HÒA', 'Khánh Hòa'],
+    ['QUẢNG BÌNH', 'Quảng Bình'],
+    ['BÌNH ĐỊNH', 'Bình Định'],
+    ['QUẢNG TRỊ', 'Quảng Trị'],
+    ['GIA LAI', 'Gia Lai'],
+    ['NINH THUẬN', 'Ninh Thuận'],
+    ['QUẢNG NGÃI', 'Quảng Ngãi'],
+    ['ĐẮK NÔNG', 'Đắk Nông'],
+    ['DAK NONG', 'Đắk Nông'],
+    ['KON TUM', 'Kon Tum'],
+
+    // ----- Miền Bắc -----
+    ['HÀ NỘI', 'Hà Nội'],
+    ['QUẢNG NINH', 'Quảng Ninh'],
+    ['BẮC NINH', 'Bắc Ninh'],
+    ['HẢI PHÒNG', 'Hải Phòng'],
+    ['NAM ĐỊNH', 'Nam Định'],
+    ['THÁI BÌNH', 'Thái Bình']
+];
+
+function parseKQXS(rawText) {
+    const meta = extractKQXSMeta(rawText);
+    const winningPrizes = [];
+
+    const validLengths = {
+        'ĐB': [5, 6], 'G1': [5], 'G2': [5], 'G3': [5],
+        'G4': [4, 5], 'G5': [4], 'G6': [3, 4], 'G7': [2, 3], 'G8': [2]
+    };
+
+    // "Đ" không phải \w trong regex JS nên \b không nhận biên trước "ĐB" khi
+    // đứng sau khoảng trắng — dùng lookaround (?<=^|\s) thay cho \b ở mọi chỗ
+    // liên quan tới ĐB để tránh bỏ sót nhãn giải đặc biệt.
+    let cleaned = String(rawText)
+        .replace(/Mã ĐB:[\s\S]*$/gi, '')
+        .replace(/[＊*]/g, ' ')
+        // Chuẩn hoá nhãn giải kiểu "G.8", "G .8", "Đ.B" (nhiều trang KQXS in
+        // nhãn có dấu chấm) → "G8" / "ĐB". KHÔNG đụng \t và \n vì đó là mốc
+        // phân biệt CỘT (đài) khi dán từ bảng HTML nhiều dòng/nhiều đài — mỗi
+        // ô giải có thể xuống dòng cho nhiều số trong cùng 1 đài (G.4, G.6...).
+        .replace(/(?<=^|[ \t\n])G\s*\.?\s*([1-8])(?=[ \t\n]|$)/gi, 'G$1')
+        .replace(/(?<=^|[ \t\n])(?:Đ\s*\.?\s*B|DB)(?=[ \t\n]|$)/gi, 'ĐB')
+        .replace(/(ĐẦU\s*ĐUÔI|ĐẦU|ĐUÔI)/gi, ' $1 ')
+        // Tách nhãn dính liền số, VD "G897" → "G8 97"
+        .replace(/(?<=^|[ \t\n])(ĐB|G[1-8])([0-9]+)/g, '$1 $2')
+        .replace(/([0-9]+)(ĐB|G[1-8])(?=[ \t\n]|$)/g, '$1 $2');
+
+    // Xác định vị trí TẤT CẢ nhãn giải theo đúng thứ tự xuất hiện trong text.
+    const labelRe = /(?<=^|[ \t\n])(ĐB|G[1-8])(?=[ \t\n]|$)/g;
+    const labels = [];
+    let lm;
+    while ((lm = labelRe.exec(cleaned))) {
+        labels.push({ prize: lm[1], start: lm.index, end: lm.index + lm[0].length });
+    }
+
+    // Đài áp dụng cho TỪNG NHÃN GIẢI riêng — QUAN TRỌNG khi 1 tin nhắn gộp
+    // KẾT QUẢ NHIỀU MIỀN cùng lúc (VD Nam/Trung ở trên, Bắc ở dưới, mỗi khối
+    // có SỐ ĐÀI KHÁC NHAU). Trước đây dùng CHUNG 1 danh sách đài PHẲNG
+    // (meta.stations, đếm theo thứ tự xuất hiện suốt CẢ văn bản) áp cho MỌI
+    // nhãn giải — khi khối sau có ÍT CỘT HƠN khối trước (VD Bắc chỉ 1 đài
+    // trong khi Nam/Trung phía trên có 2-3 đài), cột duy nhất của khối Bắc bị
+    // GÁN NHẦM sang tên đài của khối Nam/Trung trước đó (vì trùng chỉ số cột
+    // trong danh sách phẳng) — số của Miền Bắc bị ghi nhận như của 1 đài
+    // Miền Nam/Trung, dò trúng/thua sai hoàn toàn dù số vẫn đúng.
+    // Cách sửa: tìm lại vị trí xuất hiện tên đài NGAY TRONG "cleaned" (cùng hệ
+    // toạ độ với nhãn giải — không tái dùng vị trí từ extractKQXSMeta vì đó
+    // là chuỗi ĐÃ BIẾN ĐỔI KHÁC, độ dài lệch do các bước chuẩn hoá nhãn phía
+    // trên). Với MỖI nhãn giải, chỉ lấy đài xuất hiện MỚI ngay TRƯỚC nhãn đó
+    // (thường ở dòng tiêu đề đầu mỗi bảng) làm danh sách áp dụng — có tên đài
+    // MỚI xuất hiện thì THAY HẲN danh sách cũ (báo hiệu bảng/miền mới bắt
+    // đầu); không có gì mới thì giữ nguyên danh sách đang dùng.
+    const cleanedUpper = cleaned.toUpperCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    const stationOccurrences = [];
+    KQXS_STATION_NAMES.forEach(([key, full]) => {
+        const k = key.normalize('NFD').replace(/[̀-ͯ]/g, '');
+        let from = 0, idx;
+        while ((idx = cleanedUpper.indexOf(k, from)) !== -1) {
+            stationOccurrences.push({ idx, full });
+            from = idx + k.length;
+        }
+    });
+    stationOccurrences.sort((a, b) => a.idx - b.idx);
+
+    const fallbackStations = meta.stations.length ? meta.stations : [null];
+    let currentStations = fallbackStations;
+    let occPtr = 0;
+    const stationsForLabel = labels.map((label, li) => {
+        const gapStart = li === 0 ? 0 : labels[li - 1].end;
+        const gapEnd = label.start;
+        const namesInGap = [];
+        while (occPtr < stationOccurrences.length && stationOccurrences[occPtr].idx < gapEnd) {
+            if (stationOccurrences[occPtr].idx >= gapStart && !namesInGap.includes(stationOccurrences[occPtr].full)) {
+                namesInGap.push(stationOccurrences[occPtr].full);
+            }
+            occPtr++;
+        }
+        if (namesInGap.length) currentStations = namesInGap;
+        return currentStations;
+    });
+
+    for (let li = 0; li < labels.length; li++) {
+        const prize = labels[li].prize;
+        const blockStart = labels[li].end;
+        const blockEnd = (li + 1 < labels.length) ? labels[li + 1].start : cleaned.length;
+        const block = cleaned.slice(blockStart, blockEnd);
+        const lens = validLengths[prize] || [];
+        const stationsHere = stationsForLabel[li];
+
+        // Đài (cột) được phân tách bởi TAB khi dán từ bảng KQXS — mỗi đoạn
+        // giữa 2 tab có thể chứa NHIỀU số xuống dòng (ô nhiều số như G.4/G.6,
+        // vốn hay bị gán sai đài nếu chỉ đếm thứ tự phẳng như trước đây).
+        let segments = block.split('\t');
+        if (segments.length && segments[0].trim() === '') segments.shift();
+
+        if (stationsHere.length > 1 && segments.length === 1) {
+            // Không có tab phân cột (định dạng lạ/không chuẩn) → fallback:
+            // chia đều theo thứ tự xuất hiện (đài 1, đài 2, đài 1, đài 2...).
+            const nums = (block.match(/\d+/g) || []).filter(n => lens.includes(n.length));
+            nums.forEach((num, i) => {
+                // Thứ tự SỐ TRONG GIẢI của riêng đài đó (VD "g4lo6" = số thứ 6
+                // của Giải 4) — không phải chỉ số i (i còn dùng chia vòng tròn
+                // đài ở nhánh fallback này).
+                const posInTier = Math.floor(i / stationsHere.length) + 1;
+                winningPrizes.push({ number: num, prize, station: stationsHere[i % stationsHere.length] || null, dateStr: meta.dateStr || null, posInTier });
+            });
+            continue;
+        }
+
+        // QUAN TRỌNG: không được bỏ cột nào, kể cả khi không xác định được tên
+        // đài cho cột đó (VD dán thiếu dòng "Thứ X / ngày / tên đài"). Trước
+        // đây `if (segIdx >= stations.length) return` làm mất toàn bộ cột thứ
+        // 2 trở đi khi stations chỉ có 1 phần tử ([null]) — tức mất nửa (hoặc
+        // 2/3) dữ liệu KQXS bất cứ khi nào không nhận diện được tên đài, dù
+        // KQXS vẫn có đủ nhiều cột. Cột không rõ tên đài → gán station = null
+        // (không lọc theo đài khi dò, vẫn dò đúng theo số).
+        segments.forEach((seg, segIdx) => {
+            const station = segIdx < stationsHere.length ? stationsHere[segIdx] : null;
+            const nums = (seg.match(/\d+/g) || []).filter(n => lens.includes(n.length));
+            nums.forEach((num, i) => {
+                // Thứ tự SỐ TRONG GIẢI của đài này (VD "g4lo6" = số thứ 6 của
+                // Giải 4) — theo đúng thứ tự xuất hiện trong bảng KQXS gốc.
+                winningPrizes.push({ number: num, prize, station: station || null, dateStr: meta.dateStr || null, posInTier: i + 1 });
+            });
+        });
+    }
+
+    window._lastKQXSMeta = meta;
+    return winningPrizes;
+}
+// Bóc ngày KQXS thông minh: hỗ trợ "ngày dd/mm/yyyy", "ngày dd/mm" (thiếu năm),
+// và định dạng bảng không có chữ "ngày" (VD: "Thứ 3\n25/08\tĐắk Lắk\tQuảng Nam").
+function resolveKQXSDateStr(t) {
+    let m = t.match(/ngày\s*(\d{1,2})[\/\-](\d{1,2})(?:[\/\-](\d{2,4}))?/i)
+        || t.match(/(\d{1,2})[\/\-](\d{1,2})[\/\-](\d{2,4})/)
+        || t.match(/(\d{1,2})[\/\-](\d{1,2})(?!\s*[\/\-]?\d)/);
+    if (!m) return null;
+
+    const day = parseInt(m[1], 10);
+    const month = parseInt(m[2], 10);
+    if (!day || !month || day > 31 || month > 12) return null;
+
+    const now = new Date();
+    let year = m[3] ? parseInt(m[3], 10) : now.getFullYear();
+    if (m[3] && m[3].length === 2) year += 2000;
+
+    if (!m[3]) {
+        const guess = new Date(year, month - 1, day);
+        if ((guess - now) / 86400000 > 200) year -= 1;
+    }
+
+    return `${String(day).padStart(2, '0')}/${String(month).padStart(2, '0')}/${year}`;
+}
+
+function extractKQXSMeta(rawText) {
+    const t = String(rawText || '');
+    const region = (typeof getResultRegion === 'function') ? getResultRegion(t) : null;
+    const dateStr = resolveKQXSDateStr(t);
+
+    const upper = t.toUpperCase()
+        .normalize('NFD').replace(/[̀-ͯ]/g, '');
+
+    // Tìm theo thứ tự xuất hiện trong text (indexOf)
+    const found = [];
+    KQXS_STATION_NAMES.forEach(([key, full]) => {
+        const k = key.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+        const idx = upper.indexOf(k);
+        if (idx >= 0 && !found.some(f => f.full === full)) {
+            found.push({ idx, full });
+        }
+    });
+    found.sort((a, b) => a.idx - b.idx);
+    const stations = found.map(f => f.full);
+
+    return { region, dateStr, stations };
+}
+
+function renderWinningLog() {
+    const box = document.getElementById('winning-log-content');
+    if (!box) return;
+
+    let totalWinAll = 0;
+    let totalHitCount = 0; // số con (dòng)
+    let totalNhay = 0;     // tổng nháy
+    let totalGroupsWin = 0;
+    const blocks = []; // { g, isActive, html }
+
+    groups.forEach(g => {
+        const gObj = appData[g];
+        if (!gObj || !gObj.betList) return;
+
+        const hits = gObj.betList.filter(i => i.matched && (i.winAmount || 0) > 0);
+        if (hits.length === 0) return;
+
+        totalGroupsWin++;
+        totalHitCount += hits.length;
+        let groupWin = 0;
+        let groupNhay = 0;
+        let lines = '';
+
+        hits.forEach(item => {
+            const nhay = item.matchCount || 1;
+            groupNhay += nhay;
+            totalNhay += nhay;
+            groupWin += item.winAmount || 0;
+            totalWinAll += item.winAmount || 0;
+
+            const stations = (item.stations || []).map(s => (typeof STATION_ABBR !== 'undefined' && STATION_ABBR[s]) ? STATION_ABBR[s] : s).join('+') || '—';
+            const prize = item.prizeInfo || '—';
+            const rawType = item.betType || 'bl';
+            const typeInfo = (typeof BET_TYPES !== 'undefined') ? BET_TYPES[rawType] : null;
+            const typeLabel = typeInfo ? typeInfo.name : rawType.toUpperCase();
+
+            lines += `
+                <div style="font-size:12px; padding:4px 0; color:#e2e8f0; border-bottom:1px solid #1e293b;">
+                    <span style="color:#ff4d4d; font-weight:bold; font-size:14px;">${item.num}</span>
+                    <span style="color:#94a3b8;"> | ${typeLabel} <span style="color:#475569; font-size:10px;">(${rawType})</span></span>
+                    <span style="color:#fbbf24;"> | ${stations}</span>
+                    <span style="color:#38bdf8;"> | <b>${nhay} lần</b>: ${prize}</span>
+                    <span style="color:#00ff88; float:right; font-weight:bold;">+${Number(item.winAmount).toLocaleString()}₫</span>
+                </div>`;
+        });
+
+        const isActive = g === activeGroup;
+        blocks.push({
+            g,
+            isActive,
+            html: `
+        <div style="margin-bottom:12px; border:1px solid ${isActive ? '#00f3ff' : '#334155'}; border-radius:6px; padding:8px 8px 4px; ${isActive ? 'background:rgba(0,243,255,0.06);' : ''}">
+            <div style="color:#00f3ff; font-weight:bold; margin-bottom:4px;">
+                ${isActive ? '📍 ' : ''}Nhóm ${g}${isActive ? ' <span style="color:#64748b; font-weight:normal; font-size:11px;">(đang xem)</span>' : ''} — ${hits.length} con • ${groupNhay} lần
+            </div>
+            ${lines}
+            <div style="text-align:right; font-size:12px; color:#00ff88; margin-top:4px;">
+                Cộng nhóm ${g}: <b>${groupWin.toLocaleString()}₫</b>
+            </div>
+        </div>`
+        });
+    });
+
+    if (totalHitCount === 0) {
+        box.innerHTML = `<div style="color:#64748b; text-align:center; padding:12px;">Chưa có dữ liệu trúng...</div>`;
+        return;
+    }
+
+    // Nhóm đang xem hiện lên đầu, các nhóm còn lại giữ nguyên thứ tự
+    blocks.sort((a, b) => (b.isActive ? 1 : 0) - (a.isActive ? 1 : 0));
+    const html = blocks.map(b => b.html).join('');
+
+    // Bảng tổng hợp "theo Miền / Đài" — GỘP XUYÊN SUỐT mọi nhóm (khác phần
+    // liệt kê theo TỪNG NHÓM bên dưới) để biết ngay tổng trúng của miền/đài
+    // nào, không phải dò từng dòng. Dùng cùng màu với thanh ngang lượt nhập
+    // (REGION_HEADER_COLOR) để nhìn xuyên suốt nhất quán trong cả app.
+    const regionOrder = ['MN', 'MT', 'MB'];
+    const regionLabel = { MN: 'Miền Nam', MT: 'Miền Trung', MB: 'Miền Bắc' };
+    const byRegion = {};
+    groups.forEach(g => {
+        const gObj = appData[g];
+        if (!gObj || !gObj.betList) return;
+        gObj.betList.filter(i => i.matched && (i.winAmount || 0) > 0).forEach(item => {
+            const region = item.region || 'MT';
+            const stationKey = (item.stations || []).map(s => (typeof STATION_ABBR !== 'undefined' && STATION_ABBR[s]) ? STATION_ABBR[s] : s).join('+') || '—';
+            const nhay = item.matchCount || 1;
+            const win = item.winAmount || 0;
+            if (!byRegion[region]) byRegion[region] = { con: 0, nhay: 0, win: 0, stations: {} };
+            const rEntry = byRegion[region];
+            rEntry.con += 1; rEntry.nhay += nhay; rEntry.win += win;
+            if (!rEntry.stations[stationKey]) rEntry.stations[stationKey] = { con: 0, nhay: 0, win: 0 };
+            rEntry.stations[stationKey].con += 1;
+            rEntry.stations[stationKey].nhay += nhay;
+            rEntry.stations[stationKey].win += win;
+        });
+    });
+    const byRegionHtml = regionOrder.filter(r => byRegion[r]).map(r => {
+        const rEntry = byRegion[r];
+        const color = REGION_HEADER_COLOR[r] || REGION_HEADER_COLOR.MT;
+        const stationRows = Object.entries(rEntry.stations).map(([station, s]) => `
+            <div style="display:flex; justify-content:space-between; gap:8px; font-size:11.5px; color:#cbd5e1; padding:2px 0 2px 16px;">
+                <span>${station}</span>
+                <span>${s.con} con • ${s.nhay} lần • <b style="color:#00ff88;">${s.win.toLocaleString()}₫</b></span>
+            </div>`).join('');
+        return `
+        <div style="margin-bottom:6px; border-left:3px solid ${color}; padding-left:8px;">
+            <div style="display:flex; justify-content:space-between; gap:8px; font-size:12.5px; font-weight:bold; color:${color};">
+                <span>${regionLabel[r]}</span>
+                <span>${rEntry.con} con • ${rEntry.nhay} lần • ${rEntry.win.toLocaleString()}₫</span>
+            </div>
+            ${stationRows}
+        </div>`;
+    }).join('');
+    const byRegionBox = byRegionHtml
+        ? `<div style="margin-bottom:10px; padding:8px 10px; background:rgba(15,23,42,0.6); border:1px solid #334155; border-radius:8px;">
+                <div style="font-size:11px; color:#64748b; margin-bottom:6px; text-transform:uppercase; letter-spacing:0.4px;">📊 Theo Miền / Đài</div>
+                ${byRegionHtml}
+           </div>`
+        : '';
+
+    box.innerHTML = `
+        <div style="margin-bottom:8px; font-size:13px; color:#fbbf24;">
+            Tổng: <b>${totalGroupsWin}</b> nhóm trúng • <b>${totalHitCount}</b> con • <b>${totalNhay}</b> lần •
+            <b style="color:#00ff88">${totalWinAll.toLocaleString()}₫</b>
+        </div>
+        ${byRegionBox}
+        ${html}`;
+}
+
+// ================= NHẬN DIỆN ĐÀI / MIỀN TỪ KQXS =================
+function getResultRegion(rawText) {
+    const t = rawText.toUpperCase();
+
+    // Ưu tiên mã chính thức trước
+    if (t.includes('XSMB') || t.includes('MIỀN BẮC') || t.includes('MB ')) return 'MB';
+    if (t.includes('XSMT') || t.includes('MIỀN TRUNG') || t.includes('MT ')) return 'MT';
+    if (t.includes('XSMN') || t.includes('MIỀN NAM') || t.includes('MN ')) return 'MN';
+
+    // Fallback theo tên tỉnh
+    if (t.includes('HÀ NỘI') || t.includes('QUẢNG NINH') || t.includes('BẮC NINH') || 
+        t.includes('HẢI PHÒNG') || t.includes('NAM ĐỊNH') || t.includes('THÁI BÌNH')) return 'MB';
+
+    if (t.includes('PHÚ YÊN') || t.includes('HUẾ') || t.includes('ĐẮK LẮK') || t.includes('QUẢNG NAM') ||
+        t.includes('ĐÀ NẴNG') || t.includes('KHÁNH HÒA') || t.includes('QUẢNG BÌNH') || t.includes('BÌNH ĐỊNH') ||
+        t.includes('QUẢNG TRỊ') || t.includes('GIA LAI') || t.includes('NINH THUẬN') || t.includes('QUẢNG NGÃI') ||
+        t.includes('ĐẮK NÔNG') || t.includes('KON TUM')) return 'MT';
+
+    if (t.includes('HỒ CHÍ MINH') || t.includes('TP.HCM') || t.includes('ĐỒNG THÁP') || t.includes('CÀ MAU') ||
+        t.includes('BẾN TRE') || t.includes('VŨNG TÀU') || t.includes('BẠC LIÊU') || t.includes('ĐỒNG NAI') ||
+        t.includes('CẦN THƠ') || t.includes('SÓC TRĂNG') || t.includes('TÂY NINH') || t.includes('AN GIANG') ||
+        t.includes('BÌNH THUẬN') || t.includes('VĨNH LONG') || t.includes('BÌNH DƯƠNG') || t.includes('TRÀ VINH') ||
+        t.includes('LONG AN') || t.includes('BÌNH PHƯỚC') || t.includes('HẬU GIANG') || t.includes('TIỀN GIANG') ||
+        t.includes('KIÊN GIANG') || t.includes('ĐÀ LẠT') || t.includes('LÂM ĐỒNG')) return 'MN';
+
+    return null;
+}
+
+function getStationFromResult(rawText) {
+    const t = rawText.toUpperCase();
+
+    // Ưu tiên mã chính thức + tên đầy đủ (tránh key ngắn gây nhầm)
+    const map = [
+        // Miền Trung
+        ['XSQB', 'Quảng Bình'], ['QUẢNG BÌNH', 'Quảng Bình'],
+        ['XSBDI', 'Bình Định'], ['BÌNH ĐỊNH', 'Bình Định'],
+        ['XSQT', 'Quảng Trị'], ['QUẢNG TRỊ', 'Quảng Trị'],
+        ['XSDNG', 'Đà Nẵng'], ['ĐÀ NẴNG', 'Đà Nẵng'],
+        ['XSKH', 'Khánh Hòa'], ['KHÁNH HÒA', 'Khánh Hòa'],
+        ['XSPY', 'Phú Yên'], ['PHÚ YÊN', 'Phú Yên'],
+        ['XSDLK', 'Đắk Lắk'], ['ĐẮK LẮK', 'Đắk Lắk'],
+        ['XSQNA', 'Quảng Nam'], ['QUẢNG NAM', 'Quảng Nam'],
+        ['XSGL', 'Gia Lai'], ['GIA LAI', 'Gia Lai'],
+        ['XSNT', 'Ninh Thuận'], ['NINH THUẬN', 'Ninh Thuận'],
+        ['XSQNG', 'Quảng Ngãi'], ['QUẢNG NGÃI', 'Quảng Ngãi'],
+        ['XSDNO', 'Đắk Nông'], ['ĐẮK NÔNG', 'Đắk Nông'],
+        ['XSKT', 'Kon Tum'], ['KON TUM', 'Kon Tum'],
+        ['XSTTH', 'Thừa Thiên Huế'], ['THỪA THIÊN HUẾ', 'Thừa Thiên Huế'], ['HUẾ', 'Thừa Thiên Huế'],
+
+        // Miền Bắc
+        ['XSHN', 'Hà Nội'], ['HÀ NỘI', 'Hà Nội'],
+        ['XSQN', 'Quảng Ninh'], ['QUẢNG NINH', 'Quảng Ninh'],
+        ['XSBN', 'Bắc Ninh'], ['BẮC NINH', 'Bắc Ninh'],
+        ['XSHP', 'Hải Phòng'], ['HẢI PHÒNG', 'Hải Phòng'],
+        ['XSND', 'Nam Định'], ['NAM ĐỊNH', 'Nam Định'],
+        ['XSTB', 'Thái Bình'], ['THÁI BÌNH', 'Thái Bình'],
+
+        // Miền Nam
+        ['XSHCM', 'TP. Hồ Chí Minh'], ['TP.HCM', 'TP. Hồ Chí Minh'], ['HỒ CHÍ MINH', 'TP. Hồ Chí Minh'],
+        ['XSCT', 'Cần Thơ'], ['CẦN THƠ', 'Cần Thơ'],
+        ['XSDT', 'Đồng Tháp'], ['ĐỒNG THÁP', 'Đồng Tháp'],
+        ['XSCM', 'Cà Mau'], ['CÀ MAU', 'Cà Mau'],
+        ['XSBT', 'Bến Tre'], ['BẾN TRE', 'Bến Tre'],
+        ['XSVT', 'Vũng Tàu'], ['VŨNG TÀU', 'Vũng Tàu'],
+        ['XSBL', 'Bạc Liêu'], ['BẠC LIÊU', 'Bạc Liêu'],
+        ['XSDN', 'Đồng Nai'], ['ĐỒNG NAI', 'Đồng Nai'],
+        ['XSST', 'Sóc Trăng'], ['SÓC TRĂNG', 'Sóc Trăng'],
+        ['XSTN', 'Tây Ninh'], ['TÂY NINH', 'Tây Ninh'],
+        ['XSAG', 'An Giang'], ['AN GIANG', 'An Giang'],
+        ['XSBTH', 'Bình Thuận'], ['BÌNH THUẬN', 'Bình Thuận'],
+        ['XSVL', 'Vĩnh Long'], ['VĨNH LONG', 'Vĩnh Long'],
+        ['XSBD', 'Bình Dương'], ['BÌNH DƯƠNG', 'Bình Dương'],
+        ['XSTV', 'Trà Vinh'], ['TRÀ VINH', 'Trà Vinh'],
+        ['XSLA', 'Long An'], ['LONG AN', 'Long An'],
+        ['XSBP', 'Bình Phước'], ['BÌNH PHƯỚC', 'Bình Phước'],
+        ['XSHG', 'Hậu Giang'], ['HẬU GIANG', 'Hậu Giang'],
+        ['XSTG', 'Tiền Giang'], ['TIỀN GIANG', 'Tiền Giang'],
+        ['XSKG', 'Kiên Giang'], ['KIÊN GIANG', 'Kiên Giang'],
+        ['XSDL', 'Đà Lạt'], ['ĐÀ LẠT', 'Đà Lạt'], ['LÂM ĐỒNG', 'Đà Lạt']
+    ];
+
+    for (const [key, station] of map) {
+        if (t.includes(key)) return station;
+    }
+    return null;
+}
+
+// ================= HÀM DÒ SỐ THÔNG MINH =================
+function getBetTypeTiers(betType, region) {
+    const t = (betType || '').toLowerCase().trim();
+    const isMB = region === 'MB' || region === 'Miền Bắc';
+
+    const REGIONAL = {
+        'dau': isMB ? ['g7'] : ['g8'],
+        'xc_dau': isMB ? ['g6'] : ['g7'],
+        'dd': isMB ? ['g7', 'db'] : ['g8', 'db'],
+        'dc': isMB ? ['g7', 'db'] : ['g8', 'db'],
+        'xc': isMB ? ['g6', 'db'] : ['g7', 'db'],
+        // "Cuối" theo đúng xác nhận Cocomi — MT/MN "5 Cuối" = G3+G2+G1+ĐB (5
+        // lô); Miền Bắc KHÔNG có G3 trong tổ hợp này, chỉ có 4 lô: G2+G1+ĐB
+        // (Bắc gọi là "4 Cuối"). Khác các loại "Đầu"/"Xỉu Chủ" ở trên (chỉ
+        // đổi SỐ LÔ theo miền) — ở đây SỐ GIẢI GỘP trong tổ hợp cũng đổi
+        // theo miền, không chỉ đổi số lô.
+        // '4c' là mã KHÁC bạn Miền Bắc hay gõ cho ĐÚNG khái niệm này (đã bỏ
+        // nghĩa "4 Càng" cũ) — dùng chung công thức với '5c'/'g3g2g1db'.
+        '4c': isMB ? ['g2', 'g1', 'db'] : ['g3', 'g2', 'g1', 'db'],
+        '5c': isMB ? ['g2', 'g1', 'db'] : ['g3', 'g2', 'g1', 'db'],
+        'g3g2g1db': isMB ? ['g2', 'g1', 'db'] : ['g3', 'g2', 'g1', 'db']
+    };
+    if (REGIONAL[t]) return REGIONAL[t];
+
+    const FIXED = {
+        'duoi': ['db'], 'cuoi': ['db'], 'xc_duoi': ['db'],
+        '12d': ['g7', 'g6', 'g5', 'g4'],
+        '13d': ['g8', 'g7', 'g6', 'g5', 'g4'],
+        // Các tổ hợp mới bổ sung theo xác nhận Cocomi (29/08/2026):
+        // "5 Đầu" (MT/MN, 3C) = G7+G6+G5 = 5 lô.
+        'g7g6g5': ['g7', 'g6', 'g5'],
+        // "6 Đầu" (MT/MN, 2C) = G8+G7+G6+G5 = 6 lô.
+        'g8g7g6g5': ['g8', 'g7', 'g6', 'g5'],
+        // "12 Cuối" (MT/MN) = G4+G3+G2+G1+ĐB = 12 lô — KHÁC "12 Đầu"
+        // (g7g6g5g4, tính từ đầu G7 xuống G4) dù trùng số lô 12 do ngẫu nhiên.
+        'g4g3g2g1db': ['g4', 'g3', 'g2', 'g1', 'db'],
+        // "10 Cuối" Miền Bắc = ĐB+G1+G2+G3 = 10 lô (đã xác nhận Cocomi).
+        // Miền Trung/Nam CHƯA có xác nhận riêng cho "10cuoi" — tạm dùng
+        // chung công thức này, cần hỏi lại nếu MT/MN có dùng thật.
+        '10cuoi': ['g3', 'g2', 'g1', 'db'],
+        // "14 Cuối" Miền Bắc = ĐB+G1+G2+G3+G4 = 14 lô (Cocomi xác nhận,
+        // riêng cho Miền Bắc — MT/MN không có khái niệm này).
+        '14cuoi': ['g4', 'g3', 'g2', 'g1', 'db']
+    };
+    if (FIXED[t]) return FIXED[t];
+
+    if (t === 'db') return ['db'];
+    if (/^g[1-8]$/.test(t)) return [t];
+
+    // "g4lo6" = chỉ đúng SỐ THỨ 6 trong Giải 4 — vẫn cần khoanh về đúng tier
+    // "g4" ở đây (kiểm tra vị trí cụ thể do prizeMatchesBet đảm nhận riêng).
+    const gLo = t.match(/^g([1-8])lo\d+$/);
+    if (gLo) return ['g' + gLo[1]];
+
+    const tokens = t.match(/g[1-8]|db/g);
+    if (tokens && tokens.length > 1) return tokens;
+
+    return null;
+}
+
+function prizeMatchesBet(prizeLabel, betType, region, item, posInTier) {
+    const p = String(prizeLabel || '').toLowerCase()
+        .replace(/đ/g, 'd')
+        .normalize('NFD').replace(/[̀-ͯ]/g, '')
+        .replace(/s+/g, '');
+
+    // item.tierOnly (VD "Gnhat. Le le x 50k" → tierOnly=['g1'], hoặc
+    // "Db+G7. Chan chan x 35k" → tierOnly=['db','g7']) ép chỉ so với ĐÚNG các
+    // giải đó (khớp 1 TRONG SỐ đó là đủ tính trúng), bất kể betType là loại
+    // "cả cụm" (lẻ lẻ/chẵn chẵn/con giáp) vốn mặc định so như bao lô (mọi giải).
+    const tierOnlyList = (item && Array.isArray(item.tierOnly) && item.tierOnly.length) ? item.tierOnly : null;
+    if (tierOnlyList) {
+        return tierOnlyList.some(source => {
+            // "g4lo6" = chỉ khớp đúng SỐ THỨ 6 trong danh sách Giải 4 (theo
+            // đúng thứ tự trong bảng KQXS gốc) — không phải bất kỳ số nào của
+            // Giải 4. Miền nào không có đủ số thứ tự đó (VD Miền Bắc G4 chỉ
+            // có 4 số) thì posInTier không bao giờ khớp → tự không tính trúng.
+            const gLo = String(source || '').toLowerCase().match(/^g([1-8])lo(\d+)$/);
+            if (gLo) return p === 'g' + gLo[1] && Number(posInTier) === Number(gLo[2]);
+            const tier = String(source || '').toLowerCase();
+            return tier === 'db'
+                ? (p === 'db' || p.includes('db') || p.includes('dacbiet') || p.includes('gdb'))
+                : p === tier;
+        });
+    }
+
+    // Không có tierOnly → hành vi gốc: dựa theo đúng betType (VD "g4lo6" gõ
+    // trực tiếp cho 1 số cụ thể, không qua loại "cả cụm").
+    const gLo = String(betType || '').toLowerCase().match(/^g([1-8])lo(\d+)$/);
+    if (gLo) {
+        return p === 'g' + gLo[1] && Number(posInTier) === Number(gLo[2]);
+    }
+    const tiers = getBetTypeTiers(betType, region);
+    if (!tiers) return true; // Bao lô / đá / xiên... → mọi giải có đuôi số đều tính
+    return tiers.some(tier => tier === 'db'
+        ? (p === 'db' || p.includes('db') || p.includes('dacbiet') || p.includes('gdb'))
+        : p === tier);
+}
+
+function normalizeDateStr(s) {
+    if (!s) return '';
+    const m = String(s).match(/(\d{1,2})[\/\-](\d{1,2})[\/\-](\d{2,4})/);
+    if (!m) return String(s).trim();
+    const y = m[3].length === 2 ? '20' + m[3] : m[3];
+    return `${String(m[1]).padStart(2, '0')}/${String(m[2]).padStart(2, '0')}/${y}`;
+}
+
+// Gom các giải KQXS theo độ dài đuôi số (2/3/4/5 chữ số) để tra cứu O(1) thay
+// vì quét tuần tự cả prizeList cho từng con số cược (trước đây dùng
+// `p.number.endsWith(item.num)` trong vòng lặp lồng nhau — O(số_con ×
+// số_giải), rất chậm/treo tab khi betList có hàng trăm nghìn/triệu dòng).
+function buildPrizeSuffixIndex(prizeList) {
+    const index = new Map(); // độ dài đuôi -> Map(đuôi số -> [giải...])
+    for (const p of prizeList) {
+        if (!p.number) continue;
+        const numStr = String(p.number);
+        const maxLen = Math.min(5, numStr.length);
+        for (let len = 2; len <= maxLen; len++) {
+            const suffix = numStr.slice(-len);
+            let byLen = index.get(len);
+            if (!byLen) { byLen = new Map(); index.set(len, byLen); }
+            let arr = byLen.get(suffix);
+            if (!arr) { arr = []; byLen.set(suffix, arr); }
+            arr.push(p);
+        }
+    }
+    return index;
+}
+
+const EMPTY_PRIZE_MATCHES = [];
+function getCandidatePrizes(prizeIndex, num) {
+    const byLen = prizeIndex.get(String(num || '').length);
+    if (!byLen) return EMPTY_PRIZE_MATCHES;
+    return byLen.get(num) || EMPTY_PRIZE_MATCHES;
+}
+
+async function checkAllResults() {
+    const btn = document.getElementById('btn-check-results');
+    if (btn && btn.disabled) return; // chống bấm liên tục khi đang dò (đang xử lý theo lô)
+
+    const rawKQXS = document.getElementById('kqxs-input').value.trim();
+    if (!rawKQXS) return showToast("Vui lòng dán nội dung Kết Quả Xổ Số!", "error");
+
+    const prizeList = parseKQXS(rawKQXS);
+    if (prizeList.length === 0) {
+        return customAlert("Không bóc tách được con số KQXS hợp lệ nào!", "Thông Báo");
+    }
+
+    const resultRegion = (typeof getResultRegion === 'function') ? getResultRegion(rawKQXS) : null;
+    const meta = window._lastKQXSMeta || (typeof extractKQXSMeta === 'function' ? extractKQXSMeta(rawKQXS) : {});
+    const kqDate = normalizeDateStr(meta.dateStr || '');
+    const todayStr = normalizeDateStr(new Date().toLocaleDateString('vi-VN'));
+    // Ngày KQXS chỉ dùng để CẢNH BÁO — KHÔNG chặn dò, KHÔNG lọc theo từng dòng
+    // cược (dò khớp theo số + đài, xem vòng lặp bên dưới).
+    if (!kqDate) {
+        showToast('⚠️ Không xác định được ngày của bảng KQXS vừa dán — vẫn dò theo số + đài, hãy tự kiểm tra lại.', 'error');
+    } else if (kqDate !== todayStr) {
+        showToast(`⚠️ KQXS ngày ${kqDate} — khác hôm nay (${todayStr}). Vẫn dò bình thường, hãy tự kiểm tra lại nội dung.`, 'error');
+    }
+    // Hiện dạng "viên thuốc" (pill) bo tròn thay vì chữ IN HOA trần trụi —
+    // gọn, dễ quét mắt hơn, chỉ đổi màu/icon theo đúng 3 trạng thái, không
+    // đổi ý nghĩa cảnh báo (vẫn không chặn dò, chỉ để người dùng tự đối chiếu).
+    const dateStatusEl = document.getElementById('kqxs-date-status');
+    if (dateStatusEl) {
+        const pill = (bg, border, color, text) =>
+            `<span style="display:inline-flex; align-items:center; gap:5px; padding:3px 10px; border-radius:999px; background:${bg}; border:1px solid ${border}; color:${color}; font-size:12px; font-weight:600;">${text}</span>`;
+        if (!kqDate) {
+            dateStatusEl.innerHTML = pill('rgba(248,113,113,0.12)', 'rgba(248,113,113,0.4)', '#fca5a5', '⚠️ Không rõ ngày KQXS — vẫn dò theo số + đài, tự kiểm tra lại');
+        } else if (kqDate === todayStr) {
+            dateStatusEl.innerHTML = pill('rgba(0,255,136,0.1)', 'rgba(0,255,136,0.35)', '#6ee7b7', `✅ KQXS ngày ${kqDate} — đúng hôm nay`);
+        } else {
+            dateStatusEl.innerHTML = pill('rgba(251,191,36,0.12)', 'rgba(251,191,36,0.4)', '#fde68a', `⚠️ KQXS ngày ${kqDate} — khác hôm nay (${todayStr})`);
+        }
+    }
+    // Chỉ đồng bộ miền — KHÔNG ép 1 đài
+    if (resultRegion) {
+        const regionRadio = document.querySelector(`input[name="region-select"][value="${resultRegion}"]`);
+        if (regionRadio) regionRadio.checked = true;
+    }
+
+    // Hiển thị số đã bóc (có đài nếu có)
+    const parsedBox = document.getElementById('parsed-kqxs-display');
+    const parsedList = document.getElementById('parsed-numbers-list');
+    if (parsedBox) parsedBox.style.display = 'block';
+    if (parsedList) {
+        parsedList.innerText = prizeList.map(p => {
+            const ab = p.station
+                ? ((typeof STATION_ABBR !== 'undefined' && STATION_ABBR[p.station]) || p.station)
+                : '';
+            return `${p.prize}${ab ? '(' + ab + ')' : ''}:${p.number}`;
+        }).join(' | ');
+    }
+
+    const prizeIndex = buildPrizeSuffixIndex(prizeList);
+    // Tên đài THẬT SỰ CÓ trong lượt dán KQXS này — dùng để biết lượt dò hiện
+    // tại có "phủ" tới đài của 1 dòng cược hay không. QUAN TRỌNG khi người
+    // dùng dò TUẦN TỰ từng miền (dán Nam → dò → dán Trung → dò → dán Bắc →
+    // dò): trước đây hễ 1 dòng KHÔNG khớp được số nào trong lượt dán hiện tại
+    // (kể cả khi lượt này chỉ mang KQXS của miền KHÁC, không liên quan gì đến
+    // đài của dòng đó) đều bị ghi đè thành "matched=false, winAmount=0" —
+    // xoá mất kết quả trúng đã dò đúng từ lượt TRƯỚC đó của miền khác. Giờ:
+    // dòng nào mà ĐÀI của nó hoàn toàn KHÔNG xuất hiện trong lượt dán hiện
+    // tại thì BỎ QUA hẳn (không đụng vào matched/winAmount đang có), coi như
+    // lượt này "chưa dò tới" dòng đó — giữ nguyên kết quả trúng cũ.
+    const stationsInThisKQXS = new Set(prizeList.map(p => p.station).filter(Boolean));
+    const hasUnnamedStationEntries = prizeList.some(p => !p.station);
+    const CHECK_CHUNK_SIZE = 4000; // số dòng xử lý mỗi lô trước khi nhường luồng chính cho UI
+
+    if (btn) { btn.disabled = true; btn.style.opacity = '0.6'; btn.style.cursor = 'not-allowed'; }
+    showToast('Đang dò kết quả...', 'info');
+
+    try {
+        for (const g of groups) {
+            const groupObj = appData[g];
+            if (!groupObj || !groupObj.betList) continue;
+
+            const logs = [];
+            groupObj.totals.totalWin = 0;
+            const list = groupObj.betList;
+
+            for (let start = 0; start < list.length; start += CHECK_CHUNK_SIZE) {
+                const end = Math.min(start + CHECK_CHUNK_SIZE, list.length);
+                for (let idx = start; idx < end; idx++) {
+                    const item = list[idx];
+                    // Dò theo SỐ + ĐÀI, không lọc theo ngày nhập tin — ngày KQXS chỉ
+                    // dùng để cảnh báo hiển thị (xem dateStatusEl / toast ở trên).
+                    const type = (item.betType || '').toLowerCase();
+                    const itemRegion = item.region || resultRegion || 'MT';
+
+                    // Đài của dòng này KHÔNG có mặt trong lượt dán hiện tại → lượt
+                    // này "chưa dò tới" dòng này (VD đang dò Miền Bắc mà dòng này
+                    // đặt cho đài Miền Nam) — BỎ QUA, giữ nguyên matched/winAmount
+                    // đã có từ lượt dò TRƯỚC (nếu có), không ghi đè thành thua.
+                    if (!hasUnnamedStationEntries && Array.isArray(item.stations) && item.stations.length > 0
+                        && !item.stations.some(s => stationsInThisKQXS.has(s))) {
+                        continue;
+                    }
+
+                    // Đá thẳng (2 số) / Đá chéo-xiên (3+ số): item.num lưu dạng
+                    // "50-60" (nối dấu gạch) nên KHÔNG BAO GIỜ khớp được suffix
+                    // số nguyên bên dưới — trước đây các dòng đá không hề được
+                    // dò trúng (Tiền trúng luôn là "—" dù kết quả thế nào). Cả
+                    // cụm số trong pairNums là MỘT cược duy nhất — thiếu 1 số
+                    // không về là thua cả cụm (đúng theo xác nhận đá xiên).
+                    if (Array.isArray(item.pairNums) && item.pairNums.length >= 2) {
+                        let allHit = true;
+                        const hitLabels = [];
+                        for (const n of item.pairNums) {
+                            const numCandidates = getCandidatePrizes(prizeIndex, n);
+                            let found = null;
+                            for (const p of numCandidates) {
+                                if (p.station && item.stations && item.stations.length > 0 && !item.stations.includes(p.station)) continue;
+                                // Đá/Chéo/Xiên mặc định dò bao lô (mọi giải) như trước
+                                // giờ — nhưng nếu dòng này có tierOnly (VD "G4. 12 chéo
+                                // 34 chéo 56 x10k" → chỉ dò riêng Giải 4), phải lọc
+                                // đúng giải đó mới tính, không phải hễ số về đâu cũng
+                                // tính. prizeMatchesBet() tự trả về true khi không có
+                                // tierOnly (giữ nguyên hành vi bao lô cũ, không đổi gì).
+                                if (!prizeMatchesBet(p.prize, item.betType, itemRegion, item)) continue;
+                                found = p;
+                                break;
+                            }
+                            if (!found) { allHit = false; break; }
+                            const ab = found.station
+                                ? ((typeof STATION_ABBR !== 'undefined' && STATION_ABBR[found.station]) || found.station)
+                                : '';
+                            hitLabels.push(`${n}:${found.prize}${ab ? '(' + ab + ')' : ''}`);
+                        }
+                        if (allHit) {
+                            item.matched = true;
+                            item.matchCount = 1;
+                            item.prizeInfo = hitLabels.join(', ');
+                            const fin = calculateItemFinancials(item, itemRegion);
+                            item.winAmount = fin.winAmount;
+                            groupObj.totals.totalWin += item.winAmount;
+                            logs.push(
+                                `${item.region || ''} ${item.num} ${item.betType} ${item.originalAmount}k → +${item.winAmount.toLocaleString()}₫ (Đá/Xiên: ${item.prizeInfo})`
+                            );
+                        } else {
+                            item.matched = false;
+                            item.matchCount = 0;
+                            item.prizeInfo = '';
+                            item.winAmount = 0;
+                        }
+                        continue;
+                    }
+
+                    const isSpecificPrize = Boolean(item.tierOnly) || (typeof getBetTypeTiers === 'function'
+                        && getBetTypeTiers(type, itemRegion) !== null);
+
+                    const candidates = getCandidatePrizes(prizeIndex, item.num);
+                    let hitPrizes = [];
+
+                    for (const p of candidates) {
+                        // Lọc theo đài của TỪNG giải (hỗ trợ 3–4 đài / ngày)
+                        if (p.station && item.stations && item.stations.length > 0) {
+                            if (!item.stations.includes(p.station)) continue;
+                        }
+
+                        if (isSpecificPrize) {
+                            if (typeof prizeMatchesBet === 'function' && !prizeMatchesBet(p.prize, type, itemRegion, item, p.posInTier)) continue;
+                        }
+
+                        const ab = p.station
+                            ? ((typeof STATION_ABBR !== 'undefined' && STATION_ABBR[p.station]) || p.station)
+                            : '';
+                        hitPrizes.push(ab ? `${p.prize}(${ab})` : (p.prize || '?'));
+                    }
+
+                    if (hitPrizes.length > 0) {
+                        item.matched = true;
+                        item.matchCount = hitPrizes.length;
+                        item.prizeInfo = hitPrizes.join(', ');
+                        const fin = calculateItemFinancials(item, item.region || resultRegion || 'MT');
+                        item.winAmount = fin.winAmount;
+                        groupObj.totals.totalWin += item.winAmount;
+                        logs.push(
+                            `${item.region || ''} ${item.num} ${item.betType} ${item.originalAmount}k → +${item.winAmount.toLocaleString()}₫ (${item.matchCount} lần: ${item.prizeInfo})`
+                        );
+                    } else {
+                        item.matched = false;
+                        item.matchCount = 0;
+                        item.prizeInfo = '';
+                        item.winAmount = 0;
+                    }
+                }
+
+                // Nhường luồng chính cho trình duyệt vẽ lại/xử lý sự kiện giữa các lô,
+                // tránh treo tab khi betList lên tới hàng trăm nghìn/triệu dòng.
+                if (end < list.length) {
+                    await new Promise(resolve => setTimeout(resolve, 0));
+                }
+            }
+
+            groupObj.winningLogs = logs;
+
+            if (typeof recalculateTotals === 'function') {
+                recalculateTotals(g);
+            } else {
+                groupObj.totals.net = groupObj.totals.totalWin - (groupObj.totals.totalBet || 0);
+            }
+        }
+    } finally {
+        if (btn) { btn.disabled = false; btn.style.opacity = ''; btn.style.cursor = ''; }
+    }
+
+    if (typeof renderMatrixTable === 'function') renderMatrixTable();
+    if (typeof renderWinningLog === 'function') renderWinningLog();
+    if (typeof updateGrandSummary === 'function') updateGrandSummary();
+    if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+    if (typeof calcCapitalShare === 'function') calcCapitalShare();
+
+        const stLabel = (meta.stations || [])
+        .map(s => (typeof STATION_ABBR !== 'undefined' && STATION_ABBR[s]) ? STATION_ABBR[s] : s)
+        .join(', ') || '—';
+    showToast(
+        `Đã dò! ${prizeList.length} số • KQXS: ${kqDate || 'không rõ ngày'} • ${stLabel}`,
+        'success'
+    );
+}
+
+// ================= HÀM XÓA INPUT (FIX LỖI LINE 105) =================
+// CHỈ xóa 2 Ô NHẬP (Nhập Nhanh + KQXS) — KHÔNG đụng tới kết quả đã dò nữa.
+// Trước đây hàm này còn xóa luôn trạng thái ĐÃ DÒ (trúng/trượt) của MỌI
+// nhóm — nghĩa là dò xong Miền Nam, chỉ cần bấm nút này để dọn ô trước khi
+// dán tiếp KQXS Miền Bắc là MẤT LUÔN kết quả trúng của Miền Nam vừa dò được.
+// Giờ tách riêng: xóa Ô NHẬP dùng nút này (clearInputText), xóa KẾT QUẢ DÒ
+// dùng riêng clearMatchedResults() bên dưới — 2 việc khác nhau, 2 nút khác
+// nhau, để dò tuần tự nhiều miền không lo mất kết quả cũ.
+function clearInputText() {
+    const smartInp = document.getElementById('smart-input');
+    const kqxsInp = document.getElementById('kqxs-input');
+    const parsedList = document.getElementById('parsed-numbers-list');
+    const parsedBox = document.getElementById('parsed-kqxs-display');
+    const dateStatusEl = document.getElementById('kqxs-date-status');
+
+    if (smartInp) smartInp.value = '';
+    if (kqxsInp) kqxsInp.value = '';
+    if (parsedList) parsedList.innerHTML = '';
+    if (parsedBox) parsedBox.style.display = 'none';
+    if (dateStatusEl) dateStatusEl.textContent = '';
+
+    showToast("Đã xóa nội dung 2 ô nhập (kết quả đã dò vẫn giữ nguyên)", "info");
+}
+
+// Xóa trạng thái ĐÃ DÒ (trúng/trượt/tiền thắng) — KHÔNG đụng betList/
+// inputHistory nên số và tiền đã nhập vẫn giữ nguyên 100%. Tách riêng khỏi
+// clearInputText() để dò xong 1 miền rồi chuyển sang miền khác không bị mất
+// kết quả cũ chỉ vì dọn ô nhập. `allGroups=false` chỉ xóa nhóm đang chọn,
+// `allGroups=true` xóa kết quả dò của TẤT CẢ nhóm.
+function clearMatchedResults(allGroups) {
+    const targetGroups = allGroups ? groups : [activeGroup];
+    let clearedCount = 0;
+    targetGroups.forEach(g => {
+        const gObj = appData[g];
+        if (!gObj || !Array.isArray(gObj.betList)) return;
+        gObj.betList.forEach(item => {
+            if (item.matched) clearedCount++;
+            item.matched = false;
+            item.matchCount = 0;
+            item.prizeInfo = '';
+            item.winAmount = 0;
+        });
+        gObj.winningLogs = [];
+        if (typeof recalculateTotals === 'function') recalculateTotals(g);
+    });
+
+    if (typeof renderMatrixTable === 'function') renderMatrixTable();
+    if (typeof renderWinningLog === 'function') renderWinningLog();
+    if (typeof updateGrandSummary === 'function') updateGrandSummary();
+    if (typeof saveAppDataToDBDebounced === 'function') saveAppDataToDBDebounced();
+
+    showToast(
+        allGroups
+            ? `Đã xóa kết quả dò của TẤT CẢ nhóm (${clearedCount} dòng đang trúng)`
+            : `Đã xóa kết quả dò của nhóm "${activeGroup}" (${clearedCount} dòng đang trúng)`,
+        "info"
+    );
+}
+
+function confirmClearMatchedResults(allGroups) {
+    if (typeof showModal !== 'function') return clearMatchedResults(allGroups);
+    showModal({
+        title: '⚠️ Xác Nhận Xóa Kết Quả Dò',
+        body: allGroups
+            ? 'Xóa trạng thái TRÚNG/TRƯỢT của <b>TẤT CẢ NHÓM</b>? Số và tiền đã nhập vẫn giữ nguyên, chỉ mất kết quả dò (phải dò lại từ đầu).'
+            : `Xóa trạng thái TRÚNG/TRƯỢT của nhóm <b>"${activeGroup}"</b> đang chọn? Số và tiền đã nhập vẫn giữ nguyên, chỉ mất kết quả dò (phải dò lại từ đầu).`,
+        confirmText: 'Xóa Kết Quả Dò',
+        confirmClass: 'btn-red',
+        cancelText: 'Hủy Bỏ',
+        showCancel: true,
+        onConfirm: () => clearMatchedResults(allGroups)
+    });
+}
+
+// ================= HÀM BÁO CÁO DÒ SỐ - TÍNH CHUẨN VỐN & THÀNH TIỀN =================
+function generateOutputReport(stationName) {
+    const gObj = appData[activeGroup];
+    if (!gObj || !gObj.inputHistory || gObj.inputHistory.length === 0) {
+        return showToast("Chưa có dữ liệu cược để xuất báo cáo!", "error");
+    }
+
+    let reportText = `📊 BÁO CÁO DÒ SỐ - NHÓM ${activeGroup.toUpperCase()}\n`;
+    reportText += `🎯 Đài/Miền: ${stationName}\n`;
+    reportText += `-----------------------------------\n`;
+
+    let totalBetGroup = 0;
+    let totalWinGroup = 0;
+    let htmlCardList = '';
+
+    gObj.inputHistory.forEach((session, sIdx) => {
+        const daiStr = session.stations?.map(s => (typeof STATION_ABBR !== 'undefined' && STATION_ABBR[s]) || s).join(', ') || 'Chung';
+        reportText += `📩 Lượt #${sIdx + 1} (${session.time || 'Mới'}) [${daiStr}]:\n`;
+        
+        let sessionHitHtml = '';
+
+        (session.items || []).forEach(item => {
+            const prizes = (typeof BET_TYPES !== 'undefined' && BET_TYPES[item.betType]?.prizes) || (item.num.length === 3 ? 17 : 18);
+            const stationCount = (item.stations && item.stations.length > 0) ? item.stations.length : 1;
+            
+            // TÍNH VỐN CHUẨN CHÍNH XÁC: (Số k gốc) * 1000 * số giải * số đài
+            const itemOrigK = item.originalAmount || (item.amount >= 1000 ? item.amount / 1000 : item.amount) || 1;
+            const cost = itemOrigK * 1000 * prizes * stationCount;
+            const winVal = item.winAmount || 0;
+            
+            totalBetGroup += cost;
+            totalWinGroup += winVal;
+
+            if (item.matched) {
+                reportText += `  🟢 SỐ TRÚNG: ${item.num} (${(item.betType||'BL').toUpperCase()}) -> Trúng ${winVal.toLocaleString()}₫ [${item.prizeInfo || 'Trúng'}]\n`;
+                
+                sessionHitHtml += `
+                    <div style="display:flex; justify-content:space-between; background:rgba(16,185,129,0.15); border:1px solid #10b981; border-radius:6px; padding:6px 10px; margin-top:4px;">
+                        <div>
+                            <b style="color:#00ff88; font-size:15px;">${item.num}</b> 
+                            <span style="font-size:11px; background:#10b981; color:#000; padding:1px 5px; border-radius:3px; font-weight:bold; margin-left:5px;">${(item.betType||'BL').toUpperCase()}</span>
+                            <div style="font-size:11px; color:#94a3b8; margin-top:2px;">G.Trúng: ${item.prizeInfo || 'Trúng'}</div>
+                        </div>
+                        <div style="text-align:right;">
+                            <b style="color:#00ff88;">+${winVal.toLocaleString()}₫</b>
+                        </div>
+                    </div>
+                `;
+            }
+        });
+
+        if (!session.items.some(i => i.matched)) {
+            reportText += `  🔴 Không trúng số nào\n`;
+            sessionHitHtml = `<div style="font-size:12px; color:#64748b; font-style:italic; padding:4px 0;">Không có số trúng</div>`;
+        }
+
+        reportText += `\n`;
+
+        htmlCardList += `
+            <div style="background:#1e293b; border-radius:8px; padding:10px; margin-bottom:10px; border:1px solid #334155;">
+                <div style="display:flex; justify-content:space-between; border-bottom:1px solid #334155; padding-bottom:6px; margin-bottom:6px; font-size:12px; color:#38bdf8;">
+                    <b>📩 Tin nhắn #${sIdx + 1} (${session.time || 'Vừa xong'})</b>
+                    <span>Đài: ${daiStr}</span>
+                </div>
+                ${sessionHitHtml}
+            </div>
+        `;
+    });
+
+    const netGroup = totalWinGroup - totalBetGroup;
+    reportText += `-----------------------------------\n`;
+    reportText += `💰 Vốn đánh: ${totalBetGroup.toLocaleString()}₫\n`;
+    reportText += `🏆 Tiền trúng: ${totalWinGroup.toLocaleString()}₫\n`;
+    reportText += `⚖️ THÀNH TIỀN: ${netGroup >= 0 ? '+' : ''}${netGroup.toLocaleString()}₫\n`;
+
+    const modalBodyHtml = `
+        <div style="color:#f8fafc; font-family:sans-serif;">
+            <div style="display:flex; justify-content:space-between; background:#0f172a; padding:12px; border-radius:8px; margin-bottom:12px; border:1px solid #334155;">
+                <div>
+                    <span style="font-size:12px; color:#94a3b8;">Tổng tiền cược:</span>
+                    <div style="font-weight:bold; font-size:15px; color:#fbbf24;">${totalBetGroup.toLocaleString()}₫</div>
+                </div>
+                <div>
+                    <span style="font-size:12px; color:#94a3b8;">Tổng trúng:</span>
+                    <div style="font-weight:bold; font-size:15px; color:#00ff88;">${totalWinGroup.toLocaleString()}₫</div>
+                </div>
+                <div>
+                    <span style="font-size:12px; color:#94a3b8;">Thành tiền:</span>
+                    <div style="font-weight:bold; font-size:15px; color:${netGroup >= 0 ? '#00ff88' : '#f87171'};">
+                        ${netGroup >= 0 ? '+' : ''}${netGroup.toLocaleString()}₫
+                    </div>
+                </div>
+            </div>
+
+            <div style="max-height:260px; overflow-y:auto; padding-right:4px;">
+                ${htmlCardList}
+            </div>
+        </div>
+    `;
+
+    showModal({
+        title: `🏆 Kết Quả Dò Số - Nhóm ${activeGroup}`,
+        body: modalBodyHtml,
+        confirmText: "📋 Sao Chép Báo Cáo Zalo",
+        confirmClass: "btn-green",
+        cancelText: "Đóng",
+        // Không có showCancel:true thì modal chỉ có 1 nút "Sao Chép" — muốn
+        // xem xong rồi đóng lại (không cần chép) phải tải lại cả trang.
+        showCancel: true,
+        onConfirm: () => {
+            navigator.clipboard.writeText(reportText);
+            showToast("Đã chép báo cáo vào bộ nhớ tạm!", "success");
+        }
+    });
+}
+
+// Hàm phụ trợ: Lọc đúng loại giải theo thể loại cược
+function isPrizeMatchBetType(prizeName, betType) {
+    const pName = prizeName.toLowerCase();
+    if (['bl', 'chan_chan', 'le_le', 'chan_le', 'le_chan', 'giap', '3c', 'dx'].includes(betType)) return true;
+    if (betType === 'g8') return pName.includes('8') || pName.includes('g8');
+    if (betType === 'g1') return pName.includes('1') || pName.includes('g1');
+    if (betType === 'db') return pName.includes('db') || pName.includes('đặc biệt');
+    if (betType === 'dd') return pName.includes('8') || pName.includes('db') || pName.includes('đặc biệt');
+    return true;
+}
+
+function setMiss(item) {
+    item.matched = false;
+    item.prizeInfo = '';
+    item.winAmount = 0;
+}
+
+// Biến toàn cục (đặt gần đầu file nếu chưa có)
+let selectedBetIds = new Set();
+
+function updateBulkDeleteButton() {
+    const btn = document.getElementById('btn-bulk-delete');
+    if (!btn) return;
+    
+    if (selectedBetIds.size > 0) {
+        btn.style.display = 'inline-block';
+        btn.innerText = `Xóa ${selectedBetIds.size} số đã chọn`;
+    } else {
+        btn.style.display = 'none';
+    }
+}
+
+function toggleSelectBet(id, checkbox) {
+    if (checkbox.checked) {
+        selectedBetIds.add(id);
+    } else {
+        selectedBetIds.delete(id);
+    }
+    updateBulkDeleteButton();
+}
+
+function bulkDeleteSelected() {
+    if (selectedBetIds.size === 0) return;
+
+    // Dùng modal đẹp của app thay vì confirm trình duyệt
+    showModal({
+        title: 'Xác nhận xóa',
+        body: `Bạn chắc chắn muốn xóa <b style="color:#ff4d4d">${selectedBetIds.size}</b> số đã chọn?`,
+        isPrompt: false,
+        confirmText: 'Xóa Ngay',
+        confirmClass: 'btn-red',
+        cancelText: 'Hủy Bỏ',
+        // Thiếu showCancel:true thì modal KHÔNG có nút Hủy nào cả (chỉ 1 nút
+        // Xác Nhận) — muốn từ chối phải tải lại cả trang mới tắt được modal.
+        // Hành động XÓA phải luôn có đường lùi an toàn.
+        showCancel: true,
+        onConfirm: () => {
+            const gObj = appData[activeGroup];
+            if (!gObj) return;
+            
+            gObj.betList = gObj.betList.filter(item => !selectedBetIds.has(item.id));
+            selectedBetIds.clear();
+            recalculateTotals(activeGroup);
+            renderMatrixTable();
+            saveAppDataToDB();
+            showToast('Đã xóa các số đã chọn', 'success');
+        }
+    });
+}
+
+function deleteAllBets() {
+    showModal({
+        title: 'Xóa toàn bộ',
+        body: `Bạn chắc chắn muốn xóa <b style="color:#ff4d4d">TOÀN BỘ</b> số của nhóm <b>${activeGroup}</b>?`,
+        isPrompt: false,
+        confirmText: 'Xóa Ngay',
+        confirmClass: 'btn-red',
+        cancelText: 'Hủy Bỏ',
+        // Thiếu showCancel:true thì modal KHÔNG có nút Hủy nào cả (chỉ 1 nút
+        // Xác Nhận) — muốn từ chối phải tải lại cả trang mới tắt được modal.
+        // Đây là hành động XÓA TOÀN BỘ 1 nhóm, càng phải có đường lùi an toàn.
+        showCancel: true,
+        onConfirm: () => {
+            if (!appData[activeGroup]) return;
+            
+            // Xóa sạch cả 2 mảng dữ liệu gốc và mảng hiển thị lượt nhập
+            appData[activeGroup].betList = [];
+            appData[activeGroup].inputHistory = [];
+            
+            if (typeof selectedBetIds !== 'undefined') selectedBetIds.clear();
+            
+            recalculateTotals(activeGroup);
+            renderMatrixTable();
+            saveAppDataToDB();
+            showToast('Đã xóa toàn bộ dữ liệu nhóm ' + activeGroup, 'success');
+        }
+    });
+}
+
+// ================= MẪU DỮ LIỆU =================
+function loadSampleMB() {
+    document.getElementById('kqxs-input').value =
+`XSMB> XSMB Thứ 3 (Quảng Ninh)
+ĐẦUĐUÔIĐB29183
+04G155349
+13, 6G237265 21266
+29G340833 36729 67077
+56251 97269 23553
+33, 4, 542, 9G46985 4935 9042 1686
+51, 1, 3, 4G57962 4616 0776
+8699 4334 2074
+62, 5, 6, 973, 4, 6, 7G6873 082 954
+82, 3, 5, 6G751 04 92 13
+92, 9Mã ĐB: 4 8 11 12 14 15 (FA)`;
+    showToast("Đã dán mẫu XSMB", "info");
+}
+
+function loadSampleMT() {
+    document.getElementById('kqxs-input').value =
+`Xổ số Khánh Hòa ngày 16/08 (Chủ Nhật)
+XSMT> XSKH 16/08 ĐẦU ĐUÔI
+G8 86
+G7 973
+G6 5108 9119 2854
+G5 8888
+G4 95216 23398 91377 45123 88291 10293 67482
+G3 44080 31645
+G2 48343
+G1 02314
+ĐB 685303`;
+    showToast("Đã dán mẫu XSMT chuẩn 18 giải Khánh Hòa", "info");
+}
+function loadSampleBetData() {
+    document.getElementById('smart-input').value =
+`3c 87 225 300 147 122 55
+2c 180 108 40 680 200 450
+68 bl 50
+1-10 bl 5k`;
+    showToast("Đã dán dữ liệu cược mẫu", "info");
+}
+
+// ================= RENDER GROUP & SUMMARY =================
+function renderGroupButtons() {
+    const container = document.getElementById('group-buttons');
+    if (!container) return;
+
+    container.innerHTML = '';
+    container.style.display = 'flex';
+    container.style.alignItems = 'center';
+    container.style.gap = '10px';
+    container.style.overflow = 'hidden';
+    container.style.padding = '6px 0';
+
+    const scrollDiv = document.createElement('div');
+    scrollDiv.style.display = 'flex';
+    scrollDiv.style.overflowX = 'auto';
+    scrollDiv.style.whiteSpace = 'nowrap';
+    scrollDiv.style.gap = '8px';
+    scrollDiv.style.flex = '1';
+    scrollDiv.style.maxWidth = 'calc(100% - 145px)';
+    scrollDiv.style.paddingBottom = '4px';
+    scrollDiv.style.scrollbarWidth = 'thin';
+
+    groups.forEach(g => {
+        const btn = document.createElement('button');
+        btn.className = `group-btn ${g === activeGroup ? 'active' : ''}`;
+        btn.style.padding = '7px 14px';
+
+        const gObj = appData[g] || {};
+        // Đếm tổng số lượt nhập (tin nhắn) từ inputHistory
+        const msgCount = gObj.inputHistory ? gObj.inputHistory.length : 0;
+
+        btn.innerHTML = msgCount > 0
+            ? `Nhóm ${g} <span style="background:#00f3ff;color:#000;border-radius:10px;padding:1px 7px;font-size:11px;margin-left:5px;font-weight:600;">${msgCount}</span>`
+            : `Nhóm ${g}`;
+
+        btn.onclick = () => switchGroup(g);
+        btn.ondblclick = (e) => { e.stopPropagation(); renameGroup(g); };
+        btn.oncontextmenu = (e) => { e.preventDefault(); deleteGroup(g); };
+        btn.title = "Click: chọn nhóm\nDouble-click: đổi tên\nChuột phải: xóa nhóm";
+        scrollDiv.appendChild(btn);
+    });
+
+    container.appendChild(scrollDiv);
+
+    const addBtn = document.createElement('button');
+    addBtn.className = 'add-group-btn';
+    addBtn.innerText = '➕ Thêm Nhóm';
+    addBtn.style.flexShrink = '0';
+    addBtn.style.padding = '7px 14px';
+    addBtn.onclick = addNewGroup;
+    container.appendChild(addBtn);
+}
+
+function switchGroup(g) {
+    activeGroup = g;
+    renderGroupButtons();
+    document.getElementById('current-group-label').innerText = `Nhóm ${activeGroup}`;
+    document.getElementById('table-group-title').innerText = `Nhóm ${activeGroup}`;
+    renderMatrixTable();
+    saveAppDataToDB();
+
+    // === THÊM DÒNG NÀY ===
+    if (typeof calcCapitalShare === 'function') calcCapitalShare();
+    if (typeof renderWinningLog === 'function') renderWinningLog();
+}
+
+/**
+ * Click dòng nhóm ở bảng Tổng Thể
+ * → Chọn nhóm + nhảy xuống khung Chia tiền
+ */
+function selectGroupAndScroll(groupName) {
+    // 1. Chọn nhóm
+    if (typeof switchGroup === 'function') {
+        switchGroup(groupName);
+    } else {
+        activeGroup = groupName;
+        if (typeof renderGroupButtons === 'function') renderGroupButtons();
+        if (typeof renderMatrixTable === 'function') renderMatrixTable();
+    }
+
+    // 2. Cập nhật lại số liệu chia tiền
+    if (typeof calcCapitalShare === 'function') {
+        calcCapitalShare();
+    }
+
+    // 3. Nhảy xuống khung Chia tiền
+    setTimeout(() => {
+        const box = document.querySelector('.summary-card') 
+                 || document.getElementById('capital-percent')?.closest('div[style*="margin-top:20px"]');
+        
+        if (box) {
+            box.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            
+            // Hiệu ứng nháy nhẹ để dễ nhìn
+            box.style.transition = 'box-shadow 0.3s';
+            box.style.boxShadow = '0 0 0 3px #00f3ff';
+            setTimeout(() => {
+                box.style.boxShadow = '';
+            }, 1200);
+        }
+    }, 150);
+
+    if (typeof showToast === 'function') {
+        showToast(`Đã chọn Nhóm ${groupName}`, 'info');
+    }
+}
+
+// ================= XUẤT / NHẬP =================
+function exportDataJSON() {
+    const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify({ groups, appData }, null, 2));
+    const downloadAnchor = document.createElement('a');
+    downloadAnchor.setAttribute("href", dataStr);
+    downloadAnchor.setAttribute("download", `DuLieu_Lode_${new Date().toISOString().slice(0, 10)}.json`);
+    document.body.appendChild(downloadAnchor);
+    downloadAnchor.click();
+    downloadAnchor.remove();
+    showToast("Đã xuất file JSON thành công!", "success");
+}
+
+function importDataJSON(event) {
+    const fileReader = new FileReader();
+    fileReader.onload = function (e) {
+        try {
+            const imported = JSON.parse(e.target.result);
+            if (imported.groups && imported.appData) {
+                groups = imported.groups;
+                appData = imported.appData;
+                if (groups.length === 0) groups = ['A'];
+                activeGroup = groups[0];
+                renderGroupButtons();
+                renderMatrixTable();
+                updateGrandSummary();
+                saveAppDataToDB();
+                showToast("Nhập dữ liệu thành công!", "success");
+            } else {
+                customAlert("Cấu trúc File JSON không hợp lệ!", "Lỗi Dữ Liệu");
+            }
+        } catch (err) {
+            customAlert("Lỗi đọc file JSON!", "Lỗi");
+        }
+    };
+    if (event.target.files[0]) fileReader.readAsText(event.target.files[0]);
+}
+
+// ================= OCEAN =================
+function initOcean() {
+    const ocean = document.getElementById('ocean');
+    if (!ocean) return;
+    ocean.innerHTML = '';
+    const sand = document.createElement('div');
+    sand.className = 'sand';
+    ocean.appendChild(sand);
+    for (let i = 0; i < 25; i++) {
+        let b = document.createElement('div');
+        b.className = 'bubble';
+        b.style.width = (Math.random() * 18 + 4) + 'px';
+        b.style.height = b.style.width;
+        b.style.left = Math.random() * 100 + '%';
+        b.style.animationDuration = (Math.random() * 7 + 4) + 's';
+        b.style.animationDelay = (Math.random() * 5) + 's';
+        ocean.appendChild(b);
+    }
+    const fishes = ['🐠', '🐟', '🐡', '🦈', '🦑', '🐙', '🦐', '🦞', '💲'];
+    for (let i = 0; i < 18; i++) {
+        let f = document.createElement('div');
+        f.className = 'fish';
+        f.innerText = fishes[Math.floor(Math.random() * fishes.length)];
+        f.style.top = (Math.random() * 65 + 8) + '%';
+        f.style.fontSize = (Math.random() * 14 + 18) + 'px';
+        f.style.animationDuration = (Math.random() * 12 + 9) + 's';
+        f.style.animationDelay = (Math.random() * 8) + 's';
+        if (Math.random() > 0.5) f.style.animationName = 'swimReverse';
+        ocean.appendChild(f);
+    }
+    for (let i = 0; i < 14; i++) {
+        let s = document.createElement('div');
+        s.className = 'seaweed';
+        s.style.left = (i * 7.2 + 2) + '%';
+        s.style.height = (Math.random() * 90 + 70) + 'px';
+        s.style.animationDuration = (Math.random() * 4 + 3) + 's';
+        ocean.appendChild(s);
+    }
+    const bottomItems = ['⭐', '🌟', '🐚', '💎', '🦀'];
+    for (let i = 0; i < 12; i++) {
+        let item = document.createElement('div');
+        item.className = 'bottom-item';
+        item.innerText = bottomItems[Math.floor(Math.random() * bottomItems.length)];
+        item.style.left = (Math.random() * 94 + 3) + '%';
+        item.style.bottom = (Math.random() * 28 + 4) + 'px';
+        item.style.fontSize = (Math.random() * 12 + 16) + 'px';
+        item.style.animationDelay = (Math.random() * 4) + 's';
+        ocean.appendChild(item);
+    }
+}
+
+// ================= PATTERN LOCK =================
+const canvas = document.getElementById('pattern-canvas');
+const ctx = canvas ? canvas.getContext('2d') : null;
+let points = [], isDrawing = false, currentPattern = [];
+let savedPattern = null;
+
+function revealLockScreen() {
+    if (isUnlocked) return;
+    const lockScreen = document.getElementById('lock-screen');
+    if (!lockScreen) return;
+    lockScreen.style.display = 'flex';
+    lockScreen.style.zIndex = '9999';
+    lockScreen.style.background = 'rgba(0, 8, 20, 0.88)';
+    initPatternCanvas();
+    showToast("Đã mở màn hình đăng nhập", "info");
+}
+
+function getPatternKey(userName) {
+    return STORAGE_KEY_PATTERN + "_" + (userName || "default").trim().toUpperCase();
+}
+
+function saveUserPattern(userName, patternArray) {
+    const key = getPatternKey(userName);
+    const encrypted = encryptPattern(patternArray);
+    localStorage.setItem(key, encrypted);
+}
+
+function loadUserPattern(userName) {
+    const key = getPatternKey(userName);
+    const stored = localStorage.getItem(key);
+    if (!stored) return null;
+    return decryptPattern(stored);
+}
+
+function removeUserPattern(userName) {
+    const key = getPatternKey(userName);
+    localStorage.removeItem(key);
+}
+
+function initPatternCanvas() {
+    if (!canvas) return;
+    points = [];
+    const size = 3, spacing = 75, offset = 55;
+    for (let r = 0; r < size; r++) {
+        for (let c = 0; c < size; c++) {
+            points.push({ x: offset + c * spacing, y: offset + r * spacing, id: r * size + c });
+        }
+    }
+    const nameInput = document.getElementById('user-name-input');
+    const userName = nameInput ? nameInput.value.trim() : currentUser;
+    savedPattern = loadUserPattern(userName);
+    if (savedPattern) {
+        document.getElementById('pattern-instruction').innerText = `Vẽ mật khẩu của "${userName}"`;
+    } else {
+        document.getElementById('pattern-instruction').innerText = `User mới → Vẽ hình khóa MỚI cho "${userName}"`;
+    }
+    currentPattern = [];
+    drawPattern();
+}
+
+// ================= XUẤT BÁO CÁO ĐẸP (HTML → mở Excel / in PDF) =================
+function exportGroupExcel() {
+    const gObj = appData[activeGroup];
+    if (!gObj || !(gObj.betList || []).length) {
+        return showToast('Nhóm này chưa có dữ liệu!', 'error');
+    }
+
+    recalculateTotals(activeGroup);
+
+    const now = new Date();
+    const dateStr = now.toLocaleDateString('vi-VN');
+    const timeStr = now.toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' });
+
+    // Xuất file tôn trọng bộ lọc "Chỉ trúng / Chỉ trật" + ô tìm kiếm đang
+    // áp dụng trên Bảng Chi Tiết (dùng chung detailItemMatches để đảm bảo file
+    // xuất ra luôn khớp chính xác với những gì đang hiển thị trên màn hình).
+    const exportHasFilter = typeof hasActiveDetailFilter === 'function' && hasActiveDetailFilter();
+    let exportedCount = 0;
+    let exportedSessionCount = 0;
+    let exportedTotalBet = 0;
+    let exportedTotalWin = 0;
+
+    let rowsHtml = '';
+    const history = gObj.inputHistory || [];
+
+    history.forEach((session, sIdx) => {
+        const items = exportHasFilter
+            ? (session.items || []).filter(it => detailItemMatches(it, session))
+            : (session.items || []);
+        if (items.length === 0) return;
+        exportedCount += items.length;
+        exportedSessionCount++;
+
+        // Header mỗi tin
+        let sessionBet = 0, sessionWin = 0;
+        items.forEach(it => {
+            const f = calculateItemFinancials(it, it.region || 'MT');
+            sessionBet += f.totalItemCost;
+            sessionWin += (it.matched ? (it.winAmount || 0) : 0);
+        });
+        exportedTotalBet += sessionBet;
+        exportedTotalWin += sessionWin;
+
+        // Thành tiền góc nhìn nhà cái = Cược - Trúng
+        const sessionNet = sessionBet - sessionWin;
+        const stations = (items[0]?.stations || []).map(s => STATION_ABBR[s] || s).join(', ') || '—';
+        const exportRegionColor = REGION_HEADER_COLOR[items[0]?.region || session.region] || REGION_HEADER_COLOR.MT;
+
+        rowsHtml += `
+        <tr style="background:#1e293b;color:${exportRegionColor};border-top:2px solid ${exportRegionColor};">
+            <td colspan="11" style="padding:10px 12px;font-weight:bold;">
+                📩 Tin #${sIdx + 1} &nbsp;|&nbsp; ${session.time || ''} &nbsp;|&nbsp; Đài: ${stations}
+                &nbsp;|&nbsp; Vốn: ${sessionBet.toLocaleString()}₫
+                &nbsp;|&nbsp; Trúng: ${sessionWin.toLocaleString()}₫
+                &nbsp;|&nbsp; <span style="color:${sessionNet >= 0 ? '#00ff88' : '#ff6b6b'}">
+                    Thành tiền: ${sessionNet >= 0 ? '+' : ''}${sessionNet.toLocaleString()}₫
+                </span>
+            </td>
+        </tr>`;
+
+        items.forEach((item, idx) => {
+            const fin = calculateItemFinancials(item, item.region || 'MT');
+            const win = item.matched ? (item.winAmount || 0) : 0;
+            
+            // Thành tiền mỗi con số = Tiền cược - Tiền trúng (Nhà cái)
+            const net = fin.totalItemCost - win;
+            
+            const typeName = (BET_TYPES[item.betType]?.name) || item.betType || '';
+            const st = (item.stations || []).map(s => STATION_ABBR[s] || s).join('+') || '—';
+            const bg = item.matched ? 'background:#3f1a1a;' : (idx % 2 === 0 ? 'background:#0f172a;' : 'background:#111827;');
+            const numColor = item.matched ? '#ff4d4d;font-weight:bold;' : '#00f3ff;';
+
+            rowsHtml += `
+            <tr style="${bg}">
+                <td style="text-align:center;color:#64748b;">${idx + 1}</td>
+                <td style="text-align:center;">${st}</td>
+                <td style="text-align:center;color:#a855f7;">${item.region || ''}</td>
+                <td style="text-align:center;font-size:16px;color:${numColor}">${item.num}</td>
+                <td style="text-align:center;color:#f472b6;">${typeName}</td>
+                <td style="text-align:center;color:#38bdf8;">${item.originalAmount || 0}k</td>
+                <td style="text-align:center;color:#94a3b8;">${fin.soLo}</td>
+                <td style="text-align:right;color:#fbbf24;font-weight:bold;">${fin.totalItemCost.toLocaleString()}₫</td>
+                <td style="text-align:right;color:${win > 0 ? '#ff4d4d' : '#64748b'};font-weight:bold;">
+                    ${win > 0 ? win.toLocaleString() + '₫' : '—'}
+                </td>
+                <td style="text-align:right;color:${net >= 0 ? '#00ff88' : '#ff6b6b'};font-weight:bold;">
+                    ${(net >= 0 ? '+' : '') + net.toLocaleString()}₫
+                </td>
+                <td style="text-align:center;color:#fbbf24;font-size:12px;">${item.prizeInfo || ''}</td>
+            </tr>`;
+        });
+    });
+
+    if (exportHasFilter && exportedCount === 0) {
+        return showToast('Không có dòng nào khớp bộ lọc hiện tại để xuất!', 'error');
+    }
+
+    // Khi đang lọc, tổng tiền tính theo đúng phần đã xuất (không lấy tổng cả nhóm).
+    const totalBet = exportHasFilter ? exportedTotalBet : (gObj.totals.totalBet || 0);
+    const totalWin = exportHasFilter ? exportedTotalWin : (gObj.totals.totalWin || 0);
+
+    // Thành tiền chuẩn nhà cái = Cược - Trúng
+    const houseNet = totalBet - totalWin;
+
+    const filterLabel = !exportHasFilter ? null
+        : detailMatchFilter === 'matched' ? '🎯 Chỉ số TRÚNG'
+        : detailMatchFilter === 'unmatched' ? '🚫 Chỉ số TRƯỢT'
+        : null;
+    const searchLabel = detailSearchTerm ? `Tìm: "${detailSearchTerm}"` : null;
+    const filterMetaParts = [filterLabel, searchLabel].filter(Boolean);
+
+    // Lấy % hùn vốn từ giao diện màn hình hiện tại
+    const percentVal = parseFloat(document.getElementById('detail-percent')?.value || 0);
+    const percentAmount = Math.round((houseNet * percentVal) / 100);
+
+    const html = `<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<title>Báo cáo Nhóm ${activeGroup} - ${dateStr}</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: 'Segoe UI', Arial, sans-serif; background:#0b1220; color:#e2e8f0; padding:24px; margin:0; }
+  h1 { color:#00f3ff; margin:0 0 4px; font-size:22px; }
+  .meta { color:#94a3b8; font-size:13px; margin-bottom:18px; }
+  table { width:100%; border-collapse:collapse; font-size:13px; }
+  th { background:#1e293b; color:#00f3ff; padding:10px 8px; border:1px solid #334155; text-align:center; }
+  td { padding:8px; border:1px solid #1e293b; }
+  .summary { margin-top:20px; display:flex; gap:16px; flex-wrap:wrap; }
+  .box { background:#1e293b; border:1px solid #334155; border-radius:10px; padding:14px 18px; min-width:160px; }
+  .box .label { font-size:12px; color:#94a3b8; }
+  .box .value { font-size:20px; font-weight:bold; margin-top:4px; }
+  @media print {
+    body { background:#fff; color:#000; }
+    h1, th { color:#0f766e; }
+    td, th { border-color:#ccc; }
+  }
+</style>
+</head>
+<body>
+  <h1>📊 Báo cáo cược – Nhóm ${activeGroup}${filterLabel ? ` — ${filterLabel}` : ''}</h1>
+  <div class="meta">
+    Xuất lúc ${timeStr} ${dateStr} &nbsp;|&nbsp;
+    Tổng ${exportHasFilter ? exportedCount : (gObj.betList || []).length} số &nbsp;|&nbsp;
+    ${exportHasFilter ? exportedSessionCount : history.length} tin
+    ${filterMetaParts.length ? `&nbsp;|&nbsp; <b style="color:#fbbf24;">${filterMetaParts.join(' · ')}</b>` : ''}
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>#</th>
+        <th>Đài</th>
+        <th>Miền</th>
+        <th>Số</th>
+        <th>Loại</th>
+        <th>Giá (k)</th>
+        <th>Số lô</th>
+        <th>Tổng vốn</th>
+        <th>Tiền trúng</th>
+        <th>Thành tiền</th>
+        <th>Giải</th>
+      </tr>
+    </thead>
+    <tbody>
+      ${rowsHtml}
+    </tbody>
+  </table>
+
+  <div class="summary">
+    <div class="box">
+      <div class="label">Tổng vốn cược</div>
+      <div class="value" style="color:#fbbf24;">${totalBet.toLocaleString()}₫</div>
+    </div>
+    <div class="box">
+      <div class="label">Tổng trúng</div>
+      <div class="value" style="color:#ff4d4d;">${totalWin.toLocaleString()}₫</div>
+    </div>
+    <div class="box">
+      <div class="label">Thành tiền (Lời/Lỗ nhà cái)</div>
+      <div class="value" style="color:${houseNet >= 0 ? '#00ff88' : '#ff6b6b'};">
+        ${houseNet >= 0 ? '+' : ''}${houseNet.toLocaleString()}₫
+      </div>
+    </div>
+    ${percentVal > 0 ? `
+    <div class="box">
+      <div class="label">Tiền Hùn vốn (${percentVal}%)</div>
+      <div class="value" style="color:#38bdf8;">
+        ${percentAmount >= 0 ? '+' : ''}${percentAmount.toLocaleString()}₫
+      </div>
+    </div>` : ''}
+  </div>
+
+  <p style="margin-top:24px;font-size:12px;color:#64748b;">
+    Mở file này bằng trình duyệt → Ctrl+P để in hoặc lưu PDF.<br>
+    Hoặc mở bằng Excel (File → Mở) để chỉnh sửa.
+  </p>
+</body>
+</html>`;
+
+    const blob = new Blob([html], { type: 'text/html;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = `BaoCao_Nhom_${activeGroup}_${now.toISOString().slice(0, 10)}.html`;
+    a.click();
+    URL.revokeObjectURL(url);
+
+    showToast(`Đã xuất báo cáo nhóm ${activeGroup} (mở bằng trình duyệt / Excel)`, 'success');
+}
+
+document.addEventListener('input', function(e) {
+    // Chỉ xử lý ô số trong popup nhập tay
+    if (e.target.id !== 'manual-so') return;
+
+    const val = e.target.value.trim();
+    const hint = document.getElementById('manual-so-hint');
+    const preview = document.getElementById('manual-preview');
+    const loaiSelect = document.getElementById('manual-loai');
+
+    if (!val) {
+        if (hint) hint.textContent = '';
+        if (preview) preview.innerHTML = '';
+        return;
+    }
+
+    const nums = val.match(/\d{2,4}/g) || [];
+    if (nums.length === 0) {
+        if (hint) hint.textContent = 'Chưa nhận được số hợp lệ';
+        return;
+    }
+
+    // Gợi ý loại cược theo độ dài số
+    const firstLen = nums[0].length;
+    if (firstLen === 2 && loaiSelect && loaiSelect.value === 'bl') {
+        // giữ nguyên
+    } else if (firstLen === 3 && loaiSelect) {
+        // có thể tự đổi sang 3c nếu muốn (tùy bạn bật)
+        // loaiSelect.value = '3c';
+    }
+
+    if (hint) {
+        hint.textContent = `Nhận được ${nums.length} số → ${nums.map(n => n.padStart(n.length === 2 ? 2 : 3, '0')).join(', ')}`;
+    }
+
+    // Preview tiền
+    const tien = parseFloat(document.getElementById('manual-tien')?.value) || 0;
+    const donvi = document.getElementById('manual-donvi')?.value || 'k';
+    const heso = (donvi === 'k' || donvi === 'n') ? 1000 : 1;
+    const tienVND = tien * heso;
+
+    if (preview) {
+        preview.innerHTML = `Sẽ thêm <b style="color:#00f3ff">${nums.length}</b> dòng × <b style="color:#00ff88">${tienVND.toLocaleString()}₫</b> = <b style="color:#fbbf24">${(nums.length * tienVND).toLocaleString()}₫</b>`;
+    }
+});
+
+function drawPattern() {
+    if (!ctx) return;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    points.forEach(p => {
+        ctx.beginPath();
+        ctx.arc(p.x, p.y, 12, 0, Math.PI * 2);
+        ctx.fillStyle = currentPattern.includes(p.id) ? '#00ff88' : '#00f3ff';
+        ctx.shadowColor = currentPattern.includes(p.id) ? '#00ff88' : '#00f3ff';
+        ctx.shadowBlur = 10;
+        ctx.fill();
+        ctx.lineWidth = 2;
+        ctx.strokeStyle = '#ffffff';
+        ctx.stroke();
+    });
+    if (currentPattern.length > 1) {
+        ctx.beginPath();
+        for (let i = 0; i < currentPattern.length; i++) {
+            let pt = points.find(p => p.id === currentPattern[i]);
+            if (i === 0) ctx.moveTo(pt.x, pt.y);
+            else ctx.lineTo(pt.x, pt.y);
+        }
+        ctx.strokeStyle = '#00ff88';
+        ctx.shadowColor = '#00ff88';
+        ctx.shadowBlur = 15;
+        ctx.lineWidth = 4;
+        ctx.stroke();
+    }
+}
+
+if (canvas) {
+    canvas.addEventListener('pointerdown', (e) => {
+        if (!isUnlocked) {
+            isDrawing = true;
+            currentPattern = [];
+            checkPoint(e);
+        }
+    });
+    canvas.addEventListener('pointermove', (e) => {
+        if (!isUnlocked && isDrawing) checkPoint(e);
+    });
+    canvas.addEventListener('pointerup', () => { isDrawing = false; });
+}
+
+function checkPoint(e) {
+    const rect = canvas.getBoundingClientRect();
+    const x = e.clientX - rect.left;
+    const y = e.clientY - rect.top;
+    points.forEach(p => {
+        if (Math.hypot(p.x - x, p.y - y) < 20) {
+            if (!currentPattern.includes(p.id)) {
+                currentPattern.push(p.id);
+                drawPattern();
+            }
+        }
+    });
+}
+
+function handleUnlockAttempt() {
+    const nameInput = document.getElementById('user-name-input').value.trim();
+    if (!nameInput) return showToast("Vui lòng nhập Tên User / Nhóm trước!", "error");
+    currentUser = nameInput;
+    localStorage.setItem(STORAGE_KEY_USER, currentUser);
+    if (currentPattern.length < 3) return showToast("Vui lòng vẽ nối ít nhất 3 điểm!", "error");
+
+    const userPattern = loadUserPattern(currentUser);
+    if (!userPattern) {
+        const newUserName = currentUser;
+        const newPattern = [...currentPattern];
+        currentPattern = [];
+        drawPattern();
+        customPrompt("🔒 XÁC THỰC ADMIN", `User "${newUserName}" chưa tồn tại. Nhập mã Admin để tạo mới...`, "", (inputCode) => {
+            if (!inputCode) return showToast("Đã hủy tạo tài khoản!", "error");
+            if (!verifyAdminCode(inputCode)) {
+                return showToast("❌ Mã Admin không đúng! Không thể tạo tài khoản mới.", "error");
+            }
+            saveUserPattern(newUserName, newPattern);
+            savedPattern = [...newPattern];
+            currentPattern = [...newPattern];
+            showToast(`Đã tạo mật khẩu hình cho "${newUserName}"`, "success");
+            executeUnlock();
+        });
+        return;
+    }
+    if (JSON.stringify(currentPattern) === JSON.stringify(userPattern)) {
+        showToast(`Xin chào ${currentUser}!`, "success");
+        executeUnlock();
+    } else {
+        showToast("Sai hình khóa của user này!", "error");
+        currentPattern = [];
+        drawPattern();
+    }
+}
+
+function executeUnlock() {
+    isUnlocked = true;
+    const nameInput = document.getElementById('user-name-input');
+    currentUser = (nameInput ? nameInput.value.trim() : "") || "Nhóm Quản Lý 01";
+    localStorage.setItem(STORAGE_KEY_USER, currentUser);
+    document.getElementById('display-user-name').innerText = currentUser;
+    document.getElementById('lock-screen').style.display = 'none';
+    document.getElementById('main-app').style.display = 'block';
+    pauseOcean();
+    renderGroupButtons();
+    renderMatrixTable();
+    updateGrandSummary();
+}
+
+function lockApp() {
+    isUnlocked = false;
+    document.getElementById('main-app').style.display = 'none';
+    document.getElementById('lock-screen').style.display = 'none';
+    resumeOcean();
+    currentPattern = [];
+}
+
+function pauseOcean() {
+    const ocean = document.getElementById('ocean');
+    if (ocean) ocean.style.display = 'none';
+}
+
+function resumeOcean() {
+    const ocean = document.getElementById('ocean');
+    if (ocean) ocean.style.display = 'block';
+}
+
+function triggerSecureResetPattern() {
+    if (isUnlocked) return;
+    customPrompt("🔒 XÁC THỰC ADMIN", "Nhập mã Admin...", "", (inputCode) => {
+        if (!inputCode) return;
+        if (!verifyAdminCode(inputCode)) {
+            return showToast("❌ Mã Admin không đúng!", "error");
+        }
+        const html = `
+            <div style="text-align:center; padding:8px 0;">
+                <p style="margin-bottom:18px; font-size:15px;">Chọn hành động reset mật khẩu:</p>
+                <div style="display:flex; flex-direction:column; gap:10px; max-width:280px; margin:0 auto;">
+                    <button class="btn btn-orange" onclick="adminResetOneUser()">Reset 1 User cụ thể</button>
+                    <button class="btn btn-red" onclick="adminResetAllUsers()">Reset TẤT CẢ User</button>
+                    <button class="btn btn-blue" onclick="promptSetNewAdminCode()">🔑 Đổi Mã Admin</button>
+                    <button class="btn btn-gray" onclick="document.getElementById('custom-modal-overlay').style.display='none'">Hủy</button>
+                </div>
+            </div>`;
+        showModal({ title: "Admin - Reset Mật khẩu", body: html, isPrompt: false });
+        setTimeout(() => {
+            const btnContainer = document.getElementById('modal-buttons');
+            if (btnContainer) btnContainer.style.display = 'none';
+        }, 30);
+    });
+}
+
+// Đặt lại MÃ ADMIN (không phải mật khẩu người dùng thường) về đúng mã mặc
+// định gốc — dùng khi chính admin QUÊN mã Admin vừa tự đổi qua
+// promptSetNewAdminCode(). Vì lý do đó KHÔNG thể đòi nhập lại mã Admin hiện
+// tại (đang bị quên) như triggerSecureResetPattern() — chỉ hỏi xác nhận 1
+// lần để tránh bấm nhầm (Ctrl+Shift+Q) ngoài ý muốn.
+function triggerResetAdminCodeToDefault() {
+    if (isUnlocked) return;
+    const html = `
+        <div style="text-align:center; padding:8px 0;">
+            <p style="margin-bottom:14px; font-size:15px;">Đặt lại <b>Mã Admin</b> về đúng mã mặc định gốc (mã trước khi đổi)?</p>
+            <p style="margin-bottom:18px; font-size:13px; opacity:.8;">Dùng khi quên mã Admin vừa đổi. Mã Admin tùy chỉnh hiện tại sẽ bị xoá vĩnh viễn.</p>
+            <div style="display:flex; gap:10px; justify-content:center;">
+                <button class="btn btn-red" onclick="confirmResetAdminCodeToDefault()">Đặt lại về mặc định</button>
+                <button class="btn btn-gray" onclick="document.getElementById('custom-modal-overlay').style.display='none'">Hủy</button>
+            </div>
+        </div>`;
+    showModal({ title: "⚠️ Reset Mã Admin Về Mặc Định", body: html, isPrompt: false });
+    setTimeout(() => {
+        const btnContainer = document.getElementById('modal-buttons');
+        if (btnContainer) btnContainer.style.display = 'none';
+    }, 30);
+}
+
+function confirmResetAdminCodeToDefault() {
+    localStorage.removeItem(ADMIN_HASH_KEY);
+    const overlay = document.getElementById('custom-modal-overlay');
+    if (overlay) overlay.style.display = 'none';
+    showToast("✅ Đã đặt lại Mã Admin về mặc định gốc!", "success");
+}
+
+// ================= 1. HÀM CHUẨN HÓA TIẾNG VIỆT =================
+function removeAccents(str) {
+    if (!str) return '';
+    return str.replace(/đ/g, 'd').replace(/Đ/g, 'D')
+              .normalize('NFD')
+              .replace(/[\u0300-\u036f]/g, '')
+              .replace(/đ/g, 'd').replace(/Đ/g, 'D');
+}
+let manualRows = [];
+
+// ================= 2. HÀM DỊCH CHUỖI NHẬP THÔNG MINH =================
+function expandNumbers(inputStr) {
+    if (!inputStr) return [];
+    
+    // Chuẩn hóa loại bỏ dấu tiếng Việt hoàn toàn
+    let strNorm = removeAccents(inputStr.toLowerCase().trim());
+    let resultNums = [];
+
+    // 1. Dạng kéo range: 20->30, 20den30, 20 den 30
+    const rangeMatch = strNorm.match(/^(\d{2,3})\s*(?:->|den)\s*(\d{2,3})$/);
+    if (rangeMatch) {
+        let start = parseInt(rangeMatch[1], 10);
+        let end = parseInt(rangeMatch[2], 10);
+        let padLen = rangeMatch[1].length;
+        if (start <= end) {
+            for (let i = start; i <= end; i++) {
+                resultNums.push(i.toString().padStart(padLen, '0'));
+            }
+        }
+        return resultNums;
+    }
+
+    // Dấu gạch nối là cú pháp ghép Đá, không phải kéo dãy.
+    if (/^\d{2,3}(?:-\d{2,3})+$/.test(strNorm)) return strNorm.split('-');
+
+    // 2. Nhận diện "giáp" / "giap" / "12 giap" / "12 con giap"
+    if (strNorm === 'giap' || strNorm === '12 giap' || strNorm === '12 con giap') {
+        return ALL_ZODIAC_NUMS;
+    }
+
+    // 2.5. "Đầu N" (N=0..9): dàn 10 số có hàng chục = N, VD "đầu 3" / "dau3"
+    // → 30,31,...,39. "Đầu 10" là cách gọi nhầm quen thuộc của "Đầu 1"
+    // (10..19) — hiểu luôn cho khỏi lỗi. KHÔNG đụng "dau" đứng một mình
+    // (không có số theo sau) vì đó vẫn là con giáp Dậu như trước giờ.
+    strNorm = strNorm.replace(/\bdau\s*(10|[0-9])\b/g, (_, d) => {
+        const tensDigit = d === '10' ? 1 : Number(d);
+        const base = tensDigit * 10;
+        return Array.from({ length: 10 }, (_, i) => String(base + i).padStart(2, '0')).join(' ');
+    });
+
+    // 3. Quét các bộ đôi chẵn lẻ (Chẵn Chẵn, Lẻ Lẻ, Chẵn Lẻ, Lẻ Chẵn)
+    for (const [pairKey, pairNums] of Object.entries(PAIR_SETS_NORM)) {
+        if (strNorm.includes(pairKey)) {
+            strNorm = strNorm.replace(pairKey, pairNums.join(' '));
+        }
+    }
+
+    // "đảo" (đã bỏ dấu thành "dao"): hoán vị đủ các chữ số của những số CỤ
+    // THỂ người gõ (VD "812 612 512 dao" → mỗi số nở đủ hoán vị chữ số).
+    // Chỉ áp dụng cho số gõ tay, KHÔNG áp dụng cho dàn có sẵn (giáp/chẵn lẻ)
+    // vì các dàn đó vốn đã là tập số cố định, hoán vị không có ý nghĩa gì
+    // thêm (chỉ trùng lặp lại chính nó).
+    const isDao = /\bdao\b/.test(strNorm);
+    strNorm = strNorm.replace(/\bdao\b/g, ' ');
+
+    // 4. Tách từ khóa và chuyển đổi
+    const tokens = strNorm.split(/[,\s]+/);
+    tokens.forEach(tok => {
+        if (!tok) return;
+        if (tok === 'chan') {
+            for (let i = 0; i <= 98; i += 2) resultNums.push(i.toString().padStart(2, '0'));
+        } else if (tok === 'le') {
+            for (let i = 1; i <= 99; i += 2) resultNums.push(i.toString().padStart(2, '0'));
+        } else if (ZODIAC_MAP[tok]) {
+            resultNums.push(...ZODIAC_MAP[tok]);
+        } else if (!isNaN(tok)) {
+            if (isDao && typeof digitPermutations === 'function') resultNums.push(...digitPermutations(tok));
+            else resultNums.push(tok);
+        }
+    });
+
+    return [...new Set(resultNums)];
+}
+
+function openSmartManualModal() {
+    manualRows = [{ num: '', type: 'bl', price: 5 }];
+    document.getElementById('smart-manual-modal').style.display = 'flex';
+    renderSmartManualStations();
+    renderSmartRows();
+    setTimeout(() => document.getElementById('smart-input-0')?.focus(), 0);
+}
+
+function closeSmartManualModal() {
+    document.getElementById('smart-manual-modal').style.display = 'none';
+}
+
+function renderSmartManualStations() {
+    const container = document.getElementById('smart-station-list');
+    if (!container) return;
+    
+    const currentRegion = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+    const stations = selectedStations.length
+        ? [...selectedStations]
+        : ((typeof getTodayStations === 'function') ? getTodayStations(currentRegion) : ['Đài Mặc Định']);
+    
+    container.innerHTML = stations.map((s, idx) => `
+        <label style="font-size:12px; color:#fff; display:flex; align-items:center; gap:4px; background:#0f172a; padding:4px 8px; border-radius:4px; border:1px solid #334155;">
+            <input type="checkbox" class="smart-station-cb" value="${s}" ${selectedStations.length ? 'checked' : (idx === 0 ? 'checked' : '')} onchange="calculateSmartTotals()"> ${s}
+        </label>
+    `).join('');
+}
+
+function renderSmartRows() {
+    const tbody = document.getElementById('smart-manual-rows');
+    if (!tbody) return;
+    // Đài/miền đã chọn SẴN từ đầu (trước khi gõ số) — dùng luôn để hiện
+    // đúng 1 giải áp dụng cho miền đó (VD "Đầu (Giải 8)" khi đang nạp Trung),
+    // khỏi phải ghi chung chung cả 2 miền rồi bắt người nhập tự suy luận.
+    const smartRegion = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+
+    tbody.innerHTML = manualRows.map((row, index) => {
+        const displayType = getDropdownDisplayType(row.type);
+        const typeOptions = getManualBetTypeOptions(displayType, smartRegion);
+
+        return `
+            <tr>
+                <td style="padding:4px; border:1px solid #334155; text-align:center;">
+                    <input type="checkbox" class="smart-row-check" data-index="${index}" onchange="calculateSmartTotals()" title="Chọn dòng để chia tổng tiền">
+                </td>
+                <td style="padding:4px; border:1px solid #334155;">
+                    <input type="text" value="${row.num}" id="smart-input-${index}"
+                           style="width:100%; padding:6px; background:#0f172a; border:1px solid #334155; color:#fff; border-radius:4px;" 
+                           oninput="onInputSmartRow(${index}, 'num', this.value)"
+                           onkeydown="handleSmartKeyDown(event, ${index})"
+                           placeholder="Vd: 68, 89 hoặc 20->30 hoặc ty hoặc 812 612 dao">
+                </td>
+                <td style="padding:4px; border:1px solid #334155;">
+                    <select style="width:100%; padding:6px; background:#0f172a; border:1px solid #334155; color:#fff; border-radius:4px;" 
+                            onchange="onInputSmartRow(${index}, 'type', this.value)">
+                        ${typeOptions}
+                    </select>
+                </td>
+                <td style="padding:4px; border:1px solid #334155;">
+                    <input type="number" value="${row.price}" 
+                           style="width:100%; padding:6px; text-align:center; background:#0f172a; border:1px solid #334155; color:#00ff88; font-weight:bold; border-radius:4px;" 
+                           oninput="onInputSmartRow(${index}, 'price', this.value)">
+                </td>
+                <td style="padding:4px; border:1px solid #334155; text-align:right; color:#fbbf24; font-weight:bold; padding-right:8px;" id="smart-cost-${index}">
+                    0 ₫
+                </td>
+                <td style="padding:4px; border:1px solid #334155; text-align:center;">
+                    <button class="btn btn-sm btn-red" style="padding:2px 6px;" onclick="removeSmartRow(${index})">✕</button>
+                </td>
+            </tr>
+        `;
+    }).join('');
+
+    const selectAll = document.getElementById('smart-select-all');
+    if (selectAll) selectAll.checked = false;
+
+    calculateSmartTotals();
+}
+
+// CẬP NHẬT TRỰC TIẾP KHÔNG RE-RENDER DOM SẼ KHÔNG BỊ MẤT FOCUS KHI GÕ SỐ
+function onInputSmartRow(index, field, value) {
+    manualRows[index][field] = value;
+
+    if (field === 'num') {
+        const trimmed = value.trim();
+        const tokens = trimmed.split(/[,\s]+/).filter(Boolean);
+        const firstToken = tokens[0] || '';
+        const linkedInput = trimmed.match(/^\d{2,3}(?:-\d{2,3})+$/);
+        // Chỉ tự nhảy loại khi dòng đang ở loại "mặc định/chưa chọn gì đặc
+        // biệt" (bl/2c/3c) — nếu người dùng đã tự tay chọn hẳn 1 loại khác
+        // rồi thì không được ghi đè lựa chọn của họ.
+        const isGenericType = ['bl', '2c', '3c'].includes(manualRows[index].type);
+        // Gõ nhiều số cách nhau khoảng trắng/phẩy, kèm từ khóa đá NGAY CUỐI
+        // (VD "23 45 59 cheo", "23 30 da") — tự nhận diện thành đá luôn,
+        // khỏi cần thêm cột hay bắt phải nối dấu gạch ngang mới hiểu. Từ
+        // khóa "cheo"/"xien" mà chỉ có 2 số thì tự hiểu là "Đá Thẳng" (y hệt
+        // quy tắc ở ô Nhập Nhanh) — Đá Thẳng bắt buộc ĐÚNG 2 số.
+        const lastToken = tokens.length > 1 ? tokens[tokens.length - 1] : '';
+        const trailingPairType = lastToken ? mapBetType(lastToken) : '';
+        const hasTrailingPairKeyword = tokens.length >= 3 && ['da', 'dx', 'dv'].includes(trailingPairType);
+        if (/^(?:\d{2,3}\s*(?:đến|den|->)\s*\d{2,3})$/i.test(trimmed)) {
+            // "Dãy số" (VD "20 đến 30") CHỈ là cách bung số nhanh — giống hệt
+            // "đảo"/con giáp — KHÔNG PHẢI 1 loại cược riêng, nên KHÔNG được
+            // ép cứng thành 1 mã cố định (trước đây ép 'day_so', 1 mã có tỷ
+            // lệ CỐ ĐỊNH kiểu 2C — dãy số 3 chữ số như "200 đến 300" bị tính
+            // nhầm giá 2C thay vì đúng giá 3C). Chỉ tự đoán 2C/3C theo đúng
+            // độ dài số khi đang ở loại chung chung (giống bao lô số thường)
+            // — đã tự chọn hẳn 1 giải/Đá cụ thể rồi thì GIỮ NGUYÊN, không ghi đè.
+            if (isGenericType) {
+                const rangeDigits = trimmed.match(/^\d{2,3}/)?.[0].length || 2;
+                manualRows[index].type = rangeDigits === 3 ? '3c' : '2c';
+            }
+        } else if (linkedInput) {
+            manualRows[index].type = linkedInput[0].split('-').length > 2 ? 'dx' : 'da';
+        } else if (isGenericType && hasTrailingPairKeyword) {
+            const numberCount = tokens.length - 1;
+            manualRows[index].type = (['dx', 'dv'].includes(trailingPairType) && numberCount < 3) ? 'da' : trailingPairType;
+        } else if (isGenericType) {
+            // Nhận diện từ khóa (con giáp, chẵn chẵn, giáp, giải N, đặc
+            // biệt...) bằng ĐÚNG bộ nhận diện dùng chung với ô Nhập Nhanh
+            // Thông Minh (mapBetType) — gõ "ran"/"heo"/"chẵn chẵn"/"giáp" tự
+            // nhảy đúng loại đó. Trước đây chỉ đoán theo ĐỘ DÀI chữ nên
+            // "ran"/"heo"/"đảo" (đều 3 ký tự) bị ép nhầm thành "3 Càng".
+            // Dùng CẢ CHUỖI (không chỉ firstToken) vì mapBetType tự bỏ
+            // khoảng trắng — cần vậy để bắt được cụm 2 từ như "chẵn chẵn"/
+            // "lẻ lẻ"/"12 con giáp" (nếu chỉ đưa "chẵn" hay "12" riêng thì
+            // không khớp được từ khóa ghép).
+            const detectedType = mapBetType(trimmed);
+            if (detectedType !== 'bl') {
+                manualRows[index].type = detectedType;
+            } else if (/^\d{2}$/.test(firstToken)) {
+                manualRows[index].type = '2c';
+            } else if (/^\d{3}$/.test(firstToken)) {
+                manualRows[index].type = '3c';
+            }
+        }
+        const selectElem = document.querySelectorAll('#smart-manual-rows tr')[index]?.querySelectorAll('select')[0];
+        // Quy qua mã hiển thị (getManualTypeKey) trước khi gán vào <select> —
+        // mã viết tắt trùng công thức ('5c'/'12d'/'13d') không còn là 1 lựa
+        // chọn riêng trong danh sách nữa (đã gộp), gán thẳng mã thô sẽ không
+        // khớp option nào, làm dropdown mất lựa chọn đang chọn.
+        const displayType = getDropdownDisplayType(manualRows[index].type);
+        if (selectElem && selectElem.value !== displayType) selectElem.value = displayType;
+    }
+
+    calculateSmartTotals();
+}
+
+function handleSmartKeyDown(e, index) {
+    if (e.key === 'Enter') {
+        e.preventDefault();
+        if (index === manualRows.length - 1) {
+            addSmartRow();
+            setTimeout(() => {
+                const nextInput = document.getElementById(`smart-input-${index + 1}`);
+                if (nextInput) nextInput.focus();
+            }, 50);
+        }
+    }
+}
+
+function calculateSmartTotals() {
+    const checkedStationsCount = document.querySelectorAll('.smart-station-cb:checked').length || 1;
+    const smartRegion = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+    const smartIsMB = smartRegion === 'MB';
+    let grandTotal = 0;
+
+    manualRows.forEach((row, index) => {
+        const parsedNums = expandNumbers(row.num);
+        let unitCount, soLo;
+
+        if (row.type === 'da' || row.type === 'dx' || row.type === 'dv') {
+            // BET_TYPES['da'/'dx'/'dv'].prizes để 0 (chưa từng gán) — số lô
+            // thật của đá được tính riêng trong calculateItemFinancials
+            // (36/54 lô), nên ở đây phải khớp y hệt, không lấy từ
+            // getPrizeCount() (luôn ra 0).
+            // Đá thẳng = đúng 1 cặp. Đá chéo/xiên = CẢ NHÓM là 1 cược duy
+            // nhất (unitCount luôn = 1, không nhân theo số lượng con số).
+            // Đá Vòng/Liên Hoàn = MỌI cặp đôi có thể có trong nhóm (C(n,2)).
+            const uniqueNums = [...new Set(parsedNums)];
+            if (row.type === 'da') {
+                unitCount = uniqueNums.length >= 2 ? 1 : 0;
+            } else if (row.type === 'dx') {
+                unitCount = uniqueNums.length >= 2 ? 1 : 0;
+            } else {
+                unitCount = uniqueNums.length >= 3 ? uniqueNums.length * (uniqueNums.length - 1) / 2 : 0;
+            }
+            soLo = smartIsMB ? 54 : 36;
+        } else {
+            unitCount = parsedNums.length || 0;
+            soLo = getPrizeCount(row.type, smartRegion);
+        }
+
+        const totalCost = (Number(row.price) || 0) * 1000 * soLo * checkedStationsCount * unitCount;
+        if (row.num.trim() !== '') grandTotal += totalCost;
+
+        const cellCost = document.getElementById(`smart-cost-${index}`);
+        if (cellCost) cellCost.innerText = (row.num.trim() !== '' ? totalCost.toLocaleString() : 0) + ' ₫';
+    });
+
+    const totalDisplay = document.getElementById('smart-manual-total-cost');
+    if (totalDisplay) totalDisplay.innerText = grandTotal.toLocaleString();
+}
+
+function toggleAllSmartRows(checked) {
+    document.querySelectorAll('.smart-row-check').forEach(box => {
+        box.checked = checked;
+    });
+    calculateSmartTotals();
+}
+
+function getSmartRowAllowedDigits(type, region) {
+    const isMB = region === 'MB';
+    if (['g8', 'duoi', 'c2'].includes(type)) return [2];
+    // "dau"/"dau_db" luôn quy về đúng 2 chữ số (dau = tier 2 chữ số của
+    // miền đó — G7 ở Bắc, G8 ở Trung/Nam; dau_db = lấy 2 số đầu của chính
+    // số ĐB) — không đổi theo miền. Riêng "g7" gõ ĐÍCH DANH giải 7 mới thật
+    // sự đổi theo miền: Bắc Giải 7 chỉ có 2 chữ số, Trung/Nam Giải 7 chỉ có
+    // 3 chữ số — KHÔNG được gộp chung [2,3] như trước (gõ số 2 chữ số cho
+    // Giải 7 ở Trung/Nam là sai, phải báo lỗi, không được chấp nhận).
+    if (['dau', 'dau_db'].includes(type)) return [2];
+    if (type === 'g7') return isMB ? [2] : [3];
+    if (['3c', 'c3', 'g6', 'g5', 'g4', 'g3', 'g2', 'g1', 'g6g3', 'g6g4', 'g4g3', 'g6g4g3'].includes(type)) return [3];
+    if (['4c', '5c', 'g3g2g1db', '10c', '10cuoi'].includes(type)) return [2, 3, 4];
+    // "12 Đầu" = G7+G6+G5+G4 — không có Giải 8 (chỉ 2 chữ số) nên CHỈ nhận 3 càng.
+    if (['12d', 'g7g6g5g4'].includes(type)) return [3];
+    // "13 Đầu" = G8+G7+G6+G5+G4 — có Giải 8 (2 chữ số) nên CHỈ nhận 2 càng.
+    if (['13d', 'g8g7g6g5g4'].includes(type)) return [2];
+    // "5 Đầu" (G7+G6+G5, không có G8) → chỉ 3 càng, giống "12 Đầu".
+    if (type === 'g7g6g5') return [3];
+    // "6 Đầu" (G8+G7+G6+G5, có G8) → chỉ 2 càng, giống "13 Đầu".
+    if (type === 'g8g7g6g5') return [2];
+    // "12 Cuối"/"14 Cuối" đều gộp cả Giải 4 (5 chữ số) — cho phép cả 2/3
+    // càng như "Cuối GĐB" thường (khách quen gõ 2 hoặc 3 số cuối tùy ý).
+    if (['g4g3g2g1db', '14cuoi'].includes(type)) return [2, 3];
+    return [2];
+}
+
+function allocateSmartManualTotal() {
+    const totalK = Number(document.getElementById('smart-manual-total-input')?.value) || 0;
+    if (totalK <= 0) return showToast('Nhập tổng tiền cần chia lớn hơn 0', 'error');
+
+    const region = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+    const stationCount = document.querySelectorAll('.smart-station-cb:checked').length || 1;
+    const selectedRows = manualRows
+        .map((row, index) => ({ row, index, nums: expandNumbers(row.num) }))
+        .filter(entry => document.querySelector(`.smart-row-check[data-index="${entry.index}"]`)?.checked && entry.nums.length);
+    const totalUnits = selectedRows.reduce((sum, entry) => sum + entry.nums.length, 0);
+    if (!totalUnits) return showToast('Hãy tick dòng số cần chia tổng tiền', 'error');
+
+    selectedRows.forEach(({ row }) => {
+        row.price = totalK / totalUnits;
+    });
+    renderSmartRows();
+    showToast(`Đã chia đều ${totalK}k cho ${totalUnits} đơn vị cược`, 'success');
+}
+
+function addSmartRow() {
+    const lastRow = manualRows[manualRows.length - 1];
+    manualRows.push({ num: '', type: lastRow ? lastRow.type : 'bl', price: lastRow ? lastRow.price : 5 });
+    renderSmartRows();
+    setTimeout(() => document.getElementById(`smart-input-${manualRows.length - 1}`)?.focus(), 0);
+}
+
+function removeSmartRow(index) {
+    manualRows.splice(index, 1);
+    if (manualRows.length === 0) manualRows = [{ num: '', type: 'bl', price: 5 }];
+    renderSmartRows();
+}
+
+function confirmSmartManual() {
+    const selectedStations = Array.from(document.querySelectorAll('.smart-station-cb:checked')).map(cb => cb.value);
+    if (selectedStations.length === 0) {
+        if (typeof showToast === 'function') showToast("Vui lòng chọn ít nhất 1 đài!", "error");
+        return;
+    }
+
+    const validRows = manualRows.filter(r => r.num.trim() !== '');
+    if (validRows.length === 0) {
+        if (typeof showToast === 'function') showToast("Vui lòng nhập ít nhất 1 dòng số!", "error");
+        return;
+    }
+
+    const smartRegion = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+    const invalidRow = validRows.find(row => {
+        const nums = expandNumbers(row.num);
+        const allowedDigits = getSmartRowAllowedDigits(getManualTypeKey(row.type), smartRegion);
+        if (nums.some(num => !allowedDigits.includes(num.length))) return true;
+        if (row.type === 'da' && nums.length !== 2) return true;
+        if (row.type === 'dx' && nums.length < 3) return true;
+        if (row.type === 'dv' && nums.length < 2) return true;
+        return false;
+    });
+    if (invalidRow) {
+        return showToast('Sai loại cược: số 3 chữ số cần chọn Giải hoặc 3 Càng; số 2 chữ số không chọn 3 Càng/Giải.', 'error');
+    }
+
+    if (!appData[activeGroup]) appData[activeGroup] = { betList: [], inputHistory: [] };
+    if (!appData[activeGroup].inputHistory) appData[activeGroup].inputHistory = [];
+
+    const now = new Date();
+    const timeStr = `${now.getHours().toString().padStart(2, '0')}:${now.getMinutes().toString().padStart(2, '0')}:${now.getSeconds().toString().padStart(2, '0')} - ${now.toLocaleDateString('vi-VN')}`;
+
+    const newSessionItems = [];
+
+    validRows.forEach(row => {
+        const parsedNums = expandNumbers(row.num);
+        const betType = getManualTypeKey(row.type);
+        if (betType === 'da' || betType === 'dx') {
+            const uniqueNums = [...new Set(parsedNums)];
+            if (uniqueNums.length < 2) return;
+            // Đá thẳng = đúng 1 cặp. Đá chéo/xiên = CẢ NHÓM là MỘT cược duy
+            // nhất (trúng khi TẤT CẢ số trong nhóm đều về, thiếu 1 số là thua
+            // cả cụm) — khác với Đá Vòng bên dưới (tách cặp độc lập).
+            const group = betType === 'da' ? uniqueNums.slice(0, 2) : uniqueNums;
+            newSessionItems.push({
+                ...createItem(group.join('-'), Number(row.price) || 0, document.querySelector('input[name="region-select"]:checked')?.value || 'MT', betType, betType.toUpperCase()),
+                stations: selectedStations,
+                pairNums: group
+            });
+            return;
+        }
+        if (betType === 'dv') {
+            // Đá Chéo/Vòng/Liên Hoàn: tách nhóm số thành TỪNG CẶP đôi độc
+            // lập (C(n,2) cặp), mỗi cặp tự ăn/thua riêng — trúng 1 phần vẫn
+            // có tiền, khác hẳn Đá Xiên (cả nhóm phải về đủ mới ăn).
+            const uniqueNums = [...new Set(parsedNums)];
+            if (uniqueNums.length < 2) return;
+            const region = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+            // Chỉ đúng 2 số thì "chéo/vòng" cũng ra được 1 cặp duy nhất —
+            // thực chất là "Đá Thẳng", chỉ đổi lại đúng TÊN loại.
+            if (uniqueNums.length < 3) {
+                const group = uniqueNums.slice(0, 2);
+                newSessionItems.push({
+                    ...createItem(group.join('-'), Number(row.price) || 0, region, 'da', 'DA'),
+                    stations: selectedStations,
+                    pairNums: group
+                });
+                return;
+            }
+            const pairs = uniqueNums.flatMap((first, index) => uniqueNums.slice(index + 1).map(second => [first, second]));
+            pairs.forEach(pair => {
+                newSessionItems.push({
+                    ...createItem(pair.join('-'), Number(row.price) || 0, region, betType, betType.toUpperCase()),
+                    stations: selectedStations,
+                    pairNums: pair
+                });
+            });
+            return;
+        }
+        parsedNums.forEach(numStr => {
+            newSessionItems.push({
+                id: 'bet_' + Date.now() + '_' + Math.random().toString(36).substr(2, 5),
+                num: numStr,
+                betType,
+                // "g{giải}lo{số}" chọn tay từ dropdown mới (VD "Giải 5 - Lô
+                // 3") cần ghi chú rõ ngay — nhánh này vốn không có field note,
+                // để trống thì nhìn lại Bảng Chi Tiết chỉ thấy mã thô, dễ lẫn
+                // với các dòng "Giải 5" bao trọn (không giới hạn vị trí).
+                note: /^g[1-8]lo\d+$/.test(String(betType || '')) ? describeTierOnly([betType]) : '',
+                originalAmount: Number(row.price) || 0,
+                amount: (Number(row.price) || 0) * 1000,
+                stations: selectedStations,
+                digits: numStr.length,
+                region: document.querySelector('input[name="region-select"]:checked')?.value || 'MT',
+                createdAt: timeStr,
+                createdAtTimestamp: Date.now(),
+                matched: false,
+                winAmount: 0
+            });
+        });
+    });
+
+    appData[activeGroup].inputHistory.push({
+        time: timeStr,
+        items: newSessionItems
+    });
+
+    if (!appData[activeGroup].betList) appData[activeGroup].betList = [];
+    appData[activeGroup].betList.push(...newSessionItems);
+
+    closeSmartManualModal();
+    renderMatrixTable();
+    if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+    if (typeof showToast === 'function') showToast("Đã thêm lượt nhập thành công!", "success");
+}
+
+// 1. Đổi thể loại cược trực tiếp (Đồng bộ betList + Save DB)
+function changeItemBetType(sessionIdx, itemIdx, newType) {
+    const gObj = appData[activeGroup];
+    if (!gObj || !gObj.inputHistory[sessionIdx] || !gObj.inputHistory[sessionIdx].items[itemIdx]) return;
+
+    const item = gObj.inputHistory[sessionIdx].items[itemIdx];
+    const oldType = item.betType;
+    // Ghi chú (Ghi chú) đang đúng bằng TÊN LOẠI CŨ tự sinh (chưa bị gõ tay
+    // sửa thành nội dung khác, VD "Hợi (Heo)" hay note tự thêm) thì cập nhật
+    // luôn theo tên loại MỚI — đổi loại mà ghi chú vẫn nói loại cũ (VD đổi
+    // "4c" ("4 Cuối") sang "db" mà ghi chú vẫn còn "4 Cuối") là sai lệch, dễ
+    // đối chiếu nhầm. Ghi chú nào đã KHÁC tên tự sinh (đã gõ tay/có nguồn gốc
+    // riêng) thì GIỮ NGUYÊN, không đụng vào.
+    if (typeof getRegionAwareTypeName === 'function' && item.note === getRegionAwareTypeName(oldType, item.region)) {
+        item.note = getRegionAwareTypeName(newType, item.region);
+    }
+    item.betType = newType;
+    // Tự tay chọn loại khác trong dropdown = MUỐN tính đúng theo loại đó
+    // (bao lô/2C/3C/Đặc Biệt...) — phải bỏ giới hạn tierOnly cũ (VD "chỉ
+    // Giải 4 Lô 6" từ lúc gõ tự động), không thì tiền vẫn tính theo giới hạn
+    // cũ dù đã đổi loại, và nhãn "🎯 Giải..." cũng không biến mất.
+    item.tierOnly = '';
+
+    // Cập nhật đồng bộ sang betList
+    if (gObj.betList) {
+        const mainItem = gObj.betList.find(b => b.id === item.id);
+        if (mainItem) {
+            mainItem.betType = newType;
+            mainItem.tierOnly = '';
+            mainItem.note = item.note;
+        }
+    }
+
+    // Cảnh báo nhẹ nếu chọn loại 2C/3C/Càng riêng không khớp độ dài số thật
+    // (VD số 2 chữ số mà chọn "Bao Lô 3C") — không chặn, chỉ báo cho biết.
+    const digitOnlyTypes = { '2c': 2, 'c2': 2, '3c': 3, 'c3': 3 };
+    const expectedDigits = digitOnlyTypes[String(newType).toLowerCase()];
+    const actualDigits = String(item.num || '').split('-')[0].length;
+    if (expectedDigits && actualDigits && expectedDigits !== actualDigits) {
+        if (typeof showToast === 'function') {
+            showToast(`⚠️ Số "${item.num}" có ${actualDigits} chữ số nhưng loại vừa chọn là ${expectedDigits} càng — kiểm tra lại kẻo tính sai`, 'error');
+        }
+    }
+
+    if (typeof recalculateTotals === 'function') recalculateTotals(activeGroup);
+    if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+
+    // Vá riêng đúng lượt nhập vừa đổi thay vì xóa-dựng lại toàn bảng: trước
+    // đây gọi renderMatrixTable() KHÔNG truyền trang → luôn nhảy về trang 1
+    // (mất vị trí đang xem) + toàn bộ bảng bị xóa-dựng lại gây giật/nhấp
+    // nháy dù chỉ đổi 1 dòng.
+    renderMatrixTable(currentMatrixPage, sessionIdx);
+    if (typeof showToast === 'function') showToast('Đã cập nhật thể loại cược!', 'success');
+}
+
+// 2. Xóa 1 số lẻ trong dòng (Đồng bộ betList + Save DB)
+function deleteItemFromSession(sessionIdx, itemIdx) {
+    const gObj = appData[activeGroup];
+    if (!gObj || !gObj.inputHistory[sessionIdx]) return;
+
+    const itemObj = gObj.inputHistory[sessionIdx].items[itemIdx];
+    if (itemObj) {
+        // Xóa khỏi betList
+        if (gObj.betList) {
+            gObj.betList = gObj.betList.filter(i => i.id !== itemObj.id);
+        }
+        // Xóa khỏi inputHistory
+        gObj.inputHistory[sessionIdx].items.splice(itemIdx, 1);
+        if (gObj.inputHistory[sessionIdx].items.length === 0) {
+            gObj.inputHistory.splice(sessionIdx, 1);
+        }
+    }
+
+    if (typeof recalculateTotals === 'function') recalculateTotals(activeGroup);
+    if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+
+    renderMatrixTable();
+    if (typeof showToast === 'function') showToast('Đã xóa dòng chọn', 'success');
+}
+
+// 3. Xóa các dòng được tick Checkbox (Hàm mới - Đồng bộ cả 2 mảng)
+function deleteSelectedItems() {
+    const checkboxes = document.querySelectorAll('.row-checkbox:checked');
+    if (checkboxes.length === 0) {
+        if (typeof showToast === 'function') showToast('Bạn chưa chọn dòng nào để xóa!', 'error');
+        return;
+    }
+
+    const gObj = appData[activeGroup];
+    if (!gObj) return;
+
+    const idsToRemove = new Set();
+    const targets = {};
+
+    checkboxes.forEach(cb => {
+        const sIdx = parseInt(cb.dataset.session);
+        const iIdx = parseInt(cb.dataset.item);
+        
+        const item = gObj.inputHistory[sIdx]?.items[iIdx];
+        if (item && item.id) idsToRemove.add(item.id);
+
+        if (!targets[sIdx]) targets[sIdx] = [];
+        targets[sIdx].push(iIdx);
+    });
+
+    // Xóa trong inputHistory từ chỉ số lớn về nhỏ
+    Object.keys(targets).forEach(sIdx => {
+        targets[sIdx].sort((a, b) => b - a).forEach(iIdx => {
+            gObj.inputHistory[sIdx].items.splice(iIdx, 1);
+        });
+    });
+
+    gObj.inputHistory = gObj.inputHistory.filter(s => s.items && s.items.length > 0);
+
+    // Xóa đồng bộ trong betList
+    if (gObj.betList && idsToRemove.size > 0) {
+        gObj.betList = gObj.betList.filter(b => !idsToRemove.has(b.id));
+    }
+
+    if (typeof recalculateTotals === 'function') recalculateTotals(activeGroup);
+    if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+
+    renderMatrixTable();
+    if (typeof showToast === 'function') showToast(`Đã xóa ${checkboxes.length} dòng được chọn`, 'success');
+}
+
+// 4. Xóa toàn bộ lượt nhập / tin nhắn (Giữ xác nhận Confirm + Đồng bộ betList)
+function deleteSession(sessionIdx) {
+    const gObj = appData[activeGroup];
+    if (!gObj || !gObj.inputHistory[sessionIdx]) return;
+
+    // QUAN TRỌNG: bản này trước đây bị MẤT bước xác nhận (xóa ngay lập tức
+    // khi bấm "Xóa Tin", không hỏi lại) — dù đúng ra phải giữ, xem comment
+    // gốc phía trên hàm này. Xóa nguyên 1 lượt nhập là hành động khó/không
+    // thể hoàn tác, luôn phải hỏi lại trước.
+    showModal({
+        title: '⚠️ Xác Nhận Xóa Lượt Nhập',
+        body: `Bạn có chắc chắn muốn xóa <b style="color:#ff4d4d;">Lượt nhập #${sessionIdx + 1}</b>?<br><span style="color:#f87171; font-size:12.5px;">Toàn bộ số cược trong lượt này sẽ mất vĩnh viễn.</span>`,
+        confirmText: 'Xóa Ngay',
+        confirmClass: 'btn-red',
+        cancelText: 'Hủy Bỏ',
+        showCancel: true,
+        onConfirm: () => {
+            const session = gObj.inputHistory[sessionIdx];
+            if (session && session.items && gObj.betList) {
+                const idsToRemove = new Set(session.items.map(i => i.id));
+                gObj.betList = gObj.betList.filter(item => !idsToRemove.has(item.id));
+            }
+
+            gObj.inputHistory.splice(sessionIdx, 1);
+
+            if (typeof recalculateTotals === 'function') recalculateTotals(activeGroup);
+            if (typeof saveAppDataToDB === 'function') saveAppDataToDB();
+
+            renderMatrixTable();
+            if (typeof showToast === 'function') showToast('Đã xóa lượt nhập!', 'success');
+        }
+    });
+}
+
+// ================= 2. HÀM RENDER BẢNG MA TRẬN TÍNH VỐN CHUẨN + PHÂN TRANG =================
+let currentMatrixPage = 1;
+// Tăng mỗi lần renderMatrixTable() được gọi mới, để đợt vẽ nền (chunk) của
+// lần gọi CŨ tự biết dừng lại nếu người dùng đã đổi nhóm/trang/sửa dữ liệu
+// trước khi nó vẽ xong — tránh vẽ nhầm dữ liệu cũ đè lên bảng mới.
+let matrixRenderGeneration = 0;
+const ITEMS_PER_PAGE = 30;
+
+function renderMatrixTable(page = 1, targetSessionIdx = null) {
+    const tbody = document.getElementById('excel-matrix-body');
+    if (!tbody) return;
+
+    const gObj = appData?.[activeGroup];
+
+    // "Vá riêng 1 lượt nhập" — dùng khi chỉ 1 dòng của 1 lượt nhập vừa đổi
+    // (đổi thể loại cược, sửa giá/ghi chú...), để khỏi phải xóa-dựng lại
+    // TOÀN BỘ bảng như trước đây (gây giật/nhấp nháy cả trang, và còn có
+    // thể nhảy về trang 1 nếu người gọi quên truyền đúng trang hiện tại).
+    // Chỉ vá khi dòng của lượt nhập đó đang THẬT SỰ có sẵn trên DOM (đúng
+    // trang đang xem, không bị lọc ẩn) — nếu không tìm thấy thì bỏ qua,
+    // rơi xuống render đầy đủ như bình thường bên dưới (an toàn, không mất
+    // dữ liệu hiển thị).
+    if (targetSessionIdx !== null && targetSessionIdx !== undefined && gObj) {
+        const oldRows = tbody.querySelectorAll(`tr[data-session-key="${targetSessionIdx}"]`);
+        const session = gObj.inputHistory?.[targetSessionIdx];
+        if (oldRows.length && session) {
+            const betItemsByIdLocal = new Map((gObj.betList || []).map(item => [item.id, item]));
+            const items = Array.isArray(session.items)
+                ? session.items.map(item => betItemsByIdLocal.get(item.id) || item)
+                : [];
+            const hasFilterLocal = hasActiveDetailFilter();
+            const visibleItems = [];
+            items.forEach((item, itemIdx) => {
+                if (!hasFilterLocal || detailItemMatches(item, session)) visibleItems.push({ item, itemIdx });
+            });
+            const entry = { realSessionIdx: targetSessionIdx, session, items, visibleItems };
+            const newFragment = buildSessionFragment(entry);
+            tbody.insertBefore(newFragment, oldRows[0]);
+            oldRows.forEach(row => row.remove());
+            if (typeof updateDetailTotals === 'function') updateDetailTotals();
+            if (typeof updateGrandSummary === 'function') updateGrandSummary();
+            return;
+        }
+    }
+
+    // Dựng lại danh sách Miền/Đài trong ô lọc CHỈ ở nhánh render ĐẦY ĐỦ này
+    // (không đụng ở nhánh "vá riêng 1 lượt nhập" phía trên) — đổi thể loại
+    // cược/sửa giá không bao giờ làm xuất hiện/mất đài hay miền nào, quét lại
+    // mỗi lần đó là phí công vô ích, với dữ liệu lớn (hàng trăm nghìn dòng)
+    // sẽ tái tạo đúng cái lag/giật đã mất công khắc phục trước đây.
+    if (typeof populateDetailFilterPanel === 'function') populateDetailFilterPanel();
+    if (typeof updateDetailFilterButtonLabel === 'function') updateDetailFilterButtonLabel();
+
+    const myRenderGeneration = ++matrixRenderGeneration;
+    currentMatrixPage = page;
+    if (typeof renderGroupButtons === 'function') renderGroupButtons();
+
+    if (!gObj || !Array.isArray(gObj.inputHistory) || gObj.inputHistory.length === 0) {
+        tbody.innerHTML = `<tr><td colspan="13" style="text-align:center;color:#64748b;padding:30px;">Chưa có dữ liệu nhập</td></tr>`;
+        if (typeof updateDetailTotals === 'function') updateDetailTotals();
+        if (typeof updateGrandSummary === 'function') updateGrandSummary();
+        return;
+    }
+
+    const totalSessionsRaw = gObj.inputHistory.length;
+    // Map chỉ build 1 lần cho cả lần render, không build lại theo từng lượt nhập.
+    const betItemsById = new Map((gObj.betList || []).map(item => [item.id, item]));
+    const hasFilter = hasActiveDetailFilter();
+
+    // sessionEntries: { realSessionIdx, session, items, visibleItems }
+    let sessionEntries;
+    let totalSessions;
+    let totalFilteredItems = 0;
+
+    if (hasFilter) {
+        // Có tìm kiếm/lọc trúng-trượt: bắt buộc quét toàn bộ lịch sử để không bỏ sót
+        // kết quả ở các trang cũ, nhưng CHỈ lọc (không tính tiền, không dựng DOM) —
+        // phần nặng (calculateItemFinancials + innerHTML) chỉ chạy cho đúng 1 trang
+        // bên dưới, nên vẫn giữ được phân trang dù dữ liệu lên tới hàng triệu dòng.
+        sessionEntries = [];
+        for (let i = totalSessionsRaw - 1; i >= 0; i--) {
+            const session = gObj.inputHistory[i];
+            const items = Array.isArray(session.items)
+                ? session.items.map(item => betItemsById.get(item.id) || item)
+                : [];
+            const visibleItems = [];
+            for (let j = 0; j < items.length; j++) {
+                if (detailItemMatches(items[j], session)) visibleItems.push({ item: items[j], itemIdx: j });
+            }
+            if (visibleItems.length) {
+                sessionEntries.push({ realSessionIdx: i, session, items, visibleItems });
+                totalFilteredItems += visibleItems.length;
+            }
+        }
+        totalSessions = sessionEntries.length;
+    } else {
+        totalSessions = totalSessionsRaw;
+        const startIndex = (page - 1) * ITEMS_PER_PAGE;
+        const endIndex = Math.min(startIndex + ITEMS_PER_PAGE, totalSessions);
+        // QUAN TRỌNG: phải tính "realSessionIdx" (= chỉ số THẬT trong mảng
+        // inputHistory, dùng để sửa/xóa đúng dòng) bằng cách LẤY THẲNG
+        // gObj.inputHistory[realSessionIdx] — không được làm kiểu "cắt 1
+        // đoạn (slice) rồi đảo (reverse) đoạn đó" như bản cũ, vì "cắt trước
+        // rồi đảo" và "đảo cả mảng rồi cắt" ra 2 kết quả KHÁC HẲN NHAU khi
+        // có từ trang 2 trở đi (chỉ trùng nhau ở trang 1 khi có đúng 1
+        // trang) — bản cũ vẫn tính nhãn realSessionIdx theo kiểu "đảo cả
+        // mảng rồi cắt" trong khi DỮ LIỆU hiển thị lại lấy theo kiểu "cắt
+        // rồi đảo", nên từ trang 2 trở đi bảng hiển thị/sửa NHẦM SANG lượt
+        // nhập khác hẳn (đúng thứ cảm giác "giật/lộn xộn" khi có nhiều hơn
+        // 1 trang lượt nhập). Cách tính dưới đây giống hệt nhánh có lọc ở
+        // trên (đã tính đúng), chỉ khác là chạy theo đúng cửa sổ 1 trang.
+        sessionEntries = [];
+        for (let i = startIndex; i < endIndex; i++) {
+            const realSessionIdx = totalSessions - 1 - i;
+            const session = gObj.inputHistory[realSessionIdx];
+            const items = Array.isArray(session.items)
+                ? session.items.map(item => betItemsById.get(item.id) || item)
+                : [];
+            const visibleItems = items.map((item, itemIdx) => ({ item, itemIdx }));
+            sessionEntries.push({ realSessionIdx, session, items, visibleItems });
+        }
+    }
+
+    const startIndex = (page - 1) * ITEMS_PER_PAGE;
+    const pagedSessions = hasFilter
+        ? sessionEntries.slice(startIndex, startIndex + ITEMS_PER_PAGE)
+        : sessionEntries;
+
+    // Tối ưu hiệu năng DOM bằng DocumentFragment
+    // Dựng bảng cho ĐÚNG 1 lượt nhập, trả về 1 fragment — tách hàm riêng để
+    // có thể vẽ NGAY một đợt đầu và vẽ dần phần còn lại trong nền (xem bên
+    // dưới), thay vì dựng hết hàng trăm/nghìn dòng cùng lúc làm đứng máy.
+    // Khai báo kiểu "function" (không phải const/arrow) để được hoisting lên
+    // đầu scope renderMatrixTable — cho phép nhánh "vá riêng 1 lượt nhập" ở
+    // đầu hàm gọi được nó dù đứng TRƯỚC vị trí khai báo trong code.
+    function buildSessionFragment(entry) {
+        const localFragment = document.createDocumentFragment();
+        const { realSessionIdx, session, items, visibleItems } = entry;
+        if (visibleItems.length === 0) return localFragment;
+
+        // Đếm số dòng theo từng linkId trong lượt nhập này để tô CÙNG 1 màu
+        // nhạt cho các dòng thuộc chung 1 cụm (VD 25 số Lẻ Lẻ, 100 số Con
+        // Giáp, các cặp Đá Vòng) — nhìn phát biết ngay "đây là 1 lần đánh",
+        // đỡ rối khi số dòng nở ra nhiều. Bỏ qua nếu chỉ 1 dòng (bet thường).
+        const linkIdCounts = {};
+        visibleItems.forEach(({ item }) => {
+            if (item.linkId) linkIdCounts[item.linkId] = (linkIdCounts[item.linkId] || 0) + 1;
+        });
+        const linkIdGroupIndex = {};
+        let nextGroupTintIndex = 0;
+
+        let sessionTotalBet = 0;
+        let sessionTotalWin = 0;
+        const sessionRegion = session.region || items[0]?.region || 'MT';
+
+        for (let k = 0; k < visibleItems.length; k++) {
+            const financials = calculateItemFinancials(visibleItems[k].item, sessionRegion);
+            sessionTotalBet += financials.totalItemCost;
+            sessionTotalWin += financials.winAmount;
+        }
+
+        // "Thành tiền" luôn tính theo góc nhìn NHÀ CÁI: Vốn thu - Tiền trả thưởng.
+        // Dương (+) = nhà cái LÃI → xanh. Âm (-) = nhà cái LỖ (khách trúng vượt vốn) → đỏ.
+        const sessionNet = sessionTotalBet - sessionTotalWin;
+        const stationsStr = items[0]?.stations?.map(s => (typeof STATION_ABBR !== 'undefined' && STATION_ABBR[s]) ? STATION_ABBR[s] : s).join(', ') || 'Chưa chọn';
+        const regionTag = items[0]?.region || sessionRegion;
+        const sessionNetColor = sessionNet >= 0 ? '#00ff88' : '#ff4d4d';
+        // Màu riêng theo miền cho thanh ngang mỗi lượt nhập — 1 nhóm trong 1
+        // ngày thường có RẤT NHIỀU tin xen kẽ đủ 3 miền, nhìn cột "Đài" từng
+        // dòng để phân biệt miền nào khá chậm. Nhìn MÀU thanh ngang (viền +
+        // chữ "Lượt nhập #...") thì phân biệt tức thì, không cần đọc chữ.
+        const regionHeaderColor = REGION_HEADER_COLOR[regionTag] || REGION_HEADER_COLOR.MT;
+
+        // --- Row Header Lượt nhập ---
+        const trHeader = document.createElement('tr');
+        trHeader.dataset.sessionKey = String(realSessionIdx);
+        trHeader.style.cssText = `background:#1e293b; border-top:2px solid ${regionHeaderColor};`;
+        trHeader.innerHTML = `
+            <td colspan="3" style="padding:8px 12px; font-weight:bold; color:${regionHeaderColor};">
+                📩 Lượt nhập #${realSessionIdx + 1}
+                <span style="display:block; color:#94a3b8; font-size:11px; font-weight:normal; margin-top:2px;">${session.time || ''}</span>
+            </td>
+            <td colspan="3" style="padding:8px; color:#fbbf24; font-size:12px;">
+                Đài: <b>${stationsStr}</b> (${items[0]?.stations?.length || 1} đài)
+            </td>
+            <td colspan="3" style="padding:8px; color:#38bdf8; text-align:right; font-size:12px;">
+                Vốn tin này: <b>${sessionTotalBet.toLocaleString()} ₫</b>
+            </td>
+            <td colspan="3" style="padding:8px; text-align:right; font-size:12px; color:${sessionNetColor}; font-weight:bold;">
+                Thành tiền: ${sessionNet >= 0 ? '+' : ''}${sessionNet.toLocaleString()} ₫
+            </td>
+            <td style="text-align:center; padding:4px;">
+                <button class="btn btn-sm btn-red" style="padding:2px 8px; font-size:11px;" onclick="deleteSession(${realSessionIdx})">Xóa Tin</button>
+            </td>
+        `;
+        localFragment.appendChild(trHeader);
+
+        // --- Row Chi tiết từng con số ---
+        for (let displayIdx = 0; displayIdx < visibleItems.length; displayIdx++) {
+            const itemIdx = visibleItems[displayIdx].itemIdx;
+            const item = visibleItems[displayIdx].item;
+            const financials = calculateItemFinancials(item, sessionRegion);
+            const totalItemCost = financials.totalItemCost;
+            const winVal = financials.winAmount;
+            // Góc nhìn NHÀ CÁI: Vốn thu - Tiền trả thưởng. Dương (+) = nhà cái LÃI → xanh.
+            // Âm (-) = nhà cái LỖ (khách trúng vượt vốn dòng này) → đỏ.
+            const netVal = totalItemCost - winVal;
+
+            const itemOrigK = item.originalAmount || (item.amount >= 1000 ? item.amount / 1000 : item.amount) || 1;
+            const isHit = Boolean(item.matched);
+            const numStyle = isHit ? 'color:#ff4d4d; font-weight:bold; font-size:15px;' : 'color:#00f3ff; font-size:14px;';
+            // Số của Đá Chéo/Xiên/Vòng lưu dạng gộp dấu gạch (VD "23-42-35-54"),
+            // dài hơn hẳn số 2-3 chữ số thường — ô nhập cố định 78-90px sẽ cắt
+            // mất phần đuôi. Nới rộng ô theo đúng độ dài số khi có pairNums.
+            const isGroupNum = Array.isArray(item.pairNums) && item.pairNums.length >= 2;
+            const numFieldWidth = isGroupNum ? Math.max(90, String(item.num || '').length * 11 + 24) : 78;
+
+            const itemBetType = BET_TYPES[item.betType] ? item.betType : mapBetType(item.betType);
+            // Dùng CHUNG đúng 1 hàm getManualBetTypeOptions() với modal Nhập
+            // Tay/Xem Lại — trước đây Bảng Chi Tiết tự liệt kê riêng bằng
+            // Object.entries(BET_TYPES), nên khi thêm loại mới (VD 12 con
+            // giáp riêng) mà quên cập nhật CẢ 2 chỗ thì 2 nơi lại ra 2 danh
+            // sách khác nhau. getManualTypeKey() quy 'bl' (mã cũ/tự động) về
+            // '2c' trước khi tra — khỏi bị "biến mất" khỏi danh sách vì 'bl'
+            // không có trong nhóm nào (đã gộp chung với '2c' từ trước).
+            const typeSelectOptions = getManualBetTypeOptions(getDropdownDisplayType(itemBetType), sessionRegion);
+            // Hiện thêm 1 dòng nhỏ "🎯 ..." ngay trên dropdown cho biết ĐÚNG
+            // giải cần dò — dù là do người dùng tự giới hạn (VD "Db+G7. Chan
+            // chan x 35k" → "🎯 Đặc Biệt + Giải 7") hay do CHÍNH loại cược đó
+            // vốn đã gộp cố định nhiều giải (VD "5 Cuối GĐB" → "🎯 Giải 3 +
+            // Giải 2 + Giải 1 + Đặc Biệt") — khỏi phải thuộc lòng luật mới
+            // biết bên trong 1 loại gồm những giải nào. Có title= để rê
+            // chuột xem đủ khi tên dài không hiện hết trong ô nhỏ.
+            const tierLabel = getDisplayTierBadge(item, sessionRegion);
+            const tierBadge = tierLabel
+                ? `<div style="color:#fbbf24; font-size:10px; font-weight:bold; margin-bottom:2px;" title="${escapeHtml(tierLabel)}">🎯 ${escapeHtml(tierLabel)}</div>`
+                : '';
+
+            const netDisplay = `<span style="color:${netVal >= 0 ? '#00ff88' : '#ff4d4d'}; font-weight:bold;">${netVal >= 0 ? '+' : ''}${netVal.toLocaleString()} ₫</span>`;
+
+            const itemStations = (Array.isArray(item.stations) && item.stations.length > 0)
+                ? item.stations.map(s => (typeof STATION_ABBR !== 'undefined' && STATION_ABBR[s]) ? STATION_ABBR[s] : s).join(', ')
+                : 'Chưa chọn';
+
+            let groupTint = '';
+            if (!isHit && !item.edited && item.linkId && linkIdCounts[item.linkId] > 1) {
+                if (!(item.linkId in linkIdGroupIndex)) linkIdGroupIndex[item.linkId] = nextGroupTintIndex++;
+                groupTint = (linkIdGroupIndex[item.linkId] % 2 === 0)
+                    ? 'background:rgba(56,189,248,0.07);'
+                    : 'background:rgba(168,85,247,0.07);';
+            }
+
+            const trItem = document.createElement('tr');
+            trItem.dataset.sessionKey = String(realSessionIdx);
+            trItem.style.cssText = isHit
+                ? 'background:rgba(255, 77, 77, 0.16); box-shadow: inset 3px 0 0 #ff4d4d;'
+                : (item.edited ? 'background:rgba(250, 204, 21, 0.22);' : (groupTint || 'background:#0f172a;'));
+            trItem.innerHTML = `
+                <td style="text-align:center; color:#64748b; font-size:11px;">${displayIdx + 1}</td>
+                <td style="text-align:center;">
+                    <span style="display:block; font-size:11px; color:#38bdf8; font-weight:bold;">${itemStations}</span>
+                    <span style="display:block; font-size:9px; color:#a855f7; font-weight:bold; margin-top:2px;">${item.region || regionTag}</span>
+                </td>
+                <td style="text-align:center;">
+                    <input class="table-input number-input" type="text" inputmode="${isGroupNum ? 'text' : 'numeric'}" pattern="${isGroupNum ? '' : '[0-9]*'}" maxlength="${Math.max(3, (item.num || '').length)}"
+                           style="${numStyle} ${isGroupNum ? `width:${numFieldWidth}px; min-width:${numFieldWidth}px; max-width:none;` : ''}"
+                           value="${escapeHtml(item.num || '')}" aria-label="Số cược"
+                           oninput="updateDetailItemNumber(${realSessionIdx}, ${itemIdx}, this.value)"
+                           onchange="updateDetailItemNumber(${realSessionIdx}, ${itemIdx}, this.value, true)">
+                </td>
+                <td style="text-align:center; font-size:12px;">${item.num?.length === 2 ? '✓' : ''}</td>
+                <td style="text-align:center; font-size:12px;">${item.num?.length === 3 ? '✓' : ''}</td>
+                <td style="text-align:center; font-size:12px;">${['da','dx','dv'].includes(item.betType) ? '✓' : ''}</td>
+                <td style="text-align:center; font-size:12px;">
+                    ${tierBadge}
+                    <select style="width:128px; max-width:128px; background:#1e293b; color:#f472b6; border:1px solid #334155; border-radius:4px; padding:2px; cursor:pointer; font-size:11px;"
+                            onchange="changeItemBetType(${realSessionIdx}, ${itemIdx}, this.value)">
+                        ${typeSelectOptions}
+                    </select>
+                </td>
+                <td style="text-align:center; font-size:13px;">
+                    <input class="table-input money-input" type="number" min="0" step="0.01" value="${escapeHtml(itemOrigK)}"
+                           oninput="updateDetailItemFieldLive(${realSessionIdx}, ${itemIdx}, 'price', this.value)"
+                           onchange="updateDetailItemField(${realSessionIdx}, ${itemIdx}, 'price', this.value)" aria-label="Giá tiền theo k">
+                </td>
+                <td style="text-align:center; font-size:13px; color:#fbbf24; font-weight:bold;">${totalItemCost.toLocaleString()} ₫</td>
+                <td style="text-align:center; font-size:12px; color:${winVal > 0 ? '#ff4d4d' : '#64748b'}; font-weight:${winVal > 0 ? 'bold' : 'normal'};">
+                    ${winVal > 0 ? winVal.toLocaleString() + ' ₫' : '—'}
+                </td>
+                <td style="text-align:center; font-size:12px;">${netDisplay}</td>
+                <td style="text-align:left; min-width:150px;">
+                    <input class="table-input note-input" type="text" value="${escapeHtml(item.note || '')}"
+                           oninput="updateDetailItemFieldLive(${realSessionIdx}, ${itemIdx}, 'note', this.value)"
+                           placeholder="Ghi chú..." onchange="updateDetailItemField(${realSessionIdx}, ${itemIdx}, 'note', this.value)">
+                </td>
+                <td style="text-align:center;">
+                    <button class="btn btn-sm btn-gray" style="padding:1px 6px; font-size:10px;" onclick="deleteItemFromSession(${realSessionIdx}, ${itemIdx})">✕</button>
+                </td>
+            `;
+            localFragment.appendChild(trItem);
+        }
+        return localFragment;
+    }
+
+    // Vẽ NGAY 1 đợt đầu đủ dùng liền (giới hạn theo SỐ DÒNG thật, không phải
+    // số lượt nhập — 1 lượt có thể chứa hàng trăm dòng như dàn Lẻ Lẻ/Con
+    // Giáp), phần còn lại vẽ dần trong nền từng đợt nhỏ để không đứng máy dù
+    // tổng số dòng rất lớn — người dùng ngồi đọc vài giây là dữ liệu còn lại
+    // cũng đã vẽ xong, không cần chờ hay bấm gì thêm.
+    const FIRST_PAINT_ROW_TARGET = 150;
+    let splitIndex = pagedSessions.length;
+    let runningRows = 0;
+    for (let i = 0; i < pagedSessions.length; i++) {
+        runningRows += pagedSessions[i].visibleItems.length;
+        if (runningRows >= FIRST_PAINT_ROW_TARGET) { splitIndex = i + 1; break; }
+    }
+    const firstBatchSessions = pagedSessions.slice(0, splitIndex);
+    const restSessions = pagedSessions.slice(splitIndex);
+
+    const fragment = document.createDocumentFragment();
+    firstBatchSessions.forEach(entry => fragment.appendChild(buildSessionFragment(entry)));
+
+    tbody.innerHTML = '';
+    tbody.appendChild(fragment);
+
+    const searchCount = document.getElementById('detail-search-count');
+    if (searchCount) {
+        searchCount.textContent = hasFilter ? `${totalFilteredItems} kết quả` : `${(gObj.betList || []).length} số`;
+    }
+
+    // Cập nhật tổng số tiền & giao diện phụ trợ — tính trên TOÀN BỘ pagedSessions
+    // (không chỉ đợt đầu) nên số liệu đúng ngay, dù phần dòng còn lại chưa
+    // kịp vẽ xong ở dưới.
+    if (typeof updateDetailTotals === 'function') updateDetailTotals();
+    if (typeof updateGrandSummary === 'function') updateGrandSummary();
+    if (typeof renderPaginationControls === 'function') {
+        // Vẫn phân trang khi đang tìm/lọc — trang được tính trên tập đã lọc (sessionEntries).
+        renderPaginationControls('matrix-pagination', totalSessions, page, ITEMS_PER_PAGE, 'renderMatrixTable');
+    }
+
+    // Phần còn lại (nếu 1 trang có quá nhiều dòng) vẽ dần trong nền — từng
+    // đợt nhỏ, nhường luồng chính giữa các đợt để không đứng máy. Kiểm tra
+    // matrixRenderGeneration mỗi đợt để tự dừng nếu đã có lần render mới hơn
+    // (đổi nhóm/trang/sửa dữ liệu) — tránh vẽ chồng dữ liệu cũ lên bảng mới.
+    if (restSessions.length) {
+        const SESSIONS_PER_BACKGROUND_CHUNK = 5;
+        (async () => {
+            for (let i = 0; i < restSessions.length; i += SESSIONS_PER_BACKGROUND_CHUNK) {
+                await new Promise(resolve => setTimeout(resolve, 0));
+                if (myRenderGeneration !== matrixRenderGeneration) return;
+                const chunkFragment = document.createDocumentFragment();
+                restSessions.slice(i, i + SESSIONS_PER_BACKGROUND_CHUNK).forEach(entry => {
+                    chunkFragment.appendChild(buildSessionFragment(entry));
+                });
+                if (myRenderGeneration !== matrixRenderGeneration) return;
+                tbody.appendChild(chunkFragment);
+            }
+        })();
+    }
+}
+
+// ================= 1. HÀM TÍNH TOÁN TIỀN VỐN & TIỀN TRÚNG =================
+function calculateItemFinancials(item, region = 'MT') {
+    if (!item) return { totalItemCost: 0, winAmount: 0, soLo: 0 };
+
+    const isMB = (region === 'MB' || region === 'Miền Bắc');
+    const type = String(item.betType || '').toLowerCase().trim();
+
+    let soLo = 18; // Mặc định MN/MT (2c/bao lô)
+
+    // 0. Bị giới hạn chỉ 1 (hoặc vài) giải cụ thể (VD "Gnhat. Le le x 50k" →
+    // tierOnly=['g1']; "Db+G7. Chan chan x 35k" → tierOnly=['db','g7']) → số
+    // lô = đúng số giải được kết hợp (2 giải kết hợp = 2 lô, không phải 1),
+    // dù betType gốc (lẻ lẻ/chẵn chẵn/con giáp...) vốn tính kiểu bao lô.
+    if (Array.isArray(item.tierOnly) && item.tierOnly.length) {
+        soLo = item.tierOnly.length;
+    }
+    // 1. Đá / Chéo / Xiên (Ưu tiên cao nhất)
+    else if (['c2', 'c3'].includes(type)) {
+        soLo = 1;
+    } else if (['da', 'dx', 'dv', 'xien', 'cheo', 'dá'].includes(type)) {
+        // Xác nhận Cocomi: "Đá là tính hết tất cả các lô" — số lô = (số lô
+        // mỗi con, 18 MT/MN hoặc 27 Bắc) × SỐ CON trong nhóm. Đá Thẳng (da)
+        // và từng cặp của Đá Chéo/Vòng (dv) luôn đúng 2 con/dòng nên vẫn ra
+        // 36/54 như trước — chỉ Đá Xiên (dx, cả nhóm 3+ con là 1 cược) mới
+        // thật sự tăng theo số con (VD 3 con Bắc = 3×27 = 81, KHÔNG phải
+        // luôn cố định 54 như trước đây tính nhầm).
+        const perNumberLo = isMB ? 27 : 18;
+        const groupSize = (Array.isArray(item.pairNums) && item.pairNums.length >= 2) ? item.pairNums.length : 2;
+        soLo = perNumberLo * groupSize;
+    }
+    // Xỉu chủ: MB 23 lô, MT/MN 17 lô.
+    else if (type === 'xc') {
+        soLo = isMB ? 23 : 17;
+    }
+    // Explicit prize/suffix types override the generic three-digit fallback.
+    // "g4lo6" (đúng 1 vị trí trong 1 giải) không có mặt trong BET_TYPES nhưng
+    // vẫn phải tính đúng 1 lô, không rơi xuống mặc định 17/18/27 phía dưới.
+    else if (typeof getPrizeCount === 'function' && (BET_TYPES[type] || /^g[1-8]lo\d+$/.test(type))
+        && !['bl', '2c', '3c'].includes(type)) {
+        soLo = getPrizeCount(type, isMB ? 'MB' : (region === 'MN' ? 'MN' : 'MT'));
+    }
+    // 3 Càng and a bare 3-digit number.
+    else if (item.digits === 3 || type === '3c' || item.num?.length === 3) {
+        soLo = isMB ? 23 : 17;
+    }
+    // 4. Mặc định các loại khác (2 càng / Lô chuẩn)
+    else {
+        soLo = isMB ? 27 : 18;
+    }
+
+    const giaK = Number(item.originalAmount) || (item.amount >= 1000 ? item.amount / 1000 : item.amount) || 0;
+    const soDai = (Array.isArray(item.stations) && item.stations.length > 0) ? item.stations.length : 1;
+    const hitCount = Number(item.matchCount) || (item.matched ? 1 : 0);
+
+    // Tính vốn: giá_k * số_lô * số_đài * 1000
+    const totalItemCost = giaK * soLo * soDai * 1000;
+
+    // Tính thưởng – LẤY TỪ CUSTOM_RATES (không cứng nữa)
+    let winAmount = 0;
+    if (hitCount > 0) {
+        // Đã bỏ "4 Càng" (cược 4 chữ số, tỷ lệ riêng 8800 lần) theo đúng xác
+        // nhận: hệ thống chỉ có 3 kiểu cược thật — 2C/3C/Đá — không có kiểu
+        // số 4 chữ số nào cả. "4C" giờ là bí danh của "4/5 Cuối" (tổ hợp
+        // nhiều giải, tính tiền vốn/thưởng y hệt bao lô bình thường qua
+        // nhánh tierOnly/BET_TYPES ở trên, không cần tỷ lệ ăn riêng ở đây).
+        const is3orDa = (
+            item.digits === 3 ||
+            item.num?.length === 3 ||
+            ['da', 'dx', 'dv', 'xien', 'cheo', 'dá', '3c'].includes(type)
+        );
+
+        const tyLe = is3orDa
+            ? (CUSTOM_RATES?.c3 || CUSTOM_RATES?.da || 780)
+            : (CUSTOM_RATES?.c2 || 91);
+
+        winAmount = giaK * tyLe * hitCount * soDai * 1000;
+    }
+
+    return {
+        totalItemCost: Math.round(totalItemCost),
+        winAmount: Math.round(winAmount),
+        soLo: soLo
+    };
+}
+
+// ================= THANH ĐIỀU HƯỚNG PHÂN TRANG =================
+function renderPaginationControls(containerId, totalItems, currentPage, pageSize, callbackFnName) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+
+    const totalPages = Math.ceil(totalItems / pageSize);
+    if (totalPages <= 1) {
+        container.innerHTML = '';
+        return;
+    }
+
+    let phtml = `<div style="display:flex; justify-content:center; gap:6px; margin-top:10px; flex-wrap:wrap;">`;
+    for (let p = 1; p <= totalPages; p++) {
+        const activeStyle = p === currentPage 
+            ? 'background:#00f3ff; color:#000; font-weight:bold;' 
+            : 'background:#1e293b; color:#fff; border:1px solid #334155;';
+        phtml += `<button class="btn btn-sm" style="${activeStyle} padding:3px 10px; border-radius:4px; cursor:pointer;" onclick="${callbackFnName}(${p})">${p}</button>`;
+    }
+    phtml += `</div>`;
+    container.innerHTML = phtml;
+}
+
+// ================= QUẢN TRỊ RESET MẬT KHẨU =================
+function adminResetOneUser() {
+    const overlay = document.getElementById('custom-modal-overlay');
+    if (overlay) overlay.style.display = 'none';
+
+    if (typeof customPrompt === 'function') {
+        customPrompt("Reset mật khẩu User", "Nhập tên User cần xóa...", "", (userName) => {
+            if (!userName) return;
+            if (typeof removeUserPattern === 'function') removeUserPattern(userName.trim());
+            if (typeof showToast === 'function') showToast(`Đã xóa mật khẩu của "${userName}"`, "success");
+            if (typeof initPatternCanvas === 'function') initPatternCanvas();
+        });
+    }
+}
+
+function adminResetAllUsers() {
+    const overlay = document.getElementById('custom-modal-overlay');
+    if (overlay) overlay.style.display = 'none';
+
+    const keysToRemove = [];
+    for (let i = 0; i < localStorage.length; i++) {
+        const key = localStorage.key(i);
+        if (key && typeof STORAGE_KEY_PATTERN !== 'undefined' && key.startsWith(STORAGE_KEY_PATTERN)) {
+            keysToRemove.push(key);
+        }
+    }
+    keysToRemove.forEach(k => localStorage.removeItem(k));
+    if (typeof showToast === 'function') showToast(`Đã reset mật khẩu của ${keysToRemove.length} user!`, "success");
+    if (typeof initPatternCanvas === 'function') initPatternCanvas();
+}
+
+/**
+ * CHIA TIỀN THEO NGƯỜI HÙN VỐN
+ * - Đỏ / −  → phải CHI
+ * - Xanh / + → được HƯỞNG
+ * - Thêm ô Tổng Lời/Lỗ gốc
+ */
+function calcCapitalShare() {
+    const percentInput = document.getElementById('capital-percent');
+    const baseSelect   = document.getElementById('capital-base');
+    const percentDisp  = document.getElementById('cap-percent-display');
+    const shareEl      = document.getElementById('capital-share-amount');
+    const remainEl     = document.getElementById('capital-remain-amount');
+    const baseEl       = document.getElementById('capital-base-amount');
+    const shareLabel   = document.getElementById('cap-share-label');
+
+    if (!percentInput || !baseSelect || !shareEl || !remainEl) return;
+
+    const percent = Math.max(0, Math.min(100, parseFloat(percentInput.value) || 0));
+    const baseType = baseSelect.value || 'activeNet';
+
+    if (percentDisp) percentDisp.textContent = percent;
+
+    let totalWinAll = 0;
+    let totalBetAll = 0;
+    let totalNetAll = 0;
+    let activeWin   = 0;
+    let activeNet   = 0;
+
+    if (typeof groups !== 'undefined' && Array.isArray(groups)) {
+        groups.forEach(g => {
+            if (!appData[g]) return;
+
+            if (typeof recalculateTotals === 'function') {
+                recalculateTotals(g);
+            }
+
+            const t = appData[g].totals || {};
+            const bet = Number(t.totalBet) || 0;
+            const win = Number(t.totalWin) || 0;
+            const net = bet - win; // nhà cái
+
+            totalWinAll += win;
+            totalBetAll += bet;
+            totalNetAll += net;
+
+            if (g === activeGroup) {
+                activeWin = win;
+                activeNet = net;
+            }
+        });
+    }
+
+    let baseAmount = 0;
+    switch (baseType) {
+        case 'activeNet': baseAmount = activeNet; break;
+        // "Tổng trúng" là tiền nhà cái PHẢI TRẢ cho khách — luôn là khoản
+        // LỖ/chi ra của nhà cái, không phải lời. Trước đây dùng thẳng
+        // activeWin/totalWinAll (luôn >= 0) nên hễ có trúng là hiện màu
+        // xanh "được hưởng", sai bản chất (trúng càng nhiều nhà cái càng
+        // lỗ). Đảo dấu để luôn thể hiện đúng là khoản phải chi.
+        case 'activeWin': baseAmount = -activeWin; break;
+        case 'totalWin':  baseAmount = -totalWinAll; break;
+        case 'totalBet':  baseAmount = totalBetAll; break;
+        case 'net':       baseAmount = totalNetAll; break;
+        default:          baseAmount = activeNet;
+    }
+
+    const share  = Math.round(baseAmount * (percent / 100));
+    const remain = baseAmount - share;
+
+    // ===== Ô Tổng Lời/Lỗ gốc =====
+    if (baseEl) {
+        baseEl.textContent = (baseAmount >= 0 ? '+' : '-') + Math.abs(baseAmount).toLocaleString() + ' ₫';
+        baseEl.style.color = baseAmount >= 0 ? '#00ff88' : '#ff6b6b';
+    }
+
+    // ===== Ô Người hùn vốn =====
+    if (shareLabel) {
+        shareLabel.textContent = share >= 0 ? 'Người hùn được hưởng' : 'Người hùn phải chi';
+    }
+    shareEl.textContent = (share >= 0 ? '+' : '-') + Math.abs(share).toLocaleString() + ' ₫';
+    shareEl.style.color = share >= 0 ? '#00ff88' : '#ff6b6b';
+
+    // ===== Ô Phần còn lại =====
+    remainEl.textContent = (remain >= 0 ? '+' : '-') + Math.abs(remain).toLocaleString() + ' ₫';
+    remainEl.style.color = remain >= 0 ? '#e2e8f0' : '#ff6b6b';
+}
+
+/**
+ * Xuất file chia tiền theo % người hùn vốn
+ * - Không hiện "Phần còn lại" (chỉ nhà cái cần biết)
+ * - Hiện đúng ngữ cảnh theo lựa chọn
+ */
+function exportCapitalShare() {
+    // Chạy tính toán trước
+    if (typeof calcCapitalShare === 'function') calcCapitalShare();
+
+    const percent = parseFloat(document.getElementById('capital-percent')?.value) || 0;
+    const baseType = document.getElementById('capital-base')?.value || 'activeNet';
+    const shareText = document.getElementById('capital-share-amount')?.textContent || '0 ₫';
+    const baseText = document.getElementById('capital-base-amount')?.textContent || '0 ₫';
+    const shareLabel = document.getElementById('cap-share-label')?.textContent || 'Người hùn vốn';
+
+    const baseNames = {
+        activeNet: 'Lời / Lỗ của nhóm đang chọn',
+        activeWin: 'Tổng trúng của nhóm đang chọn',
+        totalWin:  'Tổng tiền trúng (toàn bộ nhóm)',
+        totalBet:  'Tổng tiền cược (toàn bộ nhóm)',
+        net:       'Tổng Lời / Lỗ (toàn bộ nhóm)'
+    };
+    const baseName = baseNames[baseType] || baseType;
+
+    const now = new Date();
+    const timeStr = now.toLocaleString('vi-VN');
+
+    // ===== Xác định phạm vi =====
+    const isAllGroups = ['net', 'totalWin', 'totalBet'].includes(baseType);
+    const scopeText = isAllGroups
+        ? 'Toàn bộ các nhóm'
+        : `Nhóm ${activeGroup || 'A'}`;
+
+    // ===== Chi tiết từng nhóm (chỉ khi chọn toàn bộ) =====
+    let detailLines = '';
+    if (isAllGroups && typeof groups !== 'undefined') {
+        detailLines  = '\nCHI TIẾT TỪNG NHÓM:\n';
+        detailLines += '───────────────────────────────────────\n';
+        detailLines += 'Nhóm   |     Cược |     Trúng |    Lời/Lỗ\n';
+        detailLines += '───────────────────────────────────────\n';
+
+        groups.forEach(g => {
+            if (!appData[g]) return;
+            if (typeof recalculateTotals === 'function') recalculateTotals(g);
+
+            const t = appData[g].totals || {};
+            const bet = Number(t.totalBet) || 0;
+            const win = Number(t.totalWin) || 0;
+            const net = bet - win;
+
+            const netStr = (net >= 0 ? '+' : '-') + Math.abs(net).toLocaleString();
+            detailLines += `Nhóm ${String(g).padEnd(2)} | ${bet.toLocaleString().padStart(9)} | ${win.toLocaleString().padStart(9)} | ${netStr.padStart(10)}\n`;
+        });
+        detailLines += '───────────────────────────────────────\n';
+    }
+
+    const content = `
+═══════════════════════════════════════
+   BÁO CÁO CHIA TIỀN NGƯỜI HÙN VỐN
+═══════════════════════════════════════
+
+Thời gian xuất : ${timeStr}
+Phạm vi tính   : ${scopeText}
+Cơ sở tính     : ${baseName}
+Phần trăm hùn  : ${percent}%
+
+───────────────────────────────────────
+Tổng Lời / Lỗ gốc :
+${baseText}
+
+${shareLabel} (${percent}%):
+${shareText}
+───────────────────────────────────────
+${detailLines}
+Ghi chú:
+  • Dấu − = phải CHI
+  • Dấu + = được HƯỞNG
+  • Số liệu theo góc nhìn Nhà cái
+═══════════════════════════════════════
+`.trim();
+
+    // Tạo file
+    const blob = new Blob([content], { type: 'text/plain;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+
+    const fileName = isAllGroups
+        ? `ChiaTien_HunVon_ToanBo_${percent}%.txt`
+        : `ChiaTien_HunVon_Nhom${activeGroup || 'A'}_${percent}%.txt`;
+
+    a.download = fileName;
+    a.click();
+    URL.revokeObjectURL(url);
+
+    if (typeof showToast === 'function') {
+        showToast('Đã xuất file chia tiền thành công!', 'success');
+    }
+}
+
+// ================= PHÍM TẮT TỔNG HỢP =================
+document.addEventListener('keydown', function (e) {
+    const keyLower = e.key.toLowerCase();
+
+    // 1. Enter trong các Modal
+    if (e.key === 'Enter') {
+        const overlay = document.getElementById('custom-modal-overlay');
+        if (overlay && overlay.style.display !== 'none') {
+            const promptInput = document.getElementById('modal-prompt-input');
+            const inputContainer = document.getElementById('modal-input-container');
+            if (inputContainer && inputContainer.style.display !== 'none' && promptInput) {
+                e.preventDefault();
+                const btnOk = overlay.querySelector('.btn-green');
+                if (btnOk) btnOk.click();
+                return;
+            }
+        }
+        const manualModal = document.getElementById('manual-input-modal');
+        if (manualModal && manualModal.style.display !== 'none') {
+            e.preventDefault();
+            if (typeof confirmManualInput === 'function') confirmManualInput();
+            return;
+        }
+        const smartModal = document.getElementById('smart-manual-modal');
+        if (smartModal && smartModal.style.display !== 'none') {
+            e.preventDefault();
+            if (typeof confirmSmartManual === 'function') confirmSmartManual();
+            return;
+        }
+    }
+
+    // 2. Phím tắt màn hình khóa (Chỉ chạy khi !isUnlocked)
+    if (typeof isUnlocked !== 'undefined' && !isUnlocked) {
+        // Ctrl + M → Mở màn hình khóa
+        if (e.ctrlKey && keyLower === 'm') {
+            e.preventDefault();
+            if (typeof revealLockScreen === 'function') revealLockScreen();
+            return;
+        }
+        // Ctrl + Shift + R hoặc Ctrl + Alt + R → Reset an toàn
+        if (e.ctrlKey && (e.shiftKey || e.altKey) && keyLower === 'r') {
+            e.preventDefault();
+            e.stopPropagation();
+            if (typeof triggerSecureResetPattern === 'function') triggerSecureResetPattern();
+            return;
+        }
+        // Ctrl + Shift + Q → Đặt lại MÃ ADMIN về mặc định gốc. Khác hẳn
+        // Ctrl+Shift+R ở trên (mở bảng chức năng admin, vẫn cần NHẬP ĐÚNG mã
+        // Admin hiện tại) — phím tắt này dành riêng cho tình huống chính admin
+        // QUÊN mã Admin vừa tự đổi, nên KHÔNG thể đòi hỏi nhập lại mã cũ (đó
+        // là thứ đang bị quên). Có hỏi xác nhận trước khi thực sự đặt lại để
+        // tránh bấm nhầm ngoài ý muốn.
+        if (e.ctrlKey && e.shiftKey && keyLower === 'q') {
+            e.preventDefault();
+            e.stopPropagation();
+            if (typeof triggerResetAdminCodeToDefault === 'function') triggerResetAdminCodeToDefault();
+            return;
+        }
+        return; // Đang khóa -> Chặn toàn bộ phím tắt ứng dụng phía dưới
+    }
+
+    // 3. Phím tắt chức năng (Chỉ chạy khi đã MỞ KHÓA)
+    if (e.shiftKey && keyLower === 't') {
+        e.preventDefault();
+        if (typeof openSmartManualModal === 'function') openSmartManualModal();
+        else if (typeof openManualModal === 'function') openManualModal();
+        return;
+    }
+
+    // Ctrl + D → Focus ô KQXS
+    if (e.shiftKey && keyLower === 'd') {
+        e.preventDefault();
+        const kq = document.getElementById('kqxs-input');
+        if (kq) { kq.focus(); kq.select(); }
+        return;
+    }
+
+    // Ctrl + S → Dò số
+    if (e.shiftKey && keyLower === 's') {
+        e.preventDefault();
+        if (typeof checkAllResults === 'function') checkAllResults();
+        return;
+    }
+	// Shift + F → Mở Lọc & Tách Số
+if (e.shiftKey && keyLower === 'f') {
+    e.preventDefault();
+    if (typeof openSmartFilterFromInput === 'function') {
+        openSmartFilterFromInput();
+    }
+    return;
+}
+if (e.shiftKey && keyLower === 'g') {
+    e.preventDefault();
+    if (typeof addSmartRow === 'function') {
+        addSmartRow();
+    }
+    return;
+}
+if (e.shiftKey && keyLower === 'b') {
+    e.preventDefault();
+    if (typeof processSmartInput === 'function') {
+        processSmartInput();
+    }
+    return;
+}
+});
+
+// ================= KHỞI TẠO ỨNG DỤNG =================
+window.addEventListener('DOMContentLoaded', async () => {
+    const lockScreen = document.getElementById('lock-screen');
+    const mainApp = document.getElementById('main-app');
+    if (lockScreen) lockScreen.style.display = 'none';
+    if (mainApp) mainApp.style.display = 'none';
+
+    const ocean = document.getElementById('ocean');
+    if (ocean) {
+        ocean.style.display = 'block';
+        ocean.style.visibility = 'visible';
+        ocean.style.opacity = '1';
+        ocean.style.zIndex = '1';
+    }
+    // Load tỷ lệ đã lưu
+    if (typeof loadCustomRates === 'function') loadCustomRates();
+    if (typeof applyCustomRatesToUI === 'function') applyCustomRatesToUI();
+    if (typeof initOcean === 'function') initOcean();
+
+    try {
+        if (typeof initIndexedDB === 'function') await initIndexedDB();
+        if (typeof loadAppDataFromDB === 'function') await loadAppDataFromDB();
+        if (typeof groups !== 'undefined' && Array.isArray(groups)) {
+            groups.forEach(g => {
+                if (typeof initAppDataForGroup === 'function') initAppDataForGroup(g);
+            });
+        }
+    } catch (err) {
+        console.error("Lỗi khởi tạo dữ liệu IndexedDB:", err);
+        if (typeof groups !== 'undefined' && Array.isArray(groups)) {
+            groups.forEach(g => {
+                if (typeof initAppDataForGroup === 'function') initAppDataForGroup(g);
+            });
+        }
+    }
+
+    if (typeof STORAGE_KEY_USER !== 'undefined') {
+        const savedUser = localStorage.getItem(STORAGE_KEY_USER);
+        if (savedUser) {
+            if (typeof currentUser !== 'undefined') currentUser = savedUser;
+            const nameInput = document.getElementById('user-name-input');
+            if (nameInput) nameInput.value = savedUser;
+        }
+    }
+});
+
+// ================= BỘ CÔNG CỤ TỐI ƯU NHẬP NHANH & LỌC / CẮT THÔNG MINH =================
+// - Nhận "dac biet / đặc biệt / đb" → db (cần kèm sửa mapBetType + typeRe ở trên)
+// - Lọc theo loại, cắt K cố định, cắt tỷ lệ 3/7 (lưu localStorage)
+// - Mở modal KHI CHƯA CÓ dữ liệu: tự nhập số + loại + tiền rồi cắt
+// - Preset tỷ lệ nhanh 3/7, 1/1, 2/8, 4/6…
+const SMART_FILTER_RATIO_KEY = 'SEA_LOTTO_SMART_FILTER_RATIO';
+
+// Ghi rõ nhãn cho 4 loại dễ nhầm: "2c/3c" = Bao Lô (bao hết giải), "c2/c3" = 2C/3C riêng (chỉ 1 giải)
+const FILTER_CHIP_LABEL_OVERRIDE = {
+    '2c': 'Bao Lô 2C (bao hết)',
+    '3c': 'Bao Lô 3C (bao hết)',
+    'c2': '2C riêng (Giải 8)',
+    'c3': '3C riêng (Giải 7)'
+};
+
+let smartFilterState = {
+    targetK: 0,
+    filterTypes: [],
+    isInverted: false,
+    ratioA: 0,
+    ratioB: 0
+};
+
+function getItemK(item) {
+    if (item.originalAmount !== undefined && item.originalAmount !== null) {
+        return Number(item.originalAmount) || 0;
+    }
+    if (item.amount) {
+        return item.amount >= 1000 ? item.amount / 1000 : Number(item.amount) || 0;
+    }
+    return 0;
+}
+
+function normalizeBetTypeKey(raw) {
+    if (!raw) return '';
+    const t = String(raw).toLowerCase().trim();
+    if (typeof mapBetType === 'function') {
+        try { return mapBetType(t) || t; } catch (_) { /* ignore */ }
+    }
+    // fallback khi mapBetType chưa nhận "dac biet"
+    const compact = t.normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/đ/g, 'd').replace(/\s+/g, '');
+    if (/^(db|de|debiet|dacbiet|dacbit|gdb)$/.test(compact)) return 'db';
+    return t;
+}
+
+function parseRatioInput(str) {
+    if (!str) return null;
+    const m = String(str).trim().replace(/\s+/g, '').match(/^(\d+(?:[.,]\d+)?)[/:](\d+(?:[.,]\d+)?)$/);
+    if (!m) return null;
+    const a = parseFloat(m[1].replace(',', '.'));
+    const b = parseFloat(m[2].replace(',', '.'));
+    if (!(a > 0) || !(b > 0)) return null;
+    return { a, b };
+}
+
+function loadSavedRatio() {
+    try {
+        const raw = localStorage.getItem(SMART_FILTER_RATIO_KEY);
+        if (!raw) return null;
+        const p = JSON.parse(raw);
+        if (p && p.a > 0 && p.b > 0) return p;
+    } catch (_) { /* ignore */ }
+    return null;
+}
+
+function saveRatio(a, b) {
+    try {
+        localStorage.setItem(SMART_FILTER_RATIO_KEY, JSON.stringify({ a, b }));
+    } catch (_) { /* ignore */ }
+}
+
+function batchCutAmount(items, cutK, onlyTypes = []) {
+    if (!cutK || cutK <= 0) return items;
+    const typeKeys = (Array.isArray(onlyTypes) ? onlyTypes : (onlyTypes ? [onlyTypes] : [])).map(normalizeBetTypeKey);
+    const result = [];
+    let cutCount = 0;
+
+    items.forEach(item => {
+        const itemType = normalizeBetTypeKey(item.betType);
+        const shouldCut = !typeKeys.length || typeKeys.includes(itemType);
+        const currentK = getItemK(item);
+
+        if (shouldCut && currentK > cutK) {
+            const remainK = +(currentK - cutK).toFixed(2);
+            const kept = {
+                ...JSON.parse(JSON.stringify(item)),
+                id: 'bet_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7),
+                originalAmount: remainK,
+                amount: remainK * 1000,
+                note: (item.note || '') + ` [Giữ ${remainK}k]`,
+                _part: 'kept'
+            };
+            const cut = {
+                ...JSON.parse(JSON.stringify(item)),
+                id: 'bet_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7),
+                originalAmount: cutK,
+                amount: cutK * 1000,
+                note: `[Cắt ${cutK}k từ ${currentK}k]`,
+                _part: 'cut'
+            };
+            result.push(kept, cut);
+            cutCount++;
+        } else {
+            result.push({ ...JSON.parse(JSON.stringify(item)), _part: 'kept' });
+        }
+    });
+
+    if (cutCount > 0 && typeof showToast === 'function') {
+        const scope = typeKeys.length ? ` (chỉ ${typeKeys.map(t => FILTER_CHIP_LABEL_OVERRIDE[t] || (BET_TYPES && BET_TYPES[t]?.name) || t).join(', ')})` : '';
+        showToast(`Đã cắt ${cutK}k${scope} → ${cutCount * 2} mục`, 'success');
+    }
+    return result;
+}
+
+function batchCutByRatio(items, ratioA, ratioB, onlyTypes = []) {
+    if (!(ratioA > 0) || !(ratioB > 0)) return items;
+    const typeKeys = (Array.isArray(onlyTypes) ? onlyTypes : (onlyTypes ? [onlyTypes] : [])).map(normalizeBetTypeKey);
+    const totalParts = ratioA + ratioB;
+    const result = [];
+    let cutCount = 0;
+
+    items.forEach(item => {
+        const itemType = normalizeBetTypeKey(item.betType);
+        const shouldCut = !typeKeys.length || typeKeys.includes(itemType);
+        const currentK = getItemK(item);
+
+        if (shouldCut && currentK > 0) {
+            const keepK = +((currentK * ratioA) / totalParts).toFixed(2);
+            const adjustedCut = +(currentK - keepK).toFixed(2);
+            if (keepK <= 0 || adjustedCut <= 0) {
+                result.push({ ...JSON.parse(JSON.stringify(item)), _part: 'kept' });
+                return;
+            }
+            result.push({
+                ...JSON.parse(JSON.stringify(item)),
+                id: 'bet_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7),
+                originalAmount: keepK,
+                amount: keepK * 1000,
+                note: (item.note || '') + ` [Giữ ${keepK}k = ${ratioA}/${totalParts}]`,
+                _part: 'kept'
+            });
+            result.push({
+                ...JSON.parse(JSON.stringify(item)),
+                id: 'bet_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7),
+                originalAmount: adjustedCut,
+                amount: adjustedCut * 1000,
+                note: `[Cắt ${adjustedCut}k = ${ratioB}/${totalParts} từ ${currentK}k]`,
+                _part: 'cut'
+            });
+            cutCount++;
+        } else {
+            result.push({ ...JSON.parse(JSON.stringify(item)), _part: 'kept' });
+        }
+    });
+
+    if (cutCount > 0 && typeof showToast === 'function') {
+        const scope = typeKeys.length ? ` (chỉ ${typeKeys.map(t => FILTER_CHIP_LABEL_OVERRIDE[t] || (BET_TYPES && BET_TYPES[t]?.name) || t).join(', ')})` : '';
+        showToast(`Cắt tỷ lệ ${ratioA}/${ratioB}${scope} → ${cutCount} số`, 'success');
+    }
+    return result;
+}
+
+function getSplitItems(items) {
+    if (!items || !Array.isArray(items)) return { selected: [], unselected: [] };
+    const k = smartFilterState.targetK;
+    const typeKeys = (smartFilterState.filterTypes || []).map(normalizeBetTypeKey);
+    const inv = smartFilterState.isInverted;
+    const hasCut = items.some(it => it._part === 'kept' || it._part === 'cut');
+
+    let selected = [], unselected = [];
+
+    if (hasCut && (!k || k <= 0) && !typeKeys.length) {
+        const kept = items.filter(it => it._part !== 'cut');
+        const cut = items.filter(it => it._part === 'cut');
+        return inv ? { selected: cut, unselected: kept } : { selected: kept, unselected: cut };
+    }
+
+    items.forEach(it => {
+        const ik = getItemK(it);
+        const itType = normalizeBetTypeKey(it.betType);
+        let match = true;
+        if (hasCut) match = (it._part !== 'cut');
+        if (typeKeys.length && !typeKeys.includes(itType)) match = false;
+        if (k > 0 && Math.abs(ik - k) >= 0.001) match = false;
+        (match ? selected : unselected).push(it);
+    });
+
+    return inv ? { selected: unselected, unselected: selected } : { selected, unselected };
+}
+
+function exportFilteredToCopyText(items) {
+    if (!items || !items.length) return '';
+    const grouped = {};
+    items.forEach(it => {
+        let nums = [];
+        if (Array.isArray(it.numbers) && it.numbers.length) nums = it.numbers;
+        else if (Array.isArray(it.num) && it.num.length) nums = it.num;
+        else {
+            const n = it.num || it.number || it.so || '';
+            if (n) nums = [n];
+        }
+        if (!nums.length) return;
+        const province = (it.province || it.dai || it.domain || '').toUpperCase();
+        const type = (it.betType || 'bl').toLowerCase();
+        const amt = getItemK(it);
+        const key = `${province}|${type}|${amt}`;
+        if (!grouped[key]) grouped[key] = { province, type, amount: amt, numbers: [] };
+        nums.forEach(n => {
+            const c = String(n).trim();
+            if (c) grouped[key].numbers.push(c);
+        });
+    });
+    return Object.values(grouped)
+        .filter(g => g.numbers.length)
+        .map(g => `${g.province ? g.province + ': ' : ''}${g.numbers.join('.')} ${g.type} ${g.amount}k`)
+        .join('\n');
+}
+
+function buildFilterRow(it) {
+    let numVal = it.num || it.number || it.so || '-';
+    if (Array.isArray(it.numbers) && it.numbers.length) numVal = it.numbers.join('.');
+    const amtK = getItemK(it);
+    const betType = (it.betType || 'bl').toUpperCase();
+    const typeLabel = (typeof BET_TYPES !== 'undefined' && BET_TYPES[it.betType]?.name) || betType;
+    return `
+        <tr style="border-bottom:1px solid #334155;">
+            <td style="padding:6px;color:#00f3ff;font-weight:bold;max-width:130px;word-break:break-all;">${numVal}</td>
+            <td style="padding:6px;" title="${betType}">${typeLabel}</td>
+            <td style="padding:6px;color:#fbbf24;font-weight:bold;">${amtK}k</td>
+            <td style="padding:6px;color:#94a3b8;font-size:11px;">${it.note || '-'}</td>
+            <td style="padding:6px;">
+                <button class="btn btn-gray" style="padding:2px 6px;font-size:11px;"
+                        onclick="promptSingleSplit('${it.id}')">✂️</button>
+            </td>
+        </tr>`;
+}
+
+function collectPendingBetTypes(items) {
+    const set = new Set();
+    (items || []).forEach(it => {
+        const t = normalizeBetTypeKey(it.betType);
+        if (t) set.add(t);
+    });
+    // luôn có các loại hay dùng để chọn nhanh dù tin chưa có
+    // Không liệt kê "bl" ở đây vì trùng hệt "2c" (Bao Lô 2C) — cùng bảng giải, chọn "2c" là đủ.
+    // "2c"/"3c" = Bao Lô (bao hết các giải) khác với "c2"/"c3" = 2C/3C riêng (chỉ Giải 8/Giải 7)
+    ['db', '2c', '3c', 'c2', 'c3', 'da', 'dx', 'dd', 'dau', 'duoi', 'xc', 'g1', 'g7', 'g8'].forEach(t => set.add(t));
+    return [...set].sort();
+}
+
+/** Parse dòng nhập tay trong modal: "39 68 db 300" hoặc "39 dac biet 300k" */
+function parseManualFilterLine(raw, region) {
+    const line = String(raw || '').trim();
+    if (!line) return [];
+    if (typeof parseSmartLottoText === 'function') {
+        const items = parseSmartLottoText(line, region || 'MT') || [];
+        if (items.length) return items;
+    }
+    // fallback cực đơn giản: số + loại + tiền
+    const nums = (line.match(/\b\d{2,4}\b/g) || []);
+    const amtM = line.match(/(\d+(?:[.,]\d+)?)\s*(k|n|ng|tr|m)?\s*$/i);
+    let amount = 0;
+    if (amtM) {
+        amount = parseFloat(amtM[1].replace(',', '.')) || 0;
+        if (/tr|m/i.test(amtM[2] || '')) amount *= 1000;
+    }
+    const typeGuess = normalizeBetTypeKey(
+        (line.match(/\b(dac\s*biet|dacbiet|db|de|bl|lo|da|dx|xc|g[1-8]|dau|duoi|dd|2c|3c|4c|5c)\b/i) || [])[0] || 'bl'
+    );
+    if (!nums.length || amount <= 0) return [];
+    return nums.map(n => {
+        if (typeof createItem === 'function') return createItem(n, amount, region || 'MT', typeGuess, 'MANUAL');
+        return {
+            id: 'bet_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7),
+            num: n, betType: typeGuess, originalAmount: amount, amount: amount * 1000,
+            region: region || 'MT', matched: false, winAmount: 0, note: 'MANUAL'
+        };
+    });
+}
+
+function renderSmartFilterModal() {
+    // Cho phép mở khi CHƯA có dữ liệu — người dùng tự nhập
+    if (!Array.isArray(pendingInputItems)) pendingInputItems = [];
+
+    smartFilterState.targetK = 0;
+    smartFilterState.filterTypes = [];
+    smartFilterState.isInverted = false;
+
+    const saved = loadSavedRatio();
+    if (saved) {
+        smartFilterState.ratioA = saved.a;
+        smartFilterState.ratioB = saved.b;
+    } else {
+        smartFilterState.ratioA = 0;
+        smartFilterState.ratioB = 0;
+    }
+
+    const region = document.querySelector('input[name="region-select"]:checked')?.value || 'MT';
+    const ratioPlaceholder = saved ? `${saved.a}/${saved.b}` : '3/7';
+
+    const modalBody = `
+        <div style="margin-bottom:8px;display:flex;gap:6px;flex-wrap:wrap;align-items:center;">
+            <input type="text" id="filter-manual-input"
+                   placeholder="Nhập tay: 39 dac biet 300k  hoặc  68 79 bl 50"
+                   style="flex:1;min-width:220px;padding:6px 8px;background:#0f172a;color:#fff;border:1px solid #334155;border-radius:4px;font-size:12px;">
+            <button class="btn btn-green" style="padding:4px 10px;font-size:12px;" id="btn-add-manual">➕ Thêm</button>
+        </div>
+
+        <div style="margin-bottom:10px;display:flex;flex-direction:column;gap:4px;">
+            <label style="font-size:12px;color:#94a3b8;">Loại (bấm để chọn nhiều loại cùng lúc, ví dụ Đặc biệt + Bao Lô):</label>
+            <div id="filter-type-chips" style="display:flex;gap:4px;flex-wrap:wrap;"></div>
+        </div>
+
+        <div style="margin-bottom:10px;display:flex;gap:6px;flex-wrap:wrap;align-items:center;">
+            <input type="number" id="filter-amt-input" placeholder="K (vd 100)"
+                   style="width:80px;padding:4px;background:#0f172a;color:#fff;border:1px solid #334155;border-radius:4px;font-size:12px;">
+
+            <button class="btn btn-green" style="padding:4px 8px;font-size:12px;" id="btn-do-filter">🔍 Lọc</button>
+            <button class="btn btn-orange" style="padding:4px 8px;font-size:12px;" id="btn-do-cut">✂️ Cắt K</button>
+            <button class="btn btn-blue" style="padding:4px 8px;font-size:12px;" id="btn-do-invert">🔄 Đảo</button>
+            <button class="btn btn-gray" style="padding:4px 8px;font-size:12px;" id="btn-reset-filter">Xóa lọc</button>
+            <button class="btn btn-gray" style="padding:4px 8px;font-size:12px;background:#7f1d1d;color:#fecaca;" id="btn-clear-all" title="Xóa sạch cả 2 khung, không cần tải lại trang">🗑️ Xóa tất cả</button>
+        </div>
+
+        <div style="margin-bottom:8px;display:flex;gap:6px;flex-wrap:wrap;align-items:center;">
+            <span style="font-size:11px;color:#64748b;">Tỷ lệ cắt:</span>
+            <input type="text" id="filter-ratio-input" placeholder="${ratioPlaceholder}" value="${saved ? saved.a + '/' + saved.b : ''}"
+                   style="width:70px;padding:4px;background:#0f172a;color:#fff;border:1px solid #334155;border-radius:4px;font-size:12px;"
+                   title="Tỷ lệ giữ/cắt. Lưu tự động sau mỗi lần cắt">
+            <button class="btn btn-orange" style="padding:4px 8px;font-size:12px;background:#b45309;" id="btn-do-ratio">📐 Cắt tỷ lệ</button>
+            <span style="font-size:11px;color:#64748b;margin-left:6px;">Preset:</span>
+            ${['3/7', '1/1', '2/8', '4/6', '1/9'].map(r =>
+                `<button class="btn btn-gray" style="padding:2px 8px;font-size:11px;" data-ratio="${r}">${r}</button>`
+            ).join('')}
+        </div>
+
+        <div style="font-size:11px;color:#64748b;margin-bottom:6px;line-height:1.45;">
+            • <b style="color:#fbbf24;">39 dac biet 300k</b> → nhận loại Đặc biệt (db).<br>
+            • Cắt tỷ lệ <b>3/7</b>: 100k → giữ 30k + cắt 70k. Tỷ lệ được <b>lưu</b> cho lần sau.<br>
+            • Chọn nhiều chip Loại cùng lúc để lọc gộp nhiều loại. "🗑️ Xóa tất cả" xóa sạch 2 khung ngay, không cần F5.<br>
+            • Mở được khi chưa có tin — gõ tay nhiều số rồi cắt hàng loạt.
+        </div>
+
+        <div id="filter-status-tag" style="font-size:11px;color:#00f3ff;margin-bottom:8px;"></div>
+
+        <div style="display:flex;gap:14px;flex-wrap:wrap;margin-bottom:12px;">
+            <div style="flex:1;min-width:260px;">
+                <div style="font-size:12px;color:#4ade80;font-weight:bold;margin-bottom:4px;">
+                    ✅ ĐƯỢC CHỌN — <span id="count-selected">0</span>
+                </div>
+                <div style="max-height:300px;overflow-y:auto;border:1px solid #166534;border-radius:6px;">
+                    <table style="width:100%;border-collapse:collapse;font-size:12px;">
+                        <thead><tr style="background:#14532d;color:#bbf7d0;">
+                            <th style="padding:5px;">Số</th><th style="padding:5px;">Loại</th>
+                            <th style="padding:5px;">Tiền</th><th style="padding:5px;">Ghi chú</th><th style="padding:5px;">Tách</th>
+                        </tr></thead>
+                        <tbody id="table-selected"></tbody>
+                    </table>
+                </div>
+            </div>
+            <div style="flex:1;min-width:260px;">
+                <div style="font-size:12px;color:#fbbf24;font-weight:bold;margin-bottom:4px;">
+                    📋 KHÔNG CHỌN — <span id="count-unselected">0</span>
+                </div>
+                <div style="max-height:300px;overflow-y:auto;border:1px solid #854d0e;border-radius:6px;">
+                    <table style="width:100%;border-collapse:collapse;font-size:12px;">
+                        <thead><tr style="background:#713f12;color:#fef08a;">
+                            <th style="padding:5px;">Số</th><th style="padding:5px;">Loại</th>
+                            <th style="padding:5px;">Tiền</th><th style="padding:5px;">Ghi chú</th><th style="padding:5px;">Tách</th>
+                        </tr></thead>
+                        <tbody id="table-unselected"></tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div style="margin-top:12px;">
+            <button class="btn btn-green" style="width:100%;" id="btn-copy-out">📋 Copy bảng KHÔNG CHỌN</button>
+        </div>
+    `;
+
+    showModal({
+        title: "🔍 Lọc / Cắt thông minh",
+        body: modalBody,
+        confirmText: "Đưa Bảng ĐƯỢC CHỌN vào Chi Tiết",
+        cancelText: "Đóng",
+        showCancel: true,
+        wide: true,
+        onConfirm: () => {
+            const { selected } = getSplitItems(pendingInputItems);
+            if (!selected.length) return showToast("Không có mục nào được chọn!", "error");
+
+            const itemsToInsert = selected.map(it => {
+                const amtK = getItemK(it);
+                const clone = {
+                    ...it,
+                    id: 'bet_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7),
+                    originalAmount: amtK,
+                    amount: amtK * 1000
+                };
+                delete clone._part;
+                return clone;
+            });
+
+            const g = typeof activeGroup !== 'undefined' ? activeGroup : 'A';
+            if (!appData[g]) appData[g] = {};
+            if (!appData[g].inputHistory) appData[g].inputHistory = [];
+            if (!appData[g].betList) appData[g].betList = [];
+
+            appData[g].inputHistory.push({
+                time: new Date().toLocaleTimeString('vi-VN', { hour: '2-digit', minute: '2-digit' }) + ' - ' + new Date().toLocaleDateString('vi-VN'),
+                items: itemsToInsert
+            });
+            appData[g].betList.push(...itemsToInsert);
+
+            if (typeof renderMatrixTable === 'function') renderMatrixTable();
+            if (typeof updateGrandSummary === 'function') updateGrandSummary();
+            if (typeof saveAppDataToDBDebounced === 'function') saveAppDataToDBDebounced();
+
+            showToast(`Đã đưa ${itemsToInsert.length} mục vào Chi Tiết`, "success");
+            pendingInputItems = [];
+            const ta = document.getElementById('smart-input') || document.querySelector('textarea');
+            if (ta) ta.value = '';
+        }
+    });
+
+    const renderTypeChips = () => {
+        const wrap = document.getElementById('filter-type-chips');
+        if (!wrap) return;
+        const allTypes = collectPendingBetTypes(pendingInputItems);
+        const active = smartFilterState.filterTypes;
+        const chipStyle = (isOn) => `display:inline-flex;align-items:center;padding:3px 9px;border-radius:12px;font-size:11px;cursor:pointer;user-select:none;border:1px solid ${isOn ? '#06b6d4' : '#334155'};background:${isOn ? 'rgba(6,182,212,0.2)' : '#1e293b'};color:${isOn ? '#67e8f9' : '#94a3b8'};`;
+
+        const chipsHtml = [`<span class="type-chip" data-type="__all__" style="${chipStyle(active.length === 0)}">Tất cả</span>`]
+            .concat(allTypes.map(t => {
+                const label = FILTER_CHIP_LABEL_OVERRIDE[t] || (typeof BET_TYPES !== 'undefined' && BET_TYPES[t]?.name) || t.toUpperCase();
+                return `<span class="type-chip" data-type="${t}" style="${chipStyle(active.includes(t))}">${label}</span>`;
+            }))
+            .join('');
+        wrap.innerHTML = chipsHtml;
+
+        wrap.querySelectorAll('.type-chip').forEach(chip => {
+            chip.onclick = () => {
+                const t = chip.getAttribute('data-type');
+                if (t === '__all__') {
+                    smartFilterState.filterTypes = [];
+                } else {
+                    const idx = smartFilterState.filterTypes.indexOf(t);
+                    if (idx === -1) smartFilterState.filterTypes.push(t);
+                    else smartFilterState.filterTypes.splice(idx, 1);
+                }
+                smartFilterState.isInverted = false;
+                renderTypeChips();
+                updateModalUI();
+            };
+        });
+    };
+
+    const updateModalUI = () => {
+        const { selected, unselected } = getSplitItems(pendingInputItems);
+        const cs = document.getElementById('count-selected');
+        const cu = document.getElementById('count-unselected');
+        if (cs) cs.textContent = selected.length;
+        if (cu) cu.textContent = unselected.length;
+
+        const status = document.getElementById('filter-status-tag');
+        if (status) {
+            const inv = smartFilterState.isInverted;
+            const typeLabel = smartFilterState.filterTypes.length
+                ? smartFilterState.filterTypes.map(t => FILTER_CHIP_LABEL_OVERRIDE[t] || (BET_TYPES && BET_TYPES[t]?.name) || t).join(', ')
+                : 'Tất cả';
+            const kLabel = smartFilterState.targetK > 0 ? ` | K=${smartFilterState.targetK}` : '';
+            const ratioLabel = (smartFilterState.ratioA > 0 && smartFilterState.ratioB > 0)
+                ? ` | Tỷ lệ ${smartFilterState.ratioA}/${smartFilterState.ratioB}` : '';
+            status.innerHTML = (inv ? '🔄 ĐẢO' : 'Bình thường')
+                + ` | Loại: <b>${typeLabel}</b>${kLabel}${ratioLabel}`
+                + ` | Chọn: <b>${selected.length}</b> | Không: <b>${unselected.length}</b>`
+                + ` | Tổng dòng: <b>${pendingInputItems.length}</b>`;
+        }
+
+        const ts = document.getElementById('table-selected');
+        const tu = document.getElementById('table-unselected');
+        if (ts) ts.innerHTML = selected.length
+            ? selected.map(buildFilterRow).join('')
+            : '<tr><td colspan="5" style="text-align:center;padding:10px;color:#94a3b8;">Trống — gõ số ở trên rồi Thêm</td></tr>';
+        if (tu) tu.innerHTML = unselected.length
+            ? unselected.map(buildFilterRow).join('')
+            : '<tr><td colspan="5" style="text-align:center;padding:10px;color:#94a3b8;">Trống</td></tr>';
+    };
+
+    // Thêm tay
+    document.getElementById('btn-add-manual').onclick = () => {
+        const inp = document.getElementById('filter-manual-input');
+        const raw = inp?.value?.trim() || '';
+        if (!raw) return showToast('Nhập số trước!', 'error');
+        const added = parseManualFilterLine(raw, region);
+        if (!added.length) return showToast('Không nhận được số. VD: 39 dac biet 300k', 'error');
+        pendingInputItems.push(...added);
+        if (inp) inp.value = '';
+        renderTypeChips();
+        updateModalUI();
+        showToast(`Đã thêm ${added.length} dòng (${added[0].betType})`, 'success');
+    };
+
+    document.getElementById('filter-manual-input')?.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+            e.preventDefault();
+            document.getElementById('btn-add-manual').click();
+        }
+    });
+
+    // Preset tỷ lệ
+    document.querySelectorAll('[data-ratio]').forEach(btn => {
+        btn.onclick = () => {
+            const r = btn.getAttribute('data-ratio');
+            const ratioInp = document.getElementById('filter-ratio-input');
+            if (ratioInp) ratioInp.value = r;
+            const parsed = parseRatioInput(r);
+            if (parsed) {
+                smartFilterState.ratioA = parsed.a;
+                smartFilterState.ratioB = parsed.b;
+                saveRatio(parsed.a, parsed.b);
+            }
+        };
+    });
+
+    document.getElementById('btn-do-filter').onclick = () => {
+        const val = parseFloat(document.getElementById('filter-amt-input').value);
+        smartFilterState.targetK = isNaN(val) ? 0 : val;
+        smartFilterState.isInverted = false;
+        updateModalUI();
+    };
+
+    document.getElementById('btn-do-cut').onclick = () => {
+        if (!pendingInputItems.length) return showToast('Chưa có số để cắt!', 'error');
+        const val = parseFloat(document.getElementById('filter-amt-input').value);
+        if (isNaN(val) || val <= 0) return showToast('Nhập số K cần cắt!', 'error');
+        pendingInputItems = batchCutAmount(pendingInputItems, val, smartFilterState.filterTypes);
+        smartFilterState.targetK = 0;
+        smartFilterState.isInverted = false;
+        updateModalUI();
+    };
+
+    document.getElementById('btn-do-ratio').onclick = () => {
+        if (!pendingInputItems.length) return showToast('Chưa có số để cắt!', 'error');
+        let ratioStr = document.getElementById('filter-ratio-input')?.value || '';
+        if (!ratioStr && smartFilterState.ratioA > 0) {
+            ratioStr = `${smartFilterState.ratioA}/${smartFilterState.ratioB}`;
+        }
+        const parsed = parseRatioInput(ratioStr);
+        if (!parsed) return showToast('Nhập tỷ lệ dạng 3/7 hoặc bấm preset!', 'error');
+        smartFilterState.ratioA = parsed.a;
+        smartFilterState.ratioB = parsed.b;
+        saveRatio(parsed.a, parsed.b);
+        pendingInputItems = batchCutByRatio(pendingInputItems, parsed.a, parsed.b, smartFilterState.filterTypes);
+        smartFilterState.targetK = 0;
+        smartFilterState.isInverted = false;
+        updateModalUI();
+    };
+
+    document.getElementById('btn-do-invert').onclick = () => {
+        smartFilterState.isInverted = !smartFilterState.isInverted;
+        updateModalUI();
+    };
+
+    document.getElementById('btn-reset-filter').onclick = () => {
+        smartFilterState.targetK = 0;
+        smartFilterState.filterTypes = [];
+        smartFilterState.isInverted = false;
+        // giữ ratio đã lưu
+        const amt = document.getElementById('filter-amt-input');
+        if (amt) amt.value = '';
+        pendingInputItems.forEach(it => { delete it._part; });
+        renderTypeChips();
+        updateModalUI();
+        showToast('Đã xóa lọc (giữ tỷ lệ đã lưu).', 'info');
+    };
+
+    document.getElementById('btn-clear-all').onclick = () => {
+        if (!pendingInputItems.length) return showToast('Danh sách đang trống!', 'info');
+        if (!confirm('Xóa sạch toàn bộ số đang lọc (cả 2 khung)? Không thể hoàn tác.')) return;
+        pendingInputItems = [];
+        smartFilterState.targetK = 0;
+        smartFilterState.filterTypes = [];
+        smartFilterState.isInverted = false;
+        const amt = document.getElementById('filter-amt-input');
+        const manualInp = document.getElementById('filter-manual-input');
+        if (amt) amt.value = '';
+        if (manualInp) manualInp.value = '';
+        renderTypeChips();
+        updateModalUI();
+        showToast('Đã xóa sạch — không cần tải lại trang.', 'success');
+    };
+
+    document.getElementById('btn-copy-out').onclick = () => {
+        const { unselected } = getSplitItems(pendingInputItems);
+        const text = exportFilteredToCopyText(unselected);
+        if (!text) return showToast('Không có dữ liệu copy!', 'error');
+        executeCopyText(text);
+    };
+
+    window.promptSingleSplit = (id) => {
+        const defaultVal = (smartFilterState.ratioA > 0)
+            ? `${smartFilterState.ratioA}/${smartFilterState.ratioB}`
+            : '10';
+        customPrompt('✂️ Tách lẻ', 'Nhập K cố định hoặc tỷ lệ a/b (vd 3/7):', defaultVal, (val) => {
+            if (!val) return;
+            const idx = pendingInputItems.findIndex(it => it.id === id);
+            if (idx === -1) return;
+            const item = pendingInputItems[idx];
+            const curK = getItemK(item);
+            const ratio = parseRatioInput(val);
+            let keepK, cutK;
+            if (ratio) {
+                const total = ratio.a + ratio.b;
+                keepK = +((curK * ratio.a) / total).toFixed(2);
+                cutK = +(curK - keepK).toFixed(2);
+                saveRatio(ratio.a, ratio.b);
+            } else {
+                cutK = parseFloat(String(val).replace(',', '.'));
+                if (isNaN(cutK) || cutK <= 0) return showToast('K không hợp lệ!', 'error');
+                if (curK <= cutK) return showToast('K tách phải nhỏ hơn hiện tại!', 'error');
+                keepK = +(curK - cutK).toFixed(2);
+            }
+            if (keepK <= 0 || cutK <= 0) return showToast('Kết quả tách không hợp lệ!', 'error');
+
+            item.originalAmount = keepK;
+            item.amount = keepK * 1000;
+            item.note = (item.note || '') + ` [Giữ ${keepK}k]`;
+            item._part = 'kept';
+
+            pendingInputItems.splice(idx + 1, 0, {
+                ...JSON.parse(JSON.stringify(item)),
+                id: 'bet_' + Date.now() + '_' + Math.random().toString(36).slice(2, 7),
+                originalAmount: cutK,
+                amount: cutK * 1000,
+                note: `[Tách ${cutK}k từ ${curK}k]`,
+                _part: 'cut'
+            });
+            updateModalUI();
+        });
+    };
+
+    renderTypeChips();
+    updateModalUI();
+}
+
+
+
+function executeCopyText(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+        navigator.clipboard.writeText(text).then(() => showToast("Đã copy!", "success"))
+            .catch(() => fallbackCopyText(text));
+    } else {
+        fallbackCopyText(text);
+    }
+}
+
+function fallbackCopyText(text) {
+    const ta = document.createElement("textarea");
+    ta.value = text;
+    ta.style.cssText = "position:fixed;left:-9999px;top:-9999px;";
+    document.body.appendChild(ta);
+    ta.select();
+    try {
+        document.execCommand('copy');
+        showToast("Đã copy!", "success");
+    } catch (e) {
+        showToast("Không copy được!", "error");
+    }
+    document.body.removeChild(ta);
+}
+
+function openSmartFilterFromInput() {
+    const ta = document.getElementById('smart-input')
+            || document.getElementById('quick-input-textarea')
+            || document.querySelector('textarea');
+
+    const raw = ta ? ta.value.trim() : '';
+    const region = (typeof detectRegionFromText === 'function')
+        ? detectRegionFromText(raw, document.querySelector('input[name="region-select"]:checked')?.value || 'MT')
+        : (document.querySelector('input[name="region-select"]:checked')?.value || 'MT');
+
+    if (raw) {
+        const radio = document.querySelector(`input[name="region-select"][value="${region}"]`);
+        if (radio) radio.checked = true;
+        if (typeof parseSmartLottoText !== 'function') {
+            return showToast('Thiếu hàm parseSmartLottoText!', 'error');
+        }
+        pendingInputItems = parseSmartLottoText(raw, region) || [];
+        if (!pendingInputItems.length) {
+            showToast('Không bóc được số từ tin — vẫn mở modal để nhập tay.', 'info');
+        }
+    } else {
+        // Không có tin → vẫn mở, để người dùng nhập tay / cắt hàng loạt
+        pendingInputItems = Array.isArray(pendingInputItems) ? pendingInputItems : [];
+    }
+
+    renderSmartFilterModal();
+}
