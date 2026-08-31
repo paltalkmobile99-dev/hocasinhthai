@@ -418,6 +418,178 @@ textarea:focus {
 .detail-search-clear:hover { border-color: var(--neon-blue); color: var(--neon-blue); }
 .detail-search-count { color: #94a3b8; font-size: 12px; white-space: nowrap; }
 
+/* Lọc trúng/trật — control CHÍNH, luôn hiện thẳng trên thanh tìm kiếm (như
+   bản gốc), không giấu trong dropdown nữa. */
+.detail-match-select {
+    flex-shrink: 0;
+    background: #1e293b;
+    color: #e2e8f0;
+    border: 1px solid #334155;
+    border-radius: 6px;
+    padding: 4px 8px;
+    font-size: 12px;
+    cursor: pointer;
+}
+.detail-match-select:hover { border-color: var(--neon-blue); }
+
+/* Lọc theo Miền/Đài — control PHỤ, đứng NGAY SAU control trúng/trật. */
+.detail-filter-dropdown { position: relative; display: inline-block; flex-shrink: 0; }
+.detail-filter-btn {
+    background: #1e293b;
+    color: #e2e8f0;
+    border: 1px solid #334155;
+    border-radius: 6px;
+    padding: 4px 10px;
+    font-size: 12px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+.detail-filter-btn:hover { border-color: var(--neon-blue); }
+.detail-filter-panel {
+    position: absolute;
+    top: calc(100% + 4px);
+    right: 0;
+    left: auto;
+    z-index: 200;
+    min-width: 240px;
+    max-width: min(320px, 90vw);
+    max-height: 340px;
+    overflow-y: auto;
+    background: #0f172a;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    padding: 10px;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.5);
+}
+
+/* Mỗi miền = 1 thẻ nền riêng, đài con xếp dạng chip — thay cho kiểu cây
+   thụt lề nhiều tầng cũ (nhìn rối, "xiên quẹo"). */
+.detail-filter-region-group {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid #334155;
+    border-radius: 8px;
+    padding: 8px;
+}
+.detail-filter-region-group + .detail-filter-region-group { margin-top: 8px; }
+.detail-filter-region-header {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12.5px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 6px;
+}
+.detail-filter-region-header input { margin: 0; }
+.detail-filter-chip-row { display: flex; flex-wrap: wrap; gap: 6px; }
+.detail-filter-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    background: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 14px;
+    padding: 3px 10px 3px 8px;
+    font-size: 11.5px;
+    color: #cbd5e1;
+    cursor: pointer;
+    user-select: none;
+}
+.detail-filter-chip input { margin: 0; accent-color: var(--neon-blue); }
+.detail-filter-chip:hover { border-color: var(--neon-blue); }
+.detail-filter-chip.active {
+    background: rgba(0, 243, 255, 0.16);
+    border-color: var(--neon-blue);
+    color: #e2f9ff;
+}
+
+/* Khung KQXS đã dán/dò, gộp theo Miền — mỗi miền 1 cột riêng, tự cuộn khi
+   dài ra thay vì đẩy cả trang dài xuống. Đủ hẹp để 3 cột nằm ngang trên màn
+   hình rộng, tự xếp dọc khi màn hình hẹp. */
+.kqxs-region-columns {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.kqxs-region-col {
+    flex: 1 1 240px;
+    min-width: 220px;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    background: rgba(255,255,255,0.03);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.kqxs-region-col-header {
+    font-weight: bold;
+    font-size: 12.5px;
+    padding: 7px 10px;
+    border-bottom: 1px solid #334155;
+    flex-shrink: 0;
+}
+.kqxs-region-col-body {
+    /* Đủ cao cho ~3 đài 1 miền hoặc 1 đài dài — nhiều hơn thì tự cuộn riêng
+       trong cột này, không đẩy cả khung KQXS dài xuống. */
+    max-height: 230px;
+    overflow-y: auto;
+    padding: 8px 10px;
+    font-size: 11.5px;
+    line-height: 1.55;
+}
+.kqxs-region-col-empty { color: #64748b; font-size: 11.5px; font-style: italic; }
+.kqxs-board-entry { margin-bottom: 8px; }
+.kqxs-board-entry:last-child { margin-bottom: 0; }
+.kqxs-board-entry-head { color: #94a3b8; font-size: 10.5px; margin-bottom: 2px; }
+.kqxs-board-entry-nums { color: #fde68a; word-break: break-word; }
+
+/* ============ CẢNH BÁO DỒN SỐ (3 miền) ============ */
+.hot-numbers-columns { display: flex; gap: 10px; flex-wrap: wrap; }
+.hot-numbers-col {
+    flex: 1 1 260px;
+    min-width: 240px;
+    border: 1px solid #334155;
+    border-radius: 8px;
+    background: rgba(255,255,255,0.03);
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+}
+.hot-numbers-col-header {
+    font-weight: bold;
+    font-size: 12.5px;
+    padding: 7px 10px;
+    border-bottom: 1px solid #334155;
+    flex-shrink: 0;
+}
+.hot-numbers-col-header small { display: block; font-weight: normal; color: #94a3b8; font-size: 10.5px; margin-top: 2px; }
+.hot-numbers-col-body {
+    max-height: 260px;
+    overflow-y: auto;
+    padding: 6px 8px;
+}
+.hot-numbers-empty { color: #64748b; font-size: 11.5px; font-style: italic; padding: 6px 4px; }
+.hot-number-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 5px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+    margin-bottom: 4px;
+    background: rgba(255,255,255,0.03);
+}
+.hot-number-row:last-child { margin-bottom: 0; }
+.hot-number-row .hn-num { font-weight: bold; color: #e2e8f0; }
+.hot-number-row .hn-amount { font-weight: bold; }
+.hot-number-row .hn-groups { color: #64748b; font-size: 10.5px; }
+.hot-number-row.hn-level-hot { background: rgba(248,113,113,0.16); border: 1px solid rgba(248,113,113,0.5); }
+.hot-number-row.hn-level-hot .hn-amount { color: #f87171; }
+.hot-number-row.hn-level-warm { background: rgba(251,191,36,0.14); border: 1px solid rgba(251,191,36,0.4); }
+.hot-number-row.hn-level-warm .hn-amount { color: #fbbf24; }
+.hot-number-row.hn-level-normal .hn-amount { color: #94a3b8; }
+
 .excel-table-wrapper {
     max-height: 520px;
     overflow-y: auto;
