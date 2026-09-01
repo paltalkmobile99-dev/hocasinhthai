@@ -1,0 +1,158 @@
+/* THONGKE.CSS — Layout riêng cho trang Thống Kê (ThongKe.html). Dùng chung
+   biến màu/nền của data/c1.css (--bg-dark, --card-bg, --neon-*, --border-color)
+   để khớp tông neon của trang chính; chỉ thêm phần bố cục THẬT SỰ mới. */
+
+body { padding: 18px 22px 60px; }
+
+#tk-app { max-width: 1400px; margin: 0 auto; }
+
+.tk-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-bottom: 18px;
+}
+.tk-header h1 { font-size: 1.4rem; color: var(--neon-blue); text-shadow: 0 0 10px var(--neon-blue); }
+.tk-header small { color: #94a3b8; }
+.tk-header-actions { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.tk-header-actions a.btn { text-decoration: none; display: inline-flex; align-items: center; }
+
+.tk-section-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 14px;
+}
+.tk-section-head h2 { font-size: 1.1rem; color: #e2e8f0; }
+
+/* ------------- Bộ lọc Ngày/Tháng/Năm (dùng chung Hàng 2 & 3) ------------- */
+.tk-filter-bar {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    background: rgba(255,255,255,0.03);
+    border: 1px solid #334155;
+    border-radius: 8px;
+    padding: 8px 12px;
+    margin-bottom: 16px;
+}
+.tk-filter-bar label { font-size: 12.5px; color: #94a3b8; }
+.tk-filter-bar select, .tk-filter-bar input {
+    padding: 6px 8px;
+    background: #0f172a;
+    border: 1px solid #334155;
+    border-radius: 6px;
+    color: #e2e8f0;
+    font-size: 13px;
+}
+
+/* ------------- Hàng 1: 3 miền cạnh nhau ------------- */
+.tk-region-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px;
+    margin-bottom: 18px;
+}
+@media (max-width: 1050px) { .tk-region-grid { grid-template-columns: 1fr; } }
+
+.tk-region-col {
+    border: 1px solid #334155;
+    border-radius: 10px;
+    background: rgba(255,255,255,0.03);
+    padding: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.tk-region-col-header { font-weight: bold; font-size: 14px; }
+.tk-region-col-header small { display: block; font-weight: normal; color: #94a3b8; font-size: 11px; margin-top: 2px; }
+.tk-chart-mini { position: relative; height: 190px; }
+.tk-chart-mini-doughnut { position: relative; height: 150px; }
+
+/* overscroll-behavion:contain — khi cuộn tới hết đầu/cuối danh sách nhỏ này,
+   không cho trình duyệt "chuyền" tiếp việc cuộn ra cả trang lớn bên ngoài
+   (nếu không sẽ cảm giác trang bị giật/nhảy khi cuộn nhanh trong danh sách). */
+.tk-hot-list { max-height: 220px; overflow-y: auto; overscroll-behavior: contain; display: flex; flex-direction: column; gap: 4px; }
+.tk-hot-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 5px 8px;
+    border-radius: 6px;
+    font-size: 12px;
+    background: rgba(255,255,255,0.03);
+}
+.tk-hot-row .tk-num { font-weight: bold; color: #e2e8f0; }
+.tk-hot-row .tk-amount { font-weight: bold; }
+.tk-hot-row .tk-groups { color: #64748b; font-size: 10.5px; }
+.tk-hot-row.tk-level-hot { background: rgba(248,113,113,0.16); border: 1px solid rgba(248,113,113,0.5); }
+.tk-hot-row.tk-level-hot .tk-amount { color: #f87171; }
+.tk-hot-row.tk-level-warm { background: rgba(251,191,36,0.14); border: 1px solid rgba(251,191,36,0.4); }
+.tk-hot-row.tk-level-warm .tk-amount { color: #fbbf24; }
+.tk-hot-row.tk-level-normal .tk-amount { color: #94a3b8; }
+.tk-empty { color: #64748b; font-size: 11.5px; font-style: italic; padding: 6px 4px; }
+
+.tk-combined-block { border-top: 1px dashed #334155; padding-top: 14px; }
+.tk-combined-head { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-bottom: 10px; }
+.tk-combined-head h3 { font-size: 1rem; color: #fbbf24; }
+.tk-threshold-control { display: flex; align-items: center; gap: 8px; }
+.tk-threshold-control label { font-size: 12px; color: #94a3b8; }
+.tk-threshold-control input { width: 100px; padding: 6px 8px; background: #0f172a; border: 1px solid #334155; color: #fbbf24; font-weight: bold; border-radius: 6px; }
+.tk-chart-box-combined { position: relative; height: 240px; margin-bottom: 12px; }
+
+/* ------------- Hàng 2 & 3: biểu đồ + bảng + ô số liệu ------------- */
+.tk-row2-grid {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 14px;
+    margin-bottom: 16px;
+}
+@media (max-width: 900px) { .tk-row2-grid { grid-template-columns: 1fr; } }
+.tk-chart-box { position: relative; height: 280px; border: 1px solid #334155; border-radius: 10px; padding: 10px; background: rgba(255,255,255,0.02); }
+.tk-chart-box-wide { height: 300px; }
+
+.tk-table-wrap { overflow-x: auto; overscroll-behavior: contain; }
+.tk-table { width: 100%; border-collapse: collapse; font-size: 13px; }
+.tk-table th, .tk-table td { padding: 8px 10px; text-align: right; border-bottom: 1px solid #1e293b; }
+.tk-table th:first-child, .tk-table td:first-child { text-align: left; }
+.tk-table thead th { color: #94a3b8; font-weight: 600; font-size: 12px; text-transform: uppercase; }
+.tk-net-pos { color: #00ff88; font-weight: bold; }
+.tk-net-neg { color: #ff6b6b; font-weight: bold; }
+
+.tk-stat-tiles {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+    margin-bottom: 16px;
+}
+@media (max-width: 900px) { .tk-stat-tiles { grid-template-columns: repeat(2, 1fr); } }
+.tk-tile {
+    border: 1px solid #334155;
+    border-radius: 10px;
+    padding: 14px;
+    background: rgba(255,255,255,0.03);
+    text-align: center;
+}
+.tk-tile-label { font-size: 12px; color: #94a3b8; margin-bottom: 6px; }
+.tk-tile-value { font-size: 1.4rem; font-weight: 700; color: #e2e8f0; }
+
+/* ------------- In từng mục ------------- */
+.tk-print-btn { white-space: nowrap; }
+@media print {
+    /* Lỗi thật đã sửa: toàn bộ nội dung nằm trong #tk-app, không phải con
+       trực tiếp của <body> (body chỉ có đúng 1 con là #tk-app) — quy tắc cũ
+       "body > *:not(.tk-print-active)" vì vậy ẩn LUÔN #tk-app (nó không có
+       class .tk-print-active), tức là ẩn sạch mọi thứ kể cả mục đang muốn
+       in — in ra không thấy gì hết. Giờ nhắm đúng vào bên TRONG #tk-app.
+       Dùng !important vì đè lên toàn bộ style/nền tối của trang khi in. */
+    body.tk-print-mode #tk-app > *:not(.tk-print-active) { display: none !important; }
+    body.tk-print-mode .tk-print-btn { display: none !important; }
+    body.tk-print-mode .tk-print-active { box-shadow: none !important; border: 1px solid #334155 !important; background: #fff !important; color: #000 !important; }
+    body.tk-print-mode .tk-print-active * { color: #000 !important; }
+}
