@@ -388,6 +388,13 @@ textarea:focus {
     box-shadow: 0 0 8px var(--neon-blue);
 }
 
+/* Kéo ảnh vào ô nhập nhanh để OCR — viền nét đứt nổi bật khi đang kéo ảnh
+   ngang qua, để người dùng biết chỗ này nhận được ảnh thả vào. */
+textarea.ocr-drag-over {
+    border: 2px dashed var(--neon-green, #00ff88);
+    background: rgba(0, 255, 136, 0.08);
+}
+
 /* ================= BUTTONS ================= */
 .btn {
     padding: 8px 14px;
