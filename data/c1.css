@@ -53,19 +53,63 @@ body {
     position: absolute;
     font-size: 2rem;
     filter: drop-shadow(0 0 10px var(--neon-blue));
-    animation: swim linear infinite;
+    /* Lỗi thật đã sửa: lật hướng mặt NGAY GIỮA 1 LƯỢT bơi (trong khi vẫn còn
+       đang di chuyển tiếp cùng 1 chiều) làm cá trông như bơi THỤT LÙI (mặt
+       quay ngược hướng đang đi) ở nửa sau mỗi lượt — vì "left" (vị trí) và
+       "transform: scaleX" (hướng mặt) trước đây gộp chung 1 animation với
+       animation-direction:alternate, mà alternate chỉ đảo được chiều PHÁT
+       LẠI của animation chứ không tự biết lúc nào cần lật mặt cho khớp.
+       Cách đúng: TÁCH RIÊNG 2 animation — 1 cái lo VỊ TRÍ (alternate, để tự
+       bơi ngược lúc hết lượt), 1 cái lo HƯỚNG MẶT, chạy dài GẤP ĐÔI (không
+       alternate) để nó chỉ lật ĐÚNG 1 LẦN mỗi khi cá thật sự đổi chiều bơi ở
+       2 đầu bể — không bao giờ lật giữa chừng lúc đang bơi tiếp nữa. */
+    animation: swimMove linear infinite alternate, swimFace linear infinite;
 }
 
-@keyframes swim {
-    0%   { left: -10%; transform: scaleX(1); }
-    50%  { transform: scaleX(1); }
-    50.1%{ transform: scaleX(-1); }
-    100% { left: 110%; transform: scaleX(-1); }
+@keyframes swimMove {
+    0%   { left: -10%; }
+    100% { left: 110%; }
 }
 
-@keyframes swimReverse {
-    0%   { transform: translateX(110vw) scaleX(-1); }
-    100% { transform: translateX(-20vw) scaleX(-1); }
+/* Đối xứng vị trí — bắt đầu từ phải, kết thúc bên trái. */
+@keyframes swimMoveReverse {
+    0%   { left: 110%; }
+    100% { left: -10%; }
+}
+
+/* Chạy DÀI GẤP ĐÔI swimMove (JS đặt animation-duration tương ứng) — nửa đầu
+   của chu kỳ dài này trùng khớp NGUYÊN VẸN 1 lượt "bơi tới" của swimMove
+   (mặt hướng đúng theo chiều đang đi), nửa sau trùng khớp NGUYÊN VẸN lượt
+   "bơi ngược lại" kế tiếp (mặt lật đúng 1 lần ở điểm nối 2 lượt, không phải
+   giữa lượt). Đi kèm swimMove.
+   Dấu scaleX đã đảo lại so với lần sửa trước: hình gốc (emoji lẫn GIF cá)
+   mặc định quay MẶT SANG TRÁI — nên lúc "left" đang TĂNG (bơi sang phải)
+   phải là scaleX(-1) (lật sang phải) mới đúng hướng đang bơi, không phải
+   scaleX(1) như đoán nhầm lần trước (khiến CẢ ĐÀN CÁ bơi thụt lùi cả lượt,
+   đúng như phát hiện thật của người dùng). */
+@keyframes swimFace {
+    0%,   49.9% { transform: scaleX(-1); }
+    50%, 100%   { transform: scaleX(1); }
+}
+
+/* Đi kèm swimMoveReverse — lật thứ tự ngược lại tương ứng. */
+@keyframes swimFaceReverse {
+    0%,   49.9% { transform: scaleX(1); }
+    50%, 100%   { transform: scaleX(-1); }
+}
+
+/* Một số file GIF cá (ca1/ca3/ca4/ca6/ca8 — xác nhận thật bằng mắt qua ảnh
+   chụp từng file) được vẽ sẵn quay MẶT SANG PHẢI thay vì sang trái như đa số
+   emoji/GIF còn lại — dùng chung cặp swimFace/swimFaceReverse ở trên sẽ ra
+   ngược hướng. 2 cặp "Inverted" này dành riêng cho đúng các file đó (xem
+   danh sách invertedFacingGifs trong initOcean() ở data/c.js). */
+@keyframes swimFaceInverted {
+    0%,   49.9% { transform: scaleX(1); }
+    50%, 100%   { transform: scaleX(-1); }
+}
+@keyframes swimFaceReverseInverted {
+    0%,   49.9% { transform: scaleX(-1); }
+    50%, 100%   { transform: scaleX(1); }
 }
 
 .seaweed {
