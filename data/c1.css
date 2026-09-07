@@ -364,6 +364,39 @@ header {
     margin-bottom: 10px;
 }
 
+/* Khung có thể thu gọn (VD "Tỷ Lệ Thưởng Mặc Định", "Chọn Miền & Đài Áp
+   Dụng") — dùng grid-template-rows 1fr/0fr thay vì max-height cố định: mượt
+   với NỘI DUNG BẤT KỲ chiều cao nào (danh sách đài dài/ngắn tùy ngày) mà
+   không cần JS đo/tính chiều cao — nhẹ, không giật, không cần biết trước
+   kích thước. ".collapsible-body-inner" có overflow:hidden để nội dung
+   không tràn ra ngoài trong lúc đang thu/mở.
+*/
+.collapsible-h3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    user-select: none;
+}
+.collapsible-toggle-icon {
+    font-size: 12px;
+    color: #94a3b8;
+    margin-left: 8px;
+    transition: transform 0.2s ease;
+}
+.collapsible-body-wrap {
+    display: grid;
+    grid-template-rows: 1fr;
+    transition: grid-template-rows 0.22s ease;
+}
+.collapsible-body-wrap.collapsed {
+    grid-template-rows: 0fr;
+}
+.collapsible-body-inner {
+    overflow: hidden;
+    min-height: 0;
+}
+
 .region-radios {
     display: flex;
     gap: 15px;
